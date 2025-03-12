@@ -96,6 +96,7 @@ h1, h2, h3 {
     font-size: 1.2em;
     font-weight: bold;
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 .options {
@@ -147,10 +148,14 @@ h1, h2, h3 {
 .cognitive-level {
     display: inline-block;
     padding: 5px 10px;
-    margin-top: 10px;
+    margin-bottom: 10px;
     background-color: #eee;
     border-radius: 15px;
     font-size: 0.9em;
+}
+
+.blueprint {
+    margin-bottom: 15px;
 }
 
 /* Utility classes */

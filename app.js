@@ -161,11 +161,13 @@ document.addEventListener('DOMContentLoaded', function() {
         
         return `
             <div class="question">
-                <div class="cognitive-level">
-                    Cognitive Level: ${question.cognitive_level}
-                </div>
-                <div class="blueprint">
-                    <strong>Blueprint:</strong> ${question.blueprint}
+                <div class="question-metadata">
+                    <div class="cognitive-level">
+                        Cognitive Level: ${question.cognitive_level}
+                    </div>
+                    <div class="blueprint">
+                        <strong>Blueprint:</strong> ${question.blueprint}
+                    </div>
                 </div>
                 <div class="question-text">${question.question.text}</div>
                 ${questionImage}

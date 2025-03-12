@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Check if option has an image
             const optionImage = option.image ? 
-                `                <div class="option-image">
+                `<div class="option-image">
                     <img src="content/images/${option.image}" alt="Option ${letter} image">
                 </div>` : '';
             
@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <strong>${letter}.</strong> ${option.text}
                     ${optionImage}
                     <div class="explanation">
-                        <strong>${isCorrect ? 'Correct Answer' : 'Incorrect Answer'}</strong>: ${option.explanation}
+                        <strong>Explanation:</strong> ${option.explanation}
                     </div>
                 </li>
             `;
@@ -161,6 +161,12 @@ document.addEventListener('DOMContentLoaded', function() {
         
         return `
             <div class="question">
+                <div class="cognitive-level">
+                    Cognitive Level: ${question.cognitive_level}
+                </div>
+                <div class="blueprint">
+                    <strong>Blueprint:</strong> ${question.blueprint}
+                </div>
                 <div class="question-text">${question.question.text}</div>
                 ${questionImage}
                 <ul class="options">
@@ -168,12 +174,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 </ul>
                 <div class="fun-fact">
                     <strong>Fun Fact:</strong> ${question.question.funFact || ''}
-                </div>
-                <div class="cognitive-level">
-                    Cognitive Level: ${question.cognitive_level}
-                </div>
-                <div class="blueprint">
-                    <strong>Blueprint:</strong> ${question.blueprint}
                 </div>
             </div>
         `;

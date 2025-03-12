@@ -22,13 +22,6 @@ body {
     flex: 1;
 }
 
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #f0f0f0;
-    margin-top: auto;
-}
-
 header {
     margin-bottom: 30px;
     text-align: center;
@@ -111,6 +104,11 @@ h1, h2, h3 {
     border-radius: 5px;
 }
 
+.option.correct {
+    background-color: #e6f7e6;
+    border-color: #90ee90;
+}
+
 .question-image, 
 .option-image {
     margin: 15px 0;
@@ -124,11 +122,6 @@ h1, h2, h3 {
     border: 1px solid #eee;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.option.correct {
-    background-color: #e6f7e6;
-    border-color: #90ee90;
 }
 
 .explanation {
@@ -186,4 +179,11 @@ button:hover {
 button:disabled {
     background-color: #ccc;
     cursor: not-allowed;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f0f0f0;
+    margin-top: auto;
 }

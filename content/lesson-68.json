@@ -1,0 +1,1171 @@
+{
+    "id": "lesson-68",
+    "title": "Electricity & Circuits",
+    "standard": "4-PS3-2",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "What is required for electricity to flow in a circuit?",
+                "options": [
+                    {
+                        "text": "A closed, continuous path for the electrical current",
+                        "isCorrect": 1,
+                        "explanation": "Electricity requires a closed circuit with no gaps to flow. This creates a complete path for the electrical current to travel from the source, through the components, and back to the source."
+                    },
+                    {
+                        "text": "Lots of resistors to control the electricity",
+                        "isCorrect": 0,
+                        "explanation": "While resistors are important components that can be added to circuits to control the flow of electricity, they are not required for electricity to flow. A basic circuit needs only a power source, conductors, and a closed path."
+                    },
+                    {
+                        "text": "An open path with a gap in the circuit",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Electricity cannot flow through an open circuit with gaps. A complete, closed path is essential for current to flow."
+                    },
+                    {
+                        "text": "Only insulators like rubber or plastic",
+                        "isCorrect": 0,
+                        "explanation": "Insulators prevent electricity from flowing. Circuits need conductors (like metal wires) to allow electricity to flow, not insulators."
+                    },
+                    {
+                        "text": "At least one LED light",
+                        "isCorrect": 0,
+                        "explanation": "While LEDs are common components in circuits, they are not required for electricity to flow. A basic circuit can function with just a power source and conductive materials forming a closed path."
+                    }
+                ],
+                "funFact": "The first electric circuit was created by Alessandro Volta in 1800 when he invented the voltaic pile (the first battery). This groundbreaking invention provided the first reliable source of continuous electrical current, allowing scientists to begin seriously studying electricity!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question assessing knowledge of what a circuit is (a path that allows electricity to flow, if closed)"
+        },
+        {
+            "question": {
+                "text": "Which of the following is necessary for electricity to power a light bulb?",
+                "options": [
+                    {
+                        "text": "A closed circuit with no gaps",
+                        "isCorrect": 1,
+                        "explanation": "Electricity requires a complete, closed path (circuit) to flow from the source, through the light bulb, and back to the source. Any gap in this path will prevent electricity from flowing."
+                    },
+                    {
+                        "text": "An open circuit with gaps",
+                        "isCorrect": 0,
+                        "explanation": "An open circuit with gaps will not allow electricity to flow continuously, so the light bulb would not light up."
+                    },
+                    {
+                        "text": "Insulating materials throughout the circuit",
+                        "isCorrect": 0,
+                        "explanation": "Insulating materials like rubber or plastic prevent electricity from flowing through them. A circuit needs conductive materials to allow electricity to flow."
+                    },
+                    {
+                        "text": "Connecting the light bulb directly to only one terminal of a battery",
+                        "isCorrect": 0,
+                        "explanation": "Connecting a light bulb to only one terminal of a battery creates an incomplete circuit. Both terminals must be connected to complete the circuit."
+                    }
+                ],
+                "funFact": "Thomas Edison didn't actually invent the light bulb, but he did create the first commercially practical incandescent light. His version could last about 1,200 hours compared to earlier bulbs that lasted only a few hours!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding that a closed circuit is necessary for electrical energy to flow (no gaps allowed in the circuit)"
+        },
+        {
+            "question": {
+                "text": "Which of the following materials are good conductors of electricity?",
+                "options": [
+                    {
+                        "text": "Metals such as copper and gold",
+                        "isCorrect": 1,
+                        "explanation": "Metals are excellent conductors of electricity because they have free electrons that can move easily through the material, allowing electrical current to flow."
+                    },
+                    {
+                        "text": "Wood and rubber",
+                        "isCorrect": 0,
+                        "explanation": "Wood and rubber are insulators, not conductors. They prevent or significantly reduce the flow of electrical current because they lack free electrons that can move easily."
+                    },
+                    {
+                        "text": "Glass and ceramics",
+                        "isCorrect": 0,
+                        "explanation": "Glass and ceramics are insulators that block the flow of electricity. They are often used to prevent electrical connections where they're not wanted."
+                    },
+                    {
+                        "text": "Plastic and air",
+                        "isCorrect": 0,
+                        "explanation": "Plastic and air are insulators. They do not allow electricity to flow through them easily, which is why plastic is commonly used as insulation for electrical wires."
+                    }
+                ],
+                "funFact": "While pure water is actually an insulator, adding dissolved salts creates electrolytes that allow electricity to flow. This is why you should never use electrical devices near water - your body can become part of the circuit, potentially causing electric shock!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question evaluating knowledge of materials that are good conductors of electricity (metals, water, solutions with dissolved salts)"
+        },
+        {
+            "question": {
+                "text": "Which of the following materials is an insulator that would prevent electricity from flowing through a circuit?",
+                "options": [
+                    {
+                        "text": "Copper",
+                        "isCorrect": 0,
+                        "explanation": "Copper is a metal and an excellent conductor of electricity, not an insulator. It is commonly used for wiring in electrical circuits because it allows electricity to flow easily."
+                    },
+                    {
+                        "text": "Aluminum",
+                        "isCorrect": 0,
+                        "explanation": "Aluminum is a metal and a good conductor of electricity, not an insulator. While not as conductive as copper, it is still used in electrical applications."
+                    },
+                    {
+                        "text": "Water with dissolved salt",
+                        "isCorrect": 0,
+                        "explanation": "Water with dissolved salts (like saltwater) is a conductor, not an insulator. The dissolved ions allow electricity to flow through the solution."
+                    },
+                    {
+                        "text": "Rubber",
+                        "isCorrect": 1,
+                        "explanation": "Rubber is an insulator, which means it prevents or significantly restricts the flow of electricity. This is why rubber is often used as a coating on electrical wires to prevent electrical shocks."
+                    },
+                    {
+                        "text": "Iron",
+                        "isCorrect": 0,
+                        "explanation": "Iron is a metal and a conductor of electricity, not an insulator. Like other metals, it allows electrical energy to flow through it."
+                    }
+                ],
+                "funFact": "Insulators like rubber, plastic, and glass are critical safety components in electrical systems. The rubber coating on electrical cords prevents dangerous electrical currents from transferring to your hands when you touch them, demonstrating how insulators can prevent energy transfer and keep us safe."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding of materials that are insulators (wood, rubber, plastic, ceramics, glass)"
+        },
+        {
+            "question": {
+                "text": "Which circuit arrangement allows one light bulb to continue working even if another light bulb in the circuit burns out?",
+                "options": [
+                    {
+                        "text": "A series circuit",
+                        "isCorrect": 0,
+                        "explanation": "In a series circuit, all components share the same current path. If one light bulb burns out, it breaks the entire circuit, causing all other light bulbs to go out as well."
+                    },
+                    {
+                        "text": "A parallel circuit",
+                        "isCorrect": 1,
+                        "explanation": "In a parallel circuit, each component has its own path to the source. If one light bulb burns out, the other light bulbs can continue to operate because they have their own complete paths for electricity to flow."
+                    },
+                    {
+                        "text": "Both series and parallel circuits",
+                        "isCorrect": 0,
+                        "explanation": "While parallel circuits allow individual components to continue working if one fails, series circuits do not have this property. In a series circuit, if one component fails, it breaks the entire circuit."
+                    },
+                    {
+                        "text": "Neither series nor parallel circuits",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Parallel circuits specifically allow individual components to continue working if one component fails."
+                    }
+                ],
+                "funFact": "Homes are wired using parallel circuits, which is why when one light bulb burns out in your house, the other lights stay on. Holiday string lights traditionally used series circuits, which is why older sets would completely go out when one bulb failed, though many modern sets now use parallel wiring or built-in shunts to prevent this problem."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question assessing knowledge of the differences between series and parallel circuits (in series all components share the same current path; in parallel each component has its own path)"
+        },
+        {
+            "question": {
+                "text": "In a holiday string of lights, if one bulb burns out, all of the lights go out. What does this tell you about how these lights are wired?",
+                "options": [
+                    {
+                        "text": "The lights are wired in series, so all lights share the same path for electricity to flow.",
+                        "isCorrect": 1,
+                        "explanation": "In a series circuit, electricity follows a single path through all components. When one bulb burns out, it creates a gap in the circuit, breaking the path and preventing electricity from flowing to any of the lights."
+                    },
+                    {
+                        "text": "The lights are wired in parallel, allowing each light to operate independently.",
+                        "isCorrect": 0,
+                        "explanation": "If the lights were wired in parallel, each light would have its own path to the power source. If one bulb burned out, the others would continue to work because their individual circuits would remain complete."
+                    },
+                    {
+                        "text": "The lights are wired to a central control unit that shuts everything down when it detects a problem.",
+                        "isCorrect": 0,
+                        "explanation": "Holiday lights typically don't have a central control unit that monitors for bulb failures. The behavior described is due to the circuit design itself, not a separate monitoring system."
+                    },
+                    {
+                        "text": "The power supply is too weak to handle multiple lights, so it shuts down when any light fails.",
+                        "isCorrect": 0,
+                        "explanation": "This isn't about power supply weakness. In properly designed circuits, the power supply can handle the load even if one component fails. The issue is that in a series circuit, a single break in the path prevents electricity from flowing."
+                    }
+                ],
+                "funFact": "Modern LED holiday lights are often designed with shunt wires around each bulb, allowing electricity to bypass a burned-out bulb and keep the rest of the lights working. This improvement addresses the frustrating problem of having to check each bulb to find the faulty one in older series-wired light strings!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding of why holiday lights go out completely when one bulb fails (because they are wired in series)"
+        },
+        {
+            "question": {
+                "text": "What is the primary function of a resistor in an electrical circuit?",
+                "options": [
+                    {
+                        "text": "To allow electricity to flow in only one direction",
+                        "isCorrect": 0,
+                        "explanation": "This describes the function of a diode, not a resistor. Diodes allow electrical current to flow in only one direction, while resistors control the amount of current flowing."
+                    },
+                    {
+                        "text": "To amplify the electrical signal",
+                        "isCorrect": 0,
+                        "explanation": "Amplifying electrical signals is the function of transistors, not resistors. Resistors actually reduce the flow of electrical energy rather than increasing it."
+                    },
+                    {
+                        "text": "To reduce the amount of current flow",
+                        "isCorrect": 1,
+                        "explanation": "Resistors are designed to reduce or limit the flow of electrical current in a circuit. They convert some of the electrical energy into heat energy, effectively controlling how much electricity can flow through a particular path."
+                    },
+                    {
+                        "text": "To store electrical energy",
+                        "isCorrect": 0,
+                        "explanation": "Storing electrical energy is the function of capacitors, not resistors. Capacitors can hold an electrical charge for later use, while resistors control the flow of current."
+                    },
+                    {
+                        "text": "To prevent electricity from flowing backward",
+                        "isCorrect": 0,
+                        "explanation": "This is the function of a diode or check valve in a circuit, not a resistor. Resistors reduce current flow in both directions equally."
+                    }
+                ],
+                "funFact": "Resistors are color-coded with bands that tell electricians and engineers their resistance value measured in ohms. This standardized system allows technicians to quickly identify resistor values without needing to test each component individually!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question evaluating knowledge of circuit components that reduce current flow (resistors)"
+        },
+        {
+            "question": {
+                "text": "What happens to electrical current when it flows through a diode in an electrical circuit?",
+                "options": [
+                    {
+                        "text": "The current flows in one direction only.",
+                        "isCorrect": 1,
+                        "explanation": "Diodes allow electricity to flow in only one direction. This is why when you put a battery in wrong, an LED (light emitting diode) will not light up."
+                    },
+                    {
+                        "text": "The current flows in both directions equally.",
+                        "isCorrect": 0,
+                        "explanation": "Unlike regular conductors which allow current to flow in both directions, diodes specifically block current in one direction while allowing it in the other."
+                    },
+                    {
+                        "text": "The current stops flowing completely.",
+                        "isCorrect": 0,
+                        "explanation": "Diodes don't stop current completely; they allow it to flow in one direction while blocking it in the opposite direction."
+                    },
+                    {
+                        "text": "The current increases in strength regardless of direction.",
+                        "isCorrect": 0,
+                        "explanation": "Diodes don't increase current strength; they control the direction of flow, not the amplitude of the current."
+                    },
+                    {
+                        "text": "The current changes from electrical energy to light energy.",
+                        "isCorrect": 0,
+                        "explanation": "While LEDs (Light Emitting Diodes) do convert electrical energy to light, this is not a property of all diodes. Regular diodes simply control the direction of current flow."
+                    }
+                ],
+                "funFact": "Diodes were one of the earliest semiconductor devices invented! Before silicon diodes, early radio receivers used 'cat's whisker' detectors - thin wires touching mineral crystals that acted as primitive diodes. Modern diodes have thousands of applications, from protecting circuits against power surges to converting AC electricity to DC in power supplies."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding of how a diode affects electricity (allows electricity to flow in only one direction)"
+        },
+        {
+            "question": {
+                "text": "What is the main advantage of integrated circuits (ICs) in modern electronic devices?",
+                "options": [
+                    {
+                        "text": "They allow electricity to flow in multiple directions at once",
+                        "isCorrect": 0,
+                        "explanation": "This isn't how ICs work. Electricity in circuits follows specific paths defined by the circuit design, not multiple directions simultaneously."
+                    },
+                    {
+                        "text": "They eliminate the need for conductors in electronic devices",
+                        "isCorrect": 0,
+                        "explanation": "ICs still require conductors to function. They integrate various components but don't eliminate the need for conductive materials."
+                    },
+                    {
+                        "text": "They allow many components to be combined in a small package",
+                        "isCorrect": 1,
+                        "explanation": "Integrated circuits allow multiple components like resistors, transistors, capacitors, and diodes to be combined into a single small package, which has greatly reduced the size of electronic devices while increasing their capabilities."
+                    },
+                    {
+                        "text": "They produce more electricity than traditional circuits",
+                        "isCorrect": 0,
+                        "explanation": "ICs don't produce electricity; they process and control the flow of electricity. They're designed to efficiently use electricity, not generate it."
+                    },
+                    {
+                        "text": "They prevent electrical energy from transferring between components",
+                        "isCorrect": 0,
+                        "explanation": "ICs actually facilitate the controlled transfer of electrical energy between components. Preventing energy transfer would make circuits non-functional."
+                    }
+                ],
+                "funFact": "The first integrated circuit was created in 1958 by Jack Kilby at Texas Instruments. Early computers that filled entire rooms had less computing power than today's smartwatches, largely due to the miniaturization made possible by integrated circuits."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding of how integrated circuits (ICs) have advanced electronics (allowing many components to be part of a circuit in a small package)"
+        },
+        {
+            "question": {
+                "text": "How do electrical circuits contribute to modern prosthetic limbs?",
+                "options": [
+                    {
+                        "text": "They only provide power to make the prosthetic limb move.",
+                        "isCorrect": 0,
+                        "explanation": "While circuits do provide power, they do much more than just power movement. Modern prosthetics use complex circuits for both movement control and sensory feedback."
+                    },
+                    {
+                        "text": "They control movements of the prosthetic and provide sensory feedback through electronic skin.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Modern prosthetics use tiny circuits to control precise movements, and electronic skin with circuits allows amputees to experience touch sensations."
+                    },
+                    {
+                        "text": "They only allow prosthetics to be turned on and off by the user.",
+                        "isCorrect": 0,
+                        "explanation": "Electrical circuits in prosthetics do much more than simple on/off functions. They control complex movements and provide sensory feedback."
+                    },
+                    {
+                        "text": "They simply connect the prosthetic to a power source with no other function.",
+                        "isCorrect": 0,
+                        "explanation": "Circuits in prosthetics serve multiple sophisticated functions beyond just connecting to power, including movement control and sensory feedback."
+                    }
+                ],
+                "funFact": "The first prosthetic limb with electrical components was developed in the 1960s, but today's advanced prosthetics can be controlled by the user's thoughts! Electrodes can detect tiny electrical signals from remaining muscles, allowing for intuitive control of the prosthetic limb."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question evaluating knowledge of how prosthetics utilize electrical circuits (tiny circuits control movements, electronic skin provides sensation)"
+        },
+        {
+            "question": {
+                "text": "In an electrical circuit, what do volts measure?",
+                "options": [
+                    {
+                        "text": "The flow of electrical current",
+                        "isCorrect": 0,
+                        "explanation": "Volts do not measure current flow. Current (measured in amperes) refers to the rate at which electric charge flows through a circuit."
+                    },
+                    {
+                        "text": "Electrical resistance in the circuit",
+                        "isCorrect": 0,
+                        "explanation": "Volts do not measure resistance. Resistance (measured in ohms) is the opposition to current flow in a circuit."
+                    },
+                    {
+                        "text": "Potential energy between two points",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Volts measure the electrical potential difference between two points in a circuit. This represents the potential energy per unit charge, which is what drives the flow of electricity."
+                    },
+                    {
+                        "text": "The speed of electricity",
+                        "isCorrect": 0,
+                        "explanation": "Volts do not measure the speed of electricity. The speed at which electrical signals travel depends on many factors and is not measured in volts."
+                    },
+                    {
+                        "text": "The amount of electricity used",
+                        "isCorrect": 0,
+                        "explanation": "Volts do not measure the amount of electricity used. Electrical energy usage is typically measured in kilowatt-hours (kWh)."
+                    }
+                ],
+                "funFact": "Alessandro Volta, an Italian physicist, invented the first battery in 1800. The unit of electrical potential, the volt, was named in his honor. His invention demonstrated that electricity could flow in a closed circuit and revolutionized our understanding of electrical energy transfer!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question assessing knowledge of how voltage relates to potential energy in a circuit (volts measure potential energy between two points)"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly defines electricity?",
+                "options": [
+                    {
+                        "text": "Electricity refers to phenomena associated with electric charges and their effects, including both static electricity and current electricity.",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct definition of electricity. It encompasses all phenomena related to electric charges, including both static electricity (stationary charges) and current electricity (flowing charges)."
+                    },
+                    {
+                        "text": "Electricity is a type of matter created inside batteries.",
+                        "isCorrect": 0,
+                        "explanation": "Electricity is not matter, but rather a form of energy that flows. Batteries don't create electricity; they store chemical energy that can be converted to electrical energy."
+                    },
+                    {
+                        "text": "Electricity is static energy that stays in one place.",
+                        "isCorrect": 0,
+                        "explanation": "This describes static electricity, but not electricity in general, which involves various phenomena associated with electric charges, not just charges that remain stationary."
+                    },
+                    {
+                        "text": "Electricity is the same thing as magnetism.",
+                        "isCorrect": 0,
+                        "explanation": "While electricity and magnetism are related phenomena (called electromagnetism), they are not the same thing. Electricity specifically refers to phenomena associated with electric charges and their effects."
+                    },
+                    {
+                        "text": "Electricity is only found in lightning and power plants.",
+                        "isCorrect": 0,
+                        "explanation": "Electricity exists in many forms and places beyond just lightning and power plants, including in our homes, electronic devices, and even in our bodies in the form of nerve impulses."
+                    }
+                ],
+                "funFact": "Your body actually uses electrical signals to function! Your brain sends electrical impulses through your nervous system to control muscle movements, and your heart's rhythm is regulated by electrical signals. These biological electrical currents are much smaller than those in household circuits, typically measured in millivolts (thousandths of a volt) rather than the 120 or 240 volts in wall outlets."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing student understanding of what electricity is defined as (the flow of electrical energy from one place to another)"
+        },
+        {
+            "question": {
+                "text": "When you close a switch in a simple electrical circuit with a battery and a light bulb, what happens to the electrical energy?",
+                "options": [
+                    {
+                        "text": "The electrical energy flows through the closed path and is converted to light and heat energy at the bulb.",
+                        "isCorrect": 1,
+                        "explanation": "When a circuit is closed, electricity can flow in a complete path from the battery, through the wires, to the light bulb, and back to the battery. At the light bulb, the electrical energy is transferred and converted to light energy and heat energy."
+                    },
+                    {
+                        "text": "The electrical energy gets used up completely as it travels through the wires.",
+                        "isCorrect": 0,
+                        "explanation": "Electrical energy isn't used up in the wires. While there is some energy loss as heat in the wires due to resistance, most of the electrical energy is transferred to the light bulb where it's converted to light and heat."
+                    },
+                    {
+                        "text": "The electrical energy stays inside the battery until the battery runs out.",
+                        "isCorrect": 0,
+                        "explanation": "When the switch is closed, electrical energy immediately begins to flow through the circuit. The energy doesn't stay in the battery; it flows through the complete circuit and is transferred to other forms of energy."
+                    },
+                    {
+                        "text": "The electrical energy disappears when the switch is closed.",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot disappear. According to the law of conservation of energy, energy can be transferred or converted from one form to another, but it cannot be created or destroyed."
+                    },
+                    {
+                        "text": "The electrical energy is transferred only as heat, not as light.",
+                        "isCorrect": 0,
+                        "explanation": "In a light bulb, electrical energy is converted to both light energy and heat energy. While some bulbs are more efficient than others at producing light versus heat, all light bulbs convert electrical energy to both forms."
+                    }
+                ],
+                "funFact": "The first practical electric light bulb, invented by Thomas Edison in 1879, lasted only about 13.5 hours. Modern incandescent bulbs can last 1,000 hours, while LED bulbs can last up to 25,000 hours while using much less energy to produce the same amount of light!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how energy transfers when a circuit is closed, asking students to identify what happens to electrical energy when a switch is turned on in a complete circuit with a light bulb"
+        },
+        {
+            "question": {
+                "text": "In a school science fair, students create two different circuits to light up their display boards. One group uses a series circuit, while another uses a parallel circuit. Each circuit has three light bulbs. What happens when one light bulb burns out in each type of circuit?",
+                "options": [
+                    {
+                        "text": "In both circuits, the other two bulbs will continue to work.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While the bulbs in a parallel circuit would continue to work, the bulbs in a series circuit would all go out because the path is broken."
+                    },
+                    {
+                        "text": "In the series circuit, all bulbs go out; in the parallel circuit, the other bulbs stay lit.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! In a series circuit, all components share one path. When one bulb burns out, it breaks the entire circuit, causing all bulbs to go out. In a parallel circuit, each bulb has its own path to the source, so if one bulb burns out, the others still have complete circuits and remain lit."
+                    },
+                    {
+                        "text": "In the series circuit, the other bulbs stay lit; in the parallel circuit, all bulbs go out.",
+                        "isCorrect": 0,
+                        "explanation": "This is the opposite of what actually happens. Series circuits break completely when one component fails, while parallel circuits allow other components to continue functioning."
+                    },
+                    {
+                        "text": "In both circuits, all bulbs will go out when one burns out.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While all bulbs would go out in a series circuit when one burns out, the other bulbs in a parallel circuit would remain lit because each has its own complete path."
+                    }
+                ],
+                "funFact": "Holiday string lights used to be wired in series, which is why one burned-out bulb would cause the entire string to go dark. Modern holiday lights are usually wired in parallel or with special shunts that maintain the circuit even when individual bulbs fail!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question with a diagram showing series and parallel circuits, asking students to predict what would happen to other lights if one light burns out in each type of circuit"
+        },
+        {
+            "question": {
+                "text": "Which of the following materials would allow electricity to flow through a circuit?",
+                "options": [
+                    {
+                        "text": "Metal paperclip",
+                        "isCorrect": 1,
+                        "explanation": "Metal paperclips are conductors that allow electricity to flow easily through them. Metals have free electrons that can move and carry electrical current."
+                    },
+                    {
+                        "text": "Rubber band",
+                        "isCorrect": 0,
+                        "explanation": "Rubber bands are insulators. They prevent or block the flow of electricity because they don't have free electrons that can move and carry electrical current."
+                    },
+                    {
+                        "text": "Plastic ruler",
+                        "isCorrect": 0,
+                        "explanation": "Plastic rulers are insulators. They block the flow of electricity because their electrons are tightly bound and cannot move freely to carry electrical current."
+                    },
+                    {
+                        "text": "Wooden pencil (without the lead)",
+                        "isCorrect": 0,
+                        "explanation": "Wood is an insulator that does not allow electricity to flow easily. The electrons in wood are tightly bound to their atoms and cannot move freely to carry electrical current."
+                    }
+                ],
+                "funFact": "While most metals are good conductors, not all conduct electricity equally well. Silver is actually the best conductor of electricity, followed by copper and gold. That's why copper is commonly used in electrical wiring - it conducts almost as well as silver but costs much less!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about conductors and insulators, asking students to identify which materials would allow electricity to flow through a circuit based on their properties"
+        },
+        {
+            "question": {
+                "text": "Maya is building a circuit to make a small light bulb illuminate. She has a battery, wires, a switch, and a light bulb. Which arrangement of these components would successfully transfer electrical energy to light the bulb?",
+                "options": [
+                    {
+                        "text": "Connect the battery to one end of the light bulb using a wire, leaving the other end of the bulb disconnected.",
+                        "isCorrect": 0,
+                        "explanation": "This creates an open circuit where electricity cannot flow in a complete path. For electrical energy to transfer to the light bulb, there must be a closed loop from the battery, through the bulb, and back to the battery."
+                    },
+                    {
+                        "text": "Connect one end of the battery to one end of the light bulb, and connect the other end of the battery to the other end of the light bulb, with the switch in between one of these connections.",
+                        "isCorrect": 1,
+                        "explanation": "This creates a closed circuit where electricity can flow from one end of the battery, through the light bulb, and back to the battery. The switch allows control of when the circuit is open or closed, regulating the flow of electrical energy."
+                    },
+                    {
+                        "text": "Connect the light bulb directly to the switch without connecting either to the battery.",
+                        "isCorrect": 0,
+                        "explanation": "This arrangement lacks a power source (the battery). Without a source of electrical energy, no energy can be transferred to the light bulb, regardless of whether the switch is open or closed."
+                    },
+                    {
+                        "text": "Connect the battery to the switch with wires, but leave the light bulb unconnected to either component.",
+                        "isCorrect": 0,
+                        "explanation": "This creates a partial circuit that doesn't include the light bulb. For energy transfer to occur, the light bulb must be part of a complete circuit with the battery so that electrical energy can flow through it."
+                    }
+                ],
+                "funFact": "Holiday light strings used to be wired in series, which is why one broken bulb would cause the entire string to go dark. Modern holiday lights are usually wired in parallel circuits, allowing the rest of the string to stay lit even if one bulb burns out!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting a scenario where a student is building a circuit, asking them to identify which arrangement of components would successfully transfer electrical energy"
+        },
+        {
+            "question": {
+                "text": "Alan wants to adjust the brightness of a light bulb in a simple circuit. Which method would allow him to control the brightness most effectively?",
+                "options": [
+                    {
+                        "text": "Using a higher or lower volt battery",
+                        "isCorrect": 0,
+                        "explanation": "While changing the battery voltage would affect brightness, it's not easily adjustable once the circuit is built and doesn't allow for fine control while the circuit is operating."
+                    },
+                    {
+                        "text": "Adding more light bulbs to the circuit",
+                        "isCorrect": 0,
+                        "explanation": "Adding more light bulbs would divide the electrical energy among multiple components rather than controlling the brightness of a single bulb."
+                    },
+                    {
+                        "text": "Using a potentiometer in the circuit",
+                        "isCorrect": 1,
+                        "explanation": "A potentiometer allows for precise control of electrical current flowing through the circuit by adjusting a knob or slider, making it possible to vary the brightness smoothly."
+                    },
+                    {
+                        "text": "Changing the length of the wires",
+                        "isCorrect": 0,
+                        "explanation": "While longer wires do add some resistance, this method is impractical for controlling brightness as it would require physically changing the circuit configuration."
+                    },
+                    {
+                        "text": "Adding breaks in the circuit",
+                        "isCorrect": 0,
+                        "explanation": "Adding breaks would interrupt the flow of electricity, turning the light off completely rather than controlling its brightness."
+                    }
+                ],
+                "funFact": "The dimmer switches in many homes use electronic components similar to potentiometers to control light brightness. Modern dimmers use transistors and integrated circuits to regulate the amount of electrical energy flowing to the lights, helping to save energy when full brightness isn't needed!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question describing different ways to control the brightness of a light bulb in a circuit, asking students to identify which method would be most effective based on energy transfer principles"
+        },
+        {
+            "question": {
+                "text": "How do electrical engineers use circuits in modern prosthetic limbs to transfer energy?",
+                "options": [
+                    {
+                        "text": "They use circuits to convert electrical energy into mechanical energy, allowing prosthetic limbs to move.",
+                        "isCorrect": 1,
+                        "explanation": "Electrical circuits in prosthetics transfer electrical energy into mechanical energy, enabling movement of the prosthetic limb. This demonstrates how energy can be transferred from place to place through electric currents."
+                    },
+                    {
+                        "text": "They use circuits to generate heat, which warms the prosthetic to body temperature.",
+                        "isCorrect": 0,
+                        "explanation": "While circuits can produce heat, the primary purpose of circuits in prosthetics is to control movement, not to generate heat. This is a secondary effect rather than the main energy transfer purpose."
+                    },
+                    {
+                        "text": "They use circuits to produce light signals that tell the user when the prosthetic needs charging.",
+                        "isCorrect": 0,
+                        "explanation": "Though indicator lights might be present on some prosthetics, this is not the main way energy transfer occurs in prosthetic function. The primary energy transfer is from electrical to mechanical energy for movement."
+                    },
+                    {
+                        "text": "They use circuits to amplify sound waves, allowing the prosthetic to respond to voice commands.",
+                        "isCorrect": 0,
+                        "explanation": "Most prosthetics do not primarily use voice commands for control. They typically use electrical signals from muscles or neural interfaces that are then transferred into mechanical movement through circuits."
+                    }
+                ],
+                "funFact": "The first electronic prosthetic arm was developed in the 1940s, but today's advanced prosthetics can include electronic skin that converts electrical signals back into sensory information, allowing users to feel pressure, temperature, and texture - a remarkable two-way energy transfer system!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how electrical engineers have improved prosthetics through electrical circuits, asking students to identify which feature demonstrates energy transfer from electrical to mechanical energy"
+        },
+        {
+            "question": {
+                "text": "Which electrical component allows electricity to flow in only one direction and why is this important in circuit design?",
+                "options": [
+                    {
+                        "text": "Diode",
+                        "isCorrect": 1,
+                        "explanation": "A diode allows electricity to flow in only one direction. This property is important in circuit design because it can protect sensitive components from reverse current and convert alternating current (AC) to direct current (DC)."
+                    },
+                    {
+                        "text": "Resistor",
+                        "isCorrect": 0,
+                        "explanation": "Resistors reduce the amount of current flowing through a circuit, but they allow electricity to flow in both directions."
+                    },
+                    {
+                        "text": "Capacitor",
+                        "isCorrect": 0,
+                        "explanation": "Capacitors store electrical energy and can block DC current while allowing AC current to pass, but they don't restrict the direction of current flow."
+                    },
+                    {
+                        "text": "Fuse",
+                        "isCorrect": 0,
+                        "explanation": "Fuses are safety devices that break the circuit when too much current flows, preventing fires and damage. They don't control the direction of current flow."
+                    },
+                    {
+                        "text": "Transistor",
+                        "isCorrect": 0,
+                        "explanation": "Transistors can amplify electrical signals and act as switches in circuits, but they don't inherently restrict current to flow in only one direction."
+                    }
+                ],
+                "funFact": "Light Emitting Diodes (LEDs) are a special type of diode that emit light when electricity flows through them. If you put the battery in backwards when using an LED, it won't light up because the diode prevents current from flowing in the reverse direction!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question showing different circuit components (fuse, diode, capacitor, transistor), asking students to select which one allows electricity to flow in only one direction and explain why this is important for energy transfer"
+        },
+        {
+            "question": {
+                "text": "In a series circuit of holiday lights, what happens when one light bulb burns out?",
+                "options": [
+                    {
+                        "text": "Only the burnt-out bulb stops working, while all other lights continue to shine.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect for a series circuit. In a series circuit, all components share the same current path, so a break anywhere in the circuit affects all components."
+                    },
+                    {
+                        "text": "All of the lights go out because the circuit is broken and electricity cannot flow.",
+                        "isCorrect": 1,
+                        "explanation": "In a series circuit, all components are connected along a single path. When one bulb burns out, it creates a gap in the circuit, breaking the closed loop needed for electricity to flow. This stops the flow of electrical energy through the entire circuit."
+                    },
+                    {
+                        "text": "The electricity finds an alternative path through the other bulbs.",
+                        "isCorrect": 0,
+                        "explanation": "In a series circuit, there is only one path for electricity to flow. Unlike a parallel circuit, a series circuit doesn't provide alternative paths for current."
+                    },
+                    {
+                        "text": "The remaining bulbs become brighter as they receive more electricity.",
+                        "isCorrect": 0,
+                        "explanation": "When a bulb burns out in a series circuit, it breaks the circuit completely, so no electricity flows at all. The other bulbs don't receive more electricity; they receive none."
+                    }
+                ],
+                "funFact": "Modern LED holiday lights are often wired in parallel circuits, not series circuits, which is why one bulb can burn out without affecting the others. This design improvement solved one of the most frustrating holiday decorating problems!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how holiday lights in series demonstrate energy transfer principles, asking students to explain why all lights go out when one bulb burns out"
+        },
+        {
+            "question": {
+                "text": "In a circuit with a potentiometer controlling a light bulb, what happens to the light bulb's brightness when you adjust the potentiometer to increase resistance?",
+                "options": [
+                    {
+                        "text": "The light bulb gets brighter because more electrical energy flows through it.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Increasing resistance reduces the flow of electrical energy, not increases it."
+                    },
+                    {
+                        "text": "The light bulb gets dimmer because less electrical energy is transferred through the circuit.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! A potentiometer controls the flow of electrical energy by changing resistance. When you increase the resistance, less electrical energy flows through the circuit, resulting in a dimmer light bulb."
+                    },
+                    {
+                        "text": "The light bulb stays the same brightness because potentiometers don't affect energy transfer.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Potentiometers are specifically designed to control the flow of electrical energy in a circuit."
+                    },
+                    {
+                        "text": "The light bulb flickers because the potentiometer creates an uneven flow of electrical energy.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Adjusting a potentiometer changes the resistance steadily, resulting in a steady change in brightness, not flickering."
+                    }
+                ],
+                "funFact": "Potentiometers are found in many everyday devices! The volume knob on older radios and the dimmer switches for some household lights are common examples of potentiometers in action, allowing you to control energy transfer in circuits with a simple turn."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how potentiometers control energy flow in a circuit, asking students to predict what happens to electrical energy transfer when the potentiometer is adjusted"
+        },
+        {
+            "question": {
+                "text": "You are designing a small desk lamp to help with reading in the dark. You need to transfer energy from a battery to light up an LED. Which arrangement of circuit components would correctly transfer energy from the battery to the LED?",
+                "options": [
+                    {
+                        "text": "Battery connected to a resistor, which is connected to an LED, all in a closed circuit",
+                        "isCorrect": 1,
+                        "explanation": "This arrangement creates a complete closed circuit where electrical energy from the battery flows through the resistor (which controls the current) and then to the LED, causing it to emit light. Energy is successfully transferred from chemical energy in the battery to electrical energy in the circuit to light energy from the LED."
+                    },
+                    {
+                        "text": "Battery connected to an LED only, with one end of the LED not connected to anything",
+                        "isCorrect": 0,
+                        "explanation": "This creates an open circuit. Without a complete path for the electricity to flow (a closed circuit), the electrical energy cannot transfer from the battery to the LED. For energy transfer to occur, the circuit must be closed."
+                    },
+                    {
+                        "text": "Battery connected to a switch, which is connected to an insulator, which is connected to an LED",
+                        "isCorrect": 0,
+                        "explanation": "This circuit won't work because insulators (like wood or plastic) prevent the flow of electricity. The insulator creates a gap in the circuit that stops energy from transferring from the battery to the LED."
+                    },
+                    {
+                        "text": "LED connected directly to a resistor with no battery in the circuit",
+                        "isCorrect": 0,
+                        "explanation": "Without a battery or other energy source, there's no initial energy to transfer. The battery provides the chemical energy that converts to electrical energy, which then transfers to light energy in the LED. Without this energy source, no transfer can occur."
+                    }
+                ],
+                "funFact": "LEDs (Light Emitting Diodes) are much more energy-efficient than traditional incandescent bulbs. While incandescent bulbs convert only about 5-10% of energy into light (with the rest becoming heat), LEDs typically convert about 40-60% of electrical energy into light, which is why your LED desk lamp stays cooler to the touch even after being on for hours!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting a real-world scenario where energy needs to be transferred in multiple forms (motion to electricity to light), asking students to arrange components in the correct order to achieve this transfer"
+        },
+        {
+            "question": {
+                "text": "Which feature of integrated circuits (ICs) allows them to most effectively transfer electrical energy in modern electronic devices?",
+                "options": [
+                    {
+                        "text": "They can only be used in series circuits",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Integrated circuits can be used in both series and parallel circuits. Their versatility is one of their advantages."
+                    },
+                    {
+                        "text": "They combine multiple components into a small space",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Integrated circuits allow various components (resistors, transistors, capacitors, etc.) to be combined in a very small package. This miniaturization enables efficient energy transfer by reducing the length of electrical pathways, decreasing resistance, and minimizing energy lost as heat, while also significantly reducing the size of electronic devices."
+                    },
+                    {
+                        "text": "They only permit electricity to flow in one direction",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Diodes allow electricity to flow in one direction, but integrated circuits can contain various components that allow electricity to flow in different ways depending on their design."
+                    },
+                    {
+                        "text": "They eliminate the need for conductors in a circuit",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Integrated circuits still require conductors for electricity to flow. They typically contain metal traces (tiny conductors) that connect the various components within the circuit."
+                    }
+                ],
+                "funFact": "The first integrated circuit was invented in 1958 by Jack Kilby at Texas Instruments. Early ICs contained just a few transistors, but modern microprocessors can contain billions of transistors on a chip smaller than your fingernail, making possible the powerful, energy-efficient electronic devices we use today!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about integrated circuits, asking students to explain how these components help transfer electrical energy in modern electronic devices"
+        },
+        {
+            "question": {
+                "text": "What happens to the brightness of a light bulb in a circuit when more resistors are added to the circuit?",
+                "options": [
+                    {
+                        "text": "The light bulb becomes brighter",
+                        "isCorrect": 0,
+                        "explanation": "Adding resistors reduces the flow of electricity, not increases it. When less electricity flows, the bulb actually becomes dimmer, not brighter."
+                    },
+                    {
+                        "text": "The light bulb becomes dimmer",
+                        "isCorrect": 1,
+                        "explanation": "Resistors reduce the amount of electricity flowing through a circuit. When more resistors are added, less electrical energy flows to the light bulb, making it dimmer."
+                    },
+                    {
+                        "text": "The light bulb brightness stays the same",
+                        "isCorrect": 0,
+                        "explanation": "Resistors affect the flow of electricity in a circuit. Adding resistors will change the brightness of the bulb by reducing the electrical current flowing through it."
+                    },
+                    {
+                        "text": "The light bulb will stop working completely",
+                        "isCorrect": 0,
+                        "explanation": "While resistors reduce the flow of electricity, adding resistors typically makes a bulb dimmer rather than stopping it from working completely, unless so many resistors are added that the current becomes too low for the bulb to light."
+                    },
+                    {
+                        "text": "The light bulb will flicker on and off",
+                        "isCorrect": 0,
+                        "explanation": "Adding resistors to a circuit creates a steady reduction in current, not an intermittent one. Resistors cause a consistent dimming effect rather than flickering."
+                    }
+                ],
+                "funFact": "While traditional dimmer switches used variable resistors (potentiometers), modern household dimmers typically use semiconductor devices like TRIACs that rapidly switch the current on and off using pulse width modulation. Both methods effectively control the brightness of your lights by regulating how much electrical energy reaches them, similar to how adding resistors affects a circuit."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how resistors function in a circuit, asking students to explain what happens to the brightness of a light bulb when more resistors are added to a circuit"
+        },
+        {
+            "question": {
+                "text": "What happens to the flow of electricity in a circuit when a gap is created?",
+                "options": [
+                    {
+                        "text": "The electricity flows around the gap and continues through the circuit.",
+                        "isCorrect": 0,
+                        "explanation": "Electricity cannot jump over gaps in a circuit. It requires a complete, closed path to flow."
+                    },
+                    {
+                        "text": "The electricity continues to flow but at a much slower rate.",
+                        "isCorrect": 0,
+                        "explanation": "Electricity doesn't slow down when there's a gap; it stops flowing completely because the circuit is no longer closed."
+                    },
+                    {
+                        "text": "The electricity stops flowing completely because the circuit is broken.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Electricity requires a closed, complete circuit to flow. When there's a gap, the path is broken and electricity cannot flow at all."
+                    },
+                    {
+                        "text": "The electricity builds up at the gap until it becomes strong enough to jump across.",
+                        "isCorrect": 0,
+                        "explanation": "In regular household circuits, electricity does not build up at gaps. It simply stops flowing when the circuit is broken."
+                    },
+                    {
+                        "text": "The electricity reverses direction and flows back toward the source.",
+                        "isCorrect": 0,
+                        "explanation": "Electricity doesn't reverse direction when it encounters a gap; it simply cannot flow at all in an open circuit."
+                    }
+                ],
+                "funFact": "This principle of needing a complete circuit is why light switches work! When you flip a switch off, you're actually creating a small gap in the circuit that prevents electricity from flowing to the light bulb. The switch is essentially a controlled gap-maker."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to analyze what happens to electrical energy flow when a circuit is broken, requiring them to apply knowledge about closed paths and gaps in circuits."
+        },
+        {
+            "question": {
+                "text": "In a classroom experiment, students set up two different circuits: a series circuit and a parallel circuit, each with three light bulbs. If one of the light bulbs burns out, what will happen in each type of circuit?",
+                "options": [
+                    {
+                        "text": "In the series circuit, all bulbs will go out. In the parallel circuit, only the burned-out bulb will go out.",
+                        "isCorrect": 1,
+                        "explanation": "In a series circuit, the electricity flows through one continuous path, so if one bulb burns out, it breaks the entire circuit and all bulbs go out. In a parallel circuit, each bulb has its own separate path, so if one bulb burns out, the other bulbs continue to work because electricity can still flow through their paths."
+                    },
+                    {
+                        "text": "In both circuits, only the burned-out bulb will go out while the others remain lit.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While in a parallel circuit only the burned-out bulb goes out, in a series circuit all bulbs will go out because the circuit is broken when one bulb burns out."
+                    },
+                    {
+                        "text": "In the series circuit, only the burned-out bulb will go out. In the parallel circuit, all bulbs will go out.",
+                        "isCorrect": 0,
+                        "explanation": "This is the opposite of what actually happens. Series circuits lose all function when one component fails because the path is broken, while parallel circuits continue to function except for the failed component."
+                    },
+                    {
+                        "text": "In both circuits, all bulbs will go out because the energy transfer is completely stopped.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While all bulbs go out in a series circuit when one fails, in a parallel circuit the electrical energy continues to transfer through the other paths, allowing the remaining bulbs to stay lit."
+                    }
+                ],
+                "funFact": "Holiday lights were traditionally wired in series, which is why one burned-out bulb would cause the entire string to go dark. Modern holiday lights are now typically wired in parallel or with special shunts that allow electricity to bypass a burned-out bulb, preventing the entire string from failing when one bulb burns out."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario describing series and parallel circuits with different lighting arrangements, asking students to analyze how a bulb failure would affect other components in each type of circuit and why."
+        },
+        {
+            "question": {
+                "text": "Which of the following materials would be the best conductor for creating a circuit that allows electricity to flow?",
+                "options": [
+                    {
+                        "text": "Metal wire",
+                        "isCorrect": 1,
+                        "explanation": "Metal wire is an excellent conductor of electricity because metals have free electrons that can easily move through the material, creating a path for electrical current to flow."
+                    },
+                    {
+                        "text": "Wooden stick",
+                        "isCorrect": 0,
+                        "explanation": "Wood is an insulator, not a conductor. It does not allow electricity to flow through it easily because it lacks free electrons to carry the charge."
+                    },
+                    {
+                        "text": "Plastic ruler",
+                        "isCorrect": 0,
+                        "explanation": "Plastic is an insulator that prevents the flow of electricity. It is commonly used as a coating around metal wires precisely because it blocks electrical current."
+                    },
+                    {
+                        "text": "Glass rod",
+                        "isCorrect": 0,
+                        "explanation": "Glass is an insulator that blocks the flow of electricity. Like wood and plastic, it does not have free electrons that can move to carry electrical current."
+                    }
+                ],
+                "funFact": "While metals are typically good conductors, not all metals conduct electricity equally well. Silver is actually the best conductor of electricity, followed by copper and gold. However, copper is most commonly used in electrical wiring because it's more affordable than silver or gold while still being an excellent conductor."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting different materials (metal wire, wooden stick, plastic ruler, salt water) and asking students to predict and explain which would best transfer electrical energy and why, focusing on properties of conductors versus insulators."
+        },
+        {
+            "question": {
+                "text": "You want to change the speed of a motor in an electric circuit. Which of the following methods would allow you to control the motor's speed?",
+                "options": [
+                    {
+                        "text": "Adding more resistors to the circuit to reduce the amount of electricity flowing",
+                        "isCorrect": 1,
+                        "explanation": "Resistors reduce the current flow in a circuit. By adding resistors, you decrease the amount of electricity reaching the motor, which reduces its speed."
+                    },
+                    {
+                        "text": "Replacing the conductive metal wires with plastic coated wires",
+                        "isCorrect": 0,
+                        "explanation": "Plastic coatings on wires serve as insulators to protect from electrical shock. The conductive metal inside the wire is still needed for electricity to flow. Changing the coating doesn't affect the motor's speed."
+                    },
+                    {
+                        "text": "Breaking the circuit to create gaps between components",
+                        "isCorrect": 0,
+                        "explanation": "Creating gaps in a circuit would break the closed path required for electricity to flow. This would stop the motor completely rather than changing its speed."
+                    },
+                    {
+                        "text": "Rearranging the circuit components from a parallel to a series arrangement",
+                        "isCorrect": 0,
+                        "explanation": "While changing from parallel to series arrangement would affect how the current flows through the circuit, this alone wouldn't provide a way to adjust the motor speed. Series circuits would actually make all components receive the same current."
+                    }
+                ],
+                "funFact": "Modern electric vehicles use sophisticated electronic speed controllers that rapidly switch the power on and off thousands of times per second to precisely control motor speed. This technology is much more efficient than using resistors, which convert excess electrical energy to heat!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario describing a simple circuit with a motor that spins at different speeds, asking students to analyze multiple ways the speed could be controlled by manipulating circuit components or energy sources."
+        },
+        {
+            "question": {
+                "text": "In a classroom experiment, students set up four different circuit configurations to investigate how electricity travels and powers devices. Each configuration has one battery, connecting wires, and one light bulb, but different numbers of resistors. In which circuit configuration would the light bulb shine the LEAST brightly?",
+                "options": [
+                    {
+                        "text": "A circuit with no resistors",
+                        "isCorrect": 0,
+                        "explanation": "A circuit with no resistors allows the maximum current to flow, which would make the light bulb shine at its brightest possible level with the given battery."
+                    },
+                    {
+                        "text": "A circuit with one resistor",
+                        "isCorrect": 0,
+                        "explanation": "A circuit with one resistor would reduce the current flow compared to a circuit with no resistors, but would still allow more current to flow than circuits with multiple resistors."
+                    },
+                    {
+                        "text": "A circuit with two resistors connected in series",
+                        "isCorrect": 1,
+                        "explanation": "A circuit with two resistors connected in series would have the greatest reduction in current flow, causing the light bulb to shine the least brightly. This is because in a series circuit, the current must pass through each resistor sequentially, and each resistor reduces the flow of electricity."
+                    },
+                    {
+                        "text": "A circuit with two resistors connected in parallel",
+                        "isCorrect": 0,
+                        "explanation": "When resistors are connected in parallel, the electricity can flow through multiple paths, resulting in less overall resistance than the same resistors connected in series. Therefore, this circuit would allow more current to flow than the series circuit with two resistors."
+                    }
+                ],
+                "funFact": "Holiday lights used to be wired in series, which is why when one bulb burned out, the entire string would go dark! Modern holiday lights use parallel circuits or include small shunts that allow electricity to bypass a burned-out bulb, keeping the rest of the string illuminated."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A situation where different circuits produce varying brightness in bulbs, asking students to analyze the relationship between resistors in a circuit and the transfer of electrical energy."
+        },
+        {
+            "question": {
+                "text": "The evolution of computers shows how energy transfer in circuits has changed over time. Which statement best explains the relationship between modern integrated circuits (ICs) and energy transfer?",
+                "options": [
+                    {
+                        "text": "Integrated circuits have eliminated the need for electricity to flow in a circuit.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Integrated circuits still require electricity to flow through a closed circuit to function. They have just made the path more compact and efficient."
+                    },
+                    {
+                        "text": "Integrated circuits allow electrical energy to be transferred through smaller pathways, enabling more complex devices in smaller packages.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Integrated circuits package many components into a small space, allowing electrical energy to transfer through smaller, more efficient pathways while maintaining the closed circuit needed for electricity to flow."
+                    },
+                    {
+                        "text": "Integrated circuits work without conductors, allowing energy to transfer without a path.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Integrated circuits still use conductive materials (like metals) to create paths for electricity to flow. They cannot work without conductors to complete the circuit."
+                    },
+                    {
+                        "text": "Integrated circuits convert electrical energy into a new form of energy that doesn't require a closed circuit.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Electrical energy still needs a closed circuit to flow, even in integrated circuits. ICs have simply miniaturized the components and pathways."
+                    },
+                    {
+                        "text": "Integrated circuits eliminate energy transfer between components, making devices more efficient.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Integrated circuits rely on energy transfer between components. Their efficiency comes from reduced distances between components and improved design, not from eliminating energy transfer."
+                    }
+                ],
+                "funFact": "The first integrated circuit was invented in 1958 by Jack Kilby at Texas Instruments. That first IC contained just one transistor, one capacitor, and three resistors. Today, modern processors can contain over 50 billion transistors on a single chip smaller than your fingernail!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question describing the progression of computer size over time, asking students to analyze how advancements in circuit design and integrated circuits have enabled energy transfer in smaller spaces."
+        },
+        {
+            "question": {
+                "text": "In a simple circuit with a battery, wires, and a light bulb, what happens to the electrical energy as it flows through the circuit?",
+                "options": [
+                    {
+                        "text": "The electrical energy is completely converted into light energy with no other forms of energy produced.",
+                        "isCorrect": 0,
+                        "explanation": "While light bulbs do convert electrical energy to light, they also produce heat as a byproduct. No energy conversion is 100% efficient."
+                    },
+                    {
+                        "text": "The electrical energy is transferred through the wires and converted into both light and heat energy in the bulb.",
+                        "isCorrect": 1,
+                        "explanation": "Electrical energy flows through the conductive wires and is converted into both light and heat energy when it reaches the bulb. This demonstrates energy transfer and transformation."
+                    },
+                    {
+                        "text": "The electrical energy stays as electrical energy throughout the entire circuit.",
+                        "isCorrect": 0,
+                        "explanation": "Electrical energy doesn't remain in the same form throughout the circuit. When it reaches components like a light bulb, it's transformed into other forms of energy."
+                    },
+                    {
+                        "text": "The electrical energy is used up completely by the time it completes the circuit.",
+                        "isCorrect": 0,
+                        "explanation": "Energy is never 'used up' or destroyed. In a circuit, energy is transferred and transformed, but the total amount of energy is conserved according to the law of conservation of energy."
+                    }
+                ],
+                "funFact": "Incandescent light bulbs are actually quite inefficient, converting only about 5% of the electrical energy they use into visible light. The remaining 95% is converted to heat energy. This is why more efficient lighting technologies like LEDs have been developed, which convert a much higher percentage of electrical energy into light."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario describing energy transformation in electronic devices, asking students to analyze how electrical energy is transferred and transformed into different forms (light, sound, motion, heat)."
+        },
+        {
+            "question": {
+                "text": "When one bulb burns out in a strand of holiday lights, the entire strand often stops working. Why does this happen?",
+                "options": [
+                    {
+                        "text": "The burned-out bulb creates too much resistance in the circuit.",
+                        "isCorrect": 0,
+                        "explanation": "While resistance is important in circuits, a burned-out bulb creates an open circuit (a gap), not increased resistance. It's the break in the path that stops the current flow."
+                    },
+                    {
+                        "text": "The burned-out bulb creates a break in the circuit, preventing electricity from flowing through the entire strand.",
+                        "isCorrect": 1,
+                        "explanation": "Holiday lights are typically wired in a series circuit. When one bulb burns out, it creates a gap in the circuit, breaking the complete path needed for electrical energy to flow through all bulbs."
+                    },
+                    {
+                        "text": "The other bulbs use up all the available electricity when one bulb goes out.",
+                        "isCorrect": 0,
+                        "explanation": "Electricity isn't used up in this way. The problem is that the path for electrical energy transfer is interrupted when a bulb burns out in a series circuit."
+                    },
+                    {
+                        "text": "The burned-out bulb sends a reverse current through the circuit.",
+                        "isCorrect": 0,
+                        "explanation": "A burned-out bulb doesn't create a reverse current - it simply creates an open circuit where electricity can no longer flow in any direction."
+                    },
+                    {
+                        "text": "The insulation in the holiday lights melts when a bulb burns out.",
+                        "isCorrect": 0,
+                        "explanation": "Insulation doesn't typically melt when a bulb burns out. The problem is that the circuit is broken, preventing the transfer of electrical energy through the complete path."
+                    }
+                ],
+                "funFact": "Modern holiday light sets often include a special shunt device in each bulb that creates an alternate path for electricity when the filament burns out, allowing the rest of the lights to stay on. This improvement came after many frustrating holidays spent searching for the one bad bulb in a string!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a faulty holiday light string, asking students to analyze why when one bulb fails the entire string goes out, based on principles of series circuits and energy transfer."
+        },
+        {
+            "question": {
+                "text": "Advanced prosthetic limbs now include electronic skin that allows users to feel touch sensations. How does this technology demonstrate energy transfer?",
+                "options": [
+                    {
+                        "text": "The electronic skin converts touch (mechanical energy) into electrical signals that are sent to nerves, transferring energy from the environment to the user",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Electronic skin in prosthetics works by converting mechanical energy from touch into electrical signals, which are then transmitted to the user's nervous system, completing an energy transfer path."
+                    },
+                    {
+                        "text": "The electronic skin generates its own energy without any transfer from outside sources",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Electronic skin doesn't generate its own energy; it detects and transforms energy from the environment (touch) into electrical signals."
+                    },
+                    {
+                        "text": "The electronic skin stores energy like a battery that is released when touched",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While electronic skin may contain components that use electrical energy, it functions as a transducer that converts one form of energy to another, not as an energy storage device."
+                    },
+                    {
+                        "text": "The electronic skin changes color when touched, showing a chemical energy transfer",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Electronic skin in prosthetics doesn't change color as its primary function, and the energy transfer involves mechanical and electrical energy, not chemical energy transformations."
+                    },
+                    {
+                        "text": "The electronic skin only works when connected to power outlets, showing direct electrical transfer",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Advanced prosthetics with electronic skin typically use battery power and don't need to be continuously connected to power outlets. The energy transfer occurs from the environment (touch) through the electronic circuits to the user."
+                    }
+                ],
+                "funFact": "The most advanced electronic skin can detect not just pressure, but also temperature, texture, and even humidity, allowing prosthetic users to experience a range of sensations that closely mimic natural touch. Some electronic skins are now so sensitive they can detect temperature changes as small as 0.1 degrees Celsius!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario involving electronic skin in prosthetics, asking students to analyze how electrical circuits enable the transfer of sensory information as a form of energy from the environment to the user."
+        },
+        {
+            "question": {
+                "text": "In a simple circuit with a light bulb, what is the primary purpose of adding a resistor?",
+                "options": [
+                    {
+                        "text": "To increase the brightness of the light bulb",
+                        "isCorrect": 0,
+                        "explanation": "Resistors actually reduce current flow, which would decrease rather than increase the brightness of a light bulb."
+                    },
+                    {
+                        "text": "To prevent damage by reducing the amount of current flowing",
+                        "isCorrect": 1,
+                        "explanation": "Resistors are specifically designed to reduce the amount of electrical current flowing through a circuit, which helps protect sensitive components like light bulbs from receiving too much current and burning out."
+                    },
+                    {
+                        "text": "To store electrical energy for later use",
+                        "isCorrect": 0,
+                        "explanation": "Storing electrical energy is the function of capacitors, not resistors. Resistors dissipate electrical energy as heat rather than storing it."
+                    },
+                    {
+                        "text": "To convert electricity into sound",
+                        "isCorrect": 0,
+                        "explanation": "Converting electricity into sound is the function of speakers or buzzers, not resistors. Resistors control the flow of electrical energy but don't transform it into sound."
+                    },
+                    {
+                        "text": "To create an open path for electricity",
+                        "isCorrect": 0,
+                        "explanation": "Resistors don't create open paths for electricity; conductors like copper wire do that. Resistors actually impede the flow of electricity to some degree."
+                    }
+                ],
+                "funFact": "The first resistors were made from carbon compressed with clay. Today, resistors can be microscopic in size and are found by the thousands on modern computer chips, where they help control the precise flow of electricity needed for complex calculations."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a circuit with multiple components (fuse, LED, resistor, switch), asking students to analyze the purpose of each component in controlling or directing the transfer of electrical energy."
+        },
+        {
+            "question": {
+                "text": "In a simple circuit with a battery, wires, and three different components (a small light bulb, a motor, and a speaker), energy transfers are occurring. Which statement correctly describes how electrical energy is transferred in this circuit?",
+                "options": [
+                    {
+                        "text": "The battery creates energy which is then used up completely by the components in the circuit.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because energy cannot be created or destroyed, only transferred from one form to another. The battery doesn't create energy; it stores chemical energy that is converted to electrical energy in the circuit."
+                    },
+                    {
+                        "text": "Electrical energy from the battery is transferred through electric currents in the wires to the components, where it is transformed into light, motion, and sound energy.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The battery provides electrical energy that moves through the circuit via electric currents. This energy is then transformed into different forms: light energy in the bulb, motion energy in the motor, and sound energy in the speaker."
+                    },
+                    {
+                        "text": "The wires in the circuit produce the energy needed to power the light bulb, motor, and speaker.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because wires do not produce energy; they are conductors that allow electrical energy to flow through the circuit. The energy comes from the battery and is transferred through the wires."
+                    },
+                    {
+                        "text": "Energy transfers only occur when the circuit is first turned on, then the components continue to work without requiring additional energy.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because energy must be continuously supplied for the components to function. The transfer of energy from the battery through the circuit is ongoing as long as the circuit is closed and the battery has stored energy available."
+                    }
+                ],
+                "funFact": "Holiday lights used to be wired in series circuits, which is why one burnt-out bulb would cause the entire string to go dark. Modern holiday lights use parallel circuits or have built-in shunts that allow current to bypass a failed bulb, keeping the rest of the string lit!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario where electrical energy powers different outputs (speaker, light, motor), asking students to analyze the energy transformations occurring in each case and explain how electric currents facilitate these transfers."
+        },
+        {
+            "question": {
+                "text": "Max is building a model volcano for his science fair project. He wants to use three small light bulbs to represent the lava flowing down the volcano. He has the following materials:\n- 3 identical light bulbs that each require 4.5 volts to light up\n- Wire\n- A 4.5-volt battery\n- A switch\n\nWhich circuit arrangement would allow Max to control all three bulbs with one switch while ensuring that if one bulb burns out, the other two will still work?",
+                "options": [
+                    {
+                        "text": "Connecting the three bulbs in series with the battery and switch",
+                        "isCorrect": 0,
+                        "explanation": "In a series circuit, all components share the same current path. If one bulb burns out, it would break the entire circuit, causing all bulbs to stop working. Additionally, with all three 4.5-volt bulbs in series, each would receive only about 1.5 volts (4.5V \u00f7 3), which is insufficient to properly light them."
+                    },
+                    {
+                        "text": "Connecting the three bulbs in parallel with the battery and switch",
+                        "isCorrect": 1,
+                        "explanation": "In a parallel circuit, each bulb has its own path to the power source. This means that if one bulb burns out, the others will continue to work. Each bulb will receive the full 4.5 volts from the battery, which matches their voltage rating, allowing them to light up properly."
+                    },
+                    {
+                        "text": "Connecting two bulbs in series and the third bulb in parallel",
+                        "isCorrect": 0,
+                        "explanation": "This mixed arrangement would cause uneven voltage distribution. The two bulbs in series would each receive about 2.25 volts (splitting the 4.5 volts), which is less than their 4.5-volt requirement, while the parallel bulb would receive the full 4.5 volts and work properly."
+                    },
+                    {
+                        "text": "Connecting the three bulbs and battery in a circle with the switch in the middle",
+                        "isCorrect": 0,
+                        "explanation": "The physical arrangement doesn't determine whether a circuit is series or parallel - it's about the electrical paths. A 'circle' arrangement could still be a series circuit, which would have the same problems as option A: if one bulb burns out, all bulbs stop working."
+                    }
+                ],
+                "funFact": "Holiday lights used to be wired in series, which is why one burned-out bulb would cause the entire string to go dark. Modern holiday lights are typically wired in parallel or with special shunts that maintain the circuit even when a bulb fails, making them much more convenient and reliable!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A situation describing electrical devices with different voltage requirements, asking students to analyze how voltage relates to potential energy and the transfer of electrical energy in circuits."
+        }
+    ]
+}

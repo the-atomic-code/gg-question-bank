@@ -1,0 +1,1121 @@
+{
+    "id": "lesson-4",
+    "title": "Chemical Reactions",
+    "standard": "MS-PS1-2",
+    "n_recall": 13,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 37,
+    "questions": [
+        {
+            "question": {
+                "text": "What is the primary role of a catalyst in a chemical reaction?",
+                "options": [
+                    {
+                        "text": "It becomes a part of the final product",
+                        "isCorrect": 0,
+                        "explanation": "A catalyst does not become part of the final product. It remains unchanged after the reaction is complete."
+                    },
+                    {
+                        "text": "It increases the speed of the reaction without being consumed",
+                        "isCorrect": 1,
+                        "explanation": "A catalyst speeds up chemical reactions by providing an alternative pathway for the reaction while remaining unchanged at the end."
+                    },
+                    {
+                        "text": "It changes the properties of the final product",
+                        "isCorrect": 0,
+                        "explanation": "Catalysts do not affect the properties of the final product. They only affect the rate at which the product is formed."
+                    },
+                    {
+                        "text": "It creates new substances that weren't possible before",
+                        "isCorrect": 0,
+                        "explanation": "Catalysts don't create new substances or change what products are possible. They only speed up reactions that would occur anyway."
+                    }
+                ],
+                "funFact": "The human body uses thousands of different catalysts called enzymes! For example, the enzyme catalase helps break down harmful hydrogen peroxide in your cells into harmless water and oxygen about 40 million times per second."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student recognition of the role of catalysts in chemical reactions"
+        },
+        {
+            "question": {
+                "text": "A student performs an experiment where they mix baking soda with vinegar in a beaker. They observe bubbling, fizzing, and the formation of a gas. Which observation provides the strongest evidence that a chemical reaction has occurred?",
+                "options": [
+                    {
+                        "text": "The temperature of the mixture changes",
+                        "isCorrect": 0,
+                        "explanation": "While temperature changes can occur during chemical reactions, they can also occur during physical changes like dissolving sugar in water, so this alone is not the strongest evidence."
+                    },
+                    {
+                        "text": "The mixture becomes cloudy",
+                        "isCorrect": 0,
+                        "explanation": "Cloudiness can occur in both physical and chemical changes, such as when mixing oil and water, so this is not definitive evidence of a chemical reaction."
+                    },
+                    {
+                        "text": "The formation of a new substance with different properties",
+                        "isCorrect": 1,
+                        "explanation": "The production of carbon dioxide gas with properties different from the original reactants (baking soda and vinegar) is clear evidence that atoms have rearranged to form new substances - a defining characteristic of chemical reactions."
+                    },
+                    {
+                        "text": "The change in the color of the solution",
+                        "isCorrect": 0,
+                        "explanation": "Color changes can occur in both physical and chemical changes, such as when food coloring is added to water, making this not the strongest evidence of a chemical reaction."
+                    }
+                ],
+                "funFact": "The gas produced in the baking soda and vinegar reaction is carbon dioxide - the same gas that makes soft drinks fizzy! This reaction is so reliable that it's often used to power model volcanoes in science fair projects."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student understanding of what indicates a chemical reaction has occurred by identifying the formation of new substances with different properties"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes the key difference between a physical change and a chemical change?",
+                "options": [
+                    {
+                        "text": "A physical change forms new substances, while a chemical change only changes the appearance of substances.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. It's actually the opposite - physical changes do not form new substances, while chemical changes do form new substances."
+                    },
+                    {
+                        "text": "A physical change alters the state or appearance of a substance without forming new substances, while a chemical change creates new substances with different properties.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Physical changes like melting or freezing only change the state or appearance, while chemical changes result in new substances with different properties."
+                    },
+                    {
+                        "text": "A physical change and a chemical change both result in new substances being formed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Only chemical changes result in new substances being formed. Physical changes do not create new substances."
+                    },
+                    {
+                        "text": "A physical change and a chemical change are the same thing with different names.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Physical and chemical changes are fundamentally different processes with distinct characteristics and outcomes."
+                    }
+                ],
+                "funFact": "When you cook an egg, you're observing a chemical change! The heat causes the proteins in the egg white to denature and form new chemical bonds, creating a new substance with different properties - that's why you can't unscramble a cooked egg!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student knowledge of the key difference between physical changes and chemical changes in terms of substance formation"
+        },
+        {
+            "question": {
+                "text": "During a chemical reaction where iron (Fe) combines with oxygen (O2) to form iron oxide (rust), what happens to the total number of atoms?",
+                "options": [
+                    {
+                        "text": "The total number of atoms stays exactly the same",
+                        "isCorrect": 1,
+                        "explanation": "According to the Law of Conservation of Matter, atoms cannot be created or destroyed in a chemical reaction - they only rearrange to form new substances"
+                    },
+                    {
+                        "text": "Some atoms are destroyed during the reaction",
+                        "isCorrect": 0,
+                        "explanation": "Atoms cannot be destroyed in chemical reactions. They only rearrange to form new substances while maintaining the same total number"
+                    },
+                    {
+                        "text": "New atoms are created as rust forms",
+                        "isCorrect": 0,
+                        "explanation": "Atoms cannot be created in chemical reactions. The rust forms from existing iron and oxygen atoms rearranging into a new substance"
+                    },
+                    {
+                        "text": "Half the atoms disappear as the iron rusts",
+                        "isCorrect": 0,
+                        "explanation": "Atoms do not disappear during chemical reactions. The same number of atoms are present before and after, just in a different arrangement"
+                    }
+                ],
+                "funFact": "The rusting of iron costs the global economy over $2.5 trillion annually! This makes rust one of the most expensive chemical reactions in the world, but even this massive reaction follows the fundamental law that atoms are conserved."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student understanding of how atoms rearrange during chemical reactions while maintaining the same total number"
+        },
+        {
+            "question": {
+                "text": "During a fireworks display, colorful sparks burst in the sky. Which observation would best indicate that a chemical reaction is occurring in the fireworks?",
+                "options": [
+                    {
+                        "text": "The fireworks create bright light in different colors",
+                        "isCorrect": 0,
+                        "explanation": "While fireworks do produce light, the presence of light alone doesn't necessarily indicate a chemical reaction - light can also be produced by physical changes."
+                    },
+                    {
+                        "text": "The temperature of the fireworks increases significantly",
+                        "isCorrect": 0,
+                        "explanation": "Temperature changes can occur in both physical and chemical changes, so this alone isn't a definitive indicator of a chemical reaction."
+                    },
+                    {
+                        "text": "New substances with different properties are formed from the original materials",
+                        "isCorrect": 1,
+                        "explanation": "The formation of new substances with different properties from the original materials is a clear indicator of a chemical reaction, as atoms have rearranged to form new compounds."
+                    },
+                    {
+                        "text": "The fireworks move upward in the sky",
+                        "isCorrect": 0,
+                        "explanation": "Movement is a physical change and doesn't indicate that a chemical reaction is taking place."
+                    }
+                ],
+                "funFact": "The different colors in fireworks are produced by different metal salts undergoing chemical reactions. For example, strontium compounds produce red colors, while copper compounds create blue colors!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student knowledge of reactants and products in chemical reactions"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes what happens to atoms during a chemical reaction?",
+                "options": [
+                    {
+                        "text": "Atoms rearrange to form new substances with different properties while the total number of atoms remains the same",
+                        "isCorrect": 1,
+                        "explanation": "In a chemical reaction, atoms rearrange to form new molecules with different properties, but the total number of atoms is conserved according to the Law of Conservation of Matter."
+                    },
+                    {
+                        "text": "New atoms are created when substances combine together",
+                        "isCorrect": 0,
+                        "explanation": "Atoms cannot be created or destroyed in a chemical reaction - they only rearrange to form new substances."
+                    },
+                    {
+                        "text": "Some atoms are destroyed while new atoms take their place",
+                        "isCorrect": 0,
+                        "explanation": "Atoms cannot be destroyed in a chemical reaction. The total number of atoms remains constant, they just rearrange."
+                    },
+                    {
+                        "text": "Atoms change their basic properties but keep their original arrangement",
+                        "isCorrect": 0,
+                        "explanation": "Individual atoms maintain their fundamental properties in reactions. It's their arrangement that changes to form new substances with different properties."
+                    }
+                ],
+                "funFact": "The Law of Conservation of Matter was first stated by Antoine Lavoisier in 1789. He discovered this fundamental principle by carefully measuring the mass of substances before and after reactions in sealed containers."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student understanding of molecules as combinations of atoms that form substances"
+        },
+        {
+            "question": {
+                "text": "A student burns a piece of steel wool and observes that after burning, the steel wool turns black and no longer attracts to a magnet. Which property change best indicates that a chemical reaction has occurred?",
+                "options": [
+                    {
+                        "text": "The change in magnetic properties, since the new substance no longer attracts to magnets",
+                        "isCorrect": 1,
+                        "explanation": "When iron in steel wool reacts with oxygen during burning, it forms iron oxide which has different properties, including loss of magnetic attraction. This change in properties indicates a chemical reaction."
+                    },
+                    {
+                        "text": "The change in color, since the steel wool turned black",
+                        "isCorrect": 0,
+                        "explanation": "While color change can indicate a chemical reaction, it can also occur in physical changes. Color alone is not the most reliable indicator of a chemical reaction."
+                    },
+                    {
+                        "text": "The change in shape, since the steel wool appeared different",
+                        "isCorrect": 0,
+                        "explanation": "Changes in shape are physical changes and do not necessarily indicate a chemical reaction has occurred."
+                    },
+                    {
+                        "text": "The change in temperature, since burning made it hot",
+                        "isCorrect": 0,
+                        "explanation": "Temperature changes can occur in both physical and chemical changes. Heat alone does not confirm a chemical reaction has taken place."
+                    }
+                ],
+                "funFact": "The same chemical reaction that occurs when steel wool burns - oxidation of iron - is responsible for rust formation on cars and bridges, just at a much slower rate. This costs the global economy over $2.5 trillion annually!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student knowledge of how properties like flammability can change when substances undergo chemical reactions"
+        },
+        {
+            "question": {
+                "text": "When a glass of water is placed in the freezer and turns into ice, what type of change occurs?",
+                "options": [
+                    {
+                        "text": "A physical change, because no new substance is formed",
+                        "isCorrect": 1,
+                        "explanation": "When water freezes, only its state changes from liquid to solid. The molecules just move closer together and become more organized, but water remains H2O - no new substance is created."
+                    },
+                    {
+                        "text": "A chemical change, because ice has different properties than water",
+                        "isCorrect": 0,
+                        "explanation": "Although ice has different physical properties than liquid water (like being solid), this doesn't make it a chemical change. The water molecules haven't been rearranged into new substances."
+                    },
+                    {
+                        "text": "A chemical change, because the temperature change causes a reaction",
+                        "isCorrect": 0,
+                        "explanation": "Temperature changes alone don't cause chemical reactions. In freezing, the temperature simply affects how close together the water molecules are, but doesn't create new substances."
+                    },
+                    {
+                        "text": "A physical change, because a new substance is formed",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect on both counts. Freezing is indeed a physical change, but it's because no new substance is formed, not because a new substance is formed."
+                    }
+                ],
+                "funFact": "Water is one of the few substances that expands when it freezes instead of contracting. This unique property is why ice floats in water and why frozen pipes can burst in winter!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student understanding that phase changes are physical changes where no new substances form"
+        },
+        {
+            "question": {
+                "text": "During a chemical reaction between baking soda and vinegar in a sealed container, bubbles form and the mixture fizzes. What happens to the total mass of all substances in the container?",
+                "options": [
+                    {
+                        "text": "The total mass stays exactly the same",
+                        "isCorrect": 1,
+                        "explanation": "According to the Law of Conservation of Mass, atoms can only rearrange in a chemical reaction - they cannot be created or destroyed. Therefore, the total mass remains constant."
+                    },
+                    {
+                        "text": "The total mass decreases because bubbles escape",
+                        "isCorrect": 0,
+                        "explanation": "Since the container is sealed, no bubbles can escape. Even if bubbles form, the atoms are just rearranged into new substances, keeping the total mass constant."
+                    },
+                    {
+                        "text": "The total mass increases due to bubble formation",
+                        "isCorrect": 0,
+                        "explanation": "Bubbles are just a rearrangement of the existing atoms into gas form. No new atoms are created, so the mass cannot increase."
+                    },
+                    {
+                        "text": "The total mass first increases then decreases",
+                        "isCorrect": 0,
+                        "explanation": "The total mass remains constant throughout the reaction. The bubbling and fizzing are just signs of atoms rearranging into new substances."
+                    }
+                ],
+                "funFact": "Antoine Lavoisier, known as the 'Father of Modern Chemistry,' first demonstrated the Law of Conservation of Mass in the late 1700s by conducting experiments in sealed glass containers, showing that mass remained constant during chemical reactions."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student recognition that total mass stays constant during chemical reactions even though new substances form"
+        },
+        {
+            "question": {
+                "text": "A scientist observes a metallic substance turn into a rusty brown color when exposed to air over time. Which evidence would best support that this change is a chemical reaction?",
+                "options": [
+                    {
+                        "text": "The original metallic substance was magnetic, but the rusty brown substance is not magnetic",
+                        "isCorrect": 1,
+                        "explanation": "A change in properties like magnetism indicates that atoms have rearranged to form a new substance, which is evidence of a chemical reaction"
+                    },
+                    {
+                        "text": "The color of the substance changed from metallic to rusty brown",
+                        "isCorrect": 0,
+                        "explanation": "While color change can suggest a chemical reaction, it alone is not conclusive evidence since physical changes can also cause color changes"
+                    },
+                    {
+                        "text": "The substance took several days to change its appearance",
+                        "isCorrect": 0,
+                        "explanation": "The time taken for a change to occur does not determine whether it is a chemical reaction or not"
+                    },
+                    {
+                        "text": "The substance was exposed to air during the change",
+                        "isCorrect": 0,
+                        "explanation": "While exposure to air was involved in the change, this alone does not prove a chemical reaction occurred"
+                    }
+                ],
+                "funFact": "When iron rusts, it expands and occupies more volume than the original iron because iron oxide has a lower density. This expansion can cause stress and cracking in structures, which is why rust protection is so important for buildings and bridges."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student knowledge of how chemical reactions result in substances with new properties different from the original substances"
+        },
+        {
+            "question": {
+                "text": "Sarah is conducting an experiment where she adds sugar to water and stirs until the sugar disappears. Her classmate Mike claims this is a physical change because the sugar molecules are just being spread out in the water. Is Mike's explanation correct?",
+                "options": [
+                    {
+                        "text": "Yes, because the sugar can be recovered by evaporating the water",
+                        "isCorrect": 0,
+                        "explanation": "While this statement is true and supports that dissolving is a physical change, it doesn't fully address the molecular explanation that Mike provided."
+                    },
+                    {
+                        "text": "Yes, because the sugar molecules remain chemically unchanged in the solution",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When sugar dissolves in water, it's a physical change. The sugar molecules separate from each other but maintain their chemical identity. They become surrounded by water molecules through intermolecular attractions."
+                    },
+                    {
+                        "text": "No, because dissolving is a chemical change that creates a new substance",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Dissolving sugar in water is a physical change, not a chemical change. No new substances are formed, and the sugar molecules remain chemically intact."
+                    },
+                    {
+                        "text": "No, because the sugar changes color when dissolved",
+                        "isCorrect": 0,
+                        "explanation": "Sugar doesn't change color when dissolved. Additionally, dissolving sugar in water is a physical change where sugar molecules remain chemically intact but are dispersed throughout the water."
+                    }
+                ],
+                "funFact": "The process of dissolving sugar in water is actually endothermic - it absorbs heat from its surroundings. That's why a sugar solution feels slightly cooler than the water you started with!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student understanding that dissolving is a chemical rather than physical change"
+        },
+        {
+            "question": {
+                "text": "A scientist wants to determine if a chemical reaction occurred when two substances were mixed together. Which property would be most useful to test and compare before and after mixing the substances?",
+                "options": [
+                    {
+                        "text": "Mass",
+                        "isCorrect": 0,
+                        "explanation": "Mass stays constant during a chemical reaction due to the Law of Conservation of Matter, so it cannot indicate if a reaction occurred."
+                    },
+                    {
+                        "text": "Volume",
+                        "isCorrect": 0,
+                        "explanation": "Volume can change in both physical and chemical changes, so it is not a reliable indicator of a chemical reaction."
+                    },
+                    {
+                        "text": "Color change",
+                        "isCorrect": 1,
+                        "explanation": "Color change is a common indicator of a chemical reaction because it often signifies that new substances with different properties have formed."
+                    },
+                    {
+                        "text": "Temperature",
+                        "isCorrect": 0,
+                        "explanation": "While temperature changes often accompany chemical reactions, they can also occur in physical changes like dissolving. Therefore, temperature alone is not a definitive indicator of a chemical reaction."
+                    }
+                ],
+                "funFact": "Scientists use various indicators to detect chemical reactions. In addition to color changes, other signs include formation of a precipitate, production of gas bubbles, emission of light, and energy changes such as heat absorption or release!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student recognition of observable properties that can be used to test substances before and after a chemical reaction"
+        },
+        {
+            "question": {
+                "text": "During a chemical reaction between zinc and hydrochloric acid, 65 grams of zinc metal completely reacts with the acid. How does the total mass of all products formed compare to the total mass of all reactants (zinc and hydrochloric acid) used in this reaction?",
+                "options": [
+                    {
+                        "text": "Equal to the total mass of all reactants",
+                        "isCorrect": 1,
+                        "explanation": "According to the Law of Conservation of Matter, the total mass of reactants equals the total mass of products in a chemical reaction. Since atoms cannot be created or destroyed, just rearranged, the products must have the same total mass as all reactants combined (both zinc and hydrochloric acid)."
+                    },
+                    {
+                        "text": "Less than the total mass of all reactants",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because mass cannot be destroyed during a chemical reaction. The atoms are only rearranged to form new substances, maintaining the same total mass."
+                    },
+                    {
+                        "text": "More than the total mass of all reactants",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because mass cannot be created during a chemical reaction. The atoms are only rearranged to form new substances, maintaining the same total mass."
+                    },
+                    {
+                        "text": "Equal to just the mass of zinc used",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the products contain atoms from both reactants - zinc and hydrochloric acid. The total mass of products would equal the total mass of all reactants combined, not just the zinc."
+                    }
+                ],
+                "funFact": "The Law of Conservation of Matter was first stated by Antoine Lavoisier in 1789. He demonstrated this by conducting experiments in sealed glass containers, showing that the total mass remained the same before and after chemical reactions, even when gases were involved!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint to assess student understanding of the Law of Conservation of Matter during chemical reactions"
+        },
+        {
+            "question": {
+                "text": "When wood burns in a campfire, several changes occur. Which set of changes provides evidence that a chemical reaction has taken place?",
+                "options": [
+                    {
+                        "text": "The wood becomes smaller and warmer, but maintains its brown color",
+                        "isCorrect": 0,
+                        "explanation": "These changes only describe physical changes. Size reduction and temperature change don't indicate a chemical reaction has occurred."
+                    },
+                    {
+                        "text": "The wood turns to ash, changes from brown to gray, and is no longer flammable",
+                        "isCorrect": 1,
+                        "explanation": "These changes in color and flammability indicate new substances with different properties have formed, which is evidence of a chemical reaction."
+                    },
+                    {
+                        "text": "The wood becomes lighter and breaks into smaller pieces",
+                        "isCorrect": 0,
+                        "explanation": "Breaking into smaller pieces is a physical change. Mass reduction alone doesn't prove a chemical reaction occurred."
+                    },
+                    {
+                        "text": "The wood becomes black and feels different to touch",
+                        "isCorrect": 0,
+                        "explanation": "Changes in color and texture alone are not sufficient evidence of a chemical reaction, as these could be physical changes."
+                    }
+                ],
+                "funFact": "When wood burns, it doesn't actually disappear - it transforms into carbon dioxide gas, water vapor, and mineral ash. The atoms from the wood are conserved but rearrange to form these new substances, following the Law of Conservation of Mass!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare the properties of wood before and after burning, including mass, color and flammability. Students will analyze which changes prove a chemical reaction occurred"
+        },
+        {
+            "question": {
+                "text": "A student mixes two colorless solutions: silver nitrate and sodium chloride. After mixing, a white solid forms at the bottom of the container while the liquid remains clear. Which observation best proves that a chemical reaction has occurred?",
+                "options": [
+                    {
+                        "text": "The formation of a solid precipitate indicates new substances with different properties were created",
+                        "isCorrect": 1,
+                        "explanation": "The appearance of a solid precipitate (silver chloride) from two clear solutions demonstrates that the atoms have rearranged to form new substances with different properties - a key indicator of a chemical reaction."
+                    },
+                    {
+                        "text": "The solutions became colder when mixed together",
+                        "isCorrect": 0,
+                        "explanation": "Temperature change alone does not prove a chemical reaction occurred, as physical changes can also involve temperature changes. The formation of new substances is the key evidence."
+                    },
+                    {
+                        "text": "The volume of the mixture increased slightly",
+                        "isCorrect": 0,
+                        "explanation": "Changes in volume can occur in both physical and chemical changes and is not definitive proof of a chemical reaction. We need evidence of new substance formation."
+                    },
+                    {
+                        "text": "The mixture became cloudy before the solid formed",
+                        "isCorrect": 0,
+                        "explanation": "While cloudiness often precedes precipitation, this observation alone doesn't prove chemical reaction. The key evidence is the formation of a new solid substance with different properties."
+                    }
+                ],
+                "funFact": "The white precipitate formed in this reaction is silver chloride, which was historically used in photography! When exposed to light, silver chloride breaks down and releases tiny particles of silver, which is how early photographs were developed."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe an experiment where two clear liquids are mixed to form a colored precipitate. Students will evaluate which property changes prove atoms have rearranged into new molecules"
+        },
+        {
+            "question": {
+                "text": "A student observed two substances: a shiny gray metal and a colorless gas. When these substances were combined, they formed a white powder that was no longer shiny or metallic. The white powder did not conduct electricity, unlike the original metal. Which statement best explains what happened?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred because the properties of the product are different from the properties of the reactants",
+                        "isCorrect": 1,
+                        "explanation": "The change in properties (loss of metallic luster, change in electrical conductivity) indicates atoms rearranged to form new substances with different properties"
+                    },
+                    {
+                        "text": "Only a physical change occurred because the substances just mixed together",
+                        "isCorrect": 0,
+                        "explanation": "This was not just mixing - the dramatic changes in properties indicate a chemical reaction where new substances formed"
+                    },
+                    {
+                        "text": "No reaction occurred because the substances are still there, just in a different form",
+                        "isCorrect": 0,
+                        "explanation": "The dramatic changes in properties show that the original substances changed into new substances through a chemical reaction"
+                    },
+                    {
+                        "text": "A physical change occurred because the shape of the substances changed",
+                        "isCorrect": 0,
+                        "explanation": "Changes in shape alone would be physical, but the changes in properties like conductivity indicate a chemical reaction occurred"
+                    }
+                ],
+                "funFact": "Many everyday items like aluminum foil and soda cans are made of metals that can undergo similar reactions with gases. When exposed to oxygen in air, these metals slowly form oxide coatings that protect the metal underneath from further reaction!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given descriptions of two substances before and after they interact, including changes in properties like flammability and magnetism, students will determine if a chemical reaction occurred by analyzing the changes in properties"
+        },
+        {
+            "question": {
+                "text": "A student performs an experiment with steel wool. Initially, the steel wool is attracted to a magnet and feels rough to touch. After heating the steel wool with a flame, it turns black, becomes brittle, and is less attracted to the magnet. Which property change best indicates that a chemical reaction has occurred?",
+                "options": [
+                    {
+                        "text": "The change in magnetic properties",
+                        "isCorrect": 0,
+                        "explanation": "While magnetic properties did change, this alone doesn't definitively prove a chemical reaction, as magnetic properties can sometimes change with temperature without chemical change."
+                    },
+                    {
+                        "text": "The change in color to black",
+                        "isCorrect": 1,
+                        "explanation": "The color change to black indicates iron has combined with oxygen to form iron oxide (rust), which is a new substance with different properties - a clear sign of a chemical reaction."
+                    },
+                    {
+                        "text": "The change in texture to brittle",
+                        "isCorrect": 0,
+                        "explanation": "Physical properties like texture can change without a chemical reaction occurring, so this alone doesn't prove a chemical change."
+                    },
+                    {
+                        "text": "The feeling of heat during the process",
+                        "isCorrect": 0,
+                        "explanation": "While heat is often involved in chemical reactions, feeling heat alone doesn't prove a chemical reaction occurred, as physical changes can also involve heat transfer."
+                    }
+                ],
+                "funFact": "The rusting of iron (like in steel wool) is actually a slow version of the same chemical reaction that occurs in this burning experiment. When iron rusts naturally, it combines with oxygen just like in the burning, but the reaction happens much more slowly because there's no added heat to speed it up!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a scenario about steel wool being burned, with data about its properties before and after burning. Students will identify which property changes indicate a chemical reaction has taken place"
+        },
+        {
+            "question": {
+                "text": "A student measures three properties of a white powder before and after heating it in a test tube. Here are the observations:\n\nBefore heating:\n- Density: 1.5 g/cm\u00b3\n- Odor: None\n- Flammability: Burns with yellow flame\n\nAfter heating:\n- Density: 2.8 g/cm\u00b3\n- Odor: Sharp, pungent smell\n- Flammability: Does not burn\n\nBased on these observations, what can be concluded about the transformation?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred because the atomic arrangement changed, resulting in different properties",
+                        "isCorrect": 1,
+                        "explanation": "The significant changes in density, odor, and flammability indicate that the atoms rearranged to form new substances with different properties, which is evidence of a chemical reaction"
+                    },
+                    {
+                        "text": "Only a physical change occurred because the powder remained solid throughout",
+                        "isCorrect": 0,
+                        "explanation": "The state of matter alone doesn't determine if a change is physical or chemical. The dramatic changes in properties indicate atomic rearrangement"
+                    },
+                    {
+                        "text": "No change occurred because the powder was still white after heating",
+                        "isCorrect": 0,
+                        "explanation": "Color is just one property. The significant changes in other properties clearly show that a transformation occurred"
+                    },
+                    {
+                        "text": "The changes were temporary and will reverse when the powder cools",
+                        "isCorrect": 0,
+                        "explanation": "The changes in fundamental properties like flammability indicate permanent chemical changes, not temporary physical changes that reverse with cooling"
+                    }
+                ],
+                "funFact": "The ability to test properties before and after reactions is crucial in forensic science! Crime scene investigators often use changes in substance properties to identify unknown materials and solve crimes."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Provide data about a substance's density, odor, and flammability before and after it undergoes a transformation. Students will analyze if the changes indicate atomic rearrangement or just physical changes"
+        },
+        {
+            "question": {
+                "text": "Consider two molecular arrangements:\n\nArrangement 1: H2O molecules get closer together when temperature decreases\nArrangement 2: H2 and O2 molecules combine to form H2O molecules\n\nWhich arrangement represents a chemical reaction?",
+                "options": [
+                    {
+                        "text": "Arrangement 1",
+                        "isCorrect": 0,
+                        "explanation": "This represents a physical change where water molecules move closer together when freezing, but no new substance is formed."
+                    },
+                    {
+                        "text": "Arrangement 2",
+                        "isCorrect": 1,
+                        "explanation": "This represents a chemical reaction where hydrogen and oxygen molecules combine to form water molecules, creating a new substance with different properties."
+                    },
+                    {
+                        "text": "Both arrangements",
+                        "isCorrect": 0,
+                        "explanation": "Only Arrangement 2 represents a chemical reaction where atoms rearrange to form new substances with different properties."
+                    },
+                    {
+                        "text": "Neither arrangement",
+                        "isCorrect": 0,
+                        "explanation": "Arrangement 2 clearly shows a chemical reaction where new substances are formed through atomic rearrangement."
+                    }
+                ],
+                "funFact": "The chemical reaction that forms water (H2O) from hydrogen (H2) and oxygen (O2) releases so much energy that the flame produced is hot enough to melt steel! This reaction is being studied as a potential clean energy source."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Show molecular diagrams of substances before and after interaction, with information about their properties. Students will determine which arrangement represents a chemical reaction based on property changes"
+        },
+        {
+            "question": {
+                "text": "A student notices that an iron nail left outside has turned reddish-brown and tests its properties. The original iron nail was attracted to magnets and would spark when heated. The reddish-brown substance is weakly magnetic and does not spark when heated. What can be concluded from these property changes?",
+                "options": [
+                    {
+                        "text": "A chemical reaction has occurred, forming iron oxide (rust) with different properties than iron",
+                        "isCorrect": 1,
+                        "explanation": "The significant changes in magnetic and flammability properties indicate that the iron atoms have rearranged with oxygen to form a new substance (rust) with different chemical properties."
+                    },
+                    {
+                        "text": "Only a physical change has occurred since the substance is still somewhat magnetic",
+                        "isCorrect": 0,
+                        "explanation": "While rust is weakly magnetic, the major changes in properties indicate a chemical change, not just a physical change. Physical changes don't create new substances with different properties."
+                    },
+                    {
+                        "text": "The iron has simply changed color but remains the same substance",
+                        "isCorrect": 0,
+                        "explanation": "The changes go beyond just color - the significant differences in magnetic strength and flammability show that a new substance has formed through a chemical reaction."
+                    },
+                    {
+                        "text": "The changes are temporary and the nail will return to normal iron over time",
+                        "isCorrect": 0,
+                        "explanation": "The formation of rust is a chemical reaction that creates a new substance. Without intervention, the rust will not spontaneously turn back into pure iron."
+                    }
+                ],
+                "funFact": "The rusting of iron costs the global economy over $2.5 trillion annually! This is why engineers develop rust-resistant materials and protective coatings for everything from bridges to ships."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare the properties of iron and rust, including magnetic behavior and flammability. Students will identify which differences indicate a chemical reaction has occurred versus a physical change"
+        },
+        {
+            "question": {
+                "text": "A chemist combines two substances and observes the following measurements and changes:\n- Total mass before: 25.0 grams\n- Total mass after: 25.0 grams\n- The mixture changes color from blue to green\n- The mixture starts bubbling\n- The temperature increases\n- The final substance has different properties than the starting substances\n\nWhat can be concluded from these observations?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred, and matter was conserved",
+                        "isCorrect": 1,
+                        "explanation": "The formation of new substances with different properties along with bubbling and temperature change indicates a chemical reaction. Equal masses before and after show conservation of matter."
+                    },
+                    {
+                        "text": "A chemical reaction occurred, but matter was lost",
+                        "isCorrect": 0,
+                        "explanation": "While the property changes indicate a chemical reaction, the equal masses before and after (25.0g) show that no matter was lost - it was conserved as atoms rearranged."
+                    },
+                    {
+                        "text": "Only a physical change occurred since mass stayed the same",
+                        "isCorrect": 0,
+                        "explanation": "Equal masses don't indicate the type of change. The new properties, bubbling, and temperature change suggest a chemical reaction, not just a physical change."
+                    },
+                    {
+                        "text": "No reaction occurred since the mass didn't change",
+                        "isCorrect": 0,
+                        "explanation": "Conservation of mass is expected in chemical reactions as atoms rearrange but aren't created or destroyed. The property changes clearly show a reaction occurred."
+                    }
+                ],
+                "funFact": "The Law of Conservation of Mass was first discovered by Antoine Lavoisier in the 1780s. He performed careful measurements showing that in sealed containers, the mass of reactants and products was always equal, helping establish modern chemistry!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present data about mass measurements before and after a reaction, along with property changes. Students will determine if conservation of matter is maintained while new substances form"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying a reaction where a colorless gas combines with a silver-colored metal. After the reaction, a white powder is formed. Which set of properties should be tested to confirm that a chemical reaction has occurred?",
+                "options": [
+                    {
+                        "text": "Density and melting point of all substances",
+                        "isCorrect": 1,
+                        "explanation": "Testing density and melting point would show if new substances were formed, as these properties change when atoms rearrange into new molecules during a chemical reaction."
+                    },
+                    {
+                        "text": "Only the color of the substances",
+                        "isCorrect": 0,
+                        "explanation": "While color change can indicate a chemical reaction, testing multiple properties provides stronger evidence that new substances formed."
+                    },
+                    {
+                        "text": "Temperature during the reaction only",
+                        "isCorrect": 0,
+                        "explanation": "Temperature change during a reaction doesn't confirm new substances formed. Properties of the final products need to be compared to initial substances."
+                    },
+                    {
+                        "text": "Mass of substances only",
+                        "isCorrect": 0,
+                        "explanation": "Mass stays constant in chemical reactions due to conservation of matter. It cannot confirm if new substances formed with different properties."
+                    }
+                ],
+                "funFact": "Scientists working in materials research often use sophisticated instruments like mass spectrometers that can detect changes in molecular structure by measuring the mass-to-charge ratio of ions, providing precise evidence of chemical reactions at the molecular level."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Show a chemical equation with property data for reactants and products. Students will analyze which properties must be tested to confirm the reaction occurred"
+        },
+        {
+            "question": {
+                "text": "A student mixes two clear solutions in a beaker. After mixing, the solution turns cloudy and a solid forms at the bottom. The student measures the following properties:\n\nBefore mixing:\nSolution 1: pH = 7, conducts electricity\nSolution 2: pH = 7, conducts electricity\n\nAfter mixing:\nFinal mixture: pH = 7, conducts electricity\n\nBased on these observations, what can be concluded about whether a chemical reaction occurred?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred because a solid formed, indicating atoms were rearranged into new substances",
+                        "isCorrect": 1,
+                        "explanation": "The formation of a solid precipitate from two clear solutions is evidence of atoms rearranging to form new substances with different properties, even though pH and conductivity remained unchanged"
+                    },
+                    {
+                        "text": "No chemical reaction occurred because the pH stayed the same",
+                        "isCorrect": 0,
+                        "explanation": "pH is just one property - changes in other properties like the formation of a solid indicate a chemical reaction occurred even if pH remained constant"
+                    },
+                    {
+                        "text": "No chemical reaction occurred because electrical conductivity stayed the same",
+                        "isCorrect": 0,
+                        "explanation": "Electrical conductivity is just one property - changes in other properties like the formation of a solid indicate a chemical reaction occurred even if conductivity remained constant"
+                    },
+                    {
+                        "text": "Not enough information to determine if a reaction occurred",
+                        "isCorrect": 0,
+                        "explanation": "The formation of a solid precipitate from two clear solutions provides clear evidence of a chemical reaction, even without other property changes"
+                    }
+                ],
+                "funFact": "This type of reaction where a solid forms when two solutions are mixed is called a precipitation reaction. These reactions are important in water treatment plants where they're used to remove dissolved metals and other contaminants from drinking water!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present data about the electrical conductivity and pH of solutions before and after mixing. Students will determine if the property changes indicate atomic rearrangement"
+        },
+        {
+            "question": {
+                "text": "When baking soda and vinegar are mixed together, several changes can be observed. Which of these observations provides the strongest evidence that a chemical reaction has occurred and a new substance has formed?",
+                "options": [
+                    {
+                        "text": "The mixture starts bubbling and fizzing",
+                        "isCorrect": 0,
+                        "explanation": "While bubbling and fizzing are noticeable changes, they alone don't conclusively prove new substance formation - they could just be physical changes."
+                    },
+                    {
+                        "text": "The mixture becomes colder than the original substances",
+                        "isCorrect": 0,
+                        "explanation": "Temperature changes can occur in both physical and chemical changes, so this alone isn't strong evidence of new substance formation."
+                    },
+                    {
+                        "text": "The resulting solution has different properties from both baking soda and vinegar - it no longer has vinegar's sour taste or reacts with acids like baking soda does",
+                        "isCorrect": 1,
+                        "explanation": "Changes in characteristic properties like taste and chemical reactivity provide strong evidence that the original substances have been transformed into new substances with different properties."
+                    },
+                    {
+                        "text": "The volume of the mixture is different from the sum of original volumes",
+                        "isCorrect": 0,
+                        "explanation": "Volume changes can occur in physical changes too, so this isn't conclusive evidence of new substance formation."
+                    }
+                ],
+                "funFact": "The bubbles produced when baking soda and vinegar react are made of carbon dioxide - the same gas that makes soda fizzy! This carbon dioxide forms when the carbonate ions in baking soda react with the acid in vinegar, creating a new gaseous substance."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe changes in multiple properties when baking soda and vinegar interact. Students will evaluate which observations provide evidence of new substance formation"
+        },
+        {
+            "question": {
+                "text": "A student mixes two solutions and observes the following changes:\n- Initial melting point of solution A: 0\u00b0C\n- Initial melting point of solution B: 5\u00b0C\n- Melting point of mixture: 12\u00b0C (higher than both initial solutions)\n- The mixture is less soluble in water than either initial solution\n- A color change occurs during mixing\n\nBased on these observations, what can be concluded about the interaction between the solutions?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred, forming new substances with different properties",
+                        "isCorrect": 1,
+                        "explanation": "The significant change in melting point (especially the increase above both initial values), decreased solubility, and color change indicate that new substances with different properties were formed through a chemical reaction"
+                    },
+                    {
+                        "text": "Only a physical change occurred since the solutions were mixed together",
+                        "isCorrect": 0,
+                        "explanation": "Physical changes don't result in new substances or significant property changes. The observed changes in properties indicate a chemical reaction occurred"
+                    },
+                    {
+                        "text": "The solutions simply dissolved in each other without any reaction",
+                        "isCorrect": 0,
+                        "explanation": "Simple dissolution would not cause such significant changes in properties like melting point and solubility"
+                    },
+                    {
+                        "text": "The changes are temporary and will reverse over time",
+                        "isCorrect": 0,
+                        "explanation": "Chemical reactions create new substances with permanently different properties, unlike temporary physical changes"
+                    }
+                ],
+                "funFact": "The melting point of a substance is so reliable for identifying chemical reactions that scientists often use it as a purity test - even a small amount of impurity or new substance can cause a noticeable change in melting point!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present experimental data about the melting point and solubility of substances before and after mixing. Students will analyze if the changes suggest new substance formation or just phase changes"
+        },
+        {
+            "question": {
+                "text": "A student conducted experiments on a piece of iron metal and observed that it was attracted to a magnet and could catch fire when exposed to a flame. After leaving the iron metal in water for several days, the student noticed that a reddish-brown substance had formed. When testing this new substance, the student found that it was not attracted to a magnet and did not catch fire. Based on these observations, what can be concluded?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred, forming a new substance with different properties",
+                        "isCorrect": 1,
+                        "explanation": "The changes in both magnetic and flammable properties indicate that the iron atoms rearranged with oxygen to form iron oxide (rust), which has different properties than iron metal"
+                    },
+                    {
+                        "text": "Only a physical change occurred since the iron just changed color",
+                        "isCorrect": 0,
+                        "explanation": "The change in color along with changes in magnetic and flammable properties indicates a chemical change, not just a physical change"
+                    },
+                    {
+                        "text": "No reaction occurred since the iron is still present",
+                        "isCorrect": 0,
+                        "explanation": "While iron atoms are still present, they have combined with oxygen to form a new substance with different properties, indicating a chemical reaction"
+                    },
+                    {
+                        "text": "The iron temporarily lost its properties but will regain them when dry",
+                        "isCorrect": 0,
+                        "explanation": "The changes in properties are permanent because a new substance (iron oxide) was formed through a chemical reaction, not just from getting wet"
+                    }
+                ],
+                "funFact": "The rusting of iron costs the global economy over $2.5 trillion annually, which is why scientists and engineers work hard to develop rust-resistant materials and protective coatings!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given data about a substance's magnetism and flammability before and after a reaction, analyze the changes to determine if a chemical reaction occurred"
+        },
+        {
+            "question": {
+                "text": "A student performs an experiment with steel wool. Initially, the steel wool is attracted to a magnet and can conduct electricity. After heating the steel wool in air for several minutes, the student observes that the resulting substance is reddish-brown, no longer conducts electricity, and is less magnetic. What best explains these changes in properties?",
+                "options": [
+                    {
+                        "text": "The iron atoms in steel wool have chemically combined with oxygen atoms to form iron oxide, resulting in different properties",
+                        "isCorrect": 1,
+                        "explanation": "When iron reacts with oxygen, it forms iron oxide through a chemical reaction. The new substance has different properties because the atoms have rearranged into a new configuration."
+                    },
+                    {
+                        "text": "The iron atoms have simply changed their physical arrangement while remaining the same substance",
+                        "isCorrect": 0,
+                        "explanation": "A physical change would not result in such dramatic changes in properties. The changes observed indicate a chemical reaction has occurred."
+                    },
+                    {
+                        "text": "The heat has temporarily changed the properties of the iron, which will return to normal when cooled",
+                        "isCorrect": 0,
+                        "explanation": "The changes are permanent and not reversible by cooling, indicating a chemical reaction rather than a temporary physical change."
+                    },
+                    {
+                        "text": "The steel wool has melted and reformed into a different shape of the same substance",
+                        "isCorrect": 0,
+                        "explanation": "Melting is a physical change that would not result in changes to properties like magnetism and conductivity. The observed changes indicate a chemical reaction."
+                    }
+                ],
+                "funFact": "The rusting of iron is an exothermic reaction, meaning it releases heat energy. In fact, large piles of rusting iron can become hot enough to cause fires - this is why wet steel wool or iron filings should be disposed of carefully!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the physical properties of iron and iron oxide to analyze how the properties change when steel wool undergoes a chemical reaction with oxygen"
+        },
+        {
+            "question": {
+                "text": "A student conducted an experiment where they mixed 5g of baking soda with 3g of vinegar in a sealed container. After the reaction was complete, they measured the total mass of the container and its contents. What would be the expected total mass of the container and its contents after the reaction?",
+                "options": [
+                    {
+                        "text": "8g",
+                        "isCorrect": 1,
+                        "explanation": "According to the law of conservation of matter, the total mass of reactants equals the total mass of products in a chemical reaction. So 5g + 3g = 8g remains constant."
+                    },
+                    {
+                        "text": "Less than 8g",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because mass cannot be destroyed in a chemical reaction, even if bubbles form or gas is produced in a sealed container."
+                    },
+                    {
+                        "text": "More than 8g",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because mass cannot be created in a chemical reaction. The total mass must stay the same as the initial mass of reactants."
+                    },
+                    {
+                        "text": "0g",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because matter cannot disappear completely. The atoms are only rearranged in a chemical reaction, not destroyed."
+                    }
+                ],
+                "funFact": "The law of conservation of mass was first discovered by Antoine Lavoisier in the late 18th century. He used very precise scales to show that even in reactions that produce gases, the total mass remains constant if the container is sealed!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze experimental data showing the mass measurements before and after a chemical reaction to explain how the law of conservation of matter applies"
+        },
+        {
+            "question": {
+                "text": "In the combustion of propane (C3H8), the gas combines with oxygen to form carbon dioxide and water vapor. How does this rearrangement of atoms affect the properties of the substances involved?",
+                "options": [
+                    {
+                        "text": "The total number of atoms changes, resulting in new properties",
+                        "isCorrect": 0,
+                        "explanation": "The Law of Conservation of Matter states that atoms cannot be created or destroyed in a chemical reaction - they only rearrange."
+                    },
+                    {
+                        "text": "The atoms maintain their original arrangement but display new properties",
+                        "isCorrect": 0,
+                        "explanation": "In a chemical reaction, the atoms must rearrange to form new substances with new properties - they cannot maintain their original arrangement."
+                    },
+                    {
+                        "text": "The atoms rearrange to form new molecules with different properties while the total number of atoms remains constant",
+                        "isCorrect": 1,
+                        "explanation": "When propane combusts, its atoms rearrange with oxygen to form CO2 and H2O, creating products with different properties while conserving the total number of atoms."
+                    },
+                    {
+                        "text": "The properties change temporarily but return to their original state after the reaction",
+                        "isCorrect": 0,
+                        "explanation": "Chemical reactions create new substances with permanently different properties - the changes are not temporary."
+                    }
+                ],
+                "funFact": "The human body undergoes countless chemical reactions every second, with atoms rearranging to form new molecules with different properties. For example, during cellular respiration, glucose molecules are broken down and their atoms rearrange with oxygen to form carbon dioxide and water, releasing energy for our cells!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine data about the properties of propane and its combustion products (CO2 and H2O) to determine how the molecular arrangement affects substance properties"
+        },
+        {
+            "question": {
+                "text": "When propane (C3H8) burns in a gas grill, it combines with oxygen (O2) to form carbon dioxide (CO2) and water (H2O). How does this chemical reaction demonstrate the rearrangement of atoms leading to new substance formation?",
+                "options": [
+                    {
+                        "text": "The atoms from propane and oxygen break apart and recombine to form new substances with different properties, while maintaining the same total number of atoms",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how atoms rearrange in this combustion reaction while following the Law of Conservation of Matter"
+                    },
+                    {
+                        "text": "The propane molecules simply change their physical state from gas to liquid without any atomic rearrangement",
+                        "isCorrect": 0,
+                        "explanation": "This describes a physical change, not the chemical reaction occurring during combustion"
+                    },
+                    {
+                        "text": "New atoms are created during the burning process to form the carbon dioxide and water molecules",
+                        "isCorrect": 0,
+                        "explanation": "Atoms cannot be created in chemical reactions - they only rearrange to form new substances"
+                    },
+                    {
+                        "text": "The oxygen atoms disappear completely during the reaction, leaving only carbon and hydrogen atoms",
+                        "isCorrect": 0,
+                        "explanation": "Atoms cannot disappear in chemical reactions - they are conserved and rearranged into new molecules"
+                    }
+                ],
+                "funFact": "The distinctive smell when using a gas grill isn't actually from propane - pure propane is odorless! Gas companies add a chemical called mercaptan to give propane its characteristic smell, making gas leaks easier to detect."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare property data for reactants and products in a combustion reaction to explain how the rearrangement of atoms leads to new substance formation"
+        },
+        {
+            "question": {
+                "text": "A student heats a sample of sugar and observes the following changes in properties:\n\nBefore heating:\n- White crystalline solid\n- Sweet taste\n- Dissolves in water\n\nAfter heating:\n- Black solid\n- Bitter taste\n- Does not dissolve in water\n\nWhat type of change occurred when the sugar was heated?",
+                "options": [
+                    {
+                        "text": "A physical change, because the sugar only changed its appearance",
+                        "isCorrect": 0,
+                        "explanation": "The change in multiple properties (color, taste, solubility) indicates new substances were formed, which is characteristic of a chemical change, not just a physical change."
+                    },
+                    {
+                        "text": "A chemical change, because new substances with different properties were formed",
+                        "isCorrect": 1,
+                        "explanation": "The significant changes in multiple properties (color, taste, solubility) indicate that the sugar molecules broke down and rearranged to form new substances with different properties, which is a chemical change."
+                    },
+                    {
+                        "text": "A physical change, because the sugar can be changed back to its original form",
+                        "isCorrect": 0,
+                        "explanation": "Once sugar is heated and decomposes, it cannot be changed back to its original form. The formation of new substances with permanently different properties indicates a chemical change."
+                    },
+                    {
+                        "text": "A physical change, because no new elements were added during heating",
+                        "isCorrect": 0,
+                        "explanation": "Chemical changes can occur without adding new elements. The rearrangement of existing atoms to form new substances with different properties is what makes this a chemical change."
+                    }
+                ],
+                "funFact": "When sugar (C\u2081\u2082H\u2082\u2082O\u2081\u2081) is heated, it undergoes a process called caramelization, where the molecules break down to form carbon and water vapor. This is why burned sugar turns black - the carbon is left behind!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine property measurements of substances before and after heating to differentiate between melting (physical) and decomposition (chemical) changes"
+        },
+        {
+            "question": {
+                "text": "When TNT (trinitrotoluene) undergoes a chemical breakdown due to high energy, several changes occur. Which statement correctly explains how the molecular structure change relates to the changes in properties?",
+                "options": [
+                    {
+                        "text": "The atoms in TNT rearrange to form new molecules with different properties, while the total number of atoms remains constant",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how TNT's molecular structure changes during breakdown, following the Law of Conservation of Matter while producing products with new properties"
+                    },
+                    {
+                        "text": "The TNT molecules simply break apart into smaller pieces but maintain the same properties as the original TNT",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because when molecules rearrange in a chemical reaction, the new substances have different properties than the original substance"
+                    },
+                    {
+                        "text": "New atoms are created during the breakdown process, leading to new properties in the products",
+                        "isCorrect": 0,
+                        "explanation": "This violates the Law of Conservation of Matter - atoms cannot be created or destroyed in a chemical reaction"
+                    },
+                    {
+                        "text": "The TNT molecules undergo a physical change only, changing state but not forming new substances",
+                        "isCorrect": 0,
+                        "explanation": "The breakdown of TNT is a chemical reaction, not a physical change, as new substances with different properties are formed"
+                    }
+                ],
+                "funFact": "TNT was first prepared in 1863 by German chemist Julius Wilbrand, who originally intended it to be used as a yellow dye! Its explosive properties weren't discovered until later."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given data about characteristic properties of TNT and its breakdown products, analyze how the molecular structure changes relate to property changes"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying the reaction between zinc metal and hydrochloric acid to produce hydrogen gas and zinc chloride. When they add a small amount of copper metal to the reaction mixture, they observe that the reaction occurs much faster but the copper remains unchanged at the end. What role does copper play in this reaction?",
+                "options": [
+                    {
+                        "text": "Catalyst - speeds up the reaction without being consumed",
+                        "isCorrect": 1,
+                        "explanation": "Copper acts as a catalyst by providing a surface that helps the reactants interact more efficiently, speeding up the reaction without being used up or changed in the process."
+                    },
+                    {
+                        "text": "Reactant - gets used up to form new products",
+                        "isCorrect": 0,
+                        "explanation": "While copper is added to the reaction mixture, it does not get consumed or form new products. It remains unchanged after the reaction is complete."
+                    },
+                    {
+                        "text": "Product - forms as a result of the reaction",
+                        "isCorrect": 0,
+                        "explanation": "Copper is not produced during the reaction. The products are hydrogen gas and zinc chloride, while the copper remains in its original form."
+                    },
+                    {
+                        "text": "Inhibitor - slows down the reaction rate",
+                        "isCorrect": 0,
+                        "explanation": "The observation shows that the reaction occurs faster when copper is added, not slower. An inhibitor would decrease the reaction rate."
+                    }
+                ],
+                "funFact": "Catalysts are used extensively in cars' catalytic converters to help reduce harmful emissions by speeding up the conversion of toxic gases into less harmful substances. One catalytic converter can process up to 98% of harmful emissions!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare property data for substances with and without a catalyst present to analyze how reaction rates relate to new substance formation"
+        },
+        {
+            "question": {
+                "text": "When steel wool is exposed to air and ignited, it undergoes a chemical reaction with oxygen. What pattern in the properties of the steel wool before and after the reaction helps prove that a chemical reaction has occurred?",
+                "options": [
+                    {
+                        "text": "The steel wool becomes lighter but less flammable after reacting with oxygen",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. While steel wool does become less flammable after reacting with oxygen, it actually becomes heavier, not lighter, due to the addition of oxygen atoms forming iron oxide."
+                    },
+                    {
+                        "text": "The steel wool becomes heavier and changes from being flammable to non-flammable after combining with oxygen",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The changes in both mass and flammability indicate a rearrangement of atoms forming a new substance (iron oxide) with different properties than the original steel wool. The added oxygen atoms increase the mass."
+                    },
+                    {
+                        "text": "The steel wool temporarily changes color while burning but returns to its original properties",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. A temporary change in color without permanent property changes would indicate a physical change, not a chemical reaction."
+                    },
+                    {
+                        "text": "The steel wool maintains the same chemical properties but changes its physical appearance",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. In a chemical reaction, the chemical properties change due to atomic rearrangement, not just the physical appearance."
+                    }
+                ],
+                "funFact": "The same chemical reaction that causes steel wool to burn in oxygen is responsible for rust formation on iron objects, just at a much slower rate. This process, called oxidation, is why bridges and other steel structures need protective coatings to prevent rust!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze patterns in physical and chemical property changes when steel wool reacts with oxygen to explain the relationship between atomic structure and macroscopic properties"
+        },
+        {
+            "question": {
+                "text": "A student conducts an experiment with copper wire and zinc powder. Initially, the copper wire conducts electricity and has a reddish color, while the zinc powder is gray and flammable. When these substances are mixed and heated, the resulting substance is brass-colored, conducts electricity, but is not flammable. Based on these observations, what can be concluded about the interaction between copper and zinc?",
+                "options": [
+                    {
+                        "text": "A chemical reaction occurred, forming a new substance with different properties",
+                        "isCorrect": 0,
+                        "explanation": "While properties like color and flammability changed, brass formation is not a chemical reaction. In this process, copper and zinc atoms intermix but maintain their chemical identities without forming new chemical bonds."
+                    },
+                    {
+                        "text": "A physical change occurred where the metals mixed at the atomic level while maintaining their chemical identities",
+                        "isCorrect": 1,
+                        "explanation": "Brass is an alloy formed through a physical process where copper and zinc atoms intermix in a solid solution. The metals retain their chemical identities even though some physical properties of the mixture differ from the original metals."
+                    },
+                    {
+                        "text": "No change occurred since the substances were just mixed together",
+                        "isCorrect": 0,
+                        "explanation": "A physical change did occur through heating and mixing. The atoms of copper and zinc rearranged at the microscopic level to form an alloy with different physical properties than either metal alone."
+                    },
+                    {
+                        "text": "The substances decomposed into simpler elements",
+                        "isCorrect": 0,
+                        "explanation": "Rather than decomposing into simpler elements, copper and zinc combined physically to form the more complex structure of brass while maintaining their elemental identities."
+                    }
+                ],
+                "funFact": "Brass, an alloy of copper and zinc, has been used by humans for thousands of years. The Romans used brass extensively and even made brass coins during the 1st century BC!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze experimental data showing changes in flammability and electrical conductivity to determine if a new substance was formed during a reaction"
+        },
+        {
+            "question": {
+                "text": "A scientist mixed two colorless liquids in a beaker and observed the following changes:\n- Before mixing: Both liquids had no odor\n- After mixing: Strong pungent odor\n- Before mixing: Density of liquid 1 = 1.2 g/mL, liquid 2 = 0.9 g/mL\n- After mixing: Density of resulting solution = 1.5 g/mL\n\nDid a chemical reaction occur?",
+                "options": [
+                    {
+                        "text": "Yes, because both the odor and density changed significantly after mixing",
+                        "isCorrect": 1,
+                        "explanation": "The significant changes in both properties indicate that the original substances were transformed into new substances with different properties. The density increasing to 1.5 g/mL, which is higher than both original liquids, is particularly strong evidence of a chemical reaction, as a simple physical mixture would typically have a density between the two original values (0.9-1.2 g/mL)."
+                    },
+                    {
+                        "text": "No, because mixing two liquids is always a physical change",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - mixing can result in either physical or chemical changes. The type of change depends on whether new substances with different properties are formed"
+                    },
+                    {
+                        "text": "No, because only the density changed",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - both the odor and density changed. The appearance of a new odor suggests new substances were formed"
+                    },
+                    {
+                        "text": "Cannot determine without seeing a color change",
+                        "isCorrect": 0,
+                        "explanation": "A color change is not required to identify a chemical reaction. Changes in other properties like odor and density can be sufficient evidence"
+                    }
+                ],
+                "funFact": "Scientists often use changes in density to detect chemical reactions in industrial processes. For example, the density of gasoline is carefully monitored during its production to ensure the proper chemical reactions have occurred during the refining process."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given data about odor and density measurements before and after mixing two substances, determine if the changes indicate a chemical reaction occurred"
+        },
+        {
+            "question": {
+                "text": "A student observes sugar dissolving in water and ice melting into liquid water. Which statement correctly compares these two processes?",
+                "options": [
+                    {
+                        "text": "Both sugar dissolving and ice melting are physical changes because no new substances are formed in either process.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Both processes are physical changes. When sugar dissolves, the sugar molecules remain intact but become surrounded by water molecules. Similarly, when ice melts, the water molecules remain the same but rearrange from a rigid structure to a fluid state."
+                    },
+                    {
+                        "text": "Sugar dissolving is a chemical change while ice melting is a physical change.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Sugar dissolving is a physical change, not a chemical change. The sugar molecules don't break down or form new substances; they simply disperse throughout the water while remaining intact."
+                    },
+                    {
+                        "text": "Both sugar dissolving and ice melting are chemical changes because the substances look different afterward.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. A change in appearance alone doesn't indicate a chemical change. Both sugar dissolving and ice melting are physical changes as no new substances form in either process."
+                    },
+                    {
+                        "text": "Sugar dissolving is a physical change while ice melting is a chemical change.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While sugar dissolving is indeed a physical change, ice melting is also a physical change, not a chemical change. In both cases, the molecular structure of the substances remains the same."
+                    }
+                ],
+                "funFact": "When sugar dissolves in water, it's an endothermic process that absorbs heat energy from the surroundings, which is why a sugar solution feels cool when dissolving. This happens because energy is needed to overcome the attractions between sugar molecules, though no chemical bonds are broken in the process."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze patterns in property changes when substances dissolve versus undergo phase changes to differentiate between chemical and physical changes"
+        }
+    ]
+}

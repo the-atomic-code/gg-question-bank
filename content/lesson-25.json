@@ -1,0 +1,1091 @@
+{
+    "id": "lesson-25",
+    "title": "Potential vs. Kinetic Energy",
+    "standard": "MS-PS3-5",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "In a bow and arrow system, what is the correct sequence of energy transformations that occurs when an archer draws and releases an arrow?",
+                "options": [
+                    {
+                        "text": "Kinetic energy (drawing) \u2192 Potential energy (bow bend) \u2192 Kinetic energy (arrow flight)",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The archer uses kinetic energy to draw the bow, which is stored as potential energy in the bent bow, and finally converts to kinetic energy when the arrow flies."
+                    },
+                    {
+                        "text": "Potential energy (drawing) \u2192 Kinetic energy (bow bend) \u2192 Potential energy (arrow flight)",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. The initial drawing requires kinetic energy, not potential energy, and the flying arrow has kinetic energy, not potential energy."
+                    },
+                    {
+                        "text": "Kinetic energy (drawing) \u2192 Kinetic energy (bow bend) \u2192 Kinetic energy (arrow flight)",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While drawing and arrow flight involve kinetic energy, the bent bow stores potential energy, not kinetic energy."
+                    },
+                    {
+                        "text": "Potential energy (drawing) \u2192 Potential energy (bow bend) \u2192 Kinetic energy (arrow flight)",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. The initial drawing requires kinetic energy from the archer's muscles, not potential energy."
+                    }
+                ],
+                "funFact": "The earliest evidence of bow and arrow usage dates back over 64,000 years ago! Ancient hunters used this ingenious system to convert their muscle energy into high-speed projectiles, making it one of humanity's first technologies for energy transformation."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about energy conversion in a bow and arrow system - identifying the sequence of energy transformations from potential to kinetic"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes kinetic energy?",
+                "options": [
+                    {
+                        "text": "Energy associated with the motion of an object",
+                        "isCorrect": 1,
+                        "explanation": "Kinetic energy is defined as the energy that an object has due to its motion. The faster an object moves, the more kinetic energy it has."
+                    },
+                    {
+                        "text": "Energy stored in an object due to its position",
+                        "isCorrect": 0,
+                        "explanation": "This describes potential energy, not kinetic energy. Potential energy is stored energy based on an object's position or configuration."
+                    },
+                    {
+                        "text": "Energy that gets destroyed when an object stops moving",
+                        "isCorrect": 0,
+                        "explanation": "Energy is never destroyed - it is transformed from one form to another. When an object stops moving, its kinetic energy is converted to other forms like heat or sound."
+                    },
+                    {
+                        "text": "Energy that only very large objects possess",
+                        "isCorrect": 0,
+                        "explanation": "All moving objects have kinetic energy, regardless of their size. The amount of kinetic energy depends on both mass and velocity."
+                    }
+                ],
+                "funFact": "A moving car has an incredible amount of kinetic energy - a typical 2000 kg car traveling at highway speed (about 70 mph) has enough kinetic energy to light up a household LED bulb continuously for over 9 hours if that energy could be perfectly converted to electricity!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the definition of kinetic energy as energy associated with motion of an object"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes potential energy?",
+                "options": [
+                    {
+                        "text": "Energy stored in an object due to its position",
+                        "isCorrect": 1,
+                        "explanation": "Potential energy is the energy stored in an object based on its position. For example, a ball at the top of a hill has potential energy due to its height."
+                    },
+                    {
+                        "text": "Energy produced when objects collide",
+                        "isCorrect": 0,
+                        "explanation": "This describes energy transfer during collisions, not potential energy. When objects collide, kinetic energy may be transferred between objects or converted to other forms."
+                    },
+                    {
+                        "text": "Energy that only exists in moving objects",
+                        "isCorrect": 0,
+                        "explanation": "This describes kinetic energy, which is energy of motion. Potential energy exists in stationary objects based on their position."
+                    },
+                    {
+                        "text": "Energy that disappears when objects stop moving",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot disappear - it is conserved but can be converted between different forms like potential and kinetic energy."
+                    }
+                ],
+                "funFact": "The gravitational potential energy of a 1-kilogram object on Jupiter would be about 2.4 times greater than on Earth at the same height, due to Jupiter's stronger gravitational field. This is why objects would fall much faster on Jupiter!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the definition of potential energy as energy stored in an object due to its position"
+        },
+        {
+            "question": {
+                "text": "A scientist wants to maximize the potential energy of a book on a shelf. Which combination of changes would result in the greatest increase in potential energy?",
+                "options": [
+                    {
+                        "text": "Place the book higher on the shelf and add more pages to increase its mass",
+                        "isCorrect": 1,
+                        "explanation": "Both height and mass affect potential energy. Increasing both factors will result in the maximum increase in potential energy."
+                    },
+                    {
+                        "text": "Place the book higher on the shelf but keep the same mass",
+                        "isCorrect": 0,
+                        "explanation": "While increasing height increases potential energy, keeping the same mass doesn't maximize the potential energy as much as increasing both factors would."
+                    },
+                    {
+                        "text": "Keep the book at the same height but increase its mass",
+                        "isCorrect": 0,
+                        "explanation": "While increasing mass increases potential energy, keeping the same height doesn't maximize the potential energy as much as increasing both factors would."
+                    },
+                    {
+                        "text": "Keep both the height and mass the same",
+                        "isCorrect": 0,
+                        "explanation": "Keeping both factors the same would not increase potential energy at all."
+                    }
+                ],
+                "funFact": "The concept of potential energy is crucial in hydroelectric power generation. Water stored in dams has gravitational potential energy due to its height and mass, which is converted to electrical energy as it flows down through turbines."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about factors that affect potential energy - identifying both height/position and mass as key variables"
+        },
+        {
+            "question": {
+                "text": "When a bow is drawn and an arrow is released, several energy transfers occur. Which of the following is evidence that energy has been transferred during this process?",
+                "options": [
+                    {
+                        "text": "The bow string becomes slightly warm after releasing the arrow",
+                        "isCorrect": 1,
+                        "explanation": "The warmth in the bow string is evidence of energy transfer, as some of the initial potential energy is converted to thermal energy due to friction."
+                    },
+                    {
+                        "text": "The color of the bow changes when it is drawn back",
+                        "isCorrect": 0,
+                        "explanation": "The color of the bow does not change during the process and is not evidence of energy transfer."
+                    },
+                    {
+                        "text": "The mass of the arrow decreases during flight",
+                        "isCorrect": 0,
+                        "explanation": "The mass of the arrow remains constant throughout its flight. Changes in mass are not related to energy transfer in this case."
+                    },
+                    {
+                        "text": "The bow becomes lighter after releasing the arrow",
+                        "isCorrect": 0,
+                        "explanation": "The weight of the bow remains constant throughout the process. Changes in weight are not evidence of energy transfer."
+                    }
+                ],
+                "funFact": "The fastest recorded speed of an arrow shot from a compound bow is 329.97 feet per second (about 225 mph), achieved by Patricia Gonsalves in 2018. At these extreme speeds, the friction with air can actually cause the arrow's temperature to rise significantly!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about evidence of energy transfer - identifying observable changes like motion, sound, or heat"
+        },
+        {
+            "question": {
+                "text": "Which formula correctly represents the kinetic energy (KE) of a moving object?",
+                "options": [
+                    {
+                        "text": "KE = \u00bd \u00d7 m \u00d7 v\u00b2",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct formula for kinetic energy, where m is mass and v is velocity. The equation shows that kinetic energy depends on both mass and velocity squared."
+                    },
+                    {
+                        "text": "KE = m \u00d7 v\u00b2",
+                        "isCorrect": 0,
+                        "explanation": "This formula is incorrect because it's missing the factor of \u00bd. Without this factor, the calculated kinetic energy would be twice the actual value."
+                    },
+                    {
+                        "text": "KE = \u00bd \u00d7 m \u00d7 v",
+                        "isCorrect": 0,
+                        "explanation": "This formula is incorrect because velocity should be squared. The relationship between kinetic energy and velocity is not linear but quadratic."
+                    },
+                    {
+                        "text": "KE = m \u00d7 v",
+                        "isCorrect": 0,
+                        "explanation": "This formula is incorrect as it's missing both the factor of \u00bd and the square of velocity. This would give a linear relationship with velocity, which is not accurate."
+                    }
+                ],
+                "funFact": "A car traveling at 60 mph has four times the kinetic energy of the same car traveling at 30 mph. This is because doubling the velocity quadruples the kinetic energy due to the velocity squared term in the formula!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the formula for calculating kinetic energy - identifying KE = 1\u20442 \u00d7 mass \u00d7 velocity\u00b2"
+        },
+        {
+            "question": {
+                "text": "A roller coaster cart starts at the top of a hill, then travels down and goes through a loop. Which statement best describes the energy transformations during this motion?",
+                "options": [
+                    {
+                        "text": "The potential energy at the top of the hill is converted to kinetic energy as the cart moves down, allowing it to complete the loop",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because gravitational potential energy due to height is converted to kinetic energy (motion) as the cart descends, following the law of energy conservation"
+                    },
+                    {
+                        "text": "The kinetic energy at the top of the hill is converted to potential energy as the cart moves down the track",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because at the top of the hill, the cart has maximum potential energy, not kinetic energy, and energy converts from potential to kinetic as it descends"
+                    },
+                    {
+                        "text": "The energy remains constant throughout the ride with no conversions between potential and kinetic energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because energy constantly converts between potential and kinetic forms throughout the ride as the cart's height and speed change"
+                    },
+                    {
+                        "text": "The cart gains new energy from the track to complete the loop",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the energy for completing the loop comes from the initial potential energy at the top of the hill, not from new energy being added by the track"
+                    }
+                ],
+                "funFact": "The world's tallest roller coaster, Kingda Ka at Six Flags Great Adventure, stands at 456 feet (139 meters) tall - that's a lot of potential energy waiting to be converted to kinetic energy during the thrilling descent!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about real-world applications where potential energy is converted to kinetic energy"
+        },
+        {
+            "question": {
+                "text": "A ball is dropped from different heights onto a concrete floor. At which height will the ball have the greatest potential energy just before it is released?",
+                "options": [
+                    {
+                        "text": "2 meters",
+                        "isCorrect": 0,
+                        "explanation": "While a ball at 2 meters has significant potential energy, it's not the maximum height given in the options."
+                    },
+                    {
+                        "text": "5 meters",
+                        "isCorrect": 1,
+                        "explanation": "The greatest height provides the greatest potential energy due to gravity. At 5 meters, the ball has more stored energy than at any lower height."
+                    },
+                    {
+                        "text": "1 meter",
+                        "isCorrect": 0,
+                        "explanation": "A ball at 1 meter has some potential energy, but less than it would have at greater heights."
+                    },
+                    {
+                        "text": "3 meters",
+                        "isCorrect": 0,
+                        "explanation": "While 3 meters gives the ball more potential energy than 1 or 2 meters, it's still not the maximum height option available."
+                    }
+                ],
+                "funFact": "The world's tallest drop ride, located at Six Flags Great America, drops riders from a height of 456 feet (139 meters). At the top, riders experience maximum gravitational potential energy before it converts to thrilling kinetic energy during the fall!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between height and potential energy in gravitational systems"
+        },
+        {
+            "question": {
+                "text": "A skateboarder starts at rest at the top of a ramp and rides down. What happens to the energy as the skateboarder moves down the ramp?",
+                "options": [
+                    {
+                        "text": "The potential energy is converted to kinetic energy as the skateboarder's speed increases",
+                        "isCorrect": 1,
+                        "explanation": "As the skateboarder moves down, gravitational potential energy decreases while kinetic energy increases, demonstrating energy transfer."
+                    },
+                    {
+                        "text": "Energy is lost completely as the skateboarder moves down",
+                        "isCorrect": 0,
+                        "explanation": "Energy is not lost but rather converted from one form to another following the law of conservation of energy."
+                    },
+                    {
+                        "text": "The kinetic energy remains constant throughout the motion",
+                        "isCorrect": 0,
+                        "explanation": "Kinetic energy increases as the skateboarder gains speed moving down the ramp, it does not stay constant."
+                    },
+                    {
+                        "text": "New energy is created as the skateboarder moves down",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot be created or destroyed, only converted from one form to another."
+                    }
+                ],
+                "funFact": "Professional skateboarders can reach speeds of up to 60 mph (97 km/h) when riding down steep ramps, converting a large amount of potential energy into kinetic energy. Some of this energy is also converted to heat and sound energy due to friction and air resistance."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about energy transfer when an object's motion changes - identifying that energy must be transferred to or from the object"
+        },
+        {
+            "question": {
+                "text": "When a rollercoaster car reaches the bottom of a steep drop, what observable evidence indicates that potential energy has been converted to kinetic energy?",
+                "options": [
+                    {
+                        "text": "The car moves much faster and makes more noise",
+                        "isCorrect": 1,
+                        "explanation": "The increased speed and sound at the bottom demonstrate the conversion of potential energy to kinetic energy, showing up as motion energy and sound energy."
+                    },
+                    {
+                        "text": "The car gets heavier",
+                        "isCorrect": 0,
+                        "explanation": "The mass of the car remains constant throughout the ride. Changes in energy do not affect the object's mass."
+                    },
+                    {
+                        "text": "The track becomes warmer",
+                        "isCorrect": 0,
+                        "explanation": "While some energy is converted to heat through friction, this is not the primary or most observable evidence of the energy conversion at that moment."
+                    },
+                    {
+                        "text": "The car glows in the dark",
+                        "isCorrect": 0,
+                        "explanation": "Energy conversion in a rollercoaster does not produce visible light. This is a misconception about energy transformation."
+                    }
+                ],
+                "funFact": "The world's tallest roller coaster, Kingda Ka at Six Flags Great Adventure, stands 456 feet tall. At its peak, riders have enormous potential energy which converts to kinetic energy during the descent. The coaster actually reaches its top speed of 128 mph during its initial hydraulic launch rather than the descent."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about evidence of energy conversion in mechanical systems - identifying observable changes in motion, temperature, or sound"
+        },
+        {
+            "question": {
+                "text": "A car's speed increases from 30 mph to 60 mph. By what factor does its kinetic energy increase?",
+                "options": [
+                    {
+                        "text": "2 times",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because kinetic energy is proportional to velocity squared (v\u00b2). When speed doubles, KE increases by a factor of 4, not 2."
+                    },
+                    {
+                        "text": "4 times",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because kinetic energy is proportional to velocity squared (v\u00b2). When speed doubles (60/30 = 2), KE increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "8 times",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While kinetic energy increases quadratically with velocity (proportional to v\u00b2), doubling the speed results in a factor of 4 increase, not 8."
+                    },
+                    {
+                        "text": "16 times",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The increase in kinetic energy when speed doubles is proportional to the square of the velocity ratio (2\u00b2), which equals 4, not 16."
+                    }
+                ],
+                "funFact": "This squared relationship between speed and kinetic energy is why highway crashes at higher speeds are so much more devastating - a collision at 60 mph has four times the energy of a collision at 30 mph, making safety features like crumple zones critically important in modern vehicles."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between velocity and kinetic energy - identifying that kinetic energy is proportional to velocity squared"
+        },
+        {
+            "question": {
+                "text": "A car of mass 1000 kg is traveling at a constant speed. If the mass of the car is doubled to 2000 kg while maintaining the same speed, how will the kinetic energy of the car change?",
+                "options": [
+                    {
+                        "text": "The kinetic energy will double",
+                        "isCorrect": 1,
+                        "explanation": "Kinetic energy is directly proportional to mass. When mass doubles and velocity remains constant, the kinetic energy doubles."
+                    },
+                    {
+                        "text": "The kinetic energy will quadruple",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While kinetic energy is proportional to velocity squared, it is only directly proportional to mass. Doubling mass only doubles kinetic energy."
+                    },
+                    {
+                        "text": "The kinetic energy will remain the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Kinetic energy depends on mass, so changing mass while keeping velocity constant will change kinetic energy."
+                    },
+                    {
+                        "text": "The kinetic energy will halve",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Increasing mass increases kinetic energy. Since kinetic energy is directly proportional to mass, doubling mass doubles kinetic energy."
+                    }
+                ],
+                "funFact": "Formula 1 race cars actually try to minimize their mass while maintaining high speeds. Despite their powerful engines, they typically weigh only about 795 kg - less than half of a regular car! This lower mass means they require less force to accelerate, allowing them to reach incredible speeds more efficiently."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between mass and kinetic energy - identifying that kinetic energy is directly proportional to mass"
+        },
+        {
+            "question": {
+                "text": "A pendulum swings back and forth between its highest points. As it swings from its highest point to its lowest point, what happens to its energy?",
+                "options": [
+                    {
+                        "text": "The potential energy decreases while kinetic energy increases",
+                        "isCorrect": 1,
+                        "explanation": "As the pendulum moves down, gravitational potential energy converts to kinetic energy. At the lowest point, potential energy is minimum and kinetic energy is maximum."
+                    },
+                    {
+                        "text": "Both potential and kinetic energy increase",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot be created - it can only be converted from one form to another. The total energy remains constant during the swing."
+                    },
+                    {
+                        "text": "Both potential and kinetic energy decrease",
+                        "isCorrect": 0,
+                        "explanation": "While some energy is lost to friction and air resistance over time, during a single swing the energy is converted between potential and kinetic forms."
+                    },
+                    {
+                        "text": "The potential energy increases while kinetic energy decreases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - as the pendulum moves down, it gains speed (kinetic energy) while losing height (potential energy)."
+                    }
+                ],
+                "funFact": "The principles of energy transfer in pendulums helped develop accurate clocks in the 17th century. Galileo first noticed that a pendulum's swing time remains nearly constant regardless of its amplitude, leading to the invention of the pendulum clock by Christiaan Huygens in 1656."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student observes a pendulum swinging back and forth. Identify how energy is transferred as the pendulum swings from its highest point to its lowest point"
+        },
+        {
+            "question": {
+                "text": "Two identical balls, one dropped from a height of 2 meters and another from 4 meters, land in a sandbox. Which statement correctly explains why the ball dropped from 4 meters creates a deeper crater?",
+                "options": [
+                    {
+                        "text": "The ball from 4 meters has more potential energy initially, which converts to more kinetic energy, resulting in a greater energy transfer to the sand",
+                        "isCorrect": 1,
+                        "explanation": "Greater height means more gravitational potential energy, which converts to more kinetic energy during the fall, leading to more energy transfer upon impact"
+                    },
+                    {
+                        "text": "Both balls should create the same crater depth since they have the same mass",
+                        "isCorrect": 0,
+                        "explanation": "While mass is important, the height affects the potential energy and resulting kinetic energy, making crater depths different"
+                    },
+                    {
+                        "text": "The ball from 4 meters takes longer to fall, giving it more time to gain speed",
+                        "isCorrect": 0,
+                        "explanation": "While it does take longer to fall, the deeper crater is due to greater potential energy, not the time taken to fall"
+                    },
+                    {
+                        "text": "The ball from 4 meters weighs more by the time it reaches the ground",
+                        "isCorrect": 0,
+                        "explanation": "The ball's mass remains constant regardless of height - the difference in crater depth is due to energy differences"
+                    }
+                ],
+                "funFact": "When astronauts study impact craters on the Moon and other celestial bodies, they can estimate the energy of the impacting object by analyzing the crater's size and depth, similar to how we can understand the energy of falling balls by looking at their impact marks!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Two identical balls are dropped from different heights. One ball creates a deeper crater in sand than the other. Explain the relationship between the initial height and energy transfer"
+        },
+        {
+            "question": {
+                "text": "A roller coaster car is at the top of a loop and then travels to the bottom of the loop. What energy transformation occurs during this movement?",
+                "options": [
+                    {
+                        "text": "At the top of the loop, the car has more potential energy which transforms into kinetic energy as it moves to the bottom of the loop",
+                        "isCorrect": 1,
+                        "explanation": "Due to its higher position, the car has more gravitational potential energy at the top. As it moves down, this potential energy converts to kinetic energy, making the car move faster at the bottom."
+                    },
+                    {
+                        "text": "At the top of the loop, the car has more kinetic energy which transforms into potential energy as it moves to the bottom of the loop",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because at the top position, the car has more potential energy due to height, not kinetic energy. The car actually moves faster (has more kinetic energy) at the bottom."
+                    },
+                    {
+                        "text": "The car has the same amount of potential and kinetic energy at both the top and bottom of the loop",
+                        "isCorrect": 0,
+                        "explanation": "Energy transforms between potential and kinetic forms as the car moves. The total energy remains constant, but the individual amounts of potential and kinetic energy change with position."
+                    },
+                    {
+                        "text": "No energy transformation occurs as the car moves from top to bottom of the loop",
+                        "isCorrect": 0,
+                        "explanation": "Energy definitely transforms as the car moves. The gravitational potential energy at the top converts to kinetic energy as the car moves down."
+                    }
+                ],
+                "funFact": "The first complete vertical loop in a roller coaster was built in 1895 at Coney Island in Brooklyn, New York. However, due to the extreme forces experienced by riders, it was shut down after just a few weeks. Modern roller coasters use carefully calculated clothoid loop shapes instead of perfect circles to create a safer and more enjoyable ride experience!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A roller coaster car travels through a loop. Analyze how the energy transforms between the top and bottom positions of the loop"
+        },
+        {
+            "question": {
+                "text": "An archer pulls back a bow with more force, causing the bowstring to bend further back than before. What will happen to the arrow's speed when released compared to a gentler pull?",
+                "options": [
+                    {
+                        "text": "The arrow will travel faster because more potential energy was stored in the bent bow",
+                        "isCorrect": 1,
+                        "explanation": "When the bow is pulled back further, more potential energy is stored in its bent position. When released, this greater potential energy converts to more kinetic energy, resulting in higher arrow speed."
+                    },
+                    {
+                        "text": "The arrow will travel at the same speed regardless of how far back the bow was pulled",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the amount of stored potential energy depends on how far the bow is pulled back. More stored energy results in greater speed."
+                    },
+                    {
+                        "text": "The arrow will travel slower because it has to overcome more resistance from the tighter bowstring",
+                        "isCorrect": 0,
+                        "explanation": "While the bowstring does provide some resistance, the increased potential energy from pulling back further significantly outweighs this effect, resulting in faster arrow speed."
+                    },
+                    {
+                        "text": "The arrow's speed only depends on its mass, not how far the bow was pulled back",
+                        "isCorrect": 0,
+                        "explanation": "While mass affects the arrow's motion, the initial speed is determined by how much potential energy was stored in the bow, which depends on how far it was pulled back."
+                    }
+                ],
+                "funFact": "The invention of the composite bow around 1200 BCE revolutionized warfare by allowing archers to store more potential energy in smaller, more powerful bows made from multiple materials like wood, horn, and sinew."
+            },
+            "cognitive_level": "application",
+            "blueprint": "An archer pulls back a bowstring with different amounts of force. Compare the resulting arrow speeds and explain the energy transfers involved"
+        },
+        {
+            "question": {
+                "text": "A wrecking ball with a mass of 2000 kg is used to demolish a concrete wall. If the mass of the wrecking ball is doubled to 4000 kg while maintaining the same height and speed, how will this change affect the kinetic energy transfer during impact?",
+                "options": [
+                    {
+                        "text": "The kinetic energy transfer will double",
+                        "isCorrect": 1,
+                        "explanation": "Since kinetic energy is directly proportional to mass (KE = \u00bdmv\u00b2), doubling the mass while keeping velocity constant will double the kinetic energy transfer during impact."
+                    },
+                    {
+                        "text": "The kinetic energy transfer will quadruple",
+                        "isCorrect": 0,
+                        "explanation": "While kinetic energy is proportional to velocity squared (v\u00b2), it is only directly proportional to mass (m). Since only mass was doubled, the energy transfer doubles, not quadruples."
+                    },
+                    {
+                        "text": "The kinetic energy transfer will remain the same",
+                        "isCorrect": 0,
+                        "explanation": "Kinetic energy depends on mass, so changing the mass while keeping velocity constant will affect the energy transfer. It cannot remain the same when mass changes."
+                    },
+                    {
+                        "text": "The kinetic energy transfer will decrease by half",
+                        "isCorrect": 0,
+                        "explanation": "Increasing mass increases kinetic energy when velocity remains constant. The energy transfer cannot decrease when mass increases."
+                    }
+                ],
+                "funFact": "The world's largest wrecking ball weighs approximately 12,000 kg (26,455 pounds) and was used in demolition projects during the 1990s. Large wrecking balls have been largely replaced by more precise demolition methods in modern construction, but they remain an iconic symbol of demolition work."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A wrecking ball is used to demolish a wall. Analyze how the mass of the wrecking ball affects the energy transfer during impact"
+        },
+        {
+            "question": {
+                "text": "Two balls are rolling at the same speed of 5 m/s. Ball A has a mass of 2 kg while Ball B has a mass of 4 kg. Which statement correctly compares their kinetic energies?",
+                "options": [
+                    {
+                        "text": "Ball B has twice the kinetic energy of Ball A",
+                        "isCorrect": 1,
+                        "explanation": "Since both balls have the same velocity but Ball B has twice the mass, its kinetic energy will be twice that of Ball A. KE = \u00bdmv\u00b2, and mass is directly proportional to kinetic energy."
+                    },
+                    {
+                        "text": "Ball B has four times the kinetic energy of Ball A",
+                        "isCorrect": 0,
+                        "explanation": "While velocity squared affects kinetic energy exponentially, mass has a direct proportional relationship. Since only the mass is different (by a factor of 2), the kinetic energy only doubles."
+                    },
+                    {
+                        "text": "Both balls have the same kinetic energy",
+                        "isCorrect": 0,
+                        "explanation": "Even though the balls have the same velocity, their masses are different. Mass affects kinetic energy, so they cannot have the same kinetic energy."
+                    },
+                    {
+                        "text": "Ball B has half the kinetic energy of Ball A",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship. Since Ball B has more mass and the same velocity as Ball A, it must have more kinetic energy, not less."
+                    }
+                ],
+                "funFact": "In sports like bowling, players use balls of different masses but try to achieve the same speed. A heavier bowling ball carries more kinetic energy to the pins, which can result in more pin action and potentially higher scores!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Two objects with different masses are moving at the same speed. Compare their kinetic energies and explain the relationship between mass and energy"
+        },
+        {
+            "question": {
+                "text": "A baseball player hits two identical balls with different bat speeds. For the first hit, the bat speed is 60 mph, and for the second hit, the bat speed is 30 mph. How will the kinetic energy transferred to the second ball compare to the first ball?",
+                "options": [
+                    {
+                        "text": "The second ball will have 1/4 of the kinetic energy of the first ball",
+                        "isCorrect": 1,
+                        "explanation": "Since kinetic energy is proportional to velocity squared (KE = 1/2mv\u00b2), halving the speed results in 1/4 of the kinetic energy being transferred to the ball"
+                    },
+                    {
+                        "text": "The second ball will have 1/2 of the kinetic energy of the first ball",
+                        "isCorrect": 0,
+                        "explanation": "This would be true if kinetic energy was directly proportional to velocity, but it's actually proportional to velocity squared"
+                    },
+                    {
+                        "text": "Both balls will have the same kinetic energy",
+                        "isCorrect": 0,
+                        "explanation": "Different bat speeds will transfer different amounts of kinetic energy to the balls, even if the balls are identical"
+                    },
+                    {
+                        "text": "The second ball will have 2/3 of the kinetic energy of the first ball",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly assumes a linear relationship between bat speed and kinetic energy transfer"
+                    }
+                ],
+                "funFact": "The fastest recorded baseball bat speed in MLB history is around 93.6 mph, achieved by Giancarlo Stanton. At such speeds, the kinetic energy transferred to the baseball can be enough to make it travel over 450 feet!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A baseball player hits a ball with different bat speeds. Predict how the ball's motion will change based on the energy transfers involved"
+        },
+        {
+            "question": {
+                "text": "A skateboarder starts at rest at the top of a half-pipe ramp. As they roll down, what happens to the energy of the system?",
+                "options": [
+                    {
+                        "text": "Potential energy is converted to kinetic energy as the skateboarder descends, with the total energy remaining constant",
+                        "isCorrect": 1,
+                        "explanation": "As the skateboarder moves down the ramp, gravitational potential energy decreases while kinetic energy increases. The total energy stays the same, following the law of conservation of energy."
+                    },
+                    {
+                        "text": "Both potential and kinetic energy increase as the skateboarder moves down",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because as height decreases, potential energy must decrease. Only kinetic energy increases during descent."
+                    },
+                    {
+                        "text": "Energy is created during the descent, increasing the total energy in the system",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot be created or destroyed, only converted from one form to another. This violates the law of conservation of energy."
+                    },
+                    {
+                        "text": "All energy is lost as heat and sound during the descent",
+                        "isCorrect": 0,
+                        "explanation": "While some energy is converted to heat and sound due to friction, most of the potential energy is converted to kinetic energy during the descent."
+                    }
+                ],
+                "funFact": "Professional skateboarders can reach speeds of up to 40 mph (64 km/h) on vertical ramps! The height of the ramp and the skater's mass contribute to the potential energy available for conversion to this impressive kinetic energy."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A skateboarder rolls down a ramp. Analyze the energy transformations that occur during the descent"
+        },
+        {
+            "question": {
+                "text": "Two identical cars are involved in a head-on collision. Car A is traveling at 60 mph while Car B is traveling at 30 mph. Which statement correctly describes the energy transfer during the collision?",
+                "options": [
+                    {
+                        "text": "Car A transfers twice as much kinetic energy as Car B during the collision",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because kinetic energy is proportional to velocity squared (v\u00b2), not just velocity. The ratio of kinetic energies would be 4:1, not 2:1."
+                    },
+                    {
+                        "text": "Car A transfers four times as much kinetic energy as Car B during the collision",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Since kinetic energy is calculated as KE = \u00bdmv\u00b2, and the cars are identical (same mass), the ratio of their kinetic energies is (60)\u00b2:(30)\u00b2 = 3600:900 = 4:1."
+                    },
+                    {
+                        "text": "Both cars transfer the same amount of kinetic energy since they have the same mass",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While the cars do have the same mass, kinetic energy depends on both mass AND velocity squared. The different speeds result in different amounts of energy transfer."
+                    },
+                    {
+                        "text": "Car B transfers more kinetic energy since it experiences a greater change in velocity",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While both cars experience the same change in velocity during the collision, the initial kinetic energy of Car A is greater due to its higher initial speed."
+                    }
+                ],
+                "funFact": "In modern cars, the energy transferred during collisions is carefully managed through crumple zones - areas designed to deform and absorb energy during impacts. These zones help convert dangerous kinetic energy into deformation of the vehicle structure, helping protect passengers."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Two identical cars collide, one moving faster than the other. Compare the energy transfers during the collision based on their initial speeds"
+        },
+        {
+            "question": {
+                "text": "When a cyclist applies the brakes to stop a moving bicycle, the brake pads rub against the wheel rim. What energy transformation occurs during this process?",
+                "options": [
+                    {
+                        "text": "Kinetic energy of the bicycle transforms into thermal energy (heat) due to friction between brake pads and wheel rim",
+                        "isCorrect": 1,
+                        "explanation": "When brakes are applied, friction between brake pads and wheel rim converts the bicycle's motion (kinetic) energy into thermal energy, which is why the brake pads feel warm after stopping"
+                    },
+                    {
+                        "text": "Thermal energy transforms into kinetic energy making the bicycle stop",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - the bicycle's kinetic energy is what gets transformed, not thermal energy. The transformation is from kinetic to thermal energy, not the other way around"
+                    },
+                    {
+                        "text": "No energy transformation occurs, the bicycle just loses energy",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot be lost or destroyed - it must transform from one form to another according to the law of conservation of energy"
+                    },
+                    {
+                        "text": "Kinetic energy transforms into potential energy stored in the brakes",
+                        "isCorrect": 0,
+                        "explanation": "The brakes do not store potential energy - instead the kinetic energy transforms into thermal energy through friction"
+                    }
+                ],
+                "funFact": "Modern disc brakes on bicycles can heat up to over 300\u00b0F (149\u00b0C) during extended downhill braking! This is why professional cyclists sometimes have to stop during long descents to let their brakes cool down."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student observes heat being generated when a brake is applied to stop a bicycle. Explain the energy transformation occurring in this system"
+        },
+        {
+            "question": {
+                "text": "A student performs an experiment with two identical steel springs. She compresses the first spring by 2 cm and the second spring by 4 cm. How does the potential energy stored in the second spring compare to the potential energy stored in the first spring?",
+                "options": [
+                    {
+                        "text": "The second spring has twice the potential energy of the first spring",
+                        "isCorrect": 0,
+                        "explanation": "While the compression is doubled, the relationship between compression and potential energy is not linear - it's quadratic."
+                    },
+                    {
+                        "text": "The second spring has four times the potential energy of the first spring",
+                        "isCorrect": 1,
+                        "explanation": "The potential energy stored in a spring is proportional to the square of its compression. When compression doubles, the potential energy increases by a factor of four."
+                    },
+                    {
+                        "text": "Both springs have the same potential energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. For identical springs, the potential energy is determined by the amount of compression. Since the second spring is compressed more, it stores more potential energy, not the same amount."
+                    },
+                    {
+                        "text": "The second spring has half the potential energy of the first spring",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because greater compression results in greater potential energy, not less."
+                    }
+                ],
+                "funFact": "Springs don't just store energy - they're crucial in many everyday devices! From the suspension in your car to the mattress in your bed, springs help convert between kinetic and potential energy. Even mechanical watches use tiny springs to keep accurate time."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student compresses different springs with the same force. Compare the potential energies stored in the springs and explain the energy transfers"
+        },
+        {
+            "question": {
+                "text": "When a spring-loaded toy car is launched, which sequence correctly describes the energy transformations that occur?",
+                "options": [
+                    {
+                        "text": "Potential energy in the compressed spring \u2192 Kinetic energy of the car \u2192 Some energy lost as heat and sound",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows how the stored potential energy in the compressed spring transforms into the car's motion energy, with some energy converting to heat and sound due to friction and air resistance."
+                    },
+                    {
+                        "text": "Kinetic energy of the car \u2192 Potential energy in the spring \u2192 Heat energy",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. The energy transformation begins with potential energy stored in the compressed spring, not with the car's kinetic energy."
+                    },
+                    {
+                        "text": "Heat energy \u2192 Potential energy in the spring \u2192 Kinetic energy of the car",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Heat energy is a result of the energy transformation, not the initial form of energy in the system."
+                    },
+                    {
+                        "text": "Potential energy in the compressed spring \u2192 Heat energy \u2192 Kinetic energy of the car",
+                        "isCorrect": 0,
+                        "explanation": "While heat energy is produced during the process, it is not an intermediate step between potential and kinetic energy but rather a result of the energy transformation."
+                    }
+                ],
+                "funFact": "Springs have been used in various forms for centuries! While spring-driven clocks first appeared in the early 15th century in Europe, Robert Hooke made significant improvements to them in the 17th century, using the same principles of potential energy storage that we see in modern spring-powered toys."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A spring is compressed and then released to launch a toy car. Determine how the energy changes occur during this process"
+        },
+        {
+            "question": {
+                "text": "A roller coaster car starts at the top of a 50-meter-high hill, then descends down a steep drop. As the car moves down the hill, what happens to its potential and kinetic energy, and what evidence would show this energy transfer?",
+                "options": [
+                    {
+                        "text": "The potential energy decreases while kinetic energy increases, evidenced by the car moving faster as it descends",
+                        "isCorrect": 1,
+                        "explanation": "As the car loses height, gravitational potential energy converts to kinetic energy, causing the car to accelerate down the hill"
+                    },
+                    {
+                        "text": "Both potential and kinetic energy increase, evidenced by the car moving down the hill",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot be created - it can only transfer between forms. The total energy remains constant"
+                    },
+                    {
+                        "text": "The potential energy increases while kinetic energy decreases, evidenced by the car slowing down",
+                        "isCorrect": 0,
+                        "explanation": "When height decreases, potential energy decreases. The car speeds up rather than slows down during descent"
+                    },
+                    {
+                        "text": "Neither potential nor kinetic energy changes, evidenced by the car maintaining constant motion",
+                        "isCorrect": 0,
+                        "explanation": "Energy is constantly converting between potential and kinetic forms during the descent, not staying constant"
+                    }
+                ],
+                "funFact": "The world's tallest roller coaster, Kingda Ka at Six Flags Great Adventure, stands at 456 feet (139 meters) tall. At its highest point, the cars have enormous potential energy that converts to kinetic energy during the 418-foot drop!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a scenario where a roller coaster car moves down a steep drop, focusing on the transfer of energy between potential and kinetic forms and evidence of this transfer through changes in speed and height"
+        },
+        {
+            "question": {
+                "text": "A student conducts an experiment with a bicycle to understand energy transformation. They measure the temperature of the brake pad before and after bringing the moving bicycle to a complete stop. The initial temperature of the brake pad is 25\u00b0C. After stopping the bicycle, the temperature rises to 45\u00b0C. What explains this temperature increase?",
+                "options": [
+                    {
+                        "text": "The kinetic energy of the moving bicycle was converted to thermal energy in the brake pad through friction",
+                        "isCorrect": 1,
+                        "explanation": "When the brakes are applied, friction between the brake pad and wheel converts the bicycle's kinetic energy into thermal energy, causing the brake pad's temperature to increase"
+                    },
+                    {
+                        "text": "The brake pad naturally heats up when exposed to air during cycling",
+                        "isCorrect": 0,
+                        "explanation": "The temperature increase is not due to air exposure but rather due to the conversion of kinetic energy to thermal energy through friction during braking"
+                    },
+                    {
+                        "text": "The metal in the brake pad spontaneously generates heat when pressure is applied",
+                        "isCorrect": 0,
+                        "explanation": "Metals don't spontaneously generate heat under pressure. The heat comes from the conversion of the bicycle's kinetic energy through friction"
+                    },
+                    {
+                        "text": "The sun's radiation caused the brake pad to heat up during the ride",
+                        "isCorrect": 0,
+                        "explanation": "Such a significant temperature increase in a short time cannot be attributed to solar radiation. It's due to energy conversion during braking"
+                    }
+                ],
+                "funFact": "Racing car brake discs can reach temperatures of over 1000\u00b0C during a race due to the massive amount of kinetic energy being converted to thermal energy when braking from high speeds!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate experimental data showing temperature changes in a brake pad before and after stopping a moving bicycle, analyzing the transformation of kinetic energy to thermal energy"
+        },
+        {
+            "question": {
+                "text": "When an archer pulls back a bowstring and releases an arrow, several energy transformations occur. Which sequence correctly describes the energy transformations in this system?",
+                "options": [
+                    {
+                        "text": "Kinetic energy of pulling \u2192 Potential energy in bent bow \u2192 Kinetic energy of arrow \u2192 Heat and sound energy",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows how the archer's kinetic energy of pulling transforms into stored potential energy in the bent bow, which then converts to the arrow's kinetic energy, with some energy dissipating as heat and sound."
+                    },
+                    {
+                        "text": "Potential energy in bow \u2192 Kinetic energy of pulling \u2192 Heat energy \u2192 Kinetic energy of arrow",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect because the potential energy cannot exist in the bow before the pulling action. The energy transformation must start with the kinetic energy of pulling."
+                    },
+                    {
+                        "text": "Kinetic energy of arrow \u2192 Potential energy in bow \u2192 Heat energy \u2192 Sound energy",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is backwards. The arrow cannot have kinetic energy at the start - it gains kinetic energy only after the potential energy stored in the bent bow is released."
+                    },
+                    {
+                        "text": "Heat energy \u2192 Sound energy \u2192 Potential energy in bow \u2192 Kinetic energy of arrow",
+                        "isCorrect": 0,
+                        "explanation": "Heat and sound energy are products of the energy transformations, not the initial forms of energy. The sequence must begin with the kinetic energy of pulling the bowstring."
+                    }
+                ],
+                "funFact": "The invention of the composite bow around 1200 BCE was a major technological advancement. By using multiple materials like wood, horn, and sinew, these bows could store more potential energy and transfer it more efficiently to the arrow, dramatically increasing shooting range and power."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze the energy transformations in a bow and arrow system, identifying evidence of energy transfer through changes in motion, sound, and temperature"
+        },
+        {
+            "question": {
+                "text": "A student drops a rubber ball from a height of 2 meters and observes it bouncing multiple times. The student notices that each bounce reaches a lower height than the previous bounce. Which statement best explains why the maximum height of each bounce decreases?",
+                "options": [
+                    {
+                        "text": "Some kinetic energy is converted to thermal energy and sound energy during each bounce, leaving less energy available for the next bounce",
+                        "isCorrect": 1,
+                        "explanation": "When the ball bounces, not all of its kinetic energy is converted back to potential energy - some is lost as heat and sound, resulting in lower subsequent bounces"
+                    },
+                    {
+                        "text": "The ball's mass decreases with each bounce, resulting in less potential energy at the maximum height",
+                        "isCorrect": 0,
+                        "explanation": "The mass of the ball remains constant throughout the bouncing. The decrease in bounce height is due to energy conversion to other forms, not mass loss"
+                    },
+                    {
+                        "text": "Gravity becomes stronger after each bounce, pulling the ball down with more force",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force remains constant throughout the bouncing. The decrease in bounce height is due to energy being converted to other forms like heat and sound"
+                    },
+                    {
+                        "text": "The air pressure increases above the ball with each bounce, preventing it from reaching its previous height",
+                        "isCorrect": 0,
+                        "explanation": "Air pressure does not significantly change during the bouncing process. The decrease in height is due to energy being converted to other forms during each collision"
+                    }
+                ],
+                "funFact": "Super balls, invented in 1964, can bounce to about 92% of their original drop height due to their special synthetic rubber material that minimizes energy loss during collision. This is much higher than regular rubber balls which typically bounce to only about 50-60% of their original height!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate the energy transfers in a bouncing ball system, analyzing how the height of successive bounces provides evidence of energy conversion and loss"
+        },
+        {
+            "question": {
+                "text": "A student is conducting experiments with a cart on a track. In Experiment 1, they double the mass of the cart from 1 kg to 2 kg while maintaining the same velocity. In Experiment 2, they keep the original 1 kg mass but double the velocity from 2 m/s to 4 m/s. How does the change in kinetic energy compare between these two experiments?",
+                "options": [
+                    {
+                        "text": "The kinetic energy increases by the same amount in both experiments",
+                        "isCorrect": 0,
+                        "explanation": "Since KE = \u00bdmv\u00b2, doubling mass leads to a different change than doubling velocity due to the squared term."
+                    },
+                    {
+                        "text": "Experiment 1 (doubling mass) results in a greater increase in kinetic energy",
+                        "isCorrect": 0,
+                        "explanation": "Doubling mass only doubles KE linearly, while velocity's effect is squared."
+                    },
+                    {
+                        "text": "Experiment 2 (doubling velocity) results in a greater increase in kinetic energy",
+                        "isCorrect": 1,
+                        "explanation": "Since velocity is squared in KE = \u00bdmv\u00b2, doubling velocity quadruples the kinetic energy, while doubling mass only doubles it."
+                    },
+                    {
+                        "text": "The kinetic energy decreases in both experiments",
+                        "isCorrect": 0,
+                        "explanation": "Increasing either mass or velocity increases kinetic energy, not decreases it."
+                    }
+                ],
+                "funFact": "The incredible power of velocity's squared relationship to kinetic energy is why space debris is so dangerous - even tiny objects moving at extremely high speeds can cause significant damage to spacecraft due to their enormous kinetic energy!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the effects of doubling mass versus doubling velocity on an object's kinetic energy, analyzing experimental data to support the mathematical relationships"
+        },
+        {
+            "question": {
+                "text": "A wrecking ball is used to demolish a concrete wall. The wrecking ball is raised to a height of 20 meters before being released. What happens to the energy of the wrecking ball as it swings down towards the wall?",
+                "options": [
+                    {
+                        "text": "The potential energy is converted to kinetic energy as the ball swings down",
+                        "isCorrect": 1,
+                        "explanation": "As the wrecking ball falls, gravitational potential energy decreases while kinetic energy increases, following the principle of energy conservation"
+                    },
+                    {
+                        "text": "The ball loses all its energy before hitting the wall",
+                        "isCorrect": 0,
+                        "explanation": "Energy is conserved, not lost. The gravitational potential energy is converted to kinetic energy during the fall"
+                    },
+                    {
+                        "text": "The energy remains as potential energy throughout the swing",
+                        "isCorrect": 0,
+                        "explanation": "The type of energy changes during the swing - from potential energy at the highest point to kinetic energy as it moves downward"
+                    },
+                    {
+                        "text": "The ball gains new energy from nowhere during the fall",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot be created from nothing. The energy present at impact comes from the initial potential energy due to the ball's height"
+                    }
+                ],
+                "funFact": "The world's largest wrecking ball weighs approximately 12,000 pounds (5,443 kg). When dropped from a height of 20 meters, it can generate enough force to demolish reinforced concrete structures in a single strike!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a scenario involving a wrecking ball demolition, examining how the ball's height affects its potential energy and subsequent kinetic energy transfer to the target"
+        },
+        {
+            "question": {
+                "text": "In a demonstration, microphones were dropped from different heights to study energy transfer. What evidence would best support the claim that dropping a microphone from a greater height results in more energy transfer?",
+                "options": [
+                    {
+                        "text": "The microphone dropped from the greatest height shows more damage due to increased kinetic energy at impact",
+                        "isCorrect": 1,
+                        "explanation": "The increased damage at greater heights demonstrates more energy transfer, as the higher potential energy converts to greater kinetic energy during the fall"
+                    },
+                    {
+                        "text": "The microphone makes a louder sound when dropped from any height",
+                        "isCorrect": 0,
+                        "explanation": "The volume of the impact sound alone doesn't reliably indicate the amount of energy transfer, as other factors can affect sound volume"
+                    },
+                    {
+                        "text": "The microphone takes longer to fall from a greater height",
+                        "isCorrect": 0,
+                        "explanation": "While fall time increases with height, this alone doesn't demonstrate energy transfer - it's just a result of the distance traveled"
+                    },
+                    {
+                        "text": "The microphone bounces higher after impact when dropped from any height",
+                        "isCorrect": 0,
+                        "explanation": "The bounce height alone doesn't reliably indicate initial energy transfer, as it depends on the material properties and surface conditions"
+                    }
+                ],
+                "funFact": "The principle of energy transfer in falling objects is used in impact testing of consumer electronics. Manufacturers perform controlled drop tests from standardized heights to ensure their products can withstand everyday accidents!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate the energy transformations in a microphone drop demonstration, analyzing how different drop heights affect the observable evidence of energy transfer"
+        },
+        {
+            "question": {
+                "text": "A scientist is conducting experiments with two railgun projectiles of different masses. Projectile A has a mass of 1 kg and is fired at 100 m/s, while Projectile B has a mass of 2 kg and is fired at 50 m/s. Which statement correctly compares their kinetic energies?",
+                "options": [
+                    {
+                        "text": "Projectile A has more kinetic energy because its velocity contributes more significantly than mass to kinetic energy.",
+                        "isCorrect": 1,
+                        "explanation": "Since KE = \u00bdmv\u00b2, Projectile A has KE = \u00bd(1)(100\u00b2) = 5000J while Projectile B has KE = \u00bd(2)(50\u00b2) = 2500J. The higher velocity of Projectile A results in more kinetic energy despite its lower mass."
+                    },
+                    {
+                        "text": "Projectile B has more kinetic energy because it has twice the mass of Projectile A.",
+                        "isCorrect": 0,
+                        "explanation": "While Projectile B has twice the mass, its velocity is halved. Since velocity is squared in the KE formula, the lower velocity has a greater impact than the doubled mass."
+                    },
+                    {
+                        "text": "Both projectiles have the same kinetic energy because the differences in mass and velocity cancel out.",
+                        "isCorrect": 0,
+                        "explanation": "The differences don't cancel out because velocity is squared in the formula KE = \u00bdmv\u00b2. Doubling mass while halving velocity results in less kinetic energy."
+                    },
+                    {
+                        "text": "The kinetic energy cannot be compared without knowing the projectiles' heights.",
+                        "isCorrect": 0,
+                        "explanation": "Height relates to potential energy, not kinetic energy. Kinetic energy depends only on mass and velocity, which are both provided in the question."
+                    }
+                ],
+                "funFact": "Modern military railguns can accelerate projectiles to speeds over 7,800 meters per second - more than 7 times the speed of sound! This extremely high velocity allows them to cause significant damage with relatively small projectiles, demonstrating the powerful effect of velocity on kinetic energy."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze experimental data from a railgun projectile, examining how velocity contributes more significantly to kinetic energy than mass through observable effects"
+        },
+        {
+            "question": {
+                "text": "Two identical pendulums are set up at the same initial height, but one has a metal bob with twice the mass of the other wooden bob. If both pendulums are released simultaneously, how will their energy transfers and motion patterns compare?",
+                "options": [
+                    {
+                        "text": "The metal bob will swing faster and transfer more energy because it has more mass",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - while the metal bob has more total energy, the period of oscillation and velocity are independent of mass due to conservation of energy principles"
+                    },
+                    {
+                        "text": "Both pendulums will swing with the same speed and period, but the metal bob will contain twice the total energy, transferring twice as much between potential and kinetic forms during each swing",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The period and velocity are independent of mass, but the heavier bob transfers more total energy during each swing while maintaining the same motion pattern"
+                    },
+                    {
+                        "text": "The wooden bob will swing faster to compensate for its lower mass",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - the speed of the pendulum is determined by height and gravity, not mass. The pendulum's motion is independent of mass"
+                    },
+                    {
+                        "text": "Neither pendulum will transfer any energy since they return to their starting position",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - energy is continuously transferred between potential and kinetic forms during the swing, even though the pendulum returns to its starting position"
+                    }
+                ],
+                "funFact": "The principle that a pendulum's period is independent of mass was first discovered by Galileo Galilei in the late 16th century by observing swinging chandeliers in the Pisa Cathedral. This discovery helped lay the groundwork for modern physics!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the energy transfers in two pendulum systems with different masses but same heights, analyzing the evidence of energy conservation through motion patterns"
+        },
+        {
+            "question": {
+                "text": "A compressed spring is used to launch two metal balls of different masses. Ball A has a mass of 50g and Ball B has a mass of 100g. If both balls are launched using the same amount of compression in the spring, which statement correctly describes the kinetic energy transfer and motion of the balls?",
+                "options": [
+                    {
+                        "text": "Ball B will have twice the kinetic energy and travel twice as far as Ball A",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When the same spring compression is used, both balls receive the same potential energy from the spring. According to conservation of energy, they will both have equal kinetic energy, not proportional to their masses."
+                    },
+                    {
+                        "text": "Ball A and Ball B will have the same kinetic energy, but Ball A will travel faster",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The same spring compression provides identical potential energy to both balls. This energy is converted into kinetic energy equally (conservation of energy), but the velocity distribution differs. Since KE = (1/2)mv\u00b2, and the kinetic energy is equal, the lighter Ball A must have greater velocity to maintain the same KE as the heavier Ball B."
+                    },
+                    {
+                        "text": "Both balls will have the same kinetic energy and travel at the same velocity",
+                        "isCorrect": 0,
+                        "explanation": "While both balls do receive the same kinetic energy from the spring, they will not travel at the same velocity. The velocity is inversely proportional to the square root of the mass, so the lighter Ball A will move faster than Ball B."
+                    },
+                    {
+                        "text": "Ball B will have more kinetic energy but travel slower than Ball A",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both balls will have the same kinetic energy due to conservation of energy (same initial potential energy from identical spring compression). While Ball B does travel slower than Ball A, it does not have more kinetic energy."
+                    }
+                ],
+                "funFact": "Ancient siege weapons like catapults used this same principle of energy transfer! Engineers had to carefully balance the mass of their projectiles with the stored potential energy in their launching mechanisms to achieve maximum effectiveness."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a scenario involving a compressed spring launching objects of different masses, examining how mass affects kinetic energy transfer and resulting motion"
+        },
+        {
+            "question": {
+                "text": "Two identical steel balls are dropped from different heights - one from 2 meters and one from 8 meters. How many times more damage will the ball dropped from 8 meters cause compared to the ball dropped from 2 meters?",
+                "options": [
+                    {
+                        "text": "2 times more damage",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect because it suggests the damage increases by a factor of 2 when the height increases by a factor of 4. Since potential energy is directly proportional to height (E = mgh), and damage is related to this energy, the damage would increase by a factor of 4, not 2."
+                    },
+                    {
+                        "text": "4 times more damage",
+                        "isCorrect": 1,
+                        "explanation": "When height increases by a factor of 4 (from 2m to 8m), the potential energy increases by the same factor. This potential energy converts to kinetic energy before impact, resulting in 4 times more damage."
+                    },
+                    {
+                        "text": "8 times more damage",
+                        "isCorrect": 0,
+                        "explanation": "This answer overestimates the relationship between height and damage. While the height increased by a factor of 4, the damage doesn't increase by a factor of 8."
+                    },
+                    {
+                        "text": "16 times more damage",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly squares the height ratio. While energy relationships often involve squared terms, in this case the relationship between height and damage is directly proportional."
+                    }
+                ],
+                "funFact": "Ancient warfare engineers used this principle in designing trebuchets - medieval siege weapons that could hurl huge stones. They discovered that doubling the height from which a projectile was released would quadruple its destructive power!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the damage caused by two identical objects traveling at different velocities, analyzing how the squared relationship between speed and kinetic energy affects the outcome"
+        },
+        {
+            "question": {
+                "text": "Two identical rubber balls are dropped from different heights - Ball A from 2 meters and Ball B from 4 meters. Which statement correctly describes how the kinetic energy and impact effects of the balls will compare when they hit the ground?",
+                "options": [
+                    {
+                        "text": "Ball B will have twice the kinetic energy and create a more noticeable impact effect compared to Ball A",
+                        "isCorrect": 1,
+                        "explanation": "Since Ball B falls from twice the height of Ball A, it will have twice the potential energy initially (PE = mgh), which converts to twice the kinetic energy upon impact. For a falling object, all potential energy converts to kinetic energy at impact."
+                    },
+                    {
+                        "text": "Ball B will have four times the kinetic energy and create four times the impact effect compared to Ball A",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While Ball B falls from twice the height, the relationship between height and kinetic energy is linear - doubling the height doubles (not quadruples) the kinetic energy."
+                    },
+                    {
+                        "text": "Both balls will have the same kinetic energy and create the same impact effect since they have equal mass",
+                        "isCorrect": 0,
+                        "explanation": "While the balls have equal mass, their initial height difference means they have different amounts of potential energy that converts to different amounts of kinetic energy upon impact."
+                    },
+                    {
+                        "text": "Ball B will have half the kinetic energy and create half the impact effect compared to Ball A",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect as greater height leads to more potential energy and therefore more kinetic energy upon impact, not less."
+                    }
+                ],
+                "funFact": "For a falling object, the kinetic energy at impact can be calculated as KE = mgh, where m is mass, g is gravitational acceleration, and h is height. This shows that the relationship between height and kinetic energy is linear - doubling the height doubles the kinetic energy at impact."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare two identical balls dropped from different heights, examining how the final kinetic energy and observable effects (like impact force) demonstrate energy transfer relationships"
+        }
+    ]
+}

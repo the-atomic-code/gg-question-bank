@@ -1,0 +1,1261 @@
+{
+    "id": "lesson-76",
+    "title": "Properties of Elements",
+    "standard": "MS-PS1-1",
+    "n_recall": 13,
+    "n_application": 12,
+    "n_analysis": 13,
+    "n_total": 38,
+    "questions": [
+        {
+            "question": {
+                "text": "Which of the following correctly identifies the subatomic particles that make up an atom?",
+                "options": [
+                    {
+                        "text": "Protons, neutrons, and electrons",
+                        "isCorrect": 1,
+                        "explanation": "Atoms are made of protons and neutrons in the nucleus, and electrons orbiting in energy levels around the nucleus."
+                    },
+                    {
+                        "text": "Protons, electrons, and molecules",
+                        "isCorrect": 0,
+                        "explanation": "Molecules are made up of atoms, not the other way around. The three subatomic particles are protons, neutrons, and electrons."
+                    },
+                    {
+                        "text": "Neutrons, electrons, and elements",
+                        "isCorrect": 0,
+                        "explanation": "Elements are made up of atoms, not subatomic particles. The correct subatomic particles are protons, neutrons, and electrons."
+                    },
+                    {
+                        "text": "Protons, isotopes, and electrons",
+                        "isCorrect": 0,
+                        "explanation": "Isotopes are variations of an element with different numbers of neutrons. The three basic subatomic particles are protons, neutrons, and electrons."
+                    }
+                ],
+                "funFact": "The number of protons in an atom's nucleus determines which element it is! For example, all carbon atoms have exactly 6 protons, while all oxygen atoms have 8 protons. This number is called the atomic number and is unique to each element."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify which subatomic particles make up an atom (protons, neutrons, electrons)"
+        },
+        {
+            "question": {
+                "text": "In an atom, where are protons and neutrons located compared to electrons?",
+                "options": [
+                    {
+                        "text": "Protons and neutrons are in the nucleus, while electrons orbit in energy levels around the nucleus.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The nucleus contains the protons and neutrons, which are tightly packed in the center of the atom. Electrons orbit the nucleus in specific energy levels or electron orbitals."
+                    },
+                    {
+                        "text": "Protons, neutrons, and electrons are all located in the nucleus of an atom.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While protons and neutrons are indeed located in the nucleus, electrons are not. Electrons orbit the nucleus in energy levels or electron orbitals."
+                    },
+                    {
+                        "text": "Protons and electrons are in the nucleus, while neutrons orbit in energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Protons and neutrons are both located in the nucleus, while electrons orbit the nucleus in energy levels."
+                    },
+                    {
+                        "text": "Neutrons are in the nucleus, while protons and electrons orbit in energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both protons and neutrons are located in the nucleus, while electrons orbit the nucleus in energy levels."
+                    },
+                    {
+                        "text": "Protons, neutrons, and electrons are all dispersed throughout the atom in energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Protons and neutrons are concentrated in the nucleus at the center of the atom, while only electrons occupy the energy levels or electron orbitals surrounding the nucleus."
+                    }
+                ],
+                "funFact": "If an atom were the size of a football stadium, the nucleus would be about the size of a pea in the center! Despite this tiny size, the nucleus contains over 99.9% of the atom's mass, as protons and neutrons are much heavier than electrons."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about where protons and neutrons are located in an atom (in the nucleus) versus where electrons are located (in energy levels or electron orbitals)"
+        },
+        {
+            "question": {
+                "text": "What determines the identity of an element?",
+                "options": [
+                    {
+                        "text": "The number of protons in its nucleus",
+                        "isCorrect": 1,
+                        "explanation": "The number of protons in an atom's nucleus determines which element it is. This is called the atomic number and is unique to each element."
+                    },
+                    {
+                        "text": "The number of neutrons in its nucleus",
+                        "isCorrect": 0,
+                        "explanation": "The number of neutrons can vary within atoms of the same element, creating different isotopes, but doesn't determine which element it is."
+                    },
+                    {
+                        "text": "The number of electrons in its orbitals",
+                        "isCorrect": 0,
+                        "explanation": "While electrons determine chemical properties and reactions, the number can change when atoms form ions. Elements are identified by proton number, not electron count."
+                    },
+                    {
+                        "text": "Its position on the periodic table",
+                        "isCorrect": 0,
+                        "explanation": "An element's position on the periodic table is determined by its atomic number (proton count), not the other way around."
+                    },
+                    {
+                        "text": "Its physical state at room temperature",
+                        "isCorrect": 0,
+                        "explanation": "The physical state (solid, liquid, or gas) is a property of an element but doesn't determine its identity. Elements can exist in different states depending on temperature and pressure."
+                    }
+                ],
+                "funFact": "Carbon atoms have 6 protons, which is why they're always carbon no matter where they're found - whether in diamonds, graphite, or even in your body! However, carbon can have different numbers of neutrons (usually 6-8), forming isotopes like carbon-12, carbon-13, and carbon-14, which is used in radiocarbon dating."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify what determines the identity of an element (the number of protons)"
+        },
+        {
+            "question": {
+                "text": "Which of the following correctly describes the natural state of oxygen as an element?",
+                "options": [
+                    {
+                        "text": "Oxygen naturally exists as a single atom",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Oxygen doesn't naturally exist as single atoms but rather as diatomic molecules (O\u2082)."
+                    },
+                    {
+                        "text": "Oxygen naturally exists as a diatomic molecule with two oxygen atoms",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Oxygen (O\u2082) exists naturally as a diatomic element, meaning it has two oxygen atoms bonded together to form a molecule."
+                    },
+                    {
+                        "text": "Oxygen naturally exists as a triatomic molecule with three oxygen atoms",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While oxygen can form triatomic molecules (O\u2083, known as ozone), oxygen naturally exists as a diatomic molecule (O\u2082) in its elemental form."
+                    },
+                    {
+                        "text": "Oxygen naturally exists as individual atoms that are not connected to each other",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Oxygen atoms are highly reactive and naturally bond with another oxygen atom to form diatomic molecules (O\u2082)."
+                    },
+                    {
+                        "text": "Oxygen naturally exists in varying arrangements with different numbers of atoms",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. In its natural elemental state, oxygen consistently exists as diatomic molecules (O\u2082), not in varying arrangements with different numbers of atoms."
+                    }
+                ],
+                "funFact": "Seven elements naturally exist as diatomic molecules: hydrogen (H\u2082), nitrogen (N\u2082), oxygen (O\u2082), fluorine (F\u2082), chlorine (Cl\u2082), bromine (Br\u2082), and iodine (I\u2082). A helpful memory device for these elements is 'HOFBrINCl' (pronounced 'hof-brinkle'), which contains the symbols of all these diatomic elements."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about diatomic elements, specifically identifying oxygen as naturally existing with two oxygen atoms"
+        },
+        {
+            "question": {
+                "text": "Which of the following properties of elements helps scientists categorize them and predict how they will interact with other elements?",
+                "options": [
+                    {
+                        "text": "The number of protons in the nucleus",
+                        "isCorrect": 1,
+                        "explanation": "The number of protons (atomic number) determines which element it is and its position on the periodic table, which helps predict its properties and how it will interact with other elements."
+                    },
+                    {
+                        "text": "The color of the element",
+                        "isCorrect": 0,
+                        "explanation": "While color is a physical property that can help identify an element, it's not the primary property that determines how elements interact with each other."
+                    },
+                    {
+                        "text": "The state of matter at room temperature",
+                        "isCorrect": 0,
+                        "explanation": "While state of matter is a property that can be predicted from the periodic table, it's a result of the element's atomic structure rather than the cause of its chemical behavior."
+                    },
+                    {
+                        "text": "The mass of a single atom",
+                        "isCorrect": 0,
+                        "explanation": "While atomic mass is important for calculations, it's not the primary property that determines how elements interact chemically with other elements."
+                    }
+                ],
+                "funFact": "The periodic table was designed by Dmitri Mendeleev in 1869. He left gaps for undiscovered elements and actually predicted their properties correctly before they were discovered, showing the power of understanding the patterns of elemental properties!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify physical properties of elements from a list (could include conductivity, magnetism, melting point, boiling point, color, state of matter)"
+        },
+        {
+            "question": {
+                "text": "What do the rows (periods) of the periodic table represent?",
+                "options": [
+                    {
+                        "text": "The number of electron energy levels an atom has",
+                        "isCorrect": 1,
+                        "explanation": "Each row or period on the periodic table represents the number of electron energy levels that atom has. For example, elements in row 1 have one energy level, elements in row 2 have two energy levels, and so on."
+                    },
+                    {
+                        "text": "The number of protons in an atom",
+                        "isCorrect": 0,
+                        "explanation": "The number of protons (atomic number) is represented by the element's position in order on the periodic table, not by rows. The atomic number increases as you move across and down the table."
+                    },
+                    {
+                        "text": "The reactivity of elements",
+                        "isCorrect": 0,
+                        "explanation": "While reactivity does follow patterns on the periodic table, it's not specifically what rows represent. Reactivity tends to be more associated with groups (columns) and an element's position relative to others."
+                    },
+                    {
+                        "text": "The state of matter of elements at room temperature",
+                        "isCorrect": 0,
+                        "explanation": "The state of matter (solid, liquid, or gas) at room temperature isn't represented by rows on the periodic table. Elements in the same row can exist in different states."
+                    },
+                    {
+                        "text": "The density of elements",
+                        "isCorrect": 0,
+                        "explanation": "Density is a property that tends to increase as you move across a period, but the rows themselves don't represent density. Elements in the same row can have very different densities."
+                    }
+                ],
+                "funFact": "The 7 periods of the periodic table correspond to the filling of electron shells. The longest period is period 6, which contains 32 elements from cesium to radon, due to the inclusion of the lanthanide series. Scientists have created elements for period 7 and are working on elements for a potential period 8!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about how elements are arranged in the periodic table, specifically what the rows (periods) represent (number of energy levels)"
+        },
+        {
+            "question": {
+                "text": "What do the columns (groups) in the periodic table represent?",
+                "options": [
+                    {
+                        "text": "Elements with the same atomic mass",
+                        "isCorrect": 0,
+                        "explanation": "The columns don't represent elements with the same atomic mass. Atomic mass typically increases as you go down a column."
+                    },
+                    {
+                        "text": "Elements with the same number of energy levels",
+                        "isCorrect": 0,
+                        "explanation": "The rows (periods) of the periodic table represent the number of energy levels, not the columns."
+                    },
+                    {
+                        "text": "Elements with similar properties",
+                        "isCorrect": 1,
+                        "explanation": "Elements in the same column or group of the periodic table share similar chemical properties because they have the same number of electrons in their outer energy level."
+                    },
+                    {
+                        "text": "Elements discovered during the same time period",
+                        "isCorrect": 0,
+                        "explanation": "The periodic table is organized based on atomic structure and properties, not when elements were discovered."
+                    },
+                    {
+                        "text": "Elements with the same number of neutrons",
+                        "isCorrect": 0,
+                        "explanation": "The number of neutrons can vary even within elements in the same column, and is not what determines an element's placement in a group."
+                    }
+                ],
+                "funFact": "The periodic table's organization was developed by Dmitri Mendeleev in 1869, who left gaps for undiscovered elements and accurately predicted their properties before they were found. For example, he predicted the properties of germanium (which he called eka-silicon) 15 years before it was discovered!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify what groups or columns in the periodic table represent (elements with similar properties)"
+        },
+        {
+            "question": {
+                "text": "How does an element's position on the periodic table help scientists predict its reactivity with other elements?",
+                "options": [
+                    {
+                        "text": "The position only indicates the element's atomic mass, which has no relation to reactivity.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. An element's position on the periodic table does much more than indicate atomic mass - it provides information about electron arrangements, which directly affects reactivity."
+                    },
+                    {
+                        "text": "The position shows the number of electron energy levels and arrangement, which determines how elements interact with each other.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The arrangement of elements on the periodic table is based on electron configurations. Elements in the same group (column) have similar outer electron arrangements and therefore similar chemical properties and reactivity patterns."
+                    },
+                    {
+                        "text": "Elements in the same period (row) always have identical reactivity with other elements.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While elements in the same period have the same number of electron shells, their reactivity varies significantly across the period due to different numbers of valence electrons."
+                    },
+                    {
+                        "text": "The position only helps predict physical properties like melting point, not chemical reactivity.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The periodic table arrangement helps predict both physical and chemical properties, including reactivity, based on electron configurations."
+                    },
+                    {
+                        "text": "Elements closer to each other on the table will always react more readily with each other.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Often, elements that are far apart on the periodic table (like metals and non-metals) react more readily with each other than elements that are close together."
+                    }
+                ],
+                "funFact": "The periodic table was designed by Dmitri Mendeleev in 1869, who left gaps for undiscovered elements and accurately predicted their properties. When these elements were later discovered, they fit perfectly into Mendeleev's table, confirming his organizational principle based on atomic properties and reactivity patterns."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about how the position of an element on the periodic table helps predict its reactivity with other elements"
+        },
+        {
+            "question": {
+                "text": "Which statement best explains why noble gases rarely react with other elements?",
+                "options": [
+                    {
+                        "text": "Noble gases have full outer electron energy levels, making them stable.",
+                        "isCorrect": 1,
+                        "explanation": "Noble gases (Group 18 elements) have complete outer electron shells, which gives them exceptional stability. This electron configuration means they have little tendency to gain, lose, or share electrons with other elements."
+                    },
+                    {
+                        "text": "Noble gases are too small to react with other elements.",
+                        "isCorrect": 0,
+                        "explanation": "The size of an atom is not what determines its reactivity. Noble gases vary in size, with helium being very small and xenon being much larger, yet they all share similar low reactivity."
+                    },
+                    {
+                        "text": "Noble gases only exist as gases, so they cannot form bonds.",
+                        "isCorrect": 0,
+                        "explanation": "The physical state of an element (solid, liquid, or gas) does not determine its ability to form bonds. Many gases like oxygen and hydrogen readily form bonds with other elements."
+                    },
+                    {
+                        "text": "Noble gases can only react with other gases.",
+                        "isCorrect": 0,
+                        "explanation": "Noble gases can form compounds with various elements under specific conditions, not just with other gases. For example, xenon can form compounds with fluorine and oxygen."
+                    }
+                ],
+                "funFact": "While noble gases are generally unreactive, scientists have successfully created compounds with some of the heavier noble gases like xenon, krypton, and argon. The first noble gas compound, xenon hexafluoroplatinate, was synthesized in 1962, challenging the long-held belief that noble gases couldn't form compounds at all!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify noble gases as elements that rarely react with other elements"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes how elements combine to form different substances?",
+                "options": [
+                    {
+                        "text": "Elements can only form compounds by sharing electrons equally.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because elements can combine in various ways, not just by sharing electrons equally. They can also transfer electrons or form extended structures through different types of bonds."
+                    },
+                    {
+                        "text": "Elements combine in specific patterns based on their atomic structure to form molecules and extended structures.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Elements combine in specific ways based on their atomic structure. The arrangement of their protons, neutrons, and electrons determines how they will interact with other elements to form molecules or extended structures."
+                    },
+                    {
+                        "text": "All elements naturally exist as individual atoms that never combine with other atoms.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While some elements like noble gases (helium, neon) exist as individual atoms, most elements naturally combine with other atoms to form molecules or extended structures."
+                    },
+                    {
+                        "text": "Elements can only combine with other elements in the same group of the periodic table.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Elements can combine with elements from any group on the periodic table, not just those in the same group. In fact, elements from different groups often form strong bonds with each other."
+                    }
+                ],
+                "funFact": "The human body is made up of just 6 main elements that account for about 99% of your body weight: oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. These elements combine in various ways to form the molecules that make up your cells, tissues, and organs!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about how elements combine to form molecules, identifying that atoms can combine in various ways"
+        },
+        {
+            "question": {
+                "text": "What does the atomic symbol represent on the periodic table?",
+                "options": [
+                    {
+                        "text": "The number of electrons in an element",
+                        "isCorrect": 0,
+                        "explanation": "While elements have specific numbers of electrons, the atomic symbol is an abbreviation for the element's name, not a representation of its electron count."
+                    },
+                    {
+                        "text": "An abbreviation for the name of an element",
+                        "isCorrect": 1,
+                        "explanation": "The atomic symbol is a shorthand notation that represents the name of an element. For example, 'O' represents oxygen and 'Na' represents sodium."
+                    },
+                    {
+                        "text": "The atomic mass of an element",
+                        "isCorrect": 0,
+                        "explanation": "The atomic mass is typically shown as a number on the periodic table, but it is not what the atomic symbol itself represents."
+                    },
+                    {
+                        "text": "The number of protons and neutrons combined",
+                        "isCorrect": 0,
+                        "explanation": "The total number of protons and neutrons is the mass number, which is different from what the atomic symbol represents."
+                    }
+                ],
+                "funFact": "Some atomic symbols come from Latin or other non-English names for elements. For example, the symbol for gold is 'Au' from the Latin word 'aurum,' and the symbol for sodium is 'Na' from the Latin 'natrium.'"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify what an atomic symbol represents (an abbreviation for the name of an element on the periodic table)"
+        },
+        {
+            "question": {
+                "text": "Which element is commonly found in rechargeable batteries used in smartphones and laptops?",
+                "options": [
+                    {
+                        "text": "Lithium",
+                        "isCorrect": 1,
+                        "explanation": "Lithium is the element used in modern rechargeable batteries for portable electronic devices. It's lightweight and can store a lot of energy relative to its mass."
+                    },
+                    {
+                        "text": "Fluorine",
+                        "isCorrect": 0,
+                        "explanation": "Fluorine is found in toothpaste and drinking water to help prevent tooth decay, not in batteries."
+                    },
+                    {
+                        "text": "Calcium",
+                        "isCorrect": 0,
+                        "explanation": "Calcium is an element needed for bone formation and is found in shells of living things, not in batteries."
+                    },
+                    {
+                        "text": "Copper",
+                        "isCorrect": 0,
+                        "explanation": "Copper is used for electrical wiring due to its conductivity, but it's not the primary element in rechargeable batteries for portable devices."
+                    },
+                    {
+                        "text": "Bismuth",
+                        "isCorrect": 0,
+                        "explanation": "Bismuth is found in medicines used to treat stomach issues like diarrhea, not in batteries."
+                    }
+                ],
+                "funFact": "Lithium is the lightest metal on the periodic table and has one of the highest electrochemical potentials among metals practical for battery use, which is why it's so valuable for battery technology. A typical smartphone battery contains about 3 grams of lithium, while an electric vehicle battery may contain several kilograms!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify examples of elements used in everyday life (like lithium in batteries, fluorine in toothpaste, calcium in bones)"
+        },
+        {
+            "question": {
+                "text": "Which of the following best defines an element?",
+                "options": [
+                    {
+                        "text": "A pure substance made of only one type of atom",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct definition of an element. Elements are pure substances composed of only one type of atom, with each element having a unique number of protons that defines it."
+                    },
+                    {
+                        "text": "A combination of different types of atoms joined together",
+                        "isCorrect": 0,
+                        "explanation": "This describes a compound or molecule, not an element. Elements contain only one type of atom."
+                    },
+                    {
+                        "text": "Any substance found in its natural state on Earth",
+                        "isCorrect": 0,
+                        "explanation": "Many natural substances are compounds or mixtures. Elements are specifically pure substances made of only one type of atom."
+                    },
+                    {
+                        "text": "A material that cannot be broken down by physical means",
+                        "isCorrect": 0,
+                        "explanation": "While elements cannot be broken down by chemical means into simpler substances, this definition focuses on physical properties rather than atomic composition."
+                    },
+                    {
+                        "text": "A substance that conducts electricity",
+                        "isCorrect": 0,
+                        "explanation": "Conductivity is a property that some elements have, but this is not the definition of an element. Many elements are not good conductors."
+                    }
+                ],
+                "funFact": "There are 118 known elements on the periodic table, but only about 90-92 occur naturally on Earth. The rest have been created in laboratories through nuclear reactions. The most recently confirmed elements were added to the periodic table in 2016!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the definition of an element as a pure substance made of only one type of atom"
+        },
+        {
+            "question": {
+                "text": "Which of the following best represents an element?",
+                "options": [
+                    {
+                        "text": "A substance composed of atoms with 8 protons, 8 neutrons, and 8 electrons",
+                        "isCorrect": 1,
+                        "explanation": "This represents oxygen, which is an element. Elements are pure substances made of only one type of atom, and all atoms of an element have the same number of protons (in this case, 8)."
+                    },
+                    {
+                        "text": "A substance with atoms that have 6 protons bonded to atoms with 8 protons",
+                        "isCorrect": 0,
+                        "explanation": "This describes a compound containing carbon (6 protons) and oxygen (8 protons) atoms bonded together, like carbon dioxide. This is not an element because it contains more than one type of atom."
+                    },
+                    {
+                        "text": "A diatomic molecule containing two identical atoms joined together",
+                        "isCorrect": 0,
+                        "explanation": "While this might be composed of the same type of atom (like O\u2082), the question asks for what represents an element itself, not a specific molecular form of an element. Elements are defined by their atomic composition, not their molecular arrangement."
+                    },
+                    {
+                        "text": "A substance that conducts electricity and has a shiny appearance",
+                        "isCorrect": 0,
+                        "explanation": "These are physical properties that many metals (which are elements) possess, but these properties alone don't define what an element is. Some non-elemental substances can also have these properties."
+                    },
+                    {
+                        "text": "A pure substance that can be broken down by chemical reactions",
+                        "isCorrect": 0,
+                        "explanation": "Elements cannot be broken down into simpler substances by chemical reactions. Only compounds can be broken down chemically into their constituent elements."
+                    }
+                ],
+                "funFact": "Oxygen, which is element number 8 on the periodic table, naturally occurs as a diatomic molecule (O\u2082) in our atmosphere, but it can also exist as ozone (O\u2083) in the upper atmosphere, where it protects Earth from harmful ultraviolet radiation."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question that asks students to identify which model best represents an element (pure substance with only one type of atom) versus a molecule (combination of atoms), showing visual representations of atomic structures."
+        },
+        {
+            "question": {
+                "text": "Which model correctly shows how oxygen exists naturally?",
+                "options": [
+                    {
+                        "text": "Single oxygen atoms floating freely",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen does not naturally exist as single atoms. It forms diatomic molecules with two oxygen atoms bonded together."
+                    },
+                    {
+                        "text": "Two oxygen atoms bonded together (O\u2082)",
+                        "isCorrect": 1,
+                        "explanation": "Oxygen exists naturally as a diatomic element, meaning it forms molecules consisting of two oxygen atoms bonded together (O\u2082)."
+                    },
+                    {
+                        "text": "Three oxygen atoms bonded together (O\u2083)",
+                        "isCorrect": 0,
+                        "explanation": "While ozone (O\u2083) exists in our atmosphere, it is not the natural state of oxygen at standard conditions. Oxygen typically exists as O\u2082."
+                    },
+                    {
+                        "text": "Four oxygen atoms in a square arrangement",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen does not naturally form molecules with four atoms arranged in a square. It exists as diatomic O\u2082 molecules."
+                    },
+                    {
+                        "text": "One oxygen atom bonded to one hydrogen atom",
+                        "isCorrect": 0,
+                        "explanation": "This would be hydroxide (OH), which is not how oxygen naturally exists. Oxygen exists as O\u2082 molecules in its elemental form."
+                    }
+                ],
+                "funFact": "Several other elements also exist naturally as diatomic molecules, including hydrogen (H\u2082), nitrogen (N\u2082), and the halogens: fluorine (F\u2082), chlorine (Cl\u2082), bromine (Br\u2082), and iodine (I\u2082). These elements are sometimes remembered using the mnemonic 'HONClBrIF' or 'Have No Fear Of Ice Cold Beer'."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question focusing on the structure of diatomic elements like oxygen (O\u2082), asking students to select the model that correctly shows how oxygen exists naturally with two oxygen atoms bonded together."
+        },
+        {
+            "question": {
+                "text": "Elements in the same group (column) of the periodic table typically share what characteristic?",
+                "options": [
+                    {
+                        "text": "They have the same number of protons.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group don't necessarily have the same number of protons. The number of protons defines which element it is, and each element has a unique number of protons."
+                    },
+                    {
+                        "text": "They have the same atomic mass.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group have different atomic masses. Atomic mass generally increases as you move down a group."
+                    },
+                    {
+                        "text": "They have similar chemical properties and reactivity.",
+                        "isCorrect": 1,
+                        "explanation": "Elements in the same group (column) of the periodic table have similar chemical properties and reactivity patterns because they have the same number of electrons in their outer energy level, which determines how they interact with other elements."
+                    },
+                    {
+                        "text": "They exist in the same state of matter at room temperature.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group can exist in different states of matter (solid, liquid, or gas) at room temperature. State of matter is not determined solely by group placement."
+                    },
+                    {
+                        "text": "They have the same number of electron energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group have different numbers of electron energy levels. The number of energy levels increases as you move down a group, corresponding to the period (row) number."
+                    }
+                ],
+                "funFact": "The noble gases (Group 18) demonstrate their similar properties by all being colorless, odorless gases at room temperature with very low reactivity. However, when electricity passes through them, each noble gas emits a distinctive color - helium glows pink-orange, neon glows bright red-orange, and argon glows purple!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about the relationship between an element's position on the periodic table and its properties, asking students to predict how elements in the same group (column) would behave compared to elements across a period (row)."
+        },
+        {
+            "question": {
+                "text": "Which model correctly represents the structure of an atom with atomic number 6?",
+                "options": [
+                    {
+                        "text": "A model with 6 protons and 6 neutrons in the nucleus, and 6 electrons distributed in energy levels around the nucleus.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly represents a carbon atom with atomic number 6. The atomic number equals the number of protons, and in a neutral atom, the number of electrons equals the number of protons. Carbon typically has 6 neutrons as well, giving it an atomic mass of 12."
+                    },
+                    {
+                        "text": "A model with 6 electrons in the nucleus, and 6 protons and 6 neutrons distributed in energy levels around the nucleus.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because electrons are found in the energy levels or orbitals surrounding the nucleus, not within it. The nucleus contains only protons and neutrons."
+                    },
+                    {
+                        "text": "A model with 6 protons, 6 neutrons, and 6 electrons all packed together in the nucleus.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because only protons and neutrons are located in the nucleus. Electrons are found in energy levels or orbitals surrounding the nucleus."
+                    },
+                    {
+                        "text": "A model with 6 protons in the nucleus, and 6 neutrons and 6 electrons mixed together in energy levels around the nucleus.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because neutrons are located in the nucleus along with protons, not in the energy levels surrounding the nucleus. Only electrons occupy the energy levels or orbitals around the nucleus."
+                    }
+                ],
+                "funFact": "If you could see atoms, you'd be amazed by their proportions! If an atom's nucleus were the size of a marble, the electrons would orbit about a kilometer away. Atoms are mostly empty space - if you removed all the empty space from all the atoms in all humans on Earth, the entire human race would fit into a sugar cube!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting different atomic models and asking students to identify which one correctly represents the structure of an atom with protons and neutrons in the nucleus and electrons in energy levels or orbitals."
+        },
+        {
+            "question": {
+                "text": "Why do noble gases like helium, neon, and argon rarely react with other elements?",
+                "options": [
+                    {
+                        "text": "They have incomplete outer electron shells that make them highly reactive.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Noble gases actually have complete outer electron shells, which is why they are so stable and unreactive."
+                    },
+                    {
+                        "text": "They have complete outer electron shells that make them stable and unreactive.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Noble gases have full outer electron shells (8 electrons in their outermost energy level, except for helium which has 2), giving them a stable electron configuration that doesn't readily form bonds with other elements."
+                    },
+                    {
+                        "text": "They are too small to interact with other elements.",
+                        "isCorrect": 0,
+                        "explanation": "The size of atoms doesn't determine reactivity. Noble gases vary in size but all share the property of having complete outer electron shells, which is the reason for their low reactivity."
+                    },
+                    {
+                        "text": "They are only found in gas form, preventing them from bonding with other elements.",
+                        "isCorrect": 0,
+                        "explanation": "The physical state of an element doesn't determine its reactivity. Many reactive elements exist as gases too. The low reactivity of noble gases is due to their electron structure, not their physical state."
+                    }
+                ],
+                "funFact": "While noble gases rarely react with other elements, scientists have managed to create some noble gas compounds! In 1962, chemist Neil Bartlett created the first noble gas compound (xenon hexafluoroplatinate), proving that these elements aren't completely inert. Today, several xenon and krypton compounds are known, though they typically require extreme conditions to form."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about the properties of noble gases (Group 18 elements), asking students to explain why these elements rarely react with other elements based on their atomic structure."
+        },
+        {
+            "question": {
+                "text": "Which of the following items best represents an extended structure with repeating subunits?",
+                "options": [
+                    {
+                        "text": "A balloon filled with helium gas",
+                        "isCorrect": 0,
+                        "explanation": "Helium gas consists of individual atoms that are not attracted to each other. These atoms move freely in the balloon without forming any type of structure or pattern, making this a simple atomic substance rather than an extended structure."
+                    },
+                    {
+                        "text": "A copper electrical wire",
+                        "isCorrect": 1,
+                        "explanation": "Copper wire is an extended structure with repeating subunits. It consists of copper atoms arranged in a regular, repeating crystalline pattern that extends throughout the material, giving copper its ability to conduct electricity."
+                    },
+                    {
+                        "text": "Oxygen gas in the air",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen in air exists as O\u2082 molecules (diatomic oxygen). While these are molecules, they are simple molecules that don't connect to form extended structures - they move independently of each other as a gas."
+                    },
+                    {
+                        "text": "Carbon dioxide in a soft drink",
+                        "isCorrect": 0,
+                        "explanation": "Carbon dioxide consists of molecules with different types of atoms (carbon and oxygen), but these CO\u2082 molecules are not attracted to each other to form extended structures. They exist as separate molecules dissolved in the liquid."
+                    }
+                ],
+                "funFact": "The extended structure of copper's crystalline arrangement gives it excellent electrical conductivity. In fact, a single copper penny contains billions of copper atoms arranged in this repeating pattern, which allows electrons to flow through it with minimal resistance when used in electrical wiring."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting everyday materials (like copper wire, table salt, etc.) and asking students to identify which represents an extended structure with repeating subunits versus a simple molecular structure."
+        },
+        {
+            "question": {
+                "text": "How does the arrangement of atoms in different states of matter affect the observable properties of elements?",
+                "options": [
+                    {
+                        "text": "In solids, atoms are tightly packed and fixed in position, giving them a definite shape and volume. In liquids, atoms are still close together but can move past each other, allowing liquids to flow while maintaining volume. In gases, atoms are far apart and move freely, resulting in no definite shape or volume.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how atomic arrangement affects the observable properties in each state of matter. The distances between atoms and their movement patterns directly determine physical properties like shape retention and volume."
+                    },
+                    {
+                        "text": "The state of matter has no effect on an element's properties since elements are defined solely by their atomic number.",
+                        "isCorrect": 0,
+                        "explanation": "While an element is defined by its atomic number, its physical properties definitely change based on its state of matter. The arrangement and behavior of atoms directly affect observable properties like shape, volume, and flow."
+                    },
+                    {
+                        "text": "Atoms in all states of matter have the same arrangement but different energy levels, which causes different observable properties.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The arrangement of atoms differs significantly between solids, liquids, and gases - not just their energy levels. These different structural arrangements are what give each state its characteristic properties."
+                    },
+                    {
+                        "text": "Elements can only exist in one natural state of matter regardless of temperature or pressure conditions.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Elements can exist in different states of matter depending on temperature and pressure conditions. For example, oxygen can be a gas at room temperature, a liquid when cooled, and a solid when cooled further."
+                    }
+                ],
+                "funFact": "Mercury is the only metal that exists in liquid form at room temperature due to its unique atomic structure and bonding. Most other metals require much higher temperatures to change from solid to liquid state!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how the arrangement of atoms in different states of matter (solid, liquid, gas) affects the observable properties of elements, with visual models representing each state."
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes how elements combine to form different types of structures?",
+                "options": [
+                    {
+                        "text": "All elements combine to form extended structures with repeated patterns.",
+                        "isCorrect": 0,
+                        "explanation": "While some elements do form extended structures, not all elements combine this way. Some form simple molecules or remain as individual atoms."
+                    },
+                    {
+                        "text": "Elements can combine to form simple molecules with just a few atoms or extended structures with repeating patterns.",
+                        "isCorrect": 1,
+                        "explanation": "Elements can combine in various ways depending on their properties. They can form simple molecules (like oxygen, O\u2082) with just a few atoms or extended structures (like sodium chloride) with repeating patterns."
+                    },
+                    {
+                        "text": "Elements with similar properties never combine with each other.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Elements with similar properties can combine with each other. For example, oxygen atoms combine with other oxygen atoms to form O\u2082 molecules."
+                    },
+                    {
+                        "text": "All pure substances are made of molecules.",
+                        "isCorrect": 0,
+                        "explanation": "Not all pure substances are made of molecules. Some, like helium, exist as individual atoms, while others, like sodium chloride, form extended structures rather than discrete molecules."
+                    }
+                ],
+                "funFact": "Diamond and graphite (pencil lead) are both made entirely of carbon atoms, but they have completely different properties because of how those atoms are arranged. In diamonds, carbon atoms form a rigid 3D structure making it the hardest natural substance, while in graphite, carbon forms sheets that can slide over each other, making it soft enough to write with!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question focusing on how elements combine to form different types of molecules, asking students to identify which combinations would form simple molecules versus extended structures."
+        },
+        {
+            "question": {
+                "text": "Scientists often identify elements by examining their unique properties. If an element conducts electricity well, has a high melting point, and can be attracted to a magnet, which of the following elements would it most likely be?",
+                "options": [
+                    {
+                        "text": "Iron",
+                        "isCorrect": 1,
+                        "explanation": "Iron is a metal that conducts electricity well, has a relatively high melting point (1538\u00b0C), and is ferromagnetic, meaning it is strongly attracted to magnets."
+                    },
+                    {
+                        "text": "Helium",
+                        "isCorrect": 0,
+                        "explanation": "Helium is a noble gas that does not conduct electricity under normal conditions, has an extremely low melting point (-272\u00b0C), and is not magnetic."
+                    },
+                    {
+                        "text": "Sulfur",
+                        "isCorrect": 0,
+                        "explanation": "Sulfur is a non-metal that does not conduct electricity well, has a low melting point (115\u00b0C), and is not magnetic."
+                    },
+                    {
+                        "text": "Oxygen",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen is a gas at room temperature that does not conduct electricity in its elemental form, has a very low melting point (-218\u00b0C), and is only weakly magnetic (paramagnetic), not strongly attracted to magnets."
+                    },
+                    {
+                        "text": "Copper",
+                        "isCorrect": 0,
+                        "explanation": "While copper is an excellent conductor of electricity and has a high melting point (1085\u00b0C), it is not ferromagnetic and is not attracted to magnets."
+                    }
+                ],
+                "funFact": "The magnetic properties of iron are so important that Earth's magnetic field is generated by flowing liquid iron in the outer core of our planet. This magnetic field protects us from harmful solar radiation and helps some animals navigate during migration!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how scientists use properties like conductivity, magnetism, and melting point to identify and categorize elements, asking students to match properties with the appropriate elements."
+        },
+        {
+            "question": {
+                "text": "Which statement correctly explains how the number of electron energy levels relates to an element's position and reactivity in the periodic table?",
+                "options": [
+                    {
+                        "text": "Elements in period 3 have three electron energy levels, which makes them more reactive than elements in period 2.",
+                        "isCorrect": 0,
+                        "explanation": "While elements in period 3 do have three electron energy levels, having more energy levels doesn't automatically make elements more reactive. Reactivity depends on electron configuration in the outermost energy level, not just the total number of levels."
+                    },
+                    {
+                        "text": "The number of the period indicates the number of electron energy levels an element has, which influences how it interacts with other elements.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The period number (row) on the periodic table indicates the number of electron energy levels in the atom. This arrangement helps scientists predict how elements will interact with other elements based on their electron configurations."
+                    },
+                    {
+                        "text": "Elements with the same number of electron energy levels will always have similar chemical properties.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same period (row) have the same number of energy levels, but they can have very different properties. It's primarily the arrangement of electrons in the outermost energy level that determines chemical properties, which is why elements in the same group (column) tend to have similar properties."
+                    },
+                    {
+                        "text": "The number of electron energy levels determines an element's atomic number.",
+                        "isCorrect": 0,
+                        "explanation": "The atomic number is determined by the number of protons in an atom, not by the number of electron energy levels. The number of energy levels (indicated by the period number) is a result of the electron configuration, not a cause of the atomic number."
+                    }
+                ],
+                "funFact": "Noble gases like helium, neon, and argon are among the least reactive elements because they have completely filled outer electron energy levels. This stable electron configuration is why these elements rarely form compounds naturally and is also why they produce colorful glows when electricity passes through them in neon signs!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how the number of electron energy levels (corresponding to periods/rows on the periodic table) influences an element's reactivity with other elements."
+        },
+        {
+            "question": {
+                "text": "What determines how atoms combine to form different types of structures?",
+                "options": [
+                    {
+                        "text": "The number of protons in each atom",
+                        "isCorrect": 0,
+                        "explanation": "While the number of protons determines which element an atom is, it's not directly responsible for how atoms combine to form structures. That's determined by electron arrangements."
+                    },
+                    {
+                        "text": "The arrangement of electrons in the outermost energy levels",
+                        "isCorrect": 1,
+                        "explanation": "The electrons in the outermost energy levels (valence electrons) determine how atoms combine with other atoms. These electrons are involved in chemical bonding that creates molecules and extended structures."
+                    },
+                    {
+                        "text": "The weight of the atoms",
+                        "isCorrect": 0,
+                        "explanation": "The atomic weight doesn't determine how atoms combine. Very light elements like hydrogen can form bonds just as easily as heavier elements."
+                    },
+                    {
+                        "text": "The physical state of the element (solid, liquid, or gas)",
+                        "isCorrect": 0,
+                        "explanation": "The physical state is a result of how atoms are arranged, not a cause of it. The same element can exist in different states depending on temperature and pressure."
+                    },
+                    {
+                        "text": "The color of the element",
+                        "isCorrect": 0,
+                        "explanation": "Color is a physical property that results from how electrons interact with light, but it doesn't determine how atoms combine to form structures."
+                    }
+                ],
+                "funFact": "When sodium (a highly reactive metal) and chlorine (a toxic gas) combine, they form sodium chloride - ordinary table salt! This dramatic transformation happens because their electron arrangements make them perfect partners, with sodium donating an electron to chlorine."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how atoms form molecules ranging from simple (two atoms) to complex structures (thousands of atoms), asking students to identify what determines the type of structure formed."
+        },
+        {
+            "question": {
+                "text": "Which statement correctly explains how the atomic composition of lithium makes it useful in rechargeable batteries?",
+                "options": [
+                    {
+                        "text": "Lithium has 3 protons in its nucleus, making it a lightweight element that can efficiently store and release electrical energy.",
+                        "isCorrect": 1,
+                        "explanation": "Lithium's atomic structure with 3 protons makes it the lightest metal on the periodic table. This lightweight nature, combined with lithium's ability to easily give up electrons to form ions (Li+), makes it ideal for energy storage and transfer in batteries while keeping the battery weight low."
+                    },
+                    {
+                        "text": "Lithium atoms are naturally magnetic, which helps them attract and store electrical energy.",
+                        "isCorrect": 0,
+                        "explanation": "Lithium is not naturally magnetic. This is a misconception about how lithium batteries work. The usefulness of lithium in batteries comes from its atomic properties related to electron transfer, not magnetism."
+                    },
+                    {
+                        "text": "Lithium has many neutrons, making it stable enough to withstand the heat generated in batteries.",
+                        "isCorrect": 0,
+                        "explanation": "The number of neutrons is not what makes lithium useful in batteries. In fact, the most common isotope of lithium (Li-7) has only 4 neutrons. Its usefulness comes from its electronic properties and light weight."
+                    },
+                    {
+                        "text": "Lithium atoms form complex molecular structures that trap electricity within the battery.",
+                        "isCorrect": 0,
+                        "explanation": "Lithium doesn't work in batteries by forming complex molecular structures. Instead, individual lithium ions (Li+) move between the battery electrodes during charging and discharging, carrying charge in a relatively simple process."
+                    }
+                ],
+                "funFact": "The lithium in a typical smartphone battery is enough to cover a penny, yet this small amount can power your device all day because of lithium's excellent properties in electrochemical reactions. In batteries, lithium ions move between electrodes to store and release energy, rather than conducting electricity themselves. If all cars switched to lithium batteries, the demand for lithium would increase dramatically!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to compare the atomic structures of different elements found in everyday life (like lithium in batteries, fluorine in toothpaste, etc.) and explain how their atomic composition relates to their uses."
+        },
+        {
+            "question": {
+                "text": "Scientists are studying two different elements, Element X and Element Y. Element X has 11 protons in its nucleus while Element Y has 19 protons. Which property would be most useful in distinguishing between these two elements?",
+                "options": [
+                    {
+                        "text": "The color they appear when observed in a laboratory",
+                        "isCorrect": 0,
+                        "explanation": "While some elements have characteristic colors, color alone is not the most reliable way to identify elements. Many elements can appear similar in color, and the appearance can change based on physical state or chemical combinations."
+                    },
+                    {
+                        "text": "The number of protons in their nuclei",
+                        "isCorrect": 1,
+                        "explanation": "The number of protons in the nucleus is what defines an element and gives it its unique identity. Each element has a unique number of protons (atomic number), making this the most reliable property for distinguishing between elements."
+                    },
+                    {
+                        "text": "Their states of matter at room temperature",
+                        "isCorrect": 0,
+                        "explanation": "While state of matter is a property of elements, many different elements can exist in the same state (solid, liquid, or gas) at room temperature. This isn't unique enough to distinguish between specific elements."
+                    },
+                    {
+                        "text": "Their exact position on the periodic table",
+                        "isCorrect": 0,
+                        "explanation": "While position on the periodic table is related to an element's properties, this is determined by the atomic number (number of protons), which is the more fundamental property for identification."
+                    },
+                    {
+                        "text": "Their mass",
+                        "isCorrect": 0,
+                        "explanation": "Though mass can help identify elements, it's not the most reliable property since isotopes of the same element can have different masses, and different elements can have similar masses. The number of protons is what definitively identifies an element."
+                    }
+                ],
+                "funFact": "Element X with 11 protons is sodium (Na), which reacts violently with water and is essential for nerve function in our bodies. Element Y with 19 protons is potassium (K), which is crucial for heart function. Both are alkali metals that share similar chemical properties but can be distinguished by their unique atomic numbers!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question analyzing the relationship between the atomic composition of an element and its unique properties, asking students to identify which property would best distinguish between two given elements based on their atomic structure."
+        },
+        {
+            "question": {
+                "text": "Looking at the periodic table, which of the following combinations would most likely form an extended structure rather than a simple molecule?",
+                "options": [
+                    {
+                        "text": "Hydrogen and oxygen",
+                        "isCorrect": 0,
+                        "explanation": "Hydrogen and oxygen form simple molecules like water (H\u2082O) or hydrogen peroxide (H\u2082O\u2082), not extended structures. These elements form discrete molecules with specific numbers of atoms bonded together."
+                    },
+                    {
+                        "text": "Carbon and hydrogen",
+                        "isCorrect": 0,
+                        "explanation": "Carbon and hydrogen typically form simple molecular compounds like methane (CH\u2084) or other hydrocarbons. While some can be larger molecules, they are still discrete molecular units rather than extended structures."
+                    },
+                    {
+                        "text": "Sodium and chlorine",
+                        "isCorrect": 1,
+                        "explanation": "Sodium and chlorine form sodium chloride (NaCl), which creates an extended crystal lattice structure where each sodium ion is surrounded by six chloride ions and vice versa. This is an example of an ionic compound forming an extended structure rather than discrete molecules."
+                    },
+                    {
+                        "text": "Oxygen atoms bonding with each other",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen typically forms O\u2082 molecules, which are simple diatomic molecules. These are discrete units and do not form extended structures under normal conditions."
+                    },
+                    {
+                        "text": "Carbon and oxygen",
+                        "isCorrect": 0,
+                        "explanation": "Carbon and oxygen typically form molecules like carbon dioxide (CO\u2082) or carbon monoxide (CO), which are simple molecules rather than extended structures."
+                    }
+                ],
+                "funFact": "While most elements exist as single atoms or simple molecules, about 90% of the Earth's crust is made up of extended structures called silicates, which are complex networks of silicon and oxygen atoms joined together in various arrangements!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question requiring students to analyze a diagram showing atoms of different elements and predict which combinations would form simple molecules versus extended structures based on their positioning in the periodic table."
+        },
+        {
+            "question": {
+                "text": "Why does oxygen (O\u2082) exist naturally as a diatomic molecule rather than as single atoms like noble gases?",
+                "options": [
+                    {
+                        "text": "Oxygen atoms need to share electrons to achieve a stable electron configuration.",
+                        "isCorrect": 1,
+                        "explanation": "Oxygen atoms have 6 valence electrons and need 2 more to achieve a stable octet. By forming a diatomic molecule, each oxygen atom shares 2 electrons, allowing both atoms to have a complete valence shell."
+                    },
+                    {
+                        "text": "Oxygen atoms are too large to exist independently.",
+                        "isCorrect": 0,
+                        "explanation": "The size of an atom does not determine whether it exists independently or forms molecules. Many elements larger than oxygen exist as individual atoms."
+                    },
+                    {
+                        "text": "All elements naturally exist as diatomic molecules.",
+                        "isCorrect": 0,
+                        "explanation": "Only some elements exist naturally as diatomic molecules (H\u2082, N\u2082, O\u2082, F\u2082, Cl\u2082, Br\u2082, I\u2082). Many elements, especially noble gases, exist as individual atoms."
+                    },
+                    {
+                        "text": "Oxygen atoms are positively charged and attract each other.",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen atoms are neutral, not positively charged. The bond in O\u2082 forms due to electron sharing (covalent bonding), not because of opposite charges attracting."
+                    },
+                    {
+                        "text": "Oxygen atoms form diatomic molecules only at room temperature.",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen remains diatomic across all three states of matter (solid, liquid, and gas) until extremely high temperatures, not just at room temperature."
+                    }
+                ],
+                "funFact": "When oxygen molecules (O\u2082) are exposed to ultraviolet radiation in the upper atmosphere, they can transform into ozone (O\u2083), which forms a protective layer that shields Earth from harmful UV radiation. Without this ozone layer, life as we know it would be impossible on land!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question requiring analysis of how the arrangement of atoms in diatomic elements (like oxygen) differs from single atoms of noble gases, and how this affects their physical properties."
+        },
+        {
+            "question": {
+                "text": "How do elements in the same group (vertical column) of the periodic table compare to each other?",
+                "options": [
+                    {
+                        "text": "They have the same number of protons.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group have different numbers of protons. The number of protons defines the identity of an element, so elements in the same group are different elements with different atomic numbers."
+                    },
+                    {
+                        "text": "They have similar chemical properties due to their similar electron configurations.",
+                        "isCorrect": 1,
+                        "explanation": "Elements in the same group (vertical column) of the periodic table have similar chemical properties because they have the same number of electrons in their outer energy level. This similar electron configuration leads to similar chemical behavior and reactivity."
+                    },
+                    {
+                        "text": "They always exist in the same state of matter.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group can exist in different states of matter (solid, liquid, or gas) at room temperature. Their state of matter is determined by other factors besides their group position."
+                    },
+                    {
+                        "text": "They have the same number of neutrons.",
+                        "isCorrect": 0,
+                        "explanation": "The number of neutrons can vary significantly among elements in the same group. Neutron count is not related to an element's position in a group on the periodic table."
+                    },
+                    {
+                        "text": "They have the same atomic mass.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same group have different atomic masses. Atomic mass generally increases as you move down a group because elements have more protons and neutrons."
+                    }
+                ],
+                "funFact": "The noble gases (Group 18) are one of the most distinctive groups on the periodic table. Before 1962, they were thought to be completely unreactive, earning the name 'inert gases.' However, scientists eventually created compounds with xenon, showing that even these extremely stable elements can react under the right conditions!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question analyzing how the position of elements in groups (columns) of the periodic table relates to their similar properties and ability to form certain types of bonds."
+        },
+        {
+            "question": {
+                "text": "Which of the following best demonstrates how elements exist in an extended structure rather than as simple molecules?",
+                "options": [
+                    {
+                        "text": "A container of oxygen gas (O\u2082)",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen exists as a diatomic molecule (O\u2082) with two oxygen atoms bonded together. These molecules are not connected to each other in an extended structure but exist separately as simple molecules."
+                    },
+                    {
+                        "text": "A piece of copper wire",
+                        "isCorrect": 1,
+                        "explanation": "Copper is a metal that forms an extended structure where copper atoms are arranged in a repeating pattern throughout the entire piece. This extended structure gives copper its properties like electrical conductivity and malleability."
+                    },
+                    {
+                        "text": "A balloon filled with helium",
+                        "isCorrect": 0,
+                        "explanation": "Helium exists as individual atoms that do not bond with each other. These atoms are not connected in any way and exist as simple, separate particles rather than in an extended structure."
+                    },
+                    {
+                        "text": "A bottle of carbon dioxide",
+                        "isCorrect": 0,
+                        "explanation": "Carbon dioxide exists as separate CO\u2082 molecules, each with one carbon atom bonded to two oxygen atoms. These molecules are not connected to each other in an extended structure."
+                    },
+                    {
+                        "text": "A sample of neon in a light tube",
+                        "isCorrect": 0,
+                        "explanation": "Neon is a noble gas that exists as separate atoms that do not form bonds with each other. These atoms are not connected in an extended structure but exist as individual atoms."
+                    }
+                ],
+                "funFact": "The arrangement of atoms in copper's extended structure allows electrons to move freely, which is why copper conducts electricity so well. If copper existed as separate molecules instead of an extended structure, it would be a poor conductor of electricity and might even be a gas at room temperature!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question requiring students to analyze examples of everyday materials and determine which contain elements in extended structures versus simple molecular forms."
+        },
+        {
+            "question": {
+                "text": "What determines the identity of an element, and how does this relate to the arrangement of elements in the periodic table?",
+                "options": [
+                    {
+                        "text": "The total number of protons, neutrons, and electrons together determine an element's identity, and elements are arranged in the periodic table alphabetically.",
+                        "isCorrect": 0,
+                        "explanation": "While atoms do contain protons, neutrons, and electrons, only the number of protons (atomic number) determines the element's identity. Elements are not arranged alphabetically in the periodic table, but rather by increasing atomic number."
+                    },
+                    {
+                        "text": "The number of protons in an atom's nucleus determines the element's identity, and elements are arranged in the periodic table by increasing atomic number.",
+                        "isCorrect": 1,
+                        "explanation": "The number of protons in an atom's nucleus (the atomic number) is what determines which element it is. Each element has a unique number of protons, and the periodic table is organized by increasing atomic number, not by alphabet or mass."
+                    },
+                    {
+                        "text": "The number of neutrons determines an element's identity, and elements are arranged in the periodic table by increasing mass.",
+                        "isCorrect": 0,
+                        "explanation": "The number of neutrons can vary within atoms of the same element (these variations are called isotopes), so neutrons don't determine an element's identity. While elements generally increase in mass across the periodic table, they are specifically arranged by atomic number (number of protons)."
+                    },
+                    {
+                        "text": "The number of electron energy levels determines an element's identity, and elements are arranged in the periodic table by the number of electron energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "While electron energy levels are important to an element's chemical properties, they don't determine the element's identity. The number of protons does that. The rows (periods) of the periodic table do correspond to the number of electron energy levels, but this is not how elements are primarily arranged."
+                    }
+                ],
+                "funFact": "Carbon atoms can form an almost infinite variety of molecules by bonding with other elements. This unique ability, called catenation, allows carbon to form the backbone of all known life forms on Earth, with an estimated 10 million different carbon compounds known to science!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question analyzing how the number of protons in an atom's nucleus relates to the element's identity and position on the periodic table, with examples demonstrating this relationship."
+        },
+        {
+            "question": {
+                "text": "How do elements in their pure form differ from when they form compounds?",
+                "options": [
+                    {
+                        "text": "Pure elements always exist as individual atoms, while compounds are made of molecules.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Some pure elements exist as individual atoms (like noble gases), but many elements naturally exist as molecules or extended structures even in their pure form."
+                    },
+                    {
+                        "text": "Pure elements retain their original properties when they form compounds.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When elements combine to form compounds, their properties change significantly from their pure form."
+                    },
+                    {
+                        "text": "Pure elements contain only one type of atom, while compounds contain different types of atoms with new combined properties.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Pure elements consist of only one type of atom (though they may form molecules or structures), while compounds contain different types of atoms chemically bonded together, resulting in new properties different from the original elements."
+                    },
+                    {
+                        "text": "Pure elements are always found in solid form, while compounds can be solid, liquid, or gas.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Pure elements can naturally exist in all three states of matter (solid, liquid, or gas) depending on the element and conditions."
+                    }
+                ],
+                "funFact": "Water (H\u2082O) is a great example of how elements change when forming compounds. While hydrogen is a highly flammable gas and oxygen supports combustion, when combined they form water, which has completely different properties and is used to extinguish fires!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question asking students to analyze how elements in their pure form (as found in nature) differ from the same elements when they form compounds, focusing on changes in properties."
+        },
+        {
+            "question": {
+                "text": "Why are noble gases like helium and neon less reactive than other elements on the periodic table?",
+                "options": [
+                    {
+                        "text": "They have incomplete outer electron shells that make them stable.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Noble gases actually have complete (not incomplete) outer electron shells, which is why they're stable and unreactive."
+                    },
+                    {
+                        "text": "They have complete outer electron shells, making them stable and less likely to react.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Noble gases have full outer electron shells (8 electrons except for helium which has 2), giving them exceptional stability. This complete valence shell means they rarely need to gain, lose, or share electrons with other elements."
+                    },
+                    {
+                        "text": "They are only found in gaseous form, which prevents them from reacting.",
+                        "isCorrect": 0,
+                        "explanation": "The physical state of an element doesn't determine its reactivity. Many reactive elements can exist as gases (like fluorine and chlorine), while noble gases are unreactive because of their electron configuration."
+                    },
+                    {
+                        "text": "They have fewer protons than other elements, making them less reactive.",
+                        "isCorrect": 0,
+                        "explanation": "The number of protons (atomic number) doesn't directly determine reactivity. Elements with both lower and higher atomic numbers than noble gases can be highly reactive."
+                    }
+                ],
+                "funFact": "While noble gases were once thought to be completely unreactive (and were called 'inert gases'), scientists discovered in 1962 that xenon could form compounds with fluorine. Since then, several noble gas compounds have been created in laboratories, though they typically require extreme conditions and remain very rare in nature!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question requiring students to analyze how the electron configuration of noble gases explains their low reactivity compared to other elements in the periodic table."
+        },
+        {
+            "question": {
+                "text": "When scientists create models of molecules, they use different approaches to show atomic composition and structure. Which model type would best represent the chemical bonding in a water molecule (H2O)?",
+                "options": [
+                    {
+                        "text": "A 2D drawing showing atomic symbols (H and O) with lines representing bonds",
+                        "isCorrect": 0,
+                        "explanation": "While 2D drawings are useful for showing chemical formulas and basic connectivity between atoms, they don't fully illustrate the three-dimensional structure of a water molecule, which has a bent shape rather than a linear arrangement."
+                    },
+                    {
+                        "text": "A 3D ball and stick model showing spatial arrangement of atoms",
+                        "isCorrect": 1,
+                        "explanation": "A 3D ball and stick model is best for representing water's molecular structure because it shows both the atoms (balls) and their bonds (sticks) in three dimensions. This allows viewers to see water's bent shape and understand how the two hydrogen atoms bond to the oxygen atom at specific angles."
+                    },
+                    {
+                        "text": "A graph showing the atomic masses of hydrogen and oxygen",
+                        "isCorrect": 0,
+                        "explanation": "Atomic mass graphs provide information about the weight of atoms but don't show how atoms are arranged or bonded in a molecule, which is essential for understanding a water molecule's structure."
+                    },
+                    {
+                        "text": "A table listing the properties of hydrogen and oxygen",
+                        "isCorrect": 0,
+                        "explanation": "While tables of element properties provide useful information about hydrogen and oxygen individually, they don't illustrate how these atoms combine to form water molecules or show the resulting molecular structure."
+                    }
+                ],
+                "funFact": "Water's bent molecular shape, which can be clearly seen in 3D models, is responsible for making it a polar molecule. This polarity gives water many of its unique properties, including its ability to dissolve many substances, which is why water is often called the 'universal solvent.'"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question analyzing how different models (ball and stick models, drawings, etc.) represent the same molecular structure and what features of atomic composition each model best illustrates."
+        },
+        {
+            "question": {
+                "text": "Based on the pattern of elements in the periodic table, which element would you predict to have properties most similar to sodium (Na)?",
+                "options": [
+                    {
+                        "text": "Potassium (K)",
+                        "isCorrect": 1,
+                        "explanation": "Potassium is directly below sodium in Group 1 of the periodic table. Elements in the same group share similar properties because they have the same number of electrons in their outer energy level, which determines how they interact with other elements."
+                    },
+                    {
+                        "text": "Magnesium (Mg)",
+                        "isCorrect": 0,
+                        "explanation": "Magnesium is next to sodium in Period 3, but it's in Group 2, which means it has a different number of electrons in its outer energy level, giving it different properties from sodium."
+                    },
+                    {
+                        "text": "Aluminum (Al)",
+                        "isCorrect": 0,
+                        "explanation": "Aluminum is in Group 13, several columns away from sodium (Group 1). Elements in different groups have different numbers of electrons in their outer energy levels, resulting in different chemical properties."
+                    },
+                    {
+                        "text": "Neon (Ne)",
+                        "isCorrect": 0,
+                        "explanation": "Neon is a noble gas in Group 18, which means it has a full outer energy level of electrons. This gives it very different properties from sodium, which has just one electron in its outer energy level."
+                    },
+                    {
+                        "text": "Chlorine (Cl)",
+                        "isCorrect": 0,
+                        "explanation": "Chlorine is in Group 17, which means it has very different properties from sodium. In fact, sodium and chlorine tend to react strongly with each other due to their complementary electron structures."
+                    }
+                ],
+                "funFact": "Both sodium and potassium are so reactive that they must be stored in oil to prevent them from reacting with air and moisture. When placed in water, both metals react vigorously enough to produce hydrogen gas and enough heat to ignite the hydrogen, creating a colorful flame - sodium produces a bright yellow flame, while potassium creates a lilac (purple) colored flame."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question asking students to analyze patterns in properties of elements with similar atomic structures and predict properties of an unknown element based on its position in the periodic table."
+        },
+        {
+            "question": {
+                "text": "Looking at elements in Period 3 of the periodic table, which statement correctly explains why the density of elements generally increases from sodium (Na) to aluminum (Al) and shows more complex patterns afterward?",
+                "options": [
+                    {
+                        "text": "The atoms get larger as you move across the period, which increases their mass.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Atomic radius actually decreases across a period due to increasing nuclear charge pulling electrons closer to the nucleus."
+                    },
+                    {
+                        "text": "The increasing number of protons and neutrons makes the atoms heavier without significantly increasing their size.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! As you move across a period, atoms gain protons and neutrons (increasing mass) while their atomic radius actually decreases due to stronger nuclear attraction, resulting in more dense elements."
+                    },
+                    {
+                        "text": "The elements become less malleable across the period, which naturally increases density.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While malleability does change across the period, it is not directly related to density. Density is determined by mass and volume relationships at the atomic level."
+                    },
+                    {
+                        "text": "The decreasing number of electron energy levels makes the atoms more compact.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Elements in the same period have the same number of electron energy levels. What changes is the number of electrons in the outermost level."
+                    },
+                    {
+                        "text": "The atoms become more reactive, which causes them to pack more tightly together.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Reactivity and density are separate properties. Reactivity depends on electron configuration, while density depends on atomic mass and volume."
+                    }
+                ],
+                "funFact": "The trend of increasing density is most consistent among metals in Period 3, but becomes more complex with non-metals. Phosphorus actually has a lower density than silicon despite coming later in Period 3, mainly because phosphorus exists in different allotropes (forms) with varying structural arrangements. Gases like chlorine have much lower densities than the solid elements in the period."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question asking students to analyze how the density of elements changes across a period in the periodic table and explain this pattern in terms of atomic structure."
+        },
+        {
+            "question": {
+                "text": "Which of the following substances exists in nature as a monatomic element?",
+                "options": [
+                    {
+                        "text": "Carbon dioxide (CO\u2082)",
+                        "isCorrect": 0,
+                        "explanation": "Carbon dioxide is a compound made of carbon and oxygen atoms. It contains two different types of atoms bonded together, making it a compound, not an element."
+                    },
+                    {
+                        "text": "Oxygen gas (O\u2082)",
+                        "isCorrect": 0,
+                        "explanation": "Oxygen gas is a pure element as it consists only of oxygen atoms. However, it naturally exists as diatomic molecules (O\u2082) where two oxygen atoms are bonded together, not as individual atoms. This makes it a diatomic element, not a monatomic element."
+                    },
+                    {
+                        "text": "Sodium chloride (NaCl)",
+                        "isCorrect": 0,
+                        "explanation": "Sodium chloride (table salt) is a compound made of sodium and chlorine atoms arranged in an extended crystal structure. It contains two different types of atoms, making it a compound, not an element."
+                    },
+                    {
+                        "text": "Gold (Au)",
+                        "isCorrect": 1,
+                        "explanation": "Gold is a monatomic element that exists as individual gold atoms in its natural state. While gold atoms form metallic bonds in solid gold, each atom interacts with multiple other gold atoms rather than forming distinct molecules. Gold exists as a pure monatomic element in its natural state."
+                    },
+                    {
+                        "text": "Water (H\u2082O)",
+                        "isCorrect": 0,
+                        "explanation": "Water is a compound made of hydrogen and oxygen atoms. It contains two different types of atoms bonded together, making it a compound, not an element."
+                    }
+                ],
+                "funFact": "While most elements on Earth are found combined with other elements, some elements like gold, silver, and platinum are found in nature in their pure form. These are called 'native elements' and have been prized throughout human history because they didn't require complex extraction methods to be usable."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question presenting descriptions of several substances and asking students to analyze which one represents a pure element versus a compound based on atomic composition at the molecular level."
+        },
+        {
+            "question": {
+                "text": "How does the number of electron energy levels (also called electron shells) in an element relate to its position on the periodic table?",
+                "options": [
+                    {
+                        "text": "The number of electron energy levels corresponds to the period (row) number of the element.",
+                        "isCorrect": 1,
+                        "explanation": "Elements in Period 1 have one energy level, elements in Period 2 have two energy levels, and so on. This pattern continues throughout the periodic table, with each row indicating an additional energy level that can hold electrons."
+                    },
+                    {
+                        "text": "The number of electron energy levels corresponds to the group (column) number of the element.",
+                        "isCorrect": 0,
+                        "explanation": "The group (column) number relates to the number of electrons in the outermost energy level (valence electrons), not the total number of energy levels."
+                    },
+                    {
+                        "text": "All elements in the same period have different numbers of electron energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "Elements in the same period (row) all have the same number of electron energy levels. The number of energy levels is determined by which row the element is in, not by its position within that row."
+                    },
+                    {
+                        "text": "The number of electron energy levels is equal to the atomic number of the element.",
+                        "isCorrect": 0,
+                        "explanation": "The atomic number represents the number of protons in an atom, not the number of electron energy levels. Many elements with very different atomic numbers can have the same number of energy levels."
+                    },
+                    {
+                        "text": "Elements with similar properties always have the same number of electron energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "Elements with similar properties may have different numbers of energy levels. Similar properties are often due to similar arrangements of valence electrons, not necessarily the same total number of energy levels."
+                    }
+                ],
+                "funFact": "The modern periodic table's organization allows scientists to predict properties of undiscovered elements. Before the element germanium was discovered, Dmitri Mendeleev accurately predicted its properties based on gaps in his early version of the periodic table!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Question asking students to compare the electron energy levels of elements in different rows of the periodic table and analyze how this affects their reactivity with other elements."
+        }
+    ]
+}

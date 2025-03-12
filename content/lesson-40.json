@@ -1,0 +1,1201 @@
+{
+    "id": "lesson-40",
+    "title": "What is Science?",
+    "standard": "MS-ETS1-3",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "In scientific research, what is the proper definition of evidence?",
+                "options": [
+                    {
+                        "text": "Raw data collected through observations or measurements",
+                        "isCorrect": 0,
+                        "explanation": "Raw data is important but isn't evidence until it has been analyzed and interpreted to support or refute a claim."
+                    },
+                    {
+                        "text": "Data that has been analyzed and interpreted to support or refute a scientific claim",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct definition of evidence in science. Evidence comes from data that scientists have analyzed and interpreted to determine whether it supports or contradicts a specific claim."
+                    },
+                    {
+                        "text": "Personal opinions or beliefs about how nature works",
+                        "isCorrect": 0,
+                        "explanation": "Personal opinions and beliefs are not scientific evidence because they aren't based on systematic analysis of data."
+                    },
+                    {
+                        "text": "Information that confirms a hypothesis without testing",
+                        "isCorrect": 0,
+                        "explanation": "Evidence requires proper testing and analysis - information that hasn't been tested cannot serve as scientific evidence."
+                    }
+                ],
+                "funFact": "Scientists often spend more time analyzing and interpreting data than they do collecting it! The process of turning raw data into evidence involves identifying patterns, applying statistical tests, and carefully considering alternative explanations before drawing conclusions."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question asking students to identify the definition of evidence in scientific contexts, with options including raw observations, analyzed data that supports claims, personal opinions, and unverified information."
+        },
+        {
+            "question": {
+                "text": "Which of the following statements best describes what makes a good scientific question?",
+                "options": [
+                    {
+                        "text": "A good scientific question asks how or why something happens in the natural world and can be answered with evidence from observations or experiments.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes a good scientific question. Scientific questions focus on natural phenomena, ask about mechanisms or reasons, and must be answerable through evidence collection."
+                    },
+                    {
+                        "text": "A good scientific question is one that can be answered with a simple yes or no response based on personal opinions.",
+                        "isCorrect": 0,
+                        "explanation": "Scientific questions aren't typically yes/no questions based on opinions. They require evidence-based answers about natural phenomena rather than subjective judgments."
+                    },
+                    {
+                        "text": "A good scientific question is one that asks about supernatural phenomena that cannot be directly observed.",
+                        "isCorrect": 0,
+                        "explanation": "Scientific questions focus specifically on natural phenomena that can be studied through observation and experimentation, not supernatural claims that cannot be tested with evidence."
+                    },
+                    {
+                        "text": "A good scientific question is one that can only be answered by conducting laboratory experiments with controlled variables.",
+                        "isCorrect": 0,
+                        "explanation": "While experiments are one way to answer scientific questions, not all scientific questions require laboratory experiments. Some fields rely primarily on careful observations (like astronomy or paleontology)."
+                    },
+                    {
+                        "text": "A good scientific question is one that can be answered by searching for the answer in existing textbooks.",
+                        "isCorrect": 0,
+                        "explanation": "While existing knowledge is important, good scientific questions often extend beyond what is already known and require new investigations to collect evidence."
+                    }
+                ],
+                "funFact": "The questions that revolutionized science were often deceptively simple! When Isaac Newton asked 'Why does an apple fall from a tree?' it led to his theory of gravity. Sometimes the most profound scientific discoveries come from questioning everyday observations that others take for granted."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question asking students to identify what makes a good scientific question, with options related to testability, evidence collection, and connection to the natural world."
+        },
+        {
+            "question": {
+                "text": "What is the key difference between a scientific theory and a scientific law?",
+                "options": [
+                    {
+                        "text": "A scientific theory describes what happens in nature, while a scientific law explains how and why it happens.",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the actual roles of theories and laws. Laws describe patterns, while theories provide explanations."
+                    },
+                    {
+                        "text": "A scientific law describes patterns in nature or states what happens, while a scientific theory explains how and why those patterns exist.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the fundamental difference between scientific laws and theories. Laws describe observable patterns without explaining mechanisms, while theories provide explanations for those patterns."
+                    },
+                    {
+                        "text": "A scientific theory is a hypothesis that has been proven true, while a scientific law is a rule that cannot be broken.",
+                        "isCorrect": 0,
+                        "explanation": "This reflects a common misconception. Scientific theories are not simply proven hypotheses, and scientific laws are not unbreakable rules - they are descriptions of observed patterns."
+                    },
+                    {
+                        "text": "A scientific law is more certain and reliable than a scientific theory, which is why laws are more important in science.",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly suggests a hierarchy of certainty between laws and theories. Both laws and theories can be well-supported by evidence and both are important to science, they just serve different purposes."
+                    }
+                ],
+                "funFact": "Newton's Law of Universal Gravitation describes the mathematical relationship between gravitating objects, but it took Einstein's Theory of General Relativity to explain why gravity works by proposing that mass curves spacetime itself!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about the relationship between scientific theories and laws, asking students to identify the key distinction between what a law describes versus what a theory explains."
+        },
+        {
+            "question": {
+                "text": "Why do all scientific models have limitations?",
+                "options": [
+                    {
+                        "text": "Because models are simplified representations of complex natural phenomena",
+                        "isCorrect": 1,
+                        "explanation": "Models are intentionally simplified to help scientists understand and explain complex processes. This simplification means they cannot capture all features of the real processes they represent."
+                    },
+                    {
+                        "text": "Because scientists don't have enough technology to create accurate models",
+                        "isCorrect": 0,
+                        "explanation": "The limitations of models aren't primarily due to technological constraints, but rather are inherent to the purpose of models as simplified representations of reality."
+                    },
+                    {
+                        "text": "Because models only work for laboratory experiments",
+                        "isCorrect": 0,
+                        "explanation": "Models are used in many scientific contexts beyond laboratory experiments, including to represent processes that are too large (like galaxies) or too small (like atoms) to observe directly."
+                    },
+                    {
+                        "text": "Because models become outdated when new theories are developed",
+                        "isCorrect": 0,
+                        "explanation": "While models may be updated as scientific understanding improves, their limitations are inherent to being simplified representations, not just because they may become outdated."
+                    }
+                ],
+                "funFact": "The London Underground map is a famous example of a useful model with clear limitations. It shows the relative positions of subway stations but intentionally distorts geographic distances and directions to make the complex network easier to understand. This illustrates how even models with known limitations can be extremely valuable tools!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about why scientific models have limitations, with options related to their simplified nature, complexity of natural phenomena, and purpose of models."
+        },
+        {
+            "question": {
+                "text": "According to scientific principles, what is the primary reason scientific explanations change over time?",
+                "options": [
+                    {
+                        "text": "When new evidence contradicts existing explanations",
+                        "isCorrect": 1,
+                        "explanation": "Scientific explanations must be based on evidence. When new evidence is discovered that contradicts existing explanations, scientists must revise or replace those explanations to account for the new data."
+                    },
+                    {
+                        "text": "When scientists get tired of old theories",
+                        "isCorrect": 0,
+                        "explanation": "Scientific explanations don't change simply because scientists want something new. Changes are driven by evidence, not personal preference."
+                    },
+                    {
+                        "text": "When government agencies decide to update scientific standards",
+                        "isCorrect": 0,
+                        "explanation": "Scientific explanations change based on evidence, not because of government decisions or policy changes."
+                    },
+                    {
+                        "text": "When a famous scientist proposes a new idea",
+                        "isCorrect": 0,
+                        "explanation": "While respected scientists may propose new ideas, those ideas must still be supported by evidence and accepted by the scientific community through the process of peer review and verification."
+                    },
+                    {
+                        "text": "When a theory becomes old enough to be considered a law",
+                        "isCorrect": 0,
+                        "explanation": "Theories do not evolve into laws. Laws describe what happens (patterns in nature), while theories explain how and why those patterns exist. Both can change when new evidence is discovered."
+                    }
+                ],
+                "funFact": "The idea that Earth's continents move (plate tectonics) was initially rejected by the scientific community. When new evidence from ocean floor mapping and fossil records became available in the 1950s and 1960s, the scientific explanation changed dramatically, eventually becoming widely accepted."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question asking students to identify the primary reason scientific explanations change over time, with options related to new evidence, peer review, and the scientific process."
+        },
+        {
+            "question": {
+                "text": "When analyzing data from multiple design solutions, which approach helps engineers identify the best characteristics to combine into an improved solution?",
+                "options": [
+                    {
+                        "text": "Selecting the complete design solution that performed best overall",
+                        "isCorrect": 0,
+                        "explanation": "While choosing the best overall solution might seem logical, this approach misses the opportunity to identify and combine the best features from different solutions, which is key to optimization in engineering."
+                    },
+                    {
+                        "text": "Organizing data in tables or graphs to compare how different solutions perform against specific criteria",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct approach. By organizing data systematically (using tables, charts, or graphs), engineers can analyze how each solution performs against specific criteria, identify the best features of each, and combine them into an improved solution."
+                    },
+                    {
+                        "text": "Relying primarily on qualitative observations rather than quantitative measurements",
+                        "isCorrect": 0,
+                        "explanation": "While qualitative observations have value, engineering design optimization typically requires systematic analysis of quantitative data to make evidence-based decisions about which features perform best."
+                    },
+                    {
+                        "text": "Testing only the most promising solution multiple times",
+                        "isCorrect": 0,
+                        "explanation": "This approach would not allow engineers to compare multiple solutions and identify the best characteristics from each. Effective optimization requires testing and analyzing multiple design alternatives."
+                    },
+                    {
+                        "text": "Making design decisions based on which solution was easiest to build",
+                        "isCorrect": 0,
+                        "explanation": "Ease of construction is only one potential criterion in design evaluation. Proper engineering analysis involves evaluating solutions against multiple criteria to identify the best-performing characteristics."
+                    }
+                ],
+                "funFact": "The process of combining the best features from different designs is similar to how many everyday products evolved. The modern smartphone combines features that once existed separately: a phone, camera, music player, and computer\u2014each feature optimized through extensive data analysis of earlier individual devices."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about analyzing data to identify patterns, with options about different ways scientists organize and visualize information to determine relationships between variables."
+        },
+        {
+            "question": {
+                "text": "In a science class, students are testing different designs for a solar-powered car. They collected data on three designs, measuring how far each design traveled, how fast it moved, and how much sun exposure was needed. What is the most effective approach to create an improved design?",
+                "options": [
+                    {
+                        "text": "Select the design that performed best overall and use it without changes.",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't take advantage of the best features from multiple designs, which could lead to a better solution than any single original design."
+                    },
+                    {
+                        "text": "Identify the best characteristics from each design and combine them into a new solution.",
+                        "isCorrect": 1,
+                        "explanation": "This approach allows students to analyze what worked well in each design and incorporate those superior features into an improved solution that potentially performs better than any of the original designs."
+                    },
+                    {
+                        "text": "Randomly combine features from the different designs to create something new.",
+                        "isCorrect": 0,
+                        "explanation": "Random combination doesn't use analysis of test data to determine which features performed best for specific criteria, leading to potentially ineffective solutions."
+                    },
+                    {
+                        "text": "Choose the simplest design regardless of performance data.",
+                        "isCorrect": 0,
+                        "explanation": "Selecting a design based on simplicity alone, without considering performance data, doesn't utilize the evidence gathered through testing and may not meet the criteria for success."
+                    }
+                ],
+                "funFact": "The process of combining the best features from multiple designs is similar to how many modern technologies evolved. For example, today's smartphones combined features from telephones, cameras, computers, and music players to create a more effective device than any of the original technologies alone."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question asking students to identify the process of combining the best characteristics from multiple design solutions into an improved solution."
+        },
+        {
+            "question": {
+                "text": "When scientists are evaluating multiple design solutions to a problem, what is the most effective approach to develop an improved solution?",
+                "options": [
+                    {
+                        "text": "Select the single design solution that performed best overall and implement it exactly as tested",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores the possibility that different solutions may have different strengths that could be combined for better results."
+                    },
+                    {
+                        "text": "Identify the best features from each design solution and combine them into a new solution",
+                        "isCorrect": 1,
+                        "explanation": "By analyzing data from multiple solutions, scientists can identify the strongest characteristics of each and combine these features to create an improved solution that better meets the criteria for success."
+                    },
+                    {
+                        "text": "Eliminate all but the two best solutions and test them again with no modifications",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't utilize the valuable information gained from testing about specific features that worked well in each solution."
+                    },
+                    {
+                        "text": "Average the performance of all solutions to determine which one to implement",
+                        "isCorrect": 0,
+                        "explanation": "Averaging doesn't identify specific successful features that could be combined into an improved solution."
+                    },
+                    {
+                        "text": "Discard all tested solutions and start the design process over with new ideas",
+                        "isCorrect": 0,
+                        "explanation": "This wastes valuable data and insights gained from testing the original solutions that could inform improvements."
+                    }
+                ],
+                "funFact": "The process of combining the best elements from different designs is similar to how nature works in evolution - beneficial traits from different genetic lineages can combine to create organisms better adapted to their environments, a process scientists sometimes mimic in 'directed evolution' experiments."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about how scientists evaluate design solutions, with options about testing against criteria and constraints, analyzing similarities and differences, and identifying best features."
+        },
+        {
+            "question": {
+                "text": "When testing multiple design solutions to a problem, what is a scientist's best approach for identifying the most effective solution?",
+                "options": [
+                    {
+                        "text": "Select the solution that performs best in the most tests, discarding all other solutions",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores valuable characteristics from solutions that might perform well in some tests but not others, missing opportunities to combine the best features from different designs."
+                    },
+                    {
+                        "text": "Analyze data from all tests to identify the best characteristics from each solution that can be combined into an improved design",
+                        "isCorrect": 1,
+                        "explanation": "This is the optimal approach as it allows scientists to recognize valuable features across multiple solutions and combine them into a new solution that may outperform any of the original designs."
+                    },
+                    {
+                        "text": "Choose the simplest solution regardless of test performance",
+                        "isCorrect": 0,
+                        "explanation": "While simplicity can be valuable, selecting a solution based solely on simplicity without considering performance data ignores essential evidence about effectiveness."
+                    },
+                    {
+                        "text": "Collect more data until one solution clearly outperforms all others in every test",
+                        "isCorrect": 0,
+                        "explanation": "It's rare for one solution to outperform all others across every test. This approach delays progress and misses the opportunity to combine effective characteristics from different solutions."
+                    },
+                    {
+                        "text": "Discard all solutions and start the design process over with completely new ideas",
+                        "isCorrect": 0,
+                        "explanation": "This wastes valuable information gained from testing. The scientific approach involves learning from existing solutions rather than discarding that knowledge entirely."
+                    }
+                ],
+                "funFact": "The engineering design process used by NASA follows this same principle of iterative improvement. When designing spacecraft, engineers often combine the best features from multiple prototypes to create more effective and reliable systems than any single initial design."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about what scientists do with data from tests of multiple design solutions, with options about organizing data in tables/charts, analyzing patterns, and making evidence-based decisions."
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes what an experiment is in scientific investigation?",
+                "options": [
+                    {
+                        "text": "A procedure in which variables are manipulated and data is collected to test a hypothesis",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. An experiment is a scientific procedure that involves manipulating variables and collecting quantitative or qualitative data to answer a scientific question or test a hypothesis."
+                    },
+                    {
+                        "text": "A collection of observations made using the five senses",
+                        "isCorrect": 0,
+                        "explanation": "This describes an observation, not an experiment. Observations involve collecting data through senses or measurement tools, but don't necessarily involve manipulating variables."
+                    },
+                    {
+                        "text": "A statement that explains how or why something happens in nature",
+                        "isCorrect": 0,
+                        "explanation": "This describes a scientific explanation or hypothesis, not an experiment. Experiments are procedures used to collect evidence to support explanations."
+                    },
+                    {
+                        "text": "A representation of an idea or process to help study complex phenomena",
+                        "isCorrect": 0,
+                        "explanation": "This describes a model in science, not an experiment. Models represent ideas or processes, while experiments involve manipulating variables and collecting data."
+                    },
+                    {
+                        "text": "A process of analyzing and interpreting data to identify patterns",
+                        "isCorrect": 0,
+                        "explanation": "This describes data analysis, which is a part of scientific investigation that comes after conducting an experiment or making observations."
+                    }
+                ],
+                "funFact": "The first controlled scientific experiment is often attributed to Ibn al-Haytham, a scientist who lived around 1000 CE. He tested his hypothesis about how we see objects by manipulating light entering a darkened room through a small hole - essentially creating the first camera obscura!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question asking students to identify the definition of an experiment in scientific testing, with options about manipulating variables, collecting quantitative or qualitative data, and testing hypotheses."
+        },
+        {
+            "question": {
+                "text": "When scientists analyze data from tests of different design solutions, what is the most effective approach to developing an improved solution?",
+                "options": [
+                    {
+                        "text": "Select the single solution that performs best across all tests, regardless of any weaknesses it might have.",
+                        "isCorrect": 0,
+                        "explanation": "This approach overlooks the opportunity to combine the best features from multiple solutions, potentially missing out on creating a superior design that addresses all criteria better."
+                    },
+                    {
+                        "text": "Identify the best characteristics from each tested solution and combine them into a new solution that better meets the criteria for success.",
+                        "isCorrect": 1,
+                        "explanation": "This approach recognizes that sometimes parts of different solutions can be combined to create a solution that is better than any of its predecessors, allowing scientists to optimize the design based on evidence from testing."
+                    },
+                    {
+                        "text": "Choose the solution with the fewest weaknesses, even if it doesn't excel in any particular test.",
+                        "isCorrect": 0,
+                        "explanation": "This focuses only on minimizing weaknesses rather than maximizing strengths, which may result in a mediocre solution that doesn't excel in any aspect."
+                    },
+                    {
+                        "text": "Randomly combine features from different solutions to create new design options.",
+                        "isCorrect": 0,
+                        "explanation": "Random combination lacks the systematic, evidence-based approach that scientific design requires. Effective design improvement relies on analyzing test data to identify which specific characteristics perform best."
+                    },
+                    {
+                        "text": "Start over with completely new design solutions if none of the tested options meets all criteria perfectly.",
+                        "isCorrect": 0,
+                        "explanation": "This wastes valuable information gained from testing. Even imperfect solutions can contain excellent features that could be incorporated into an improved design."
+                    }
+                ],
+                "funFact": "The process of combining the best features from different designs is similar to how natural selection works in evolution, where beneficial traits are preserved while less useful ones are phased out over time. This approach is used in fields ranging from aerospace engineering to pharmaceutical development."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about what scientists must consider when developing new design solutions from existing ones, with options about performance across different tests, specific criteria satisfaction, and optimization strategies."
+        },
+        {
+            "question": {
+                "text": "In scientific research, what do models represent?",
+                "options": [
+                    {
+                        "text": "Exact replicas of the natural world",
+                        "isCorrect": 0,
+                        "explanation": "Models are purposefully simplified and don't capture all aspects of what they represent. They are tools for understanding, not perfect duplicates of reality."
+                    },
+                    {
+                        "text": "Simplified representations that help scientists explain and predict natural processes",
+                        "isCorrect": 1,
+                        "explanation": "Models provide simplified representations of ideas or processes that help scientists understand complex phenomena, make predictions, and communicate their ideas."
+                    },
+                    {
+                        "text": "Permanent explanations that never need to be revised",
+                        "isCorrect": 0,
+                        "explanation": "Scientific models have limitations and can be revised or replaced when new evidence is discovered or when scientists develop better ways to represent phenomena."
+                    },
+                    {
+                        "text": "Only large-scale physical objects used in laboratories",
+                        "isCorrect": 0,
+                        "explanation": "Models can be physical objects, but they can also be conceptual explanations, computer simulations, mathematical equations, or diagrams\u2014they're not limited to physical laboratory equipment."
+                    },
+                    {
+                        "text": "Data collections that cannot be tested or analyzed",
+                        "isCorrect": 0,
+                        "explanation": "Models are not just data collections; they are representations designed specifically to be tested, analyzed, and used to make predictions about the phenomena they represent."
+                    }
+                ],
+                "funFact": "Around 150 BCE, the ancient Greek astronomer Hipparchus created one of the earliest known sophisticated mathematical models to predict the movements of the sun and moon. Despite having limited tools, his calculations were remarkably accurate!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about what models represent in science, with options including exact replicas of real processes, simplified representations to help explain processes, permanent explanations that never change, and only large-scale physical objects."
+        },
+        {
+            "question": {
+                "text": "Three student teams designed birdhouses for a community garden project. The birdhouses were tested on three criteria: weather resistance, bird attractiveness (measured by visits per day), and cost of materials. The test results are shown in the table below:\n\nDesign | Weather Resistance (1-10 scale) | Bird Attractiveness (visits per day) | Cost ($)\n-------|----------------------------------|-----------------------------------|--------\nDesign A | 8 | 12 | 22\nDesign B | 6 | 18 | 15\nDesign C | 9 | 8 | 30\n\nBased on analyzing this data, which combination of design characteristics would create the best overall solution?",
+                "options": [
+                    {
+                        "text": "Weather resistance from Design A, bird attractiveness from Design A, and cost from Design B",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't maximize the best features. Design A has good but not the best weather resistance (Design C is better), and it has moderate bird attractiveness (Design B is better)."
+                    },
+                    {
+                        "text": "Weather resistance from Design C, bird attractiveness from Design B, and cost from Design B",
+                        "isCorrect": 1,
+                        "explanation": "This combines the best features from each design: the highest weather resistance rating (9 from Design C), the highest bird attractiveness (18 visits from Design B), and the lowest cost ($15 from Design B)."
+                    },
+                    {
+                        "text": "Weather resistance from Design A, bird attractiveness from Design B, and cost from Design C",
+                        "isCorrect": 0,
+                        "explanation": "While this takes good weather resistance and the best bird attractiveness, it also takes the highest cost from Design C ($30), which doesn't optimize the solution."
+                    },
+                    {
+                        "text": "Weather resistance from Design B, bird attractiveness from Design A, and cost from Design A",
+                        "isCorrect": 0,
+                        "explanation": "This combination takes the worst weather resistance (6 from Design B), moderate bird attractiveness, and a higher cost. None of these characteristics represent the best features from the designs."
+                    }
+                ],
+                "funFact": "In engineering, this process of combining the best features from different prototypes is called 'design synthesis.' NASA used a similar approach when designing the International Space Station, taking successful elements from previous space stations and incorporating them into a new, improved design."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze a data table showing test results of three different bridge designs comparing weight capacity, cost, and ease of construction. Identify which characteristics from each design would be most beneficial to combine into an improved solution."
+        },
+        {
+            "question": {
+                "text": "Four students designed and tested solar ovens as part of their science project. They collected data on three performance metrics: maximum temperature reached (in \u00b0C), time to reach cooking temperature (in minutes), and heat retention (measured as \u00b0C lost per hour). The results are shown in the tables below:\n\nMaximum Temperature (\u00b0C):\nDesign A: 95\u00b0C\nDesign B: 110\u00b0C\nDesign C: 85\u00b0C\nDesign D: 100\u00b0C\n\nTime to Reach Cooking Temperature (minutes):\nDesign A: 25 minutes\nDesign B: 40 minutes\nDesign C: 20 minutes\nDesign D: 30 minutes\n\nHeat Retention (\u00b0C lost per hour):\nDesign A: 15\u00b0C/hour\nDesign B: 10\u00b0C/hour\nDesign C: 20\u00b0C/hour\nDesign D: 8\u00b0C/hour\n\nThe class wants to create an improved solar oven design. Based on the data, which combination of design features would likely create the best overall solar oven?",
+                "options": [
+                    {
+                        "text": "The insulation from Design D, the reflective panels from Design B, and the size from Design C",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Design D has the best heat retention (lowest temperature loss per hour), Design B reaches the highest maximum temperature (suggesting effective reflective panels), and Design C heats up the fastest (suggesting an efficient size/configuration)."
+                    },
+                    {
+                        "text": "The insulation from Design A, the reflective panels from Design C, and the size from Design B",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Design A has poor heat retention (15\u00b0C/hour loss), Design C reached the lowest maximum temperature (suggesting ineffective reflective panels), and Design B takes the longest to heat up (suggesting inefficient size)."
+                    },
+                    {
+                        "text": "The insulation from Design B, the reflective panels from Design D, and the size from Design A",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While Design B has good insulation (10\u00b0C/hour loss), it's not the best (Design D is better). Design D has good maximum temperature but not the highest (suggesting its reflective panels aren't the most effective), and Design A has average heating time."
+                    },
+                    {
+                        "text": "The insulation from Design C, the reflective panels from Design A, and the size from Design D",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Design C has the worst heat retention (20\u00b0C/hour loss), Design A reaches only an average maximum temperature (suggesting moderately effective reflective panels), and Design D has only the second-fastest heating time."
+                    },
+                    {
+                        "text": "Use Design B exactly as is since it reaches the highest temperature",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While Design B does reach the highest temperature, it takes the longest to heat up (40 minutes). An optimal solution would combine the best features from multiple designs rather than using a single design that excels in only one area."
+                    }
+                ],
+                "funFact": "Solar ovens are used worldwide in regions with limited access to electricity or fuel. The first solar oven was invented in 1767 by Swiss physicist Horace de Saussure, who created a miniature greenhouse out of five glass boxes stacked inside each other that reached temperatures of 230\u00b0F (110\u00b0C) - similar to the best performing oven in this exercise!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Evaluate graphs showing the performance of four different solar oven designs tested for maximum temperature, heating time, and heat retention. Determine which design features contributed most to meeting the success criteria."
+        },
+        {
+            "question": {
+                "text": "Three students are testing different water filtration systems to find the most effective design. Each system uses different materials and configurations. They collected the following data from their tests:\n\nSystem A:\n- Water clarity: 85%\n- Filtration rate: 2 liters/minute\n- Contaminant removal: 78%\n\nSystem B:\n- Water clarity: 92%\n- Filtration rate: 1 liter/minute\n- Contaminant removal: 90%\n\nSystem C:\n- Water clarity: 75%\n- Filtration rate: 3 liters/minute\n- Contaminant removal: 70%\n\nBased on this data, which combination of features would likely create the best overall filtration system?",
+                "options": [
+                    {
+                        "text": "System A's filtration rate, System B's water clarity, and System B's contaminant removal",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes the medium filtration rate from System A (2 liters/minute), which is better than System B's slow rate, and combines it with System B's excellent water clarity (92%) and contaminant removal (90%), creating a balanced system with strong performance across all criteria."
+                    },
+                    {
+                        "text": "System C's filtration rate, System A's water clarity, and System A's contaminant removal",
+                        "isCorrect": 0,
+                        "explanation": "While this combination incorporates System C's fast filtration rate, it only uses the medium performance features for water clarity and contaminant removal from System A, missing the opportunity to include System B's superior performance in these areas."
+                    },
+                    {
+                        "text": "System B's water clarity, System B's filtration rate, and System B's contaminant removal",
+                        "isCorrect": 0,
+                        "explanation": "This is just System B unchanged, which has excellent water clarity and contaminant removal but the slowest filtration rate. An optimal solution would combine the best features from different systems rather than using all features from a single system."
+                    },
+                    {
+                        "text": "System C's filtration rate, System B's water clarity, and System A's contaminant removal",
+                        "isCorrect": 0,
+                        "explanation": "While this includes System C's fast filtration rate and System B's excellent water clarity, it uses System A's medium contaminant removal instead of System B's superior contaminant removal, resulting in a suboptimal combination."
+                    },
+                    {
+                        "text": "System A's filtration rate, System A's water clarity, and System B's contaminant removal",
+                        "isCorrect": 0,
+                        "explanation": "This combination uses System A's medium performance for filtration rate and water clarity, rather than incorporating System B's superior water clarity with System A's better filtration rate, missing the opportunity to create the best possible combination."
+                    }
+                ],
+                "funFact": "Water filtration has been practiced for thousands of years. Ancient Egyptians used alum to clarify water around 1500 BCE, while the first municipal water treatment plant was built in Scotland in 1804. Modern water treatment combines multiple technologies, just like our optimal filter design problem!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare data from tests of different water filtration systems measuring clarity, filtration rate, and contaminant removal. Identify patterns in the data to determine which components could be combined to create an optimal solution."
+        },
+        {
+            "question": {
+                "text": "Scientists have tested three different insulation materials for a new eco-friendly building. They collected data on heat retention (measured as temperature loss in \u00b0C per hour), cost (dollars per square meter), and environmental impact (on a scale of 1-10, where 1 is least impact). Review the data table below:\n\nMaterial A: Heat loss = 2.1\u00b0C/hr, Cost = $12/m\u00b2, Environmental impact = 8\nMaterial B: Heat loss = 1.5\u00b0C/hr, Cost = $25/m\u00b2, Environmental impact = 3\nMaterial C: Heat loss = 3.2\u00b0C/hr, Cost = $8/m\u00b2, Environmental impact = 4\n\nBased on this data analysis, which combination of characteristics would most likely create an improved solution that balances all three criteria?",
+                "options": [
+                    {
+                        "text": "The heat retention of Material B, the cost of Material C, and the environmental impact of Material B",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes the best characteristics from each material: the excellent heat retention (lowest heat loss) from Material B, the low cost from Material C, and the low environmental impact from Material B. This solution would balance all three criteria effectively."
+                    },
+                    {
+                        "text": "The heat retention of Material A, the cost of Material A, and the environmental impact of Material C",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't use the best characteristics from each material. Material A has moderate heat retention and high cost, while only the environmental impact from Material C is favorable. A better solution would incorporate the strengths of each material."
+                    },
+                    {
+                        "text": "The heat retention of Material C, the cost of Material B, and the environmental impact of Material A",
+                        "isCorrect": 0,
+                        "explanation": "This combination actually selects the worst characteristics from each material: Material C has the highest heat loss, Material B has the highest cost, and Material A has the highest environmental impact. This would result in a poor solution."
+                    },
+                    {
+                        "text": "Use Material B for all characteristics since it has the best heat retention",
+                        "isCorrect": 0,
+                        "explanation": "While Material B has the best heat retention, it also has the highest cost. An optimized solution would combine the best features from different materials rather than using a single material for all characteristics, especially when that material doesn't excel in all criteria."
+                    }
+                ],
+                "funFact": "Engineers often use a process called 'trade-off analysis' to evaluate competing design features. The International Space Station's thermal insulation combines multiple materials in a multilayer design that provides excellent heat management while meeting strict weight and durability requirements for the harsh environment of space."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze numerical data from tests of three insulation materials measuring heat retention, cost, and environmental impact. Identify evidence-based patterns to determine which characteristics could be combined into an improved solution."
+        },
+        {
+            "question": {
+                "text": "A team of students is designing a water bottle for hikers. They've tested three different designs and collected data on durability (drop test score out of 10), water capacity (in ounces), and user satisfaction (survey score out of 10). Their results are shown below:\n\nDesign A: Durability = 9, Capacity = 16 oz, User Satisfaction = 6\nDesign B: Durability = 5, Capacity = 24 oz, User Satisfaction = 9\nDesign C: Durability = 7, Capacity = 20 oz, User Satisfaction = 7\n\nBased on this data, which combination of characteristics would create the most effective new water bottle design?",
+                "options": [
+                    {
+                        "text": "Durability from Design A, capacity from Design B, and user satisfaction features from Design B",
+                        "isCorrect": 1,
+                        "explanation": "This combines the best characteristics from each design: the high durability score (9) from Design A with the large capacity (24 oz) and high user satisfaction (9) from Design B, creating an optimal solution."
+                    },
+                    {
+                        "text": "All characteristics from Design B since it has the highest average score across all three categories",
+                        "isCorrect": 0,
+                        "explanation": "While Design B has good capacity and user satisfaction, it has poor durability (5). Taking the average doesn't identify the best individual characteristics that could be combined for an improved design."
+                    },
+                    {
+                        "text": "Durability from Design A, capacity from Design A, and user satisfaction features from Design B",
+                        "isCorrect": 0,
+                        "explanation": "This combines the high durability from Design A with low capacity (16 oz) from Design A. A better solution would incorporate the higher capacity from Design B or C."
+                    },
+                    {
+                        "text": "Durability from Design C, capacity from Design C, and user satisfaction features from Design C",
+                        "isCorrect": 0,
+                        "explanation": "Design C is average in all categories but doesn't have the best performance in any individual category. Taking all characteristics from C would not create the most effective new design."
+                    },
+                    {
+                        "text": "Durability from Design A, capacity from Design C, and user satisfaction features from Design B",
+                        "isCorrect": 0,
+                        "explanation": "While this includes high durability from A and high user satisfaction from B, it takes the medium capacity (20 oz) from Design C when Design B offers higher capacity (24 oz)."
+                    }
+                ],
+                "funFact": "Engineers often use a process called 'design amalgamation' where they combine the best features of multiple prototypes to create an improved product. This approach is widely used in industries ranging from consumer electronics to aerospace engineering."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Review test data from different container designs evaluated for durability, storage capacity, and ease of use. Determine similarities and differences in performance and identify which characteristics would create the most effective new design."
+        },
+        {
+            "question": {
+                "text": "Scientists have tested three different designs for a bicycle helmet to improve safety. They collected data on impact resistance (scale 1-10, higher is better), weight (in ounces), and comfort rating from test subjects (scale 1-10, higher is better). The results are shown in the table below:\n\nDesign A: Impact resistance = 7, Weight = 16 oz, Comfort = 5\nDesign B: Impact resistance = 9, Weight = 20 oz, Comfort = 4\nDesign C: Impact resistance = 6, Weight = 12 oz, Comfort = 8\n\nBased on this data, which combination of features would create the best new helmet design?",
+                "options": [
+                    {
+                        "text": "The impact resistance of Design B, the weight of Design C, and the comfort of Design C",
+                        "isCorrect": 1,
+                        "explanation": "This combines the best features from each design: the excellent impact resistance from Design B with the lightweight and comfortable features of Design C. This approach uses data analysis to identify the best characteristics from different solutions that can be combined into an improved design."
+                    },
+                    {
+                        "text": "The impact resistance of Design A, the weight of Design B, and the comfort of Design C",
+                        "isCorrect": 0,
+                        "explanation": "This combination takes a moderate impact resistance (not the best), the heaviest weight (a negative feature), and good comfort. This doesn't represent the optimal combination of features based on the test data."
+                    },
+                    {
+                        "text": "The exact specifications of Design B, since it has the highest impact resistance",
+                        "isCorrect": 0,
+                        "explanation": "While Design B has the best impact resistance, it also has the heaviest weight and lowest comfort. The question asks for the best combination of features, not simply selecting the design with one superior quality while ignoring other important criteria."
+                    },
+                    {
+                        "text": "The exact specifications of Design C, since it has the best comfort rating",
+                        "isCorrect": 0,
+                        "explanation": "While Design C is the most comfortable and lightest, it has the poorest impact resistance, which is a critical safety feature. The optimal solution would combine the best features rather than selecting based on a single criterion."
+                    },
+                    {
+                        "text": "The impact resistance of Design A, the weight of Design A, and the comfort of Design A, since it has balanced ratings",
+                        "isCorrect": 0,
+                        "explanation": "Design A has moderate ratings in all categories but doesn't excel in any. The best solution would combine the highest-performing features from each design rather than settling for average performance across all criteria."
+                    }
+                ],
+                "funFact": "Modern bicycle helmet design is constantly evolving through this exact process of iterative testing and feature combination. The first bicycle helmets from the 1970s were simply hard shells, but today's helmets incorporate multiple materials, ventilation systems, and even MIPS (Multi-directional Impact Protection System) technology that allows the helmet to slide relative to the head during angled impacts."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze performance data from tests of different bicycle helmet designs measuring impact resistance, weight, and comfort. Identify patterns within the data to determine which features should be incorporated into an improved design."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing noise-canceling headphones for construction workers. They tested three different designs with various materials and measured their performance. The results are shown in the table below:\n\nDesign A: Foam padding\n- Noise reduction: 15 decibels\n- Cost: $12 per unit\n- Installation time: 10 minutes\n\nDesign B: Gel inserts\n- Noise reduction: 22 decibels\n- Cost: $25 per unit\n- Installation time: 30 minutes\n\nDesign C: Composite material\n- Noise reduction: 18 decibels\n- Cost: $18 per unit\n- Installation time: 15 minutes\n\nThe team needs to create an improved design that combines the best features of these solutions. Based on analyzing this data, which combination would best meet the criteria of good noise reduction while keeping costs and installation time reasonable?",
+                "options": [
+                    {
+                        "text": "Use the foam padding from Design A, but modify it with the composite material structure from Design C",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes advantage of the low cost and quick installation time of Design A while incorporating the improved noise reduction structure from Design C, creating a balanced solution that addresses all criteria reasonably well."
+                    },
+                    {
+                        "text": "Use Design B as is, since it has the highest noise reduction",
+                        "isCorrect": 0,
+                        "explanation": "While Design B offers the best noise reduction, it fails to consider the other important criteria - it has the highest cost and longest installation time, making it impractical as a complete solution."
+                    },
+                    {
+                        "text": "Combine the gel inserts from Design B with the installation method from Design A",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't address the main drawback of Design B, which is the high cost of gel inserts. The quick installation from Design A might not work with the more complex gel material."
+                    },
+                    {
+                        "text": "Use the composite material from Design C, but double the thickness to match Design B's noise reduction",
+                        "isCorrect": 0,
+                        "explanation": "Doubling the thickness would likely double the cost and increase installation time, resulting in a solution that's too expensive and time-consuming, failing to optimize across all criteria."
+                    }
+                ],
+                "funFact": "Sound engineers use a measurement called Noise Reduction Rating (NRR) to indicate how effectively a device reduces sound. For every 10-decibel reduction, the perceived loudness of noise is actually cut in half, making a 20-decibel reduction four times quieter to the human ear than a 0-decibel reduction!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Interpret test results from multiple sound-dampening material configurations measuring noise reduction, cost, and installation complexity. Use data analysis to determine which characteristics from each solution best meet the criteria."
+        },
+        {
+            "question": {
+                "text": "A team of environmental engineers is testing different methods to prevent soil erosion along a riverbank. They collected data on three solutions as shown in the table below:\n\nSolution A (Rock Wall): Cost - $5,000, Erosion Reduction - 85%, Environmental Impact - Medium\nSolution B (Native Plants): Cost - $2,000, Erosion Reduction - 70%, Environmental Impact - Low\nSolution C (Concrete Barrier): Cost - $8,000, Erosion Reduction - 95%, Environmental Impact - High\n\nBased on this data, which combination of features would create the best overall solution that balances effectiveness, cost, and environmental impact?",
+                "options": [
+                    {
+                        "text": "Use the rock wall design but incorporate native plants to reduce environmental impact",
+                        "isCorrect": 1,
+                        "explanation": "This solution combines the good erosion control of the rock wall (85%) with the low environmental impact of native plants, creating a balanced approach that addresses all criteria reasonably well."
+                    },
+                    {
+                        "text": "Use the concrete barrier design but make it smaller to reduce cost",
+                        "isCorrect": 0,
+                        "explanation": "While this might reduce cost, it would likely also reduce effectiveness, and it doesn't address the high environmental impact of concrete barriers."
+                    },
+                    {
+                        "text": "Use only native plants but plant them more densely",
+                        "isCorrect": 0,
+                        "explanation": "While this maintains low cost and environmental impact, even with denser planting, native plants alone might not provide sufficient erosion control for a riverbank compared to combining approaches."
+                    },
+                    {
+                        "text": "Use the concrete barrier because it has the highest erosion reduction",
+                        "isCorrect": 0,
+                        "explanation": "This focuses only on effectiveness while ignoring the other important criteria - cost and environmental impact. The concrete solution is the most expensive and has the highest environmental impact."
+                    },
+                    {
+                        "text": "Alternate sections of rock wall and native plants along the riverbank",
+                        "isCorrect": 0,
+                        "explanation": "While this uses two solutions, it doesn't truly combine their features - it merely places them side by side, potentially creating weak points between sections rather than integrating the beneficial aspects of each."
+                    }
+                ],
+                "funFact": "Engineers often use biomimicry in erosion control, studying how natural systems like root networks and beaver dams manage water flow. Some of the most effective modern erosion control methods combine hard structures with living plants in systems called 'living shorelines' that strengthen over time as the plants grow."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Evaluate data from tests of different erosion control methods comparing effectiveness, cost, and environmental impact. Identify which features from each approach could be combined to create a solution that best meets all criteria."
+        },
+        {
+            "question": {
+                "text": "A team of designers is developing a new water filtration system. They tested three different prototypes and collected data on filtering speed (gallons per hour), contaminant removal percentage, and filter lifespan (hours before replacement). The results are shown in the table below:\n\nPrototype A:\n- Filtering Speed: 5 gallons/hour\n- Contaminant Removal: 85%\n- Filter Lifespan: 200 hours\n\nPrototype B:\n- Filtering Speed: 8 gallons/hour\n- Contaminant Removal: 75%\n- Filter Lifespan: 150 hours\n\nPrototype C:\n- Filtering Speed: 3 gallons/hour\n- Contaminant Removal: 95%\n- Filter Lifespan: 100 hours\n\nBased on this data, which combination of design features would create the most effective new water filtration system?",
+                "options": [
+                    {
+                        "text": "The filtering speed of Prototype B, contaminant removal of Prototype C, and filter lifespan of Prototype A",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes the best performing aspect from each prototype: the fast filtering speed from B (8 gallons/hour), the excellent contaminant removal from C (95%), and the long lifespan from A (200 hours). This creates an optimized solution by combining the best characteristics of each design."
+                    },
+                    {
+                        "text": "The filtering speed of Prototype A, contaminant removal of Prototype B, and filter lifespan of Prototype C",
+                        "isCorrect": 0,
+                        "explanation": "This combination takes the worst aspect from each prototype: moderate filtering speed from A (5 gallons/hour), the lowest contaminant removal from B (75%), and the shortest lifespan from C (100 hours). This would not create an improved solution."
+                    },
+                    {
+                        "text": "All the features from Prototype A, since it has the best balance of all three characteristics",
+                        "isCorrect": 0,
+                        "explanation": "While Prototype A has a good balance of features, it doesn't represent the best possible combination. Its filtering speed (5 gallons/hour) and contaminant removal (85%) are not the highest among the prototypes. The goal is to identify and combine the best characteristics from each design."
+                    },
+                    {
+                        "text": "All the features from Prototype C, since contaminant removal is the most important factor",
+                        "isCorrect": 0,
+                        "explanation": "Although Prototype C has the best contaminant removal (95%), it has the slowest filtering speed (3 gallons/hour) and shortest lifespan (100 hours). The question doesn't state that contaminant removal is more important than the other factors, so we should consider all three criteria equally important when identifying the best combination."
+                    }
+                ],
+                "funFact": "Water filtration technology has evolved from simple sand and gravel filters used by ancient civilizations to today's advanced systems that can remove microplastics and pharmaceutical residues. Engineers often combine multiple filtration methods in a single system, similar to how we identified the best features from different prototypes in this problem."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze data from tests of different game controller designs measuring user comfort, button responsiveness, and durability. Identify patterns in the data to determine which design features would create an optimal combined solution."
+        },
+        {
+            "question": {
+                "text": "Three student teams are testing different preservation methods for freshly harvested vegetables. They collected data on how well each method preserved the vegetables based on these criteria: freshness retention (scale 1-10), implementation cost ($ per pound), and ease of use (scale 1-10, with 10 being easiest). Here are their results:\n\nMethod A (Refrigeration): Freshness retention: 7/10; Cost: $0.10/lb; Ease of use: 9/10\nMethod B (Vacuum Sealing): Freshness retention: 9/10; Cost: $0.30/lb; Ease of use: 5/10\nMethod C (Salt Preservation): Freshness retention: 6/10; Cost: $0.05/lb; Ease of use: 7/10\n\nBased on this data, which combination of characteristics from the different methods would likely create the most effective new solution?",
+                "options": [
+                    {
+                        "text": "The freshness retention of Method B, the cost of Method C, and the ease of use of Method A",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes the best characteristic from each method: the superior freshness retention of vacuum sealing (9/10), the lowest cost of salt preservation ($0.05/lb), and the highest ease of use of refrigeration (9/10). This approach optimizes all three criteria."
+                    },
+                    {
+                        "text": "The freshness retention of Method A, the cost of Method A, and the ease of use of Method C",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't use the best characteristics from each method. Method B has better freshness retention (9/10) than Method A (7/10), Method C has lower cost ($0.05/lb) than Method A ($0.10/lb), and Method A has better ease of use (9/10) than Method C (7/10)."
+                    },
+                    {
+                        "text": "The freshness retention of Method C, the cost of Method B, and the ease of use of Method B",
+                        "isCorrect": 0,
+                        "explanation": "This combination uses the worst aspects of each method. Method C has the lowest freshness retention (6/10), Method B has the highest cost ($0.30/lb), and Method B has the lowest ease of use (5/10)."
+                    },
+                    {
+                        "text": "Using Method B only, since it has the highest freshness retention",
+                        "isCorrect": 0,
+                        "explanation": "While Method B does have the highest freshness retention (9/10), it doesn't optimize all criteria. It has the highest cost ($0.30/lb) and lowest ease of use (5/10). A better solution would combine the best characteristics from each method rather than using just one method."
+                    },
+                    {
+                        "text": "Using Method A only, since it has good performance across all categories",
+                        "isCorrect": 0,
+                        "explanation": "While Method A performs reasonably well across all categories, it doesn't represent the optimal solution. By combining the best characteristics from each method (freshness from B, cost from C, and ease from A), a better solution can be created than using Method A alone."
+                    }
+                ],
+                "funFact": "Food preservation techniques date back thousands of years, with salt preservation being one of humanity's oldest methods. Ancient civilizations in Egypt and Mesopotamia used salt to preserve food as early as 3000 BCE. Modern food scientists continue to combine traditional methods with new technologies to create hybrid preservation systems that maximize freshness while minimizing cost and environmental impact."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine test results from different food preservation methods measuring freshness retention, cost, and ease of implementation. Identify which characteristics from each method could be combined to create an improved solution."
+        },
+        {
+            "question": {
+                "text": "A team of scientists tested three different plant growth systems for a space station. They collected data on water usage, plant health, and maintenance requirements for each system. The results are shown in the table below:\n\nSystem A:\n- Water Usage: 2 liters/day\n- Plant Health Score (out of 10): 7\n- Maintenance Hours/Week: 5\n\nSystem B:\n- Water Usage: 3 liters/day\n- Plant Health Score (out of 10): 9\n- Maintenance Hours/Week: 8\n\nSystem C:\n- Water Usage: 1 liter/day\n- Plant Health Score (out of 10): 6\n- Maintenance Hours/Week: 3\n\nThe scientists need to design a new system that combines the best features of these existing systems. Based on this data, which combination of features would create the optimal design?",
+                "options": [
+                    {
+                        "text": "Use System A's water delivery method, System B's plant nutrition formula, and System C's automated maintenance technology.",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes advantage of the moderate water usage approach from System A, the excellent plant health techniques from System B, and the efficient maintenance methods from System C. By analyzing the data and identifying the best features of each system, this solution optimizes all three criteria."
+                    },
+                    {
+                        "text": "Use all components from System B since it had the highest plant health score.",
+                        "isCorrect": 0,
+                        "explanation": "While System B did have the highest plant health score (9/10), it also used the most water (3 liters/day) and required the most maintenance (8 hours/week). A good design solution would combine the best features from multiple systems rather than using just one system entirely."
+                    },
+                    {
+                        "text": "Use all components from System C since it had the lowest water usage and maintenance requirements.",
+                        "isCorrect": 0,
+                        "explanation": "Although System C used the least water (1 liter/day) and required the least maintenance (3 hours/week), it also had the lowest plant health score (6/10). The best solution would combine positive characteristics from multiple systems to optimize all three criteria."
+                    },
+                    {
+                        "text": "Create an entirely new system that doesn't use any features from the existing systems.",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores the valuable data collected from testing the three systems. When optimizing a design, it's more effective to identify and incorporate the best features from existing solutions rather than starting completely from scratch."
+                    }
+                ],
+                "funFact": "NASA's Advanced Plant Habitat on the International Space Station uses a combination of features from multiple plant growth systems, including precision water delivery, LED lighting systems that can be adjusted for different plant needs, and automated monitoring that reduces astronaut maintenance time."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine test results from experiments with different plant growth systems measuring water usage, plant health, and maintenance requirements. Use data analysis techniques to identify the best features that could be combined."
+        },
+        {
+            "question": {
+                "text": "Scientists tested four different wind turbine blade designs to determine which produces the most energy output at different wind speeds. They recorded the data in the following chart:\n\nDesign A: Narrow, curved blades\n- 5 mph wind: 15 watts\n- 10 mph wind: 42 watts\n- 15 mph wind: 75 watts\n\nDesign B: Wide, flat blades\n- 5 mph wind: 20 watts\n- 10 mph wind: 38 watts\n- 15 mph wind: 60 watts\n\nDesign C: Medium width, slightly curved blades\n- 5 mph wind: 18 watts\n- 10 mph wind: 45 watts\n- 15 mph wind: 68 watts\n\nDesign D: Narrow, flat blades\n- 5 mph wind: 12 watts\n- 10 mph wind: 30 watts\n- 15 mph wind: 82 watts\n\nBased on analyzing this data, which combination of design characteristics would most likely create an improved turbine blade design for overall performance across all wind speeds?",
+                "options": [
+                    {
+                        "text": "Narrow and flat blades like Design D",
+                        "isCorrect": 0,
+                        "explanation": "While Design D performs best at high wind speeds (15 mph), it performs poorly at lower wind speeds. An optimal solution would combine the best features from multiple designs to perform well across all conditions."
+                    },
+                    {
+                        "text": "Wide and flat blades like Design B",
+                        "isCorrect": 0,
+                        "explanation": "Design B performs well at low wind speeds but has the lowest output at high wind speeds. The goal is to identify characteristics from different designs that can be combined for better overall performance."
+                    },
+                    {
+                        "text": "Medium width with slight curve like Design C",
+                        "isCorrect": 0,
+                        "explanation": "While Design C has good middle-range performance, it doesn't incorporate the best characteristics from each design. An improved solution would combine specific features that performed best in different conditions."
+                    },
+                    {
+                        "text": "Wide blades (like Design B) for low speeds, with a medium width and slight curve (like Design C) for medium speeds, and narrow shape (like Design D) for high speeds",
+                        "isCorrect": 1,
+                        "explanation": "This option correctly identifies and combines the best characteristics from each design: wide blades perform best at low wind speeds (Design B), medium width and slightly curved blades perform well at medium speeds (Design C), and narrow shapes excel at high wind speeds (Design D). Combining these features creates an improved solution that performs well across all wind conditions."
+                    },
+                    {
+                        "text": "Narrow and curved blades like Design A",
+                        "isCorrect": 0,
+                        "explanation": "While Design A performs well at medium wind speeds, it isn't the top performer across all conditions. An improved design would combine the best features from each design to optimize performance at all wind speeds."
+                    }
+                ],
+                "funFact": "Modern wind turbine designs often use different blade profiles along the length of a single blade. The part near the hub may be optimized for structural strength, while the tip might be designed for maximum speed and efficiency - combining multiple design characteristics into a single blade!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Interpret a chart displaying test results from multiple wind turbine blade designs showing energy output at different wind speeds. Determine which design characteristics from each prototype should be incorporated into a new solution."
+        },
+        {
+            "question": {
+                "text": "Scientists have collected data on three different models that explain earthquake patterns around the Pacific Ocean. Each model attempts to explain how tectonic plates interact at boundaries. Review the table below and answer the question that follows.\n\nModel Comparison Table:\n\nModel A: Suggests that plates slide horizontally past each other, creating friction and energy release.\nData: Explains 65% of shallow earthquakes but only 15% of deep earthquakes. Accurately predicts earthquake locations along straight fault lines.\n\nModel B: Proposes that plates collide and one sinks beneath another in a process called subduction.\nData: Explains 40% of shallow earthquakes and 85% of deep earthquakes. Accurately predicts earthquake patterns in curved island chains.\n\nModel C: Suggests that plates pull apart from each other, creating gaps filled with new crust.\nData: Explains 25% of shallow earthquakes and 0% of deep earthquakes. Accurately predicts patterns of volcanic activity at mid-ocean ridges.\n\nBased on the data analysis, which statement best describes how these models could be combined to create a more comprehensive explanation of earthquake patterns?",
+                "options": [
+                    {
+                        "text": "Model A should be used for all earthquake predictions because it explains the highest percentage of shallow earthquakes, which are more common.",
+                        "isCorrect": 0,
+                        "explanation": "This option incorrectly focuses only on shallow earthquakes and ignores the benefits of the other models. A comprehensive explanation would need to incorporate features from all models to explain the different types of plate boundaries and resulting earthquake patterns."
+                    },
+                    {
+                        "text": "Model B should replace both other models since it explains deep earthquakes, which are more difficult to predict than shallow ones.",
+                        "isCorrect": 0,
+                        "explanation": "While Model B is strong for explaining deep earthquakes, it's weaker for shallow earthquakes. Focusing only on one model would not create a comprehensive explanation that addresses all types of plate boundaries and earthquake patterns."
+                    },
+                    {
+                        "text": "A combined model should use Model A for explaining earthquakes along straight boundaries, Model B for curved boundaries with deep earthquakes, and Model C for explaining mid-ocean ridge activity.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the strengths of each model and how they complement each other. Model A explains horizontal movement (transform boundaries), Model B explains subduction zones with deep earthquakes, and Model C explains divergent boundaries. Together, they provide a more complete explanation of plate tectonics and resulting earthquake patterns."
+                    },
+                    {
+                        "text": "The data shows these models cannot be combined because they contradict each other's fundamental assumptions about how plates move.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The models don't contradict each other; they each explain different aspects of plate movement. Modern plate tectonic theory actually incorporates all three of these movement types as occurring at different boundary types."
+                    },
+                    {
+                        "text": "Model C should be the foundation of a combined model because its focus on volcanic activity is more important than earthquake prediction.",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly prioritizes volcanic activity over earthquake patterns, which wasn't the focus of the data analysis. Model C also explains the lowest percentage of earthquakes, making it the weakest foundation for a comprehensive earthquake explanation model."
+                    }
+                ],
+                "funFact": "The \"Ring of Fire,\" a horseshoe-shaped belt around the Pacific Ocean where approximately 90% of the world's earthquakes occur, showcases all three types of plate boundaries described in these models. This is why a comprehensive understanding of plate tectonics requires combining multiple models rather than using just one."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to compare multiple models of Earth's tectonic plate movement by analyzing data presented in a table, identifying which model best explains specific earthquake patterns, and determining which features from each model could be combined to create a more accurate representation."
+        },
+        {
+            "question": {
+                "text": "Researchers are testing three different designs for a water filtration system to remove contaminants. They collected data on how effectively each design removes pollutants (measured in percentage of contaminants removed) as shown in the table below:\n\nDesign A: Uses activated carbon filter, 75% removal\nDesign B: Uses reverse osmosis membrane, 92% removal\nDesign C: Uses ceramic filter with silver ions, 83% removal\n\nThe researchers also collected data on other important factors:\n\nWater flow rate (liters per hour):\nDesign A: 8 L/hr\nDesign B: 3 L/hr\nDesign C: 6 L/hr\n\nFilter lifespan (months before replacement):\nDesign A: 2 months\nDesign B: 6 months\nDesign C: 4 months\n\nBased on analyzing this data, which statement best describes how to combine features to create an improved water filtration system?",
+                "options": [
+                    {
+                        "text": "Combine Design A's activated carbon with Design B's reverse osmosis membrane to maximize contaminant removal while balancing flow rate.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because it combines the high contaminant removal efficiency of Design B (92%) with the higher flow rate capability of Design A (8 L/hr), addressing the main weakness of Design B (slow flow rate of 3 L/hr) while maintaining excellent filtration performance."
+                    },
+                    {
+                        "text": "Use only Design B's reverse osmosis membrane since it has the highest contaminant removal percentage.",
+                        "isCorrect": 0,
+                        "explanation": "While Design B has the best contaminant removal (92%), focusing only on this characteristic ignores its significant limitation of low flow rate (3 L/hr). Analyzing all the data to identify and combine the best features is a more effective approach to design optimization."
+                    },
+                    {
+                        "text": "Combine Design C's ceramic filter with Design A's filter housing to improve both contaminant removal and flow rate.",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't leverage the best characteristics from the test data. Design B's reverse osmosis membrane has significantly better contaminant removal (92%) than Design C's ceramic filter (83%), so this proposed solution misses the opportunity to incorporate the most effective filtration method."
+                    },
+                    {
+                        "text": "Create a completely new design that uses none of the tested components since none of the designs performed well in all categories.",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores the valuable test data which shows that each design has strengths that can be combined. Starting from scratch without incorporating the successful elements from testing contradicts the engineering principle of iterative design improvement based on test results."
+                    }
+                ],
+                "funFact": "Water filtration technology has ancient roots! The earliest documented water filtration methods date back to 2000 BCE in ancient Egypt, where they used sand and gravel filters to purify water. Today's advanced filtration systems build upon these fundamental principles while incorporating modern materials science and engineering innovations."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting students with data from three different solar oven designs showing temperature over time in a table or graph, asking them to identify which design features (reflector shape, insulation type, etc.) from each contribute most effectively to heat retention and could be combined for an optimized design."
+        },
+        {
+            "question": {
+                "text": "Three teams of engineers designed different solutions for a device that converts solar energy to electrical energy. They tested each design under identical conditions and collected the following data on efficiency (percentage of solar energy converted to electrical energy):\n\nDesign A: Used silicon solar cells with a flat panel arrangement\n- Morning efficiency: 12%\n- Midday efficiency: 15%\n- Afternoon efficiency: 11%\n- Cost: $120\n- Durability: Lasted 600 hours in weather testing\n\nDesign B: Used silicon solar cells with a tracking system that follows the sun\n- Morning efficiency: 14%\n- Midday efficiency: 16%\n- Afternoon efficiency: 14%\n- Cost: $200\n- Durability: Lasted 450 hours in weather testing\n\nDesign C: Used newer gallium arsenide cells with a fixed panel\n- Morning efficiency: 15%\n- Midday efficiency: 21%\n- Afternoon efficiency: 14%\n- Cost: $250\n- Durability: Lasted 500 hours in weather testing\n\nBased on this data, which combination of features would most likely create an improved design that balances efficiency, cost, and durability?",
+                "options": [
+                    {
+                        "text": "Silicon solar cells with tracking system and the weather protection elements from Design A",
+                        "isCorrect": 1,
+                        "explanation": "This combines the consistent efficiency across different times of day from Design B's tracking system with the superior durability from Design A, creating a balanced solution that addresses all criteria."
+                    },
+                    {
+                        "text": "Gallium arsenide cells in a flat panel arrangement without any modifications",
+                        "isCorrect": 0,
+                        "explanation": "While Design C has the highest peak efficiency, using it without modifications doesn't address its higher cost and lower durability compared to Design A."
+                    },
+                    {
+                        "text": "Tracking system from Design B with the gallium arsenide cells from Design C",
+                        "isCorrect": 0,
+                        "explanation": "This would create the highest possible efficiency but would also result in the highest cost solution while still having durability concerns, so it doesn't optimally balance all criteria."
+                    },
+                    {
+                        "text": "Silicon solar cells from Design A with the panel configuration from Design C",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't take advantage of the best features of each design. The high efficiency of Design C comes from its cell material, not its panel configuration."
+                    }
+                ],
+                "funFact": "Modern commercial solar panels typically convert 15-20% of solar energy into electricity, but laboratory solar cells have achieved efficiencies over 47% using advanced materials and multi-junction designs that capture different wavelengths of light!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question displaying test results for three different bridge designs under various weight loads, requiring students to analyze the data to determine which structural elements from each design performed best under specific conditions and how these elements could be incorporated into an improved bridge design."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing water filtration systems for a community with multiple contaminants in their water supply. They tested three different filter designs and recorded how effectively each removed various contaminants, as shown in the data table below:\n\nContaminant Removal Effectiveness (% removed)\n\n| Filter Design | Sediment | Heavy Metals | Bacteria | Chemical Pollutants |\n|--------------|----------|--------------|----------|-------------------|\n| Design A     | 95%      | 45%          | 99%      | 30%               |\n| Design B     | 60%      | 90%          | 40%      | 85%               |\n| Design C     | 75%      | 70%          | 85%      | 65%               |\n\nThe team wants to create an improved filter design. Based on the data, which combination of design features would create the most effective overall filtration system?",
+                "options": [
+                    {
+                        "text": "Combine sediment removal from Design A, heavy metal removal from Design B, bacteria removal from Design A, and chemical pollutant removal from Design B",
+                        "isCorrect": 1,
+                        "explanation": "This combination selects the best-performing component from each design for each type of contaminant, creating an optimized solution that addresses all contamination issues effectively."
+                    },
+                    {
+                        "text": "Use Design C for all contaminants since it has the most balanced performance across all categories",
+                        "isCorrect": 0,
+                        "explanation": "While Design C performs moderately well across all categories, it doesn't provide the best removal for any specific contaminant. The problem asks for the most effective overall system, which would combine the best features from each design."
+                    },
+                    {
+                        "text": "Combine Design A and Design B equally, since together they cover all contaminants well",
+                        "isCorrect": 0,
+                        "explanation": "Simply combining two designs without analyzing their specific strengths doesn't create an optimized solution. This approach doesn't identify and utilize the best characteristics of each design for specific contaminants."
+                    },
+                    {
+                        "text": "Use Design A since it has the highest single removal percentage (99% for bacteria)",
+                        "isCorrect": 0,
+                        "explanation": "While Design A excels at removing bacteria and sediment, it performs poorly with heavy metals and chemical pollutants. The goal is to create a comprehensive solution that addresses all contaminants effectively."
+                    }
+                ],
+                "funFact": "Modern municipal water treatment plants often use a multi-stage filtration process similar to the concept in this question, with different technologies targeting specific contaminants. A typical system might include screens for large debris, sedimentation tanks, sand filters, activated carbon for chemicals, and UV light or chlorination for bacteria."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question showing experimental data from multiple water filtration systems with different filtration materials, requiring students to analyze which design removes specific contaminants most effectively and identify the best characteristics that could be combined into a more comprehensive filtration solution."
+        },
+        {
+            "question": {
+                "text": "Three student teams are designing model rockets for a competition. After collecting data from multiple test flights of different designs, they need to analyze the results to create an improved rocket that will fly higher and straighter. Here is the data from their tests:\n\nTeam A's Rocket:\n- Triangular fins\n- Pointed nose cone\n- Weight distribution: rear-heavy\n- Average height: 80 meters\n- Flight stability rating: 6/10\n\nTeam B's Rocket:\n- Rectangular fins\n- Rounded nose cone\n- Weight distribution: balanced\n- Average height: 95 meters\n- Flight stability rating: 7/10\n\nTeam C's Rocket:\n- Elliptical fins\n- Blunt nose cone\n- Weight distribution: front-heavy\n- Average height: 75 meters\n- Flight stability rating: 9/10\n\nBased on this data, which combination of design features would likely create the best overall rocket design that maximizes both height and stability?",
+                "options": [
+                    {
+                        "text": "Elliptical fins, pointed nose cone, and rear-heavy weight distribution",
+                        "isCorrect": 0,
+                        "explanation": "This combination takes the fins from Team C (good for stability) but pairs them with features that didn't perform as well. The rear-heavy weight distribution from Team A contributed to lower stability ratings."
+                    },
+                    {
+                        "text": "Rectangular fins, rounded nose cone, and balanced weight distribution",
+                        "isCorrect": 0,
+                        "explanation": "This is simply Team B's original design, which had good height but only moderate stability. The data suggests that combining the best features from different designs would yield better overall results."
+                    },
+                    {
+                        "text": "Elliptical fins, rounded nose cone, and balanced weight distribution",
+                        "isCorrect": 1,
+                        "explanation": "This design combines the best features from each team: elliptical fins from Team C (which had the best stability), rounded nose cone from Team B (which achieved the greatest height), and balanced weight distribution from Team B (which contributed to good height)."
+                    },
+                    {
+                        "text": "Triangular fins, blunt nose cone, and front-heavy weight distribution",
+                        "isCorrect": 0,
+                        "explanation": "This combination takes the blunt nose cone and front-heavy distribution from Team C, but pairs them with triangular fins from Team A, which had the lowest overall performance in both metrics."
+                    },
+                    {
+                        "text": "Rectangular fins, blunt nose cone, and front-heavy weight distribution",
+                        "isCorrect": 0,
+                        "explanation": "While this combines some good elements (rectangular fins for height and features from Team C for stability), the data indicates that the rounded nose cone from Team B contributed more to height than the blunt nose cone."
+                    }
+                ],
+                "funFact": "Real aerospace engineers use a similar process called 'trade studies' where they analyze how different design features affect performance across multiple tests. NASA's space shuttle design incorporated elements from various competing designs to optimize for multiple performance criteria\u2014just like this rocket exercise!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting students with data tables from testing different model rocket designs, requiring analysis of which design features (fin shape, nose cone design, weight distribution) contributed most to flight stability and distance, and how these features could be combined for an optimal design."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a new insulation material for homes in cold climates. They tested three different materials (A, B, and C) under various conditions and recorded how well each maintained temperature. Their results are shown in the table below:\n\nMaterial A:\n- Performs excellently in dry conditions (95% efficiency)\n- Performance drops in humid conditions (60% efficiency)\n- Very lightweight\n- Moderate cost ($8 per square foot)\n\nMaterial B:\n- Consistent performance in all weather conditions (80% efficiency)\n- Heavy and difficult to install\n- Fire resistant\n- Low cost ($5 per square foot)\n\nMaterial C:\n- High performance in cold conditions (90% efficiency)\n- Poor performance in warm conditions (40% efficiency)\n- Contains recycled materials\n- Highest cost ($12 per square foot)\n\nBased on this data, which combination of characteristics would create the most effective composite insulation material for cold-climate homes?",
+                "options": [
+                    {
+                        "text": "Material A's lightweight properties + Material B's fire resistance + Material C's recycled content",
+                        "isCorrect": 0,
+                        "explanation": "This combination focuses on physical properties and environmental factors but doesn't address the primary function of insulation: thermal efficiency. The performance characteristics are missing."
+                    },
+                    {
+                        "text": "Material A's dry condition performance + Material B's consistent performance in all weather + Material C's cold condition performance",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes the best thermal performance aspects from each material (A's excellence in dry conditions, B's consistency across conditions, and C's high performance in cold conditions), which would create a well-rounded insulation solution for cold climates."
+                    },
+                    {
+                        "text": "Material A's moderate cost + Material B's low cost + Material C's recycled content",
+                        "isCorrect": 0,
+                        "explanation": "This combination focuses only on cost and environmental factors but doesn't address the thermal performance, which is the primary function of insulation."
+                    },
+                    {
+                        "text": "Material A's lightweight properties + Material B's consistent performance + Material C's high cost",
+                        "isCorrect": 0,
+                        "explanation": "This combination incorrectly includes a negative characteristic (C's high cost) rather than identifying beneficial features to combine, and it misses the opportunity to include C's excellent cold condition performance."
+                    },
+                    {
+                        "text": "Material A's dry condition performance + Material B's fire resistance + Material C's cold condition performance",
+                        "isCorrect": 0,
+                        "explanation": "While this includes some good performance characteristics, it omits Material B's valuable consistent performance across all weather conditions, which would be important for a comprehensive insulation solution."
+                    }
+                ],
+                "funFact": "Modern building insulation has come a long way from its origins! Early insulation materials included asbestos, newspaper, and even seaweed. Today's scientists are developing advanced insulation technologies like aerogels (nicknamed 'frozen smoke') that can be up to 39 times more effective than fiberglass insulation while being lightweight and environmentally friendly."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question showing test results from multiple insulation materials for maintaining temperature, requiring students to analyze thermal performance data under different conditions, identify patterns in the data, and determine which characteristics from each material would create the most effective composite insulation solution."
+        },
+        {
+            "question": {
+                "text": "Wind turbine engineers tested three different blade designs (A, B, and C) and collected data on energy output at various wind speeds. Their results are shown in the table below:\n\nWind Speed | Design A Energy Output | Design B Energy Output | Design C Energy Output\n5 mph | 10 kW | 15 kW | 8 kW\n10 mph | 40 kW | 35 kW | 45 kW\n15 mph | 65 kW | 70 kW | 80 kW\n20 mph | 90 kW | 110 kW | 105 kW\n\nDesign A has short, wide blades with a steep angle. Design B has long, narrow blades with a moderate angle. Design C has medium-length, curved blades with a shallow angle.\n\nBased on this data, which statement best describes how the engineers should combine features to create an improved wind turbine design?",
+                "options": [
+                    {
+                        "text": "Use short blades from Design A, the narrow shape from Design B, and the steep angle from Design A for optimal performance across all wind speeds.",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't address which features perform best at specific wind speeds. Short blades actually limited Design A's performance at higher wind speeds."
+                    },
+                    {
+                        "text": "Use the medium-length blades from Design C, the curved shape from Design C, and the shallow angle from Design C since Design C had the highest output at 15 mph.",
+                        "isCorrect": 0,
+                        "explanation": "This simply recreates Design C rather than combining the best features from each design. While Design C performed well at 15 mph, it wasn't the best performer across all wind conditions."
+                    },
+                    {
+                        "text": "Use the long blades from Design B, the curved shape from Design C, and a moderate angle between Designs B and C for optimal performance at high wind speeds.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly combines the best features based on the data analysis. Design B's long blades and Design C's curved shape both contributed to excellent high wind speed performance, while a moderate angle represents a good compromise for varied conditions."
+                    },
+                    {
+                        "text": "Use the wide blades from Design A, the steep angle from Design A, and the medium length from Design C for optimal performance at low wind speeds.",
+                        "isCorrect": 0,
+                        "explanation": "While Design A performed reasonably at low speeds, Design B actually had the best low wind speed performance (15 kW at 5 mph). This combination doesn't incorporate the features that excelled at higher wind speeds."
+                    },
+                    {
+                        "text": "The engineers should not combine features since each design performs best in a specific condition, and they should instead select the design that matches the most common wind speed in the installation location.",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores the potential for improvement through combining the best features of each design, which is a key principle in engineering optimization. The data clearly shows that different features excel under different conditions."
+                    }
+                ],
+                "funFact": "Modern wind turbines can adjust their blade pitch (angle) automatically as wind conditions change, optimizing energy production in real-time. This adaptive technology allows a single design to perform efficiently across a wide range of wind speeds, similar to how birds adjust their wing shape during different phases of flight."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question providing data from wind turbine blade design tests showing energy output under various wind speeds, asking students to identify which specific design features (length, shape, angle) performed best under different conditions and how these features could be integrated into an improved blade design."
+        },
+        {
+            "question": {
+                "text": "After testing several smartphone case designs for drop protection, a team of engineers collected the following data on how each design performed in different impact tests. The numbers shown are impact resistance scores (higher is better):\n\nDesign A: Front impact: 8, Side impact: 6, Corner impact: 4\nDesign B: Front impact: 5, Side impact: 9, Corner impact: 7\nDesign C: Front impact: 9, Side impact: 5, Corner impact: 8\n\nBased on this data, which combination of design features would likely create the best overall smartphone case?",
+                "options": [
+                    {
+                        "text": "The reinforced front of Design C, the cushioned sides of Design B, and the corner bumpers of Design C",
+                        "isCorrect": 1,
+                        "explanation": "This combination takes the highest-scoring features from each test: Design C's front (9), Design B's sides (9), and Design C's corners (8). This creates an optimal solution that combines the best characteristics from the different designs."
+                    },
+                    {
+                        "text": "All features from Design A, since it has the most balanced protection",
+                        "isCorrect": 0,
+                        "explanation": "While Design A has somewhat balanced protection, it doesn't have the highest score in any category (8, 6, 4). A better solution would combine the highest-performing features from each design."
+                    },
+                    {
+                        "text": "The front of Design A, the sides of Design B, and the corners of Design B",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't use the best available front protection (Design C scored 9) or the best corner protection (Design C scored 8). It fails to optimize all aspects of the case."
+                    },
+                    {
+                        "text": "All features from Design C, since it has the highest total score",
+                        "isCorrect": 0,
+                        "explanation": "While Design C has good front and corner protection, its side protection is weak (5). A better solution would be to combine Design C's strengths with Design B's superior side protection (9)."
+                    }
+                ],
+                "funFact": "Modern smartphone case engineering often combines multiple materials in a single design - like rigid polycarbonate for structural integrity, soft TPU for shock absorption, and specialized corner reinforcements. This multi-material approach is why many premium cases can protect phones from drops of 10 feet or more!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting testing data from different smartphone case designs subjected to drop tests, requiring students to analyze impact resistance data, identify which protective features from each design performed best for specific types of impacts, and determine how these features could be combined."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing bluetooth speakers for a new product line. They've tested three different designs and collected data on how well each speaker reproduces sound at different frequency ranges. Their goal is to create an improved speaker that combines the best features from each design.\n\nTest Results (Sound Quality Rating 1-10):\n\nFrequency Range | Design A | Design B | Design C\n---------------|---------|---------|--------\nLow (20-200 Hz) | 8 | 5 | 6\nMid (200-2000 Hz) | 6 | 9 | 5\nHigh (2000-20000 Hz) | 4 | 6 | 9\nBattery Life (hours) | 10 | 15 | 8\nVolume (max decibels) | 95 | 85 | 90\n\nWhich statement best describes how the engineers should approach creating an improved speaker design?",
+                "options": [
+                    {
+                        "text": "They should select Design A as the base model since it has the highest average rating across all categories.",
+                        "isCorrect": 0,
+                        "explanation": "Design A doesn't have the highest average rating, and simply selecting one design doesn't utilize the best characteristics from each model to create an improved solution."
+                    },
+                    {
+                        "text": "They should analyze which design performs best in each category and combine those specific elements into a new design.",
+                        "isCorrect": 1,
+                        "explanation": "This approach correctly identifies the systematic process for evaluating solutions - analyzing which design performs best in specific categories (Design A for low frequencies, Design B for mid frequencies and battery life, Design C for high frequencies) and combining those best elements into an improved solution."
+                    },
+                    {
+                        "text": "They should focus exclusively on improving the sound quality ratings and ignore the battery life and volume specifications.",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores important criteria (battery life and volume) that are part of the overall design solution. A comprehensive evaluation should consider all relevant factors."
+                    },
+                    {
+                        "text": "They should discard Design C entirely since it ranks lowest in the most categories.",
+                        "isCorrect": 0,
+                        "explanation": "Design C actually has the best performance in high frequencies (9), which is an important characteristic that could be incorporated into an improved design. Discarding it would lose this valuable feature."
+                    },
+                    {
+                        "text": "They should average all the values for each design and use the mathematical model to create a new design with those exact specifications.",
+                        "isCorrect": 0,
+                        "explanation": "Simply averaging values doesn't identify the best characteristics of each design. The optimal approach is to identify which specific features perform best and incorporate those into a new solution."
+                    }
+                ],
+                "funFact": "Sound engineers often use a technique called 'crossover design' when developing speakers, where different speaker components (woofers, midrange drivers, and tweeters) are specialized to handle specific frequency ranges. This is similar to the engineering principle of combining the best features from different designs to create an optimal solution."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question showing experimental results from testing different speaker designs, requiring students to analyze sound quality data across different frequencies, identify which design elements perform best for specific sound ranges, and determine how these elements could be integrated into an improved speaker system."
+        },
+        {
+            "question": {
+                "text": "A team of students is testing three different plant growth systems to determine which design features produce the best results. They collected the following data after 30 days:\n\nSystem A: Plants received 12 hours of light, daily watering, and low nutrients\n- Average height: 25 cm\n- Leaf count: 8 leaves per plant\n- Stem strength: Medium\n\nSystem B: Plants received 8 hours of light, watering every 3 days, and high nutrients\n- Average height: 15 cm\n- Leaf count: 12 leaves per plant\n- Stem strength: High\n\nSystem C: Plants received 16 hours of light, watering every 2 days, and medium nutrients\n- Average height: 30 cm\n- Leaf count: 6 leaves per plant\n- Stem strength: Low\n\nThe students want to design a new system that combines the best characteristics from each system. What combination of features would likely produce plants with good height, maximum leaf count, and high stem strength?",
+                "options": [
+                    {
+                        "text": "12 hours of light, watering every 3 days, and high nutrients",
+                        "isCorrect": 1,
+                        "explanation": "This option combines the moderate light from System A (which produced good height), the watering schedule from System B (which produced the highest leaf count and stem strength), and the high nutrients from System B (which contributed to maximum leaf count and stem strength)."
+                    },
+                    {
+                        "text": "16 hours of light, daily watering, and medium nutrients",
+                        "isCorrect": 0,
+                        "explanation": "While the 16 hours of light from System C produced the tallest plants, the daily watering from System A and medium nutrients from System C did not produce the maximum leaf count or high stem strength in the original systems."
+                    },
+                    {
+                        "text": "8 hours of light, watering every 2 days, and low nutrients",
+                        "isCorrect": 0,
+                        "explanation": "This combination takes the 8 hours of light from System B, the watering schedule from System C, and the low nutrients from System A. None of these individual features were associated with optimal results for any of the desired characteristics."
+                    },
+                    {
+                        "text": "16 hours of light, watering every 3 days, and low nutrients",
+                        "isCorrect": 0,
+                        "explanation": "While this includes the 16 hours of light from System C (best for height) and the watering schedule from System B (best for leaf count and stem strength), the low nutrients from System A did not produce optimal results for leaf count or stem strength."
+                    }
+                ],
+                "funFact": "Plant scientists often use controlled growth chambers to isolate the effects of individual environmental factors like light, water, and nutrients. NASA has used this approach to develop optimized growing systems for plants in space, where resources are extremely limited and must be used efficiently."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question providing test results from different plant growth environments (varying light, water, and nutrient levels), requiring students to analyze growth rate data, identify which environmental factors from each setup produced optimal results for specific plant characteristics, and determine how these factors could be combined for an ideal growing system."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is testing three different bicycle helmet designs to determine which offers the best protection. They collect data on impact force distribution (measured in Newtons) across different areas of the helmet during testing. The data is shown below:\n\nDesign A:\n- Front impact: 150N (mostly concentrated)\n- Side impact: 130N (somewhat distributed)\n- Top impact: 200N (concentrated)\n\nDesign B:\n- Front impact: 120N (well distributed)\n- Side impact: 180N (concentrated)\n- Top impact: 140N (somewhat distributed)\n\nDesign C:\n- Front impact: 160N (somewhat distributed)\n- Side impact: 110N (well distributed)\n- Top impact: 170N (concentrated)\n\nBased on this data, which combination of design characteristics would create the best overall helmet design?",
+                "options": [
+                    {
+                        "text": "Use the front protection from Design A, side protection from Design B, and top protection from Design C",
+                        "isCorrect": 0,
+                        "explanation": "This combines the most concentrated impact forces from each design, which would result in the poorest protection overall. Lower force values that are well-distributed provide better protection."
+                    },
+                    {
+                        "text": "Use the front protection from Design B, side protection from Design C, and top protection from Design B",
+                        "isCorrect": 1,
+                        "explanation": "This combines the best features: Design B's well-distributed front protection (120N), Design C's well-distributed side protection (110N), and Design B's somewhat distributed top protection (140N). This combination offers the lowest overall impact forces with the best distribution patterns."
+                    },
+                    {
+                        "text": "Use the front protection from Design C, side protection from Design A, and top protection from Design B",
+                        "isCorrect": 0,
+                        "explanation": "This combination doesn't optimize protection. It uses Design C's front (160N) which isn't the best available, Design A's side protection (130N) which isn't as well-distributed as Design C, and only gets the top protection right with Design B."
+                    },
+                    {
+                        "text": "Use all components from Design A because it has the most consistent force readings",
+                        "isCorrect": 0,
+                        "explanation": "While Design A has somewhat consistent readings, it doesn't have the lowest impact forces or best distribution patterns in any area. The goal is to identify and combine the best features from each design, not select a single design."
+                    },
+                    {
+                        "text": "Use all components from Design B because it has the lowest average impact force",
+                        "isCorrect": 0,
+                        "explanation": "Though Design B has a good average force reading, it performs poorly in side impact (180N concentrated). An optimized design should combine the best elements from all designs rather than selecting one design entirely."
+                    }
+                ],
+                "funFact": "Modern bicycle helmet testing involves dropping helmet-covered headforms from various heights onto different surfaces. The first bicycle helmets were made of leather and primarily designed to protect against road rash rather than impacts - a far cry from today's engineered foam and composite materials that absorb and distribute impact forces!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting data from testing different bicycle helmet designs for impact protection, requiring students to analyze force distribution data, identify which structural elements provided the best protection for specific impact types, and determine how these elements could be integrated into an improved helmet design."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is testing four different designs for biodegradable packaging materials. They collected data on how quickly each material breaks down in different environments. The results are shown in the table below:\n\nMaterial Decomposition Data (percentage broken down after 30 days):\n\n| Material | Soil | Fresh Water | Salt Water | Durability (weight held) |\n|---------|------|-------------|------------|-------------------------|\n| A       | 85%  | 45%         | 20%        | 2.5 kg                  |\n| B       | 40%  | 90%         | 75%        | 1.0 kg                  |\n| C       | 60%  | 65%         | 60%        | 4.0 kg                  |\n| D       | 30%  | 30%         | 90%        | 3.5 kg                  |\n\nBased on this data, which statement best describes how characteristics from different designs could be combined to create an improved biodegradable packaging solution for coastal areas that need both marine decomposition and good durability?",
+                "options": [
+                    {
+                        "text": "Combine Material A's soil decomposition ability with Material B's fresh water performance.",
+                        "isCorrect": 0,
+                        "explanation": "This combination does not address the need for marine (salt water) decomposition or durability, which are the key requirements for coastal packaging."
+                    },
+                    {
+                        "text": "Combine Material C's consistent decomposition across environments with Material D's salt water performance.",
+                        "isCorrect": 1,
+                        "explanation": "This is the best combination because it takes Material C's balanced decomposition across different environments and good durability (4.0 kg), and enhances it with Material D's excellent salt water decomposition (90%), which is critical for coastal applications."
+                    },
+                    {
+                        "text": "Combine Material A's soil decomposition with Material D's durability.",
+                        "isCorrect": 0,
+                        "explanation": "While this would create a product with good soil decomposition and decent durability, it would perform poorly in salt water environments, which is a key requirement for coastal applications."
+                    },
+                    {
+                        "text": "Combine Material B's water decomposition abilities with Material C's durability.",
+                        "isCorrect": 0,
+                        "explanation": "Although this would create a product with good fresh water decomposition and durability, Material C already has better balanced performance across all environments, so this combination doesn't significantly improve upon existing designs for coastal use."
+                    },
+                    {
+                        "text": "Use Material D alone since it has the best salt water decomposition.",
+                        "isCorrect": 0,
+                        "explanation": "While Material D excels at salt water decomposition, it performs poorly in soil and fresh water. Additionally, this answer doesn't address the requirement to combine characteristics from different designs to create an improved solution."
+                    }
+                ],
+                "funFact": "Scientists studying biodegradable materials often look to nature for inspiration. The cellulose structure in seaweed has inspired some of the most promising marine-degradable packaging materials, as it naturally breaks down in salt water while maintaining surprising strength when dry."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question showing test results from different types of biodegradable packaging materials, asking students to analyze decomposition rates under various conditions, identify which materials performed best in specific environments, and determine how characteristics from different materials could be combined to create an optimal biodegradable packaging solution."
+        }
+    ]
+}

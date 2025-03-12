@@ -1,0 +1,1081 @@
+{
+    "id": "lesson-69",
+    "title": "Rocks & Minerals (including Rock Cycle)",
+    "standard": "MS-ESS2-1",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "Which type of rock is formed when sediments are compacted and cemented together over time?",
+                "options": [
+                    {
+                        "text": "Sedimentary rock",
+                        "isCorrect": 1,
+                        "explanation": "Sedimentary rocks form when layers of sediments are compacted by the weight of overlying layers and cemented together by minerals deposited by flowing water."
+                    },
+                    {
+                        "text": "Igneous rock",
+                        "isCorrect": 0,
+                        "explanation": "Igneous rocks form when magma or lava cools and solidifies, not from compacted sediments."
+                    },
+                    {
+                        "text": "Metamorphic rock",
+                        "isCorrect": 0,
+                        "explanation": "Metamorphic rocks form when existing rocks are changed by heat and/or pressure, not from compacted sediments."
+                    }
+                ],
+                "funFact": "The Grand Canyon's colorful layers reveal over 2 billion years of Earth's history through its sedimentary rock formations. Each layer represents a different time period and environment in Earth's past!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint assessing student understanding of the three main types of rocks (igneous, sedimentary, metamorphic) and their basic definitions"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly explains how mineral crystals form in Earth's crust?",
+                "options": [
+                    {
+                        "text": "Hot water dissolves more minerals than cold water, and when this water cools, the dissolved minerals crystallize on hard surfaces",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Hot water can hold more dissolved minerals, and as it cools while moving toward Earth's surface, it can't hold as many minerals, causing them to crystallize out of solution."
+                    },
+                    {
+                        "text": "Cold water dissolves more minerals than hot water, leading to crystal formation when the water is heated",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Hot water actually dissolves more minerals than cold water. Crystal formation occurs during cooling, not heating."
+                    },
+                    {
+                        "text": "Minerals crystallize when water evaporates completely, leaving behind dry mineral deposits",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While evaporation can form some minerals, the main process of crystal formation in Earth's crust occurs when hot water cools, not when it completely evaporates."
+                    },
+                    {
+                        "text": "Minerals form crystals spontaneously in water regardless of temperature changes",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Temperature changes are crucial for crystal formation. Minerals don't spontaneously crystallize without changes in conditions like temperature."
+                    }
+                ],
+                "funFact": "The world's largest known crystal cave is the Cave of Crystals in Chihuahua, Mexico, where some selenite crystals reach lengths of over 39 feet! These massive crystals formed over hundreds of thousands of years as mineral-rich hot water cooled slowly in underground chambers."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint testing knowledge of how minerals form through crystallization when hot water containing dissolved minerals cools down"
+        },
+        {
+            "question": {
+                "text": "What process leads to the formation of igneous rocks on Earth?",
+                "options": [
+                    {
+                        "text": "Cooling and solidification of magma or lava",
+                        "isCorrect": 1,
+                        "explanation": "Igneous rocks form when hot molten material (magma below ground or lava at the surface) cools and crystallizes into solid rock."
+                    },
+                    {
+                        "text": "Compaction of loose sediments",
+                        "isCorrect": 0,
+                        "explanation": "This process forms sedimentary rocks, not igneous rocks. Sedimentary rocks form when layers of sediments are compacted and cemented together."
+                    },
+                    {
+                        "text": "Exposure to extreme heat and pressure",
+                        "isCorrect": 0,
+                        "explanation": "This process forms metamorphic rocks, not igneous rocks. Metamorphic rocks form when existing rocks are changed by heat and/or pressure."
+                    },
+                    {
+                        "text": "Chemical weathering of existing rocks",
+                        "isCorrect": 0,
+                        "explanation": "Weathering breaks down existing rocks into smaller pieces but does not form igneous rocks. These weathered materials may later form sedimentary rocks."
+                    }
+                ],
+                "funFact": "The word 'igneous' comes from the Latin word 'ignis' meaning fire. Some igneous rocks, like obsidian, cool so quickly that their atoms don't have time to arrange into crystals, forming natural glass!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint examining understanding of how igneous rocks form from cooling magma or lava"
+        },
+        {
+            "question": {
+                "text": "Which process best explains how loose sediments transform into solid sedimentary rock?",
+                "options": [
+                    {
+                        "text": "Compaction from overlying layers and cementation by mineral-rich water",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Sedimentary rocks form when layers of sediments are compacted by the weight of overlying layers, while minerals deposited by flowing water cement the sediments together."
+                    },
+                    {
+                        "text": "Exposure to extreme heat and pressure at plate boundaries",
+                        "isCorrect": 0,
+                        "explanation": "This describes metamorphic rock formation, not sedimentary rock formation. Sedimentary rocks form through compaction and cementation at normal temperatures and pressures."
+                    },
+                    {
+                        "text": "Cooling and crystallization of molten magma",
+                        "isCorrect": 0,
+                        "explanation": "This describes igneous rock formation, not sedimentary rock formation. Sedimentary rocks form from existing rock sediments, not from cooling magma."
+                    },
+                    {
+                        "text": "Direct contact with hot magma below Earth's surface",
+                        "isCorrect": 0,
+                        "explanation": "This describes contact metamorphism, not sedimentary rock formation. Sedimentary rocks form through the accumulation and compaction of sediments, not through contact with magma."
+                    }
+                ],
+                "funFact": "The Grand Canyon's colorful layers are a spectacular example of sedimentary rock formation, with each distinct layer representing different time periods and environments from Earth's past. These layers took over 70 million years to form!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint testing recognition of how sedimentary rocks form through compaction and cementation of sediments"
+        },
+        {
+            "question": {
+                "text": "Under which conditions do rocks undergo metamorphic changes?",
+                "options": [
+                    {
+                        "text": "Only when exposed to extreme heat",
+                        "isCorrect": 0,
+                        "explanation": "While heat can cause metamorphic changes, it's not the only factor. Rocks can undergo metamorphic changes through either heat, pressure, or both."
+                    },
+                    {
+                        "text": "When exposed to heat, pressure, or both",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Metamorphic rocks form when existing rocks are exposed to high heat, high pressure, or a combination of both conditions."
+                    },
+                    {
+                        "text": "Only when exposed to extreme pressure",
+                        "isCorrect": 0,
+                        "explanation": "While pressure can cause metamorphic changes, it's not the only factor. Rocks can undergo metamorphic changes through either heat, pressure, or both."
+                    },
+                    {
+                        "text": "Only when exposed to water",
+                        "isCorrect": 0,
+                        "explanation": "While water can play a role in some rock transformations, metamorphic changes primarily occur due to heat, pressure, or both conditions."
+                    }
+                ],
+                "funFact": "The word 'metamorphic' comes from Greek words meaning 'to change form.' Some metamorphic rocks can form deep within the Earth where temperatures can exceed 1500\u00b0F (815\u00b0C) and pressures can be thousands of times greater than at the Earth's surface!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint assessing knowledge of how metamorphic rocks form through heat and/or pressure changes to existing rocks"
+        },
+        {
+            "question": {
+                "text": "Which sequence correctly shows how igneous rock can transform through the rock cycle over time?",
+                "options": [
+                    {
+                        "text": "Igneous rock \u2192 weathering and erosion \u2192 sediments \u2192 compaction and cementation \u2192 sedimentary rock",
+                        "isCorrect": 1,
+                        "explanation": "This shows the correct sequence. Igneous rock breaks down through weathering, the pieces are transported by erosion, deposited as sediments, and eventually form sedimentary rock through compaction and cementation."
+                    },
+                    {
+                        "text": "Igneous rock \u2192 melting \u2192 sediments \u2192 metamorphic rock \u2192 sedimentary rock",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Melting of igneous rock would form magma, not sediments. Additionally, sediments don't directly form metamorphic rock."
+                    },
+                    {
+                        "text": "Igneous rock \u2192 heat and pressure \u2192 metamorphic rock \u2192 weathering \u2192 magma",
+                        "isCorrect": 0,
+                        "explanation": "While igneous rock can form metamorphic rock through heat and pressure, weathering of metamorphic rock produces sediments, not magma. Magma forms through melting."
+                    },
+                    {
+                        "text": "Igneous rock \u2192 crystallization \u2192 sedimentary rock \u2192 melting \u2192 metamorphic rock",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Crystallization of igneous rock just forms more igneous rock. Sedimentary rock forms from sediments, not directly from crystallization."
+                    }
+                ],
+                "funFact": "The oldest known rocks on Earth are about 4.28 billion years old and were found in Canada. These ancient rocks have gone through multiple cycles of transformation, demonstrating how the rock cycle has been continuously operating since Earth's early history!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint testing understanding of rock cycle processes including melting, crystallization, weathering, and sedimentation"
+        },
+        {
+            "question": {
+                "text": "In a geological formation, scientists discover fossil specimens in different layers of sedimentary rock. Which statement best explains how these rock layers help scientists understand the relative ages of the fossils?",
+                "options": [
+                    {
+                        "text": "Fossils found in deeper layers of sedimentary rock are generally older than those found in layers closer to the surface",
+                        "isCorrect": 1,
+                        "explanation": "Sedimentary rock layers form over time with newer layers depositing on top of older layers. Therefore, deeper layers and their fossils are typically older than those closer to the surface."
+                    },
+                    {
+                        "text": "Fossils found in deeper layers of sedimentary rock are always younger than those found in layers closer to the surface",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The principle of superposition states that in undisturbed rock sequences, older layers are found below younger layers, not the other way around."
+                    },
+                    {
+                        "text": "The age of fossils is not related to their position in sedimentary rock layers",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The position of fossils in sedimentary rock layers is directly related to their age due to how sedimentary rocks form over time in layers."
+                    },
+                    {
+                        "text": "All fossils found in the same geological formation are the same age regardless of their layer",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fossils found in different layers of the same formation can be of different ages, with deeper layers containing older fossils."
+                    }
+                ],
+                "funFact": "The principle of using rock layers to determine relative age was first formally proposed by Nicholas Steno in the 17th century. This principle, called the Law of Superposition, revolutionized our understanding of Earth's history and remains a fundamental concept in geology today!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint examining knowledge of how sedimentary rock layers (strata) preserve fossils and their relative ages"
+        },
+        {
+            "question": {
+                "text": "What role does Earth's internal heat energy play in the rock cycle?",
+                "options": [
+                    {
+                        "text": "It drives processes like melting and crystallization that transform rocks from one type to another",
+                        "isCorrect": 1,
+                        "explanation": "Earth's internal heat energy is a key driver of processes like melting and crystallization that can change rocks from one form to another in the rock cycle."
+                    },
+                    {
+                        "text": "It only affects rocks at Earth's surface through weathering",
+                        "isCorrect": 0,
+                        "explanation": "Weathering is primarily driven by surface processes and energy from the sun, not Earth's internal heat."
+                    },
+                    {
+                        "text": "It has no effect on metamorphic rock formation",
+                        "isCorrect": 0,
+                        "explanation": "Earth's internal heat is actually crucial for metamorphic rock formation through processes of heat and pressure."
+                    },
+                    {
+                        "text": "It only affects sedimentary rock formation",
+                        "isCorrect": 0,
+                        "explanation": "Sedimentary rock formation is mainly driven by surface processes, while Earth's internal heat primarily affects igneous and metamorphic rock formation."
+                    }
+                ],
+                "funFact": "The temperature at Earth's core is estimated to be about 9,392\u00b0F (5,200\u00b0C), which is almost as hot as the surface of the Sun! This incredible heat is left over from Earth's formation and is maintained by radioactive decay."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint assessing understanding of how energy from Earth's hot interior drives processes like melting and crystallization in the rock cycle"
+        },
+        {
+            "question": {
+                "text": "What process occurs when rocks are transformed by direct contact with magma or hot water beneath Earth's surface?",
+                "options": [
+                    {
+                        "text": "Contact metamorphism",
+                        "isCorrect": 1,
+                        "explanation": "When rocks come in direct contact with magma or hot water beneath Earth's surface, they undergo contact metamorphism, changing their mineral composition without developing foliated texture."
+                    },
+                    {
+                        "text": "Regional metamorphism",
+                        "isCorrect": 0,
+                        "explanation": "Regional metamorphism occurs over large areas due to high pressure and temperature, typically at plate boundaries, and often results in foliated textures."
+                    },
+                    {
+                        "text": "Chemical weathering",
+                        "isCorrect": 0,
+                        "explanation": "Chemical weathering occurs at Earth's surface when rocks break down through chemical reactions with air or water, not through contact with magma."
+                    },
+                    {
+                        "text": "Crystallization",
+                        "isCorrect": 0,
+                        "explanation": "Crystallization is the process by which minerals form from cooling magma or mineral-rich solutions, not the transformation of existing rocks."
+                    }
+                ],
+                "funFact": "The temperatures in contact metamorphism zones can reach up to 2000\u00b0F (1093\u00b0C), creating a unique zone called an aureole around the magma intrusion where the surrounding rocks are dramatically transformed!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint examining understanding of contact metamorphism when rocks are changed by direct contact with magma or hot water"
+        },
+        {
+            "question": {
+                "text": "Which process best demonstrates how the sun's energy contributes to the rock cycle by causing the breakdown of rocks?",
+                "options": [
+                    {
+                        "text": "Wind and rain wearing away rock surfaces over time",
+                        "isCorrect": 1,
+                        "explanation": "The sun powers the water cycle and creates wind patterns that lead to weathering and erosion of rocks, breaking them down into smaller particles that can later form sedimentary rocks."
+                    },
+                    {
+                        "text": "Magma cooling and crystallizing into igneous rock",
+                        "isCorrect": 0,
+                        "explanation": "This process is driven by Earth's internal heat energy, not solar energy. When magma cools, it forms igneous rocks through crystallization."
+                    },
+                    {
+                        "text": "High pressure compressing rocks deep underground",
+                        "isCorrect": 0,
+                        "explanation": "Pressure that changes rocks comes from Earth's internal forces, not from the sun. This process contributes to forming metamorphic rocks."
+                    },
+                    {
+                        "text": "Rocks melting due to intense heat",
+                        "isCorrect": 0,
+                        "explanation": "The melting of rocks is primarily caused by Earth's internal heat energy, not solar energy. This process occurs deep within Earth where solar energy cannot reach."
+                    }
+                ],
+                "funFact": "While the sun's surface temperature is about 10,000\u00b0F (5,500\u00b0C), its energy at Earth's surface isn't hot enough to melt rocks directly. However, this energy drives weather patterns that can break down even the hardest rocks over time through weathering and erosion!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint testing recognition of how energy from the sun drives surface processes like weathering and erosion that contribute to the rock cycle"
+        },
+        {
+            "question": {
+                "text": "Which process best describes how rocks are broken down into smaller sediments?",
+                "options": [
+                    {
+                        "text": "Weathering by wind, water, ice, and gravity over thousands of years",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Rocks are broken down into sediments through weathering processes caused by wind, water, ice, and gravity acting over long periods of time."
+                    },
+                    {
+                        "text": "Sudden melting due to exposure to sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Rocks don't suddenly melt from sunlight exposure. Melting requires much higher temperatures typically found deep within Earth."
+                    },
+                    {
+                        "text": "Immediate crystallization when exposed to cold temperatures",
+                        "isCorrect": 0,
+                        "explanation": "Crystallization occurs when magma or lava cools, not when solid rocks are exposed to cold temperatures."
+                    },
+                    {
+                        "text": "Rapid breakdown from daily temperature changes",
+                        "isCorrect": 0,
+                        "explanation": "While temperature changes can contribute to weathering, the process takes thousands of years and involves multiple factors, not just daily temperature changes."
+                    }
+                ],
+                "funFact": "The Grand Canyon was carved by the Colorado River over millions of years (with estimates ranging from 5-6 million to 70 million years), demonstrating how water can gradually break down even the hardest rocks into sediments over long periods of time."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint testing knowledge of how weathering and erosion by wind, water, ice and gravity break down rocks into sediments"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the difference between minerals and rocks?",
+                "options": [
+                    {
+                        "text": "A mineral is a naturally formed combination of different substances, while a rock is a pure crystal.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. It's actually the opposite - minerals have characteristic crystal shapes and consistent composition, while rocks are combinations of different minerals."
+                    },
+                    {
+                        "text": "A mineral is a solid with a characteristic crystal shape, while a rock is a combination of minerals mixed together.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct! Minerals are naturally occurring solids with specific crystal shapes, while rocks are made up of combinations of different minerals."
+                    },
+                    {
+                        "text": "A mineral and a rock are the same thing - both are solid materials found in the Earth.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While both are found in Earth, minerals and rocks are distinct - minerals have specific crystal structures while rocks are combinations of minerals."
+                    },
+                    {
+                        "text": "A mineral is always formed from magma, while a rock is always formed from sediments.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Minerals can form in various ways including from solutions, and rocks can form through igneous, sedimentary, or metamorphic processes."
+                    }
+                ],
+                "funFact": "The largest known crystal of a single mineral was found at the Morro Redondo claim in Minas Gerais, Brazil - a beryl crystal measuring 18 meters long and 3.5 meters in diameter, weighing approximately 380 tons!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint testing recognition of the difference between minerals (naturally occurring solids with characteristic crystal shapes) and rocks (combinations of minerals)"
+        },
+        {
+            "question": {
+                "text": "A sandstone cliff is slowly breaking down into smaller pieces over time due to wind and rain. Which energy source is primarily responsible for driving these weathering and erosion processes?",
+                "options": [
+                    {
+                        "text": "Solar energy",
+                        "isCorrect": 1,
+                        "explanation": "The Sun's energy drives weather patterns, including wind and rain, which cause weathering and erosion of rocks at Earth's surface."
+                    },
+                    {
+                        "text": "Earth's internal heat",
+                        "isCorrect": 0,
+                        "explanation": "While Earth's internal heat drives processes like metamorphism and melting, surface weathering and erosion are primarily driven by solar energy."
+                    },
+                    {
+                        "text": "Chemical energy from rocks",
+                        "isCorrect": 0,
+                        "explanation": "Though chemical weathering occurs, the energy driving weather patterns that cause weathering comes from the Sun, not from the rocks themselves."
+                    },
+                    {
+                        "text": "Gravitational energy",
+                        "isCorrect": 0,
+                        "explanation": "While gravity helps move weathered materials downhill, the initial breaking down of rocks is primarily driven by weather patterns powered by solar energy."
+                    }
+                ],
+                "funFact": "The Grand Canyon was carved primarily by water erosion over approximately 70 million years, showcasing how solar-driven processes can create massive geological features over long time periods."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a diagram showing a rock transforming from igneous to sedimentary through weathering and erosion, identify the primary energy source driving these surface changes"
+        },
+        {
+            "question": {
+                "text": "In a canyon, geologists discovered several distinct layers of sedimentary rock containing fossils. Layer A is found closest to the surface, Layer B is in the middle, and Layer C is the deepest layer. Based on the principle of relative dating, which layer contains the oldest fossils?",
+                "options": [
+                    {
+                        "text": "Layer A",
+                        "isCorrect": 0,
+                        "explanation": "Layer A is closest to the surface, which means it formed most recently and contains the youngest fossils."
+                    },
+                    {
+                        "text": "Layer B",
+                        "isCorrect": 0,
+                        "explanation": "Layer B is in the middle, which means it formed after Layer C but before Layer A, making its fossils younger than those in Layer C."
+                    },
+                    {
+                        "text": "Layer C",
+                        "isCorrect": 1,
+                        "explanation": "Layer C is the deepest layer, which means it formed first and contains the oldest fossils according to the principle of relative dating."
+                    },
+                    {
+                        "text": "All layers contain fossils of the same age",
+                        "isCorrect": 0,
+                        "explanation": "In sedimentary rock formations, deeper layers are older than layers closer to the surface because sediments are deposited over time with newer layers forming on top of older ones."
+                    }
+                ],
+                "funFact": "The Grand Canyon in Arizona provides one of the most complete records of relative dating, with rock layers exposing nearly 2 billion years of Earth's history. The oldest rocks at the bottom of the Grand Canyon are called the Vishnu Schist and were formed around 1.7 billion years ago!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze a scenario describing rock layers at different depths, determine which layer contains the oldest fossils based on the principle of relative dating"
+        },
+        {
+            "question": {
+                "text": "A geologist discovers a rock with distinct wavy layers at a convergent plate boundary. Based on its characteristics and location, what process most likely formed this rock?",
+                "options": [
+                    {
+                        "text": "The rock formed when intense heat and pressure transformed an existing rock, creating foliated texture at the plate boundary",
+                        "isCorrect": 1,
+                        "explanation": "Metamorphic rocks with foliated (wavy) texture form at convergent plate boundaries due to intense heat and pressure from colliding plates"
+                    },
+                    {
+                        "text": "The rock formed when magma cooled slowly beneath Earth's surface at the plate boundary",
+                        "isCorrect": 0,
+                        "explanation": "While igneous rocks do form from cooling magma, they don't develop foliated texture. The wavy layers indicate metamorphic processes"
+                    },
+                    {
+                        "text": "The rock formed when sediments were compacted and cemented together over time",
+                        "isCorrect": 0,
+                        "explanation": "Sedimentary rocks form from compacted sediments, but they have flat layers (strata), not wavy foliated texture characteristic of metamorphic rocks"
+                    },
+                    {
+                        "text": "The rock formed through contact with hot magma, causing contact metamorphism",
+                        "isCorrect": 0,
+                        "explanation": "Contact metamorphism occurs near magma intrusions but doesn't create foliated texture. The wavy layers form from regional metamorphism at plate boundaries"
+                    }
+                ],
+                "funFact": "The Appalachian Mountains contain excellent examples of foliated metamorphic rocks formed over 300 million years ago when ancient continents collided to form the supercontinent Pangaea!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "From a description of a metamorphic rock with foliated texture found at a plate boundary, explain the specific Earth processes that led to its formation"
+        },
+        {
+            "question": {
+                "text": "A geologist discovered two crystal formations in different locations. In Location A, the crystals formed where hot water carrying dissolved minerals cooled as it approached Earth's surface. In Location B, the crystals formed where magma slowly cooled deep underground. Which crystal formation is more likely to have well-defined, large crystal structures?",
+                "options": [
+                    {
+                        "text": "Location A - where hot water cooled near the surface",
+                        "isCorrect": 0,
+                        "explanation": "When hot water cools near the surface, crystals form relatively quickly, resulting in smaller crystal structures due to less time for growth and organization."
+                    },
+                    {
+                        "text": "Location B - where magma cooled slowly underground",
+                        "isCorrect": 1,
+                        "explanation": "When magma cools slowly underground, minerals have more time to organize into large, well-defined crystal structures. The slower cooling rate allows atoms to arrange themselves in a more orderly pattern."
+                    },
+                    {
+                        "text": "Both locations would have the same crystal size and structure",
+                        "isCorrect": 0,
+                        "explanation": "The cooling rate significantly affects crystal formation. Different cooling environments and rates produce different crystal sizes and structures."
+                    }
+                ],
+                "funFact": "The world's largest crystal cave is the Cave of Crystals in Chihuahua, Mexico, where some selenite crystals reach lengths of 39 feet! These massive crystals formed over 500,000 years as mineral-rich heated water cooled very slowly under stable conditions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare two different mineral formation scenarios - one involving hot water cooling near Earth's surface and another involving magma crystallization - to determine which process formed a given crystal structure"
+        },
+        {
+            "question": {
+                "text": "A river carries sand, silt, and small pebbles downstream to its delta. Over millions of years, these sediments accumulate and eventually form solid rock layers. What is the correct sequence of processes that transforms these loose sediments into sedimentary rock?",
+                "options": [
+                    {
+                        "text": "Deposition \u2192 Compaction \u2192 Cementation",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct sequence. First, sediments are deposited in layers. Then, the weight of overlying layers compacts the sediments below. Finally, minerals deposited by flowing water cement the compacted sediments together."
+                    },
+                    {
+                        "text": "Cementation \u2192 Deposition \u2192 Compaction",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Cementation cannot occur before sediments are deposited. The process must begin with deposition of sediments."
+                    },
+                    {
+                        "text": "Compaction \u2192 Deposition \u2192 Cementation",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Sediments must be deposited first before they can be compacted by the weight of overlying layers."
+                    },
+                    {
+                        "text": "Deposition \u2192 Cementation \u2192 Compaction",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. While deposition occurs first, compaction by overlying layers typically occurs before cementation by minerals in flowing water."
+                    }
+                ],
+                "funFact": "The Grand Canyon's colorful rock layers are a spectacular example of sedimentary rock formation, with some layers containing fossils of marine organisms from when that area was once covered by an ancient sea over 500 million years ago!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a description of sedimentary rock formation in a river delta, identify the sequence of processes that transformed loose sediments into solid rock layers"
+        },
+        {
+            "question": {
+                "text": "Consider a granite rock formation deep within Earth's crust. Which sequence shows a possible path this granite could take through the rock cycle to become a different type of rock?",
+                "options": [
+                    {
+                        "text": "Granite weathers into sediments \u2192 sediments are compacted and cemented \u2192 forms sandstone \u2192 sandstone is exposed to heat and pressure \u2192 transforms into quartzite",
+                        "isCorrect": 1,
+                        "explanation": "This represents a valid path where granite first undergoes weathering to form sediments, which then form sedimentary rock (sandstone), which can then undergo metamorphism to form quartzite."
+                    },
+                    {
+                        "text": "Granite melts completely \u2192 magma cools quickly \u2192 forms obsidian \u2192 obsidian dissolves in water \u2192 forms limestone",
+                        "isCorrect": 0,
+                        "explanation": "While granite can melt to form magma and new igneous rocks, igneous rocks cannot directly dissolve in water to form limestone. Limestone forms from accumulated marine organisms and minerals."
+                    },
+                    {
+                        "text": "Granite is exposed to wind \u2192 directly transforms into slate \u2192 slate melts \u2192 forms basalt",
+                        "isCorrect": 0,
+                        "explanation": "Wind exposure alone cannot transform granite directly into slate. Metamorphic rocks like slate require heat and/or pressure, not just surface weathering."
+                    },
+                    {
+                        "text": "Granite is submerged in ocean \u2192 immediately becomes marble \u2192 marble weathers into clay",
+                        "isCorrect": 0,
+                        "explanation": "Simply submerging granite in ocean water cannot transform it into marble. Marble forms when limestone undergoes metamorphism through heat and pressure."
+                    }
+                ],
+                "funFact": "The oldest known rock on Earth is the Acasta Gneiss from Northwest Territories, Canada, dated at about 4.03 billion years old. It started as igneous rock and was transformed into metamorphic rock, showing how rocks can change over vast periods of time!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze how the same type of rock can follow different paths through the rock cycle by identifying the key factors that determine its transformation"
+        },
+        {
+            "question": {
+                "text": "When granite rock undergoes metamorphism to form gneiss, what role does Earth's internal heat energy play in this transformation?",
+                "options": [
+                    {
+                        "text": "The heat causes the minerals in granite to completely melt and recrystallize into new arrangements",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because metamorphism does not involve complete melting. If the rock completely melted, it would form an igneous rock, not a metamorphic rock."
+                    },
+                    {
+                        "text": "The heat energy causes the minerals to realign and form distinct foliated bands without melting",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Heat from Earth's interior causes the minerals in granite to recrystallize and align into distinctive wavy bands (foliation) while remaining in solid state."
+                    },
+                    {
+                        "text": "The heat breaks down the granite into sediments which then compact to form gneiss",
+                        "isCorrect": 0,
+                        "explanation": "This describes the formation of sedimentary rocks, not metamorphic rocks. Gneiss forms through heat and pressure acting on existing rock, not through breakdown and compaction."
+                    },
+                    {
+                        "text": "The heat causes the granite to weather and erode into gneiss",
+                        "isCorrect": 0,
+                        "explanation": "Weathering and erosion are surface processes driven by the Sun's energy, not internal heat. These processes break rocks down rather than metamorphosing them."
+                    }
+                ],
+                "funFact": "Gneiss is one of the most common metamorphic rocks in Earth's continental crust and can form at depths of 10 to 20 kilometers below the surface, where temperatures can reach 700\u00b0C!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Based on a description of granite changing to gneiss, explain how Earth's internal heat energy causes this metamorphic transformation"
+        },
+        {
+            "question": {
+                "text": "A geologist is studying rock formations near a magma intrusion. She observes that rocks closest to the magma show more dramatic changes in their crystal structure compared to rocks farther away. What explains this pattern of metamorphic rock formation?",
+                "options": [
+                    {
+                        "text": "Rocks closer to the magma experience more intense heat, causing more significant mineral recrystallization",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The intensity of metamorphic changes depends on proximity to the heat source. Rocks closer to magma experience higher temperatures, leading to more extensive recrystallization and mineral changes."
+                    },
+                    {
+                        "text": "Rocks closer to the magma are older and have had more time to change",
+                        "isCorrect": 0,
+                        "explanation": "The age of rocks does not determine the extent of metamorphic changes. The intensity of transformation depends on the amount of heat and pressure they experience."
+                    },
+                    {
+                        "text": "Rocks closer to the magma contain different types of minerals that change more easily",
+                        "isCorrect": 0,
+                        "explanation": "While different minerals can respond differently to heat, the primary factor in this scenario is the intensity of heat exposure based on distance from the magma source."
+                    },
+                    {
+                        "text": "Rocks closer to the magma are exposed to more weathering and erosion",
+                        "isCorrect": 0,
+                        "explanation": "Weathering and erosion are surface processes and are not related to the metamorphic changes caused by nearby magma intrusions."
+                    }
+                ],
+                "funFact": "The temperature gradient around magma intrusions can be so extreme that rocks just a few meters apart might show drastically different metamorphic features. This creates what geologists call metamorphic zones or aureoles, like a bull's-eye pattern around the magma source!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "From a scenario involving contact metamorphism near a magma intrusion, determine how the proximity to the heat source affects rock transformation"
+        },
+        {
+            "question": {
+                "text": "A geologist observes distinct horizontal layers of rock in the walls of a deep canyon. What conditions and approximate time scale would be required to form these visible sedimentary layers?",
+                "options": [
+                    {
+                        "text": "Rapid deposition of sediments over hundreds of years through violent floods",
+                        "isCorrect": 0,
+                        "explanation": "While floods can deposit sediments, the formation of distinct rock layers requires much longer time periods and involves compaction and cementation processes."
+                    },
+                    {
+                        "text": "Gradual deposition, compaction, and cementation of sediments over millions of years",
+                        "isCorrect": 1,
+                        "explanation": "Sedimentary rock layers form through the slow accumulation of sediments, which are then compacted by the weight of overlying layers and cemented by minerals over very long time periods."
+                    },
+                    {
+                        "text": "Sudden volcanic eruptions creating different lava layers over decades",
+                        "isCorrect": 0,
+                        "explanation": "While volcanic activity can create layers, the horizontal sedimentary layers in canyon walls typically form through sediment deposition, not volcanic activity."
+                    },
+                    {
+                        "text": "Rapid tectonic plate movement creating rock layers over centuries",
+                        "isCorrect": 0,
+                        "explanation": "Tectonic processes can affect existing rock layers but don't create the horizontal sedimentary layers seen in canyon walls."
+                    }
+                ],
+                "funFact": "The Grand Canyon's rock layers represent nearly 2 billion years of Earth's history, with some of the bottom layers being formed when the only life on Earth was microscopic organisms!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given observations of rock strata in a canyon wall, identify the environmental conditions and time scales needed to create the visible layering"
+        },
+        {
+            "question": {
+                "text": "Two similar rocks - one from a mountain belt formed at a convergent plate boundary and another from near a magma intrusion - show different textures. The rock from the mountain belt shows distinct wavy layering, while the rock near the magma intrusion has a more uniform crystalline texture with no layering. What best explains these different metamorphic textures?",
+                "options": [
+                    {
+                        "text": "The mountain belt rock experienced directed pressure forces creating foliation, while the rock near magma only experienced heat leading to recrystallization without foliation",
+                        "isCorrect": 1,
+                        "explanation": "At convergent boundaries, rocks experience both heat and directional pressure forces that cause minerals to align in wavy layers (foliation). In contact metamorphism near magma, only heat causes recrystallization without directional forces."
+                    },
+                    {
+                        "text": "The mountain belt rock melted and reformed while the rock near magma just reheated slightly",
+                        "isCorrect": 0,
+                        "explanation": "Metamorphic rocks form without melting. The differences in texture are due to different conditions of metamorphism, not melting and reforming."
+                    },
+                    {
+                        "text": "The mountain belt rock started as sedimentary rock while the other started as igneous rock",
+                        "isCorrect": 0,
+                        "explanation": "The original rock type does not determine whether foliation develops. The presence or absence of directional pressure during metamorphism determines foliation."
+                    },
+                    {
+                        "text": "The mountain belt rock formed more slowly allowing layers to develop while the other formed quickly",
+                        "isCorrect": 0,
+                        "explanation": "The rate of metamorphism does not determine whether foliation develops. The presence or absence of directional pressure forces is the key factor."
+                    }
+                ],
+                "funFact": "The world's oldest known metamorphic rocks are found in the Nuvvuagittuq Greenstone Belt in Quebec, Canada, dating back approximately 4.28 billion years - almost as old as Earth itself!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare two different types of metamorphic rocks - one formed at a convergent plate boundary and one formed through contact metamorphism - to explain how different conditions produce different textures"
+        },
+        {
+            "question": {
+                "text": "A geologist discovers a formation where dark bands of basalt cut through horizontal layers of limestone. What is the most likely sequence of events that created this rock formation?",
+                "options": [
+                    {
+                        "text": "Limestone layers formed first, then molten magma intruded through the layers and cooled to form basalt",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because sedimentary rocks like limestone form in horizontal layers through sedimentation and compaction, and igneous intrusions occur later when magma pushes through existing rock layers"
+                    },
+                    {
+                        "text": "Basalt formed first, then limestone layers were deposited around it",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect because basalt cutting through limestone layers indicates the basalt intruded after the limestone had already formed"
+                    },
+                    {
+                        "text": "Both rocks formed at the same time through different processes",
+                        "isCorrect": 0,
+                        "explanation": "The cross-cutting relationship shows that these rocks formed at different times, with the basalt being younger than the limestone"
+                    },
+                    {
+                        "text": "Limestone and basalt formed together through metamorphism",
+                        "isCorrect": 0,
+                        "explanation": "These rocks formed through different processes - limestone through sedimentation and basalt through igneous processes, not metamorphism"
+                    }
+                ],
+                "funFact": "The principle of cross-cutting relationships, first proposed by geologist James Hutton in the late 1700s, states that a rock formation that cuts through another must be younger than the rock it cuts through. This fundamental principle helps geologists determine the relative ages of rock formations."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a description of sedimentary rock layers disrupted by an igneous intrusion, determine the sequence of events that created the current rock arrangement"
+        },
+        {
+            "question": {
+                "text": "When magma cools, minerals crystallize to form igneous rocks. How does the cooling rate of magma affect the size of mineral crystals that form?",
+                "options": [
+                    {
+                        "text": "Quickly cooling magma forms larger crystals than slowly cooling magma",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fast cooling gives minerals less time to form large crystals, resulting in smaller crystal sizes."
+                    },
+                    {
+                        "text": "Slowly cooling magma forms larger crystals than quickly cooling magma",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When magma cools slowly, minerals have more time to arrange themselves into larger, well-formed crystals."
+                    },
+                    {
+                        "text": "The cooling rate has no effect on crystal size",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The cooling rate significantly affects crystal size by determining how much time minerals have to form crystals."
+                    },
+                    {
+                        "text": "Crystals only form when magma cools very quickly",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Crystals form regardless of cooling rate - the rate only affects their size."
+                    }
+                ],
+                "funFact": "The world's largest known crystal was found in Mexico's Cave of Crystals - a selenite crystal measuring 39 feet long and weighing 55 tons! It formed over hundreds of thousands of years as mineral-rich water cooled very slowly in underground caverns. Though these formed through hydrothermal processes rather than directly from magma, the same principle applies: slower cooling allows for larger crystal growth."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze how temperature changes affect mineral crystallization by comparing crystal formation in quickly versus slowly cooling magma"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes how igneous rocks form at different depths in Earth's crust?",
+                "options": [
+                    {
+                        "text": "Magma that cools slowly deep underground forms rocks with large crystals, while lava that cools quickly at the surface forms rocks with small crystals",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The cooling rate affects crystal size. Slow cooling allows more time for large crystals to form, while rapid cooling results in smaller crystals."
+                    },
+                    {
+                        "text": "Magma that cools quickly deep underground forms rocks with large crystals, while lava that cools slowly at the surface forms rocks with small crystals",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship between cooling rate and crystal size. Slower cooling (underground) produces larger crystals."
+                    },
+                    {
+                        "text": "Both magma underground and lava at the surface cool at the same rate and form crystals of the same size",
+                        "isCorrect": 0,
+                        "explanation": "Underground magma and surface lava cool at different rates due to their different environments, resulting in different crystal sizes."
+                    },
+                    {
+                        "text": "Crystal size in igneous rocks is determined by mineral composition rather than cooling rate",
+                        "isCorrect": 0,
+                        "explanation": "While mineral composition is important, the cooling rate is the primary factor that determines crystal size in igneous rocks."
+                    }
+                ],
+                "funFact": "The difference in crystal sizes can be dramatic - crystals in slowly-cooled granite formed deep underground can be several centimeters long, while crystals in quickly-cooled obsidian (volcanic glass) are so small they can't be seen with the naked eye!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare how igneous rocks form at different depths in Earth's crust, focusing on the relationship between cooling rate and crystal size in magma versus lava"
+        },
+        {
+            "question": {
+                "text": "How do different conditions at plate boundaries contribute to the formation of metamorphic rocks with distinct characteristics?",
+                "options": [
+                    {
+                        "text": "High pressure at convergent boundaries creates foliated metamorphic rocks with wavy layers, while contact with magma produces non-foliated rocks",
+                        "isCorrect": 1,
+                        "explanation": "Correct! At convergent boundaries, intense pressure creates foliated (layered) textures, while direct contact with magma causes contact metamorphism resulting in non-foliated rocks"
+                    },
+                    {
+                        "text": "All metamorphic rocks at plate boundaries become foliated regardless of the type of boundary or conditions",
+                        "isCorrect": 0,
+                        "explanation": "Not all metamorphic rocks are foliated. The type of metamorphism (contact vs pressure) determines the rock's texture"
+                    },
+                    {
+                        "text": "Only rocks at transform boundaries can become metamorphic rocks",
+                        "isCorrect": 0,
+                        "explanation": "Metamorphic rocks can form at any plate boundary where there is sufficient heat and/or pressure, not just at transform boundaries"
+                    },
+                    {
+                        "text": "Direct contact with magma always produces foliated metamorphic rocks",
+                        "isCorrect": 0,
+                        "explanation": "Contact metamorphism from magma actually produces non-foliated rocks, not foliated ones"
+                    }
+                ],
+                "funFact": "The word 'metamorphic' comes from Greek words meaning 'to change form.' Some metamorphic rocks, like marble (transformed from limestone), have been prized for sculptures and architecture for thousands of years!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze the role of plate boundaries in metamorphic rock formation by examining how different combinations of heat and pressure create distinct rock characteristics"
+        },
+        {
+            "question": {
+                "text": "In the Grand Canyon, scientists found fossilized remains of ancient marine organisms in different sedimentary rock layers. Which statement correctly describes how the age of these fossils relates to their position in the rock layers?",
+                "options": [
+                    {
+                        "text": "The fossils found in the deeper layers are younger than those in the layers closer to the surface",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Due to the process of sediment deposition over time, deeper layers of sedimentary rock are actually older than layers closer to the surface."
+                    },
+                    {
+                        "text": "The fossils found in the deeper layers are older than those in the layers closer to the surface",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Sedimentary rocks form in layers over time, with newer layers depositing on top of older ones. Therefore, fossils found in deeper layers were preserved earlier and are older than those in layers closer to the surface."
+                    },
+                    {
+                        "text": "The age of fossils is not related to their position in rock layers",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The position of fossils in sedimentary rock layers is directly related to their age due to the sequential nature of sediment deposition over time."
+                    },
+                    {
+                        "text": "All fossils in sedimentary rock layers are the same age regardless of their position",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fossils found in different sedimentary layers formed at different times as the layers were deposited, making them different ages."
+                    }
+                ],
+                "funFact": "This principle of older layers being found deeper in sedimentary rocks is called the Law of Superposition, first proposed by Nicholas Steno in 1669. This fundamental principle revolutionized our understanding of Earth's history and is one of the foundations of modern geology!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate how the relative position of sedimentary rock layers provides evidence about their age and formation sequence, particularly in relation to fossil preservation"
+        },
+        {
+            "question": {
+                "text": "What explains the difference between foliated and non-foliated metamorphic rocks formed at plate boundaries?",
+                "options": [
+                    {
+                        "text": "Foliated rocks form through contact with magma, while non-foliated rocks form through pressure at plate boundaries",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Actually, foliated rocks form through pressure at plate boundaries, while contact with magma produces non-foliated rocks."
+                    },
+                    {
+                        "text": "Foliated rocks form through pressure at plate boundaries, while non-foliated rocks form through contact with magma and hot water",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Pressure at plate boundaries creates wavy layers (foliation), while contact with magma and hot water produces non-foliated metamorphic rocks."
+                    },
+                    {
+                        "text": "Both foliated and non-foliated rocks form through the same process of heat and pressure at plate boundaries",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Foliated and non-foliated rocks form through different processes - pressure at boundaries versus contact with magma/hot water respectively."
+                    },
+                    {
+                        "text": "Neither type forms at plate boundaries - they only form deep within Earth's interior",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Metamorphic rocks do form at plate boundaries through different processes that create either foliated or non-foliated textures."
+                    }
+                ],
+                "funFact": "The word 'foliated' comes from the Latin word 'folium' meaning leaf, referring to the sheet-like layers that form in these rocks when minerals are realigned under pressure - similar to pages in a book!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine how energy from Earth's interior drives the transformation of metamorphic rocks, specifically comparing foliated and non-foliated textures"
+        },
+        {
+            "question": {
+                "text": "Consider a granite rock at Earth's surface. Through which sequence of processes and energy sources could this rock transform into different rock types?",
+                "options": [
+                    {
+                        "text": "Sun's energy causes weathering and erosion \u2192 sediments form layers \u2192 pressure from overlying layers forms sedimentary rock \u2192 heat and pressure at plate boundaries forms metamorphic rock",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows how solar energy drives surface processes that break down granite, followed by compaction and cementation to form sedimentary rock, which can then be metamorphosed by Earth's internal heat and pressure."
+                    },
+                    {
+                        "text": "Earth's internal heat melts the granite \u2192 magma cools quickly \u2192 forms new igneous rock \u2192 pressure alone transforms it to metamorphic rock",
+                        "isCorrect": 0,
+                        "explanation": "While granite can melt to form magma and new igneous rock, metamorphic rocks require both heat and pressure, not pressure alone."
+                    },
+                    {
+                        "text": "Wind directly transforms granite into sedimentary rock \u2192 Earth's heat forms metamorphic rock \u2192 cooling forms igneous rock",
+                        "isCorrect": 0,
+                        "explanation": "Wind cannot directly transform granite into sedimentary rock - weathering and erosion must first break it into sediments. Also, metamorphic rocks don't melt to directly form igneous rocks."
+                    },
+                    {
+                        "text": "Pressure compacts granite directly into metamorphic rock \u2192 melting forms magma \u2192 cooling forms new igneous rock",
+                        "isCorrect": 0,
+                        "explanation": "Metamorphic rocks form from heat and pressure together, not just pressure. While the latter part about melting and cooling is possible, the first transformation is incorrect."
+                    }
+                ],
+                "funFact": "The oldest known rocks on Earth are the Acasta Gneisses in Canada, which are metamorphic rocks formed about 4.03 billion years ago. These rocks started as igneous rocks and were transformed through the rock cycle, preserving a glimpse of Earth's early history!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the different pathways through which a single rock type can transform into other rock types within the rock cycle, emphasizing the energy sources driving these changes"
+        },
+        {
+            "question": {
+                "text": "When hot water containing dissolved minerals cools down and approaches the surface of the Earth, what happens to the mineral crystals?",
+                "options": [
+                    {
+                        "text": "The minerals crystallize as the cooler water can no longer hold as many dissolved minerals",
+                        "isCorrect": 1,
+                        "explanation": "As water cools, its ability to hold dissolved minerals decreases, causing the minerals to crystallize out of solution and form solid crystal structures"
+                    },
+                    {
+                        "text": "The minerals dissolve more readily in the cooler water",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - hot water actually dissolves more minerals than cold water. When water cools, its ability to hold dissolved minerals decreases"
+                    },
+                    {
+                        "text": "The minerals remain dissolved regardless of temperature changes",
+                        "isCorrect": 0,
+                        "explanation": "Temperature directly affects water's ability to hold dissolved minerals - they don't remain dissolved as temperature changes"
+                    },
+                    {
+                        "text": "The minerals evaporate along with the water",
+                        "isCorrect": 0,
+                        "explanation": "Minerals are solids that don't evaporate with water - they crystallize out of solution as the water cools"
+                    }
+                ],
+                "funFact": "The Giant Crystal Cave in Mexico's Naica Mine contains some of the world's largest natural crystals, formed when mineral-rich hot water cooled very slowly over hundreds of thousands of years. Some crystals are up to 39 feet long!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate how water's temperature affects mineral crystallization, particularly focusing on the relationship between saturation and crystal formation"
+        },
+        {
+            "question": {
+                "text": "How does contact metamorphism differ from regional metamorphism in terms of the formation process and rock characteristics?",
+                "options": [
+                    {
+                        "text": "Contact metamorphism occurs when rocks come in direct contact with magma or hot water, resulting in non-foliated rocks, while regional metamorphism occurs at plate boundaries due to heat and pressure, typically producing foliated rocks",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes both types of metamorphism, including their distinct formation processes and resulting rock characteristics"
+                    },
+                    {
+                        "text": "Contact metamorphism occurs at plate boundaries and produces foliated rocks, while regional metamorphism happens near magma and creates non-foliated rocks",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the characteristics and formation processes of the two types of metamorphism"
+                    },
+                    {
+                        "text": "Both contact and regional metamorphism produce foliated rocks but occur at different locations within Earth",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly suggests that both types produce foliated rocks, when only regional metamorphism typically does"
+                    },
+                    {
+                        "text": "Contact and regional metamorphism are the same process but occur at different depths within Earth",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly suggests that these are the same process, when they have distinct causes and results"
+                    }
+                ],
+                "funFact": "The word 'metamorphic' comes from ancient Greek words 'meta' meaning 'change' and 'morphe' meaning 'form'. Some metamorphic rocks, like marble (transformed from limestone), are prized for their beauty and have been used in sculpture and architecture for thousands of years!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how contact metamorphism differs from regional metamorphism in terms of the processes involved and resulting rock characteristics"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly compares how the Sun's energy and Earth's internal heat drive the rock cycle?",
+                "options": [
+                    {
+                        "text": "The Sun's energy causes weathering and erosion of rocks at the surface, while Earth's internal heat drives melting and crystallization processes",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the distinct roles of these energy sources - solar energy primarily affects surface processes while internal heat drives deeper geological changes"
+                    },
+                    {
+                        "text": "The Sun's energy melts rocks into magma, while Earth's internal heat causes weathering of surface rocks",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the roles - the Sun doesn't generate enough heat to melt rocks, and internal heat primarily causes melting, not surface weathering"
+                    },
+                    {
+                        "text": "Both the Sun's energy and Earth's internal heat cause the same types of changes to rocks at all depths",
+                        "isCorrect": 0,
+                        "explanation": "These energy sources affect rocks differently and at different depths - they don't cause the same types of changes throughout Earth"
+                    },
+                    {
+                        "text": "Neither energy source plays a significant role in changing rocks - most changes occur through chemical reactions alone",
+                        "isCorrect": 0,
+                        "explanation": "Both energy sources are essential drivers of rock changes - chemical reactions in the rock cycle are driven by these energy sources"
+                    }
+                ],
+                "funFact": "The temperature at Earth's center is about 9,392\u00b0F (5,200\u00b0C), which is almost as hot as the Sun's surface temperature of about 10,000\u00b0F (5,500\u00b0C)! However, rocks near Earth's surface rarely experience temperatures above 200\u00b0F (93\u00b0C)."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine how the cycling of Earth materials connects to different energy sources, comparing the roles of solar energy versus Earth's internal heat"
+        },
+        {
+            "question": {
+                "text": "During the rock cycle, a piece of granite (igneous rock) at Earth's surface weathers and erodes over time, forming sediments that eventually become sedimentary rock. This sedimentary rock is later subjected to intense heat and pressure, transforming into metamorphic rock. How does this sequence of transformations demonstrate the conservation of matter?",
+                "options": [
+                    {
+                        "text": "The minerals in the original granite are recycled and rearranged into new forms while the total amount of matter remains constant",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows conservation of matter - the original minerals are neither created nor destroyed, just rearranged into different forms through physical and chemical changes"
+                    },
+                    {
+                        "text": "New matter is created during each transformation to form the different types of rocks",
+                        "isCorrect": 0,
+                        "explanation": "This contradicts conservation of matter - matter cannot be created or destroyed during rock transformations, only rearranged"
+                    },
+                    {
+                        "text": "Matter is destroyed during weathering but new matter forms during metamorphism",
+                        "isCorrect": 0,
+                        "explanation": "Matter is not destroyed during weathering nor created during metamorphism - it is conserved throughout all transformations"
+                    },
+                    {
+                        "text": "The total amount of matter decreases with each transformation as some is lost to the atmosphere",
+                        "isCorrect": 0,
+                        "explanation": "While some minerals may change form, the total amount of matter is conserved and does not decrease during rock transformations"
+                    }
+                ],
+                "funFact": "Some of the minerals in rocks we see today may have cycled through different rock types multiple times over billions of years - the atoms making up these minerals could have once been part of ancient mountains, seabeds, or even dinosaur fossils!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how the rock cycle demonstrates the conservation of matter while rocks undergo various transformations"
+        },
+        {
+            "question": {
+                "text": "In metamorphic rock formation, what relationship exists between the applied pressure conditions and the resulting mineral arrangement?",
+                "options": [
+                    {
+                        "text": "High directional pressure creates foliated (layered) textures, while even pressure typically results in non-foliated textures",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When rocks experience high directional pressure at plate boundaries, minerals realign perpendicular to the pressure, creating distinctive foliated layers. Even pressure from all directions typically produces non-foliated textures."
+                    },
+                    {
+                        "text": "All metamorphic rocks develop foliated textures regardless of pressure conditions",
+                        "isCorrect": 0,
+                        "explanation": "Not all metamorphic rocks are foliated. The type of pressure (directional vs. even) determines whether foliation develops."
+                    },
+                    {
+                        "text": "Pressure has no effect on mineral arrangement in metamorphic rocks",
+                        "isCorrect": 0,
+                        "explanation": "Pressure is actually a key factor in determining mineral arrangement in metamorphic rocks, causing minerals to realign or recrystallize."
+                    },
+                    {
+                        "text": "Only contact metamorphism creates foliated textures",
+                        "isCorrect": 0,
+                        "explanation": "Contact metamorphism actually never produces foliated textures. Foliation occurs due to directional pressure at plate boundaries."
+                    }
+                ],
+                "funFact": "The world's oldest known metamorphic rocks are found in the Nuvvuagittuq belt in Quebec, Canada, and are estimated to be around 4.28 billion years old! These ancient rocks provide crucial information about Earth's early history."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the formation processes of different metamorphic rocks, focusing on how varying conditions of heat and pressure produce distinct mineral arrangements"
+        },
+        {
+            "question": {
+                "text": "Which characteristic of sedimentary rock layers makes them particularly valuable for understanding Earth's past environments?",
+                "options": [
+                    {
+                        "text": "The arrangement of layers with younger rocks on top and older rocks below, preserving fossils and environmental indicators in chronological order",
+                        "isCorrect": 1,
+                        "explanation": "Sedimentary rocks form in layers (strata) with newer layers deposited on top of older ones, creating a timeline of Earth's history. This ordering, combined with preserved fossils and environmental indicators, helps scientists reconstruct past environments."
+                    },
+                    {
+                        "text": "The crystalline structure of the minerals within the rocks",
+                        "isCorrect": 0,
+                        "explanation": "While mineral structure is important for identifying rock types, it's not the key feature that makes sedimentary rocks valuable for understanding past environments. The layering and preservation of fossils are more important for this purpose."
+                    },
+                    {
+                        "text": "The color variations between different rock types",
+                        "isCorrect": 0,
+                        "explanation": "Although color can provide some information about rock composition, it's not the primary characteristic that makes sedimentary rocks useful for understanding past environments. The sequential layering and fossil preservation are more significant."
+                    },
+                    {
+                        "text": "The hardness of the rock formations",
+                        "isCorrect": 0,
+                        "explanation": "Rock hardness is a physical property that helps identify rock types but doesn't directly help scientists understand past environments. The systematic layering and preserved evidence within sedimentary rocks are more important."
+                    }
+                ],
+                "funFact": "The Grand Canyon's colorful layers of sedimentary rock represent about 500 million years of Earth's history, while the oldest rocks at its base date back nearly 2 billion years! Each distinctive sedimentary layer tells a different story about ancient environments, from shallow seas to vast deserts, making it one of the world's most remarkable natural history books."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate how sedimentary rock formation preserves evidence of past environments, focusing on the relationship between depositional conditions and rock characteristics"
+        },
+        {
+            "question": {
+                "text": "Which statement best explains how sedimentary rocks form through the interaction of weathering and mineral cementation?",
+                "options": [
+                    {
+                        "text": "Weathered rock particles are compacted by the weight of overlying layers while minerals deposited by flowing water cement the particles together",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how sedimentary rocks form through both compaction of sediments by overlying layers and cementation by minerals carried in flowing water"
+                    },
+                    {
+                        "text": "Weathered rock particles are melted by heat and pressure, causing them to fuse together into solid rock",
+                        "isCorrect": 0,
+                        "explanation": "This describes metamorphic rock formation through heat and pressure, not sedimentary rock formation through compaction and cementation"
+                    },
+                    {
+                        "text": "Weathered rock particles are pushed together by plate tectonics, causing them to bond without any additional minerals",
+                        "isCorrect": 0,
+                        "explanation": "While tectonic forces can affect rocks, sedimentary rocks require both compaction and mineral cementation, not just pressure from plate movement"
+                    },
+                    {
+                        "text": "Weathered rock particles naturally stick together over time without requiring any additional processes",
+                        "isCorrect": 0,
+                        "explanation": "Sedimentary rock formation requires specific processes - both compaction from overlying layers and cementation by minerals, not just time"
+                    }
+                ],
+                "funFact": "The Grand Canyon showcases approximately 1.8 billion years of Earth's geological history. Its colorful sedimentary layers represent about 540 million years of deposition (from the Cambrian period forward), while the oldest rocks at the bottom of the canyon are metamorphic and igneous."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how the process of weathering connects to sedimentary rock formation, focusing on the relationship between sediment compaction and mineral cementation"
+        }
+    ]
+}

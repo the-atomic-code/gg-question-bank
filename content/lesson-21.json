@@ -1,0 +1,1216 @@
+{
+    "id": "lesson-21",
+    "title": "What is Science?",
+    "standard": "MS-ETS1-4",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "What is the primary purpose of scientific models, and why do all models have limitations?",
+                "options": [
+                    {
+                        "text": "Models allow scientists to make detailed copies of real things, but are limited by available materials.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientific models are not meant to be exact copies of reality but simplified representations that help explain processes. Their limitations stem from their simplifications, not from material constraints."
+                    },
+                    {
+                        "text": "Models simplify complex processes to help explain and make predictions, but must leave out some details of the real process.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Scientific models provide simplified representations of processes that might be too large, small, complex, or invisible to observe directly. Because they are simplified, they never contain all the features of the real processes they represent."
+                    },
+                    {
+                        "text": "Models are used to collect data, but are limited because they can only test one variable at a time.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While models can help generate data, their main purpose is to represent and explain processes. Models are not inherently limited to testing one variable at a time."
+                    },
+                    {
+                        "text": "Models are physical representations only, limited by their inability to represent abstract concepts.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientific models can be physical, conceptual, or computer simulations. They are not limited to physical forms and can effectively represent abstract concepts."
+                    },
+                    {
+                        "text": "Models are only used when experiments aren't possible, and are limited because they produce less reliable data.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models are used throughout science regardless of whether experiments are possible. Their limitations come from simplification, not inherently less reliable data."
+                    }
+                ],
+                "funFact": "Some of the most influential scientific models in history were extremely simple! For example, Niels Bohr's 1913 model of the atom, which depicted electrons orbiting the nucleus like planets around the sun, was drastically simplified but revolutionized our understanding of atomic structure and paved the way for quantum mechanics."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify the definition of a model in science and why scientists use models to explain processes"
+        },
+        {
+            "question": {
+                "text": "Which statement best explains why all scientific models have limitations?",
+                "options": [
+                    {
+                        "text": "Models are always inaccurate because scientists make errors when creating them.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While models may contain errors, the fundamental limitation of models is not due to mistakes but rather their intentional simplification of complex systems."
+                    },
+                    {
+                        "text": "Models are simplified representations that cannot include all features of the real processes they represent.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Scientific models are intentionally simplified to help explain and make predictions about complex processes, which means they must leave out some details or aspects of the real phenomenon."
+                    },
+                    {
+                        "text": "Models are limited because they can only be used for small-scale phenomena.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models can represent phenomena at any scale, from subatomic particles to entire galaxies and beyond."
+                    },
+                    {
+                        "text": "Models are only temporary until a perfect representation can be developed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The goal of modeling is not perfection but usefulness. Even the most advanced models will always be simplifications of reality."
+                    },
+                    {
+                        "text": "Models are limited because they can only be used for processes that cannot be directly observed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientists use models for both observable and unobservable phenomena. Models are valuable tools for understanding a wide range of processes."
+                    }
+                ],
+                "funFact": "The famous quote \"All models are wrong, but some are useful\" comes from statistician George Box. This acknowledges that while models never perfectly represent reality, they can still provide valuable insights and predictions about how systems work."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify the limitations that all scientific models have and why these limitations exist"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes how scientists improve a model of a proposed solution?",
+                "options": [
+                    {
+                        "text": "They test the model once and if it works, they implement it immediately.",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect because model development typically requires multiple rounds of testing and refinement, not just a single test."
+                    },
+                    {
+                        "text": "They create the perfect model on the first try through careful planning.",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect because even with careful planning, models almost always require modification and improvement through testing."
+                    },
+                    {
+                        "text": "They test the model repeatedly, making modifications based on each test result until an optimal solution is achieved.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Scientific models are improved through an iterative process of testing, collecting data, and making modifications based on that data until the design meets the criteria and constraints of the problem."
+                    },
+                    {
+                        "text": "They rely solely on computer simulations to predict performance without physical testing.",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect because while computer simulations can be useful, they are just one type of model. The iterative testing process often requires multiple forms of testing and physical prototypes."
+                    },
+                    {
+                        "text": "They ask other scientists to vote on which model looks best.",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect because scientific model development is based on evidence and data from testing, not opinions or votes on appearance."
+                    }
+                ],
+                "funFact": "The Mars rover Perseverance went through more than 30 design iterations before its final version was approved for the mission. Each test provided data that engineers used to modify and improve the rover's design, allowing it to successfully navigate Mars' challenging terrain."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to recognize the process of iterative testing and how it leads to improvement of a design solution"
+        },
+        {
+            "question": {
+                "text": "When testing a model of a solar-powered water filtration system, what does the data representing water output volume primarily indicate?",
+                "options": [
+                    {
+                        "text": "The aesthetic appeal of the design",
+                        "isCorrect": 0,
+                        "explanation": "The aesthetic appeal is a subjective quality that isn't typically represented by quantitative output data. Data from testing would represent functional aspects of the system."
+                    },
+                    {
+                        "text": "The functionality of the solution",
+                        "isCorrect": 1,
+                        "explanation": "Output volume data directly represents how well the system functions in its primary purpose of filtering water. This data helps determine if the solution meets the criteria for solving the problem."
+                    },
+                    {
+                        "text": "The cost of materials used",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint in design, the output volume data itself doesn't directly indicate the cost of materials. Cost would be tracked separately from performance data."
+                    },
+                    {
+                        "text": "The number of components in the system",
+                        "isCorrect": 0,
+                        "explanation": "The output volume doesn't directly indicate how many components are in the system. It measures the performance result, not the complexity of the design."
+                    },
+                    {
+                        "text": "The time spent building the model",
+                        "isCorrect": 0,
+                        "explanation": "Output volume data represents the performance of the solution, not how long it took to build the model. Construction time would be a separate measurement."
+                    }
+                ],
+                "funFact": "Engineers often collect multiple types of data when testing designs. For NASA's Mars rovers, engineers tested more than 10,000 different scenarios and collected millions of data points before finalizing designs that could handle the harsh Martian environment."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify what data represents in relation to testing a model or design solution"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes how models can be used to develop and improve a design solution?",
+                "options": [
+                    {
+                        "text": "Models can be used to perfectly represent all aspects of a design solution without any limitations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All models have limitations and cannot perfectly represent all aspects of a design solution. Models are simplified representations that focus on specific components or relationships."
+                    },
+                    {
+                        "text": "Models are used only after a final design is created to demonstrate how it works.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models are used throughout the design process, not just at the end. They help test and refine ideas during development, not just demonstrate a final product."
+                    },
+                    {
+                        "text": "Models generate data that can be used for testing and modifying a design through multiple iterations to achieve an optimal solution.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Models help generate data about how a proposed solution works, allowing designers to test and modify their designs repeatedly until they find the optimal solution that best meets the criteria and constraints."
+                    },
+                    {
+                        "text": "Models are used primarily to make a design look attractive rather than to test its functionality.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While models may represent the appearance of a design, their primary purpose in the engineering process is to test functionality and generate data about how well a solution works."
+                    },
+                    {
+                        "text": "Models can only be physical representations; computer simulations cannot be considered models.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models can take many forms, including physical models, conceptual models, mathematical models, and computer simulations. All of these are valid types of models used in the design process."
+                    }
+                ],
+                "funFact": "Engineers at NASA build multiple different types of models before launching spacecraft. For example, when developing the Mars rovers, they created computer models, small-scale physical prototypes, and full-size engineering models. Each type of model provided different data that helped refine the final design before it was sent to another planet!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to recognize how criteria and constraints are used in developing and optimizing a design solution"
+        },
+        {
+            "question": {
+                "text": "In a model of a water filtration system, what is the relationship between the inputs and outputs?",
+                "options": [
+                    {
+                        "text": "The inputs are the contaminants, and the outputs are the clean water.",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship. In a water filtration system, contaminated water is the input and filtered contaminants and clean water are the outputs."
+                    },
+                    {
+                        "text": "The inputs are the contaminated water, and the outputs are the filtered water and separated contaminants.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the input (contaminated water) and outputs (clean water and filtered contaminants) in a water filtration system model."
+                    },
+                    {
+                        "text": "The input and output are the same because the water simply passes through the system.",
+                        "isCorrect": 0,
+                        "explanation": "This misunderstands the transformation that occurs in the system. The water changes state from contaminated to clean through the filtration process."
+                    },
+                    {
+                        "text": "The inputs are the filter materials, and the outputs are the contaminated water.",
+                        "isCorrect": 0,
+                        "explanation": "This confuses components of the system with inputs/outputs. Filter materials are part of the system itself, not inputs, and contaminated water would be an input, not an output."
+                    }
+                ],
+                "funFact": "Scientists often test water filtration designs through multiple iterations, sometimes creating over 50 versions before finding an optimal solution. Modern water treatment facilities typically use a series of different filtration methods in sequence to remove progressively smaller contaminants."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to recognize the relationship between inputs and outputs in a designed system"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a new wind turbine blade to generate more electricity. They've built a prototype and are now testing it in a wind tunnel. What is the most effective approach for the team to optimize their design?",
+                "options": [
+                    {
+                        "text": "Test the prototype once and implement all changes at the same time",
+                        "isCorrect": 0,
+                        "explanation": "Making all changes at once without iterative testing makes it difficult to determine which modifications are effective and which might be causing problems."
+                    },
+                    {
+                        "text": "Test the current design, make one modification based on the data, test again, and repeat until an optimal design is achieved",
+                        "isCorrect": 1,
+                        "explanation": "This describes the iterative design process where each change is tested separately, allowing engineers to clearly see how each modification affects performance and gradually optimize the design."
+                    },
+                    {
+                        "text": "Compare the prototype against existing wind turbine designs and copy the most successful features",
+                        "isCorrect": 0,
+                        "explanation": "While looking at existing designs can provide ideas, simply copying features without testing how they work in your specific design doesn't lead to optimization."
+                    },
+                    {
+                        "text": "Create multiple completely different designs and select the one that performs best in a single test",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't utilize the valuable data from each test to inform improvements, and doesn't allow for the refinement of promising designs through multiple iterations."
+                    }
+                ],
+                "funFact": "The world's most efficient wind turbines underwent hundreds of iterations during their development. Engineers often use both computer models and physical prototypes in wind tunnels to test how small changes in blade shape, angle, and material can significantly increase energy output while reducing noise and vibration."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify how feedback from testing is used to optimize a design solution"
+        },
+        {
+            "question": {
+                "text": "What makes a design solution 'optimal' in engineering?",
+                "options": [
+                    {
+                        "text": "It is the most aesthetically pleasing solution",
+                        "isCorrect": 0,
+                        "explanation": "While appearance may be one criterion in some design challenges, an optimal solution is determined primarily by how well it meets the established criteria and constraints, not just aesthetics."
+                    },
+                    {
+                        "text": "It is the result of iterative testing and modification based on data",
+                        "isCorrect": 1,
+                        "explanation": "An optimal design solution emerges through the process of testing, collecting data, and making modifications through multiple iterations until the solution best meets all criteria and constraints."
+                    },
+                    {
+                        "text": "It is the first solution that successfully solves the problem",
+                        "isCorrect": 0,
+                        "explanation": "The first working solution is rarely optimal. Engineering design involves improving solutions through multiple iterations, not stopping at the first functional design."
+                    },
+                    {
+                        "text": "It is the solution created by the most experienced engineer",
+                        "isCorrect": 0,
+                        "explanation": "Experience can be valuable, but optimal solutions are determined by how well they meet criteria and constraints through testing and refinement, regardless of who creates them."
+                    },
+                    {
+                        "text": "It is the most expensive solution to implement",
+                        "isCorrect": 0,
+                        "explanation": "Cost is typically a constraint in engineering design. An optimal solution balances performance with resource requirements, not simply choosing the most expensive approach."
+                    }
+                ],
+                "funFact": "NASA's Mars rovers underwent thousands of design iterations before their final versions were built. The airbags that safely landed the Pathfinder mission were tested more than 100 times and completely redesigned after early versions failed to provide adequate protection."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to recognize what makes a design solution 'optimal' and how it relates to meeting criteria and constraints"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of developing models in the engineering design process?",
+                "options": [
+                    {
+                        "text": "To make the design look more professional for presentations",
+                        "isCorrect": 0,
+                        "explanation": "While models can be used in presentations, their primary purpose in engineering design is not about appearance or professionalism, but rather about testing and improving designs."
+                    },
+                    {
+                        "text": "To generate data for testing and improving a design solution",
+                        "isCorrect": 1,
+                        "explanation": "Models allow engineers to collect data about how a proposed solution works, identify problems, and make modifications to improve the design through an iterative process."
+                    },
+                    {
+                        "text": "To create a permanent record of the final design",
+                        "isCorrect": 0,
+                        "explanation": "Models are working tools used during the design process, not primarily meant to document the final product. They are most valuable for testing and refining designs."
+                    },
+                    {
+                        "text": "To reduce the cost of building the actual solution",
+                        "isCorrect": 0,
+                        "explanation": "While models can help save resources by testing designs before full implementation, this is a secondary benefit. The primary purpose is to generate data to test and improve the design."
+                    },
+                    {
+                        "text": "To prove that the designer's first solution was correct",
+                        "isCorrect": 0,
+                        "explanation": "Models are used to test and improve designs through multiple iterations, not to validate that the initial design was perfect. The engineering design process expects and relies on modification."
+                    }
+                ],
+                "funFact": "NASA used over 40 different scale models during the development of the Space Shuttle to test various aspects of its design, from aerodynamics to heat shield performance. These models helped engineers identify and solve problems long before the actual shuttle was built."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify the purpose of developing models for testing design solutions"
+        },
+        {
+            "question": {
+                "text": "When designing a model to test a new solar-powered cooker, which components should be included to help optimize the design through testing?",
+                "options": [
+                    {
+                        "text": "Only the materials that will be used in the final product",
+                        "isCorrect": 0,
+                        "explanation": "Including just the materials is insufficient for testing. A useful model should include inputs, outputs, and ways to measure how changes affect performance."
+                    },
+                    {
+                        "text": "The criteria for success, inputs, outputs, and a way to collect performance data",
+                        "isCorrect": 1,
+                        "explanation": "This option correctly identifies the essential components needed in a model for iterative testing: criteria for success (what makes a good cooker), inputs (sunlight, materials), outputs (heat, cooking ability), and data collection methods to measure performance."
+                    },
+                    {
+                        "text": "A physical prototype and instructions for using it",
+                        "isCorrect": 0,
+                        "explanation": "While a physical prototype is useful, a complete model for testing should also include ways to measure performance against criteria and collect data for improvements."
+                    },
+                    {
+                        "text": "The expected final result and a description of how it works",
+                        "isCorrect": 0,
+                        "explanation": "Documenting the expected result doesn't create a testable model. A useful model needs components that can be modified and ways to collect data during testing."
+                    }
+                ],
+                "funFact": "Engineers at MIT developed a solar cooker model that helped them optimize a design that can work even in snowy regions. By testing parameters like reflector angles and insulation materials, they created a cooker that reaches 200\u00b0C even when outdoor temperatures are below freezing."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to recognize the components that should be included in a model for testing a design solution"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a bridge for a science competition. They want to test their design before building the full-size bridge. Which statement BEST describes how data from a model of their bridge could help them improve their design?",
+                "options": [
+                    {
+                        "text": "Data from the model would tell them exactly how the real bridge will perform under all conditions.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because models have limitations and cannot perfectly predict how the real bridge will perform under all conditions. Models are simplified representations that provide useful data for specific aspects of a design."
+                    },
+                    {
+                        "text": "Data from the model would allow them to test different designs and identify which one meets the criteria best before building the full bridge.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because models generate data that can be used for iterative testing and modification of a design. Engineers can use this data to optimize their design by testing different versions and identifying which best meets the criteria before building the actual bridge."
+                    },
+                    {
+                        "text": "Data from the model would replace the need to build the actual bridge since the model data is always accurate.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because models have limitations and cannot completely replace building the actual bridge. Models provide useful data for improving designs, but they are simplified representations that may not capture all aspects of the real-world performance."
+                    },
+                    {
+                        "text": "Data from the model would prove their initial design is the best possible solution.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the purpose of generating data from a model is to test and modify designs through an iterative process, not to prove that the initial design is already optimal. The data helps engineers make improvements to reach an optimal solution."
+                    }
+                ],
+                "funFact": "Engineers who designed the famous Golden Gate Bridge in San Francisco first created a scaled model and tested it in a wind tunnel. This testing revealed that the original design would be unstable in high winds, leading to crucial modifications that made the bridge safer and more durable before construction began."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify how data generated from a model is used to make decisions about modifying a design"
+        },
+        {
+            "question": {
+                "text": "When engineers are designing a new bridge, they want to make sure it will support the expected load of traffic. Which approach best describes how they would use models in the design process?",
+                "options": [
+                    {
+                        "text": "They would build one perfect model of the bridge, test it once, and then construct the real bridge based on those results.",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't use iterative testing. Engineers don't rely on a single test of one model, as this doesn't allow for improvements based on test results."
+                    },
+                    {
+                        "text": "They would create multiple models independently, test each one separately, and select the best one without any modifications.",
+                        "isCorrect": 0,
+                        "explanation": "While this approach tests multiple models, it doesn't involve the critical iterative process of modifying designs based on test results to achieve an optimal solution."
+                    },
+                    {
+                        "text": "They would create a model, test it, analyze the data, modify the design based on results, and repeat this process until they achieve the optimal solution.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes the iterative design process where engineers use models to generate data, then modify their designs based on that data to improve performance through multiple cycles of testing and refinement."
+                    },
+                    {
+                        "text": "They would skip the modeling phase entirely and build the actual bridge, making changes to the real structure if problems arise during construction.",
+                        "isCorrect": 0,
+                        "explanation": "This approach would be dangerous and extremely costly. Models are essential for testing designs before committing to full-scale construction, especially for critical infrastructure like bridges."
+                    }
+                ],
+                "funFact": "Modern engineers often use both physical models and computer simulations in their iterative design process. For example, when designing the Millau Viaduct in France (which has the tallest bridge pylons in the world), engineers tested over 10,000 hours of wind tunnel models and ran countless computer simulations before finalizing the design."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question that asks students to identify how testing and modification work together in an iterative design process"
+        },
+        {
+            "question": {
+                "text": "Which of the following scenarios best demonstrates using a model to generate data for iterative testing and improvement of a design?",
+                "options": [
+                    {
+                        "text": "A team of students creates a detailed drawing of their bridge design and builds it exactly according to plan without any modifications.",
+                        "isCorrect": 0,
+                        "explanation": "This scenario shows only a single implementation without iteration or using data from testing to improve the design."
+                    },
+                    {
+                        "text": "A scientist develops a theory about plant growth and publishes it in a scientific journal without testing it first.",
+                        "isCorrect": 0,
+                        "explanation": "This describes developing a scientific theory without testing or data collection, not an iterative design process."
+                    },
+                    {
+                        "text": "Engineers create a computer simulation of a solar-powered car, run tests to collect performance data, then modify their design multiple times based on the test results until they achieve optimal efficiency.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly demonstrates using a model (computer simulation) to generate data through testing, then using that data to guide modifications through multiple iterations to optimize the design."
+                    },
+                    {
+                        "text": "A student observes that plants grow better in sunlight and concludes that all plants need direct sunlight to survive.",
+                        "isCorrect": 0,
+                        "explanation": "This describes making an observation and drawing a conclusion, not using a model for iterative testing and improvement."
+                    },
+                    {
+                        "text": "A team builds a prototype of a new device and displays it at a science fair without conducting any tests on its performance.",
+                        "isCorrect": 0,
+                        "explanation": "This shows building a prototype but not using it to generate data or improve the design through iterations."
+                    }
+                ],
+                "funFact": "The Mars rovers went through thousands of design iterations and computer simulations before their final designs were approved. NASA engineers used sophisticated models to test how the rovers would perform in Mars' harsh environment, allowing them to make crucial improvements before the actual missions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to identify which example represents an iterative design process where a model is used to generate data for testing and improving a solution."
+        },
+        {
+            "question": {
+                "text": "A team of students is designing a prototype of a solar-powered water filter for a science fair project. They have collected the following data from testing their initial design:\n\n- The filter processes 0.5 liters of water per hour\n- The filtered water still contains 15% of the original contaminants\n- The solar panel works at 40% efficiency on cloudy days\n- The filter clogs after 8 hours of continuous use\n\nThe team has identified that the major issue preventing optimal performance is the clogging problem. Which modification would be most effective to address this specific issue?",
+                "options": [
+                    {
+                        "text": "Install a larger solar panel to increase power on cloudy days",
+                        "isCorrect": 0,
+                        "explanation": "While a larger solar panel would improve power generation on cloudy days, this modification doesn't address the clogging issue. The problem is with the filter mechanism, not power supply."
+                    },
+                    {
+                        "text": "Add a pre-filter stage to remove larger particles before they reach the main filter",
+                        "isCorrect": 1,
+                        "explanation": "A pre-filter would catch larger particles before they reach the main filter, reducing the rate at which the main filter clogs. This directly addresses the identified issue and would extend the operational time of the filter."
+                    },
+                    {
+                        "text": "Increase the size of the water reservoir to store more filtered water",
+                        "isCorrect": 0,
+                        "explanation": "A larger reservoir would store more filtered water but wouldn't solve the clogging problem. The filter would still stop working after 8 hours of use."
+                    },
+                    {
+                        "text": "Add a chemical treatment stage to better eliminate contaminants",
+                        "isCorrect": 0,
+                        "explanation": "While this might improve water purity (addressing the 15% remaining contaminants), it doesn't solve the clogging issue. The filter would still become clogged after 8 hours."
+                    },
+                    {
+                        "text": "Increase the flow rate to process water more quickly",
+                        "isCorrect": 0,
+                        "explanation": "Increasing the flow rate might actually make the clogging problem worse, as more particles would be forced through the filter in less time. This doesn't address the fundamental issue of particles building up in the filter."
+                    }
+                ],
+                "funFact": "Engineers often use a technique called 'failure mode and effects analysis' (FMEA) when optimizing designs. This systematic approach helps identify all possible failures in a design and prioritizes which issues to fix first based on severity, occurrence, and detection difficulty."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to determine which modification to a prototype would best address a specific performance issue identified through data collection and testing."
+        },
+        {
+            "question": {
+                "text": "A scientist is using a physical model of the solar system to study planetary orbits. Which limitation of this model would most significantly affect data collected for testing predictions about actual planetary movements?",
+                "options": [
+                    {
+                        "text": "The model uses smaller physical objects to represent planets, making it difficult to accurately model gravitational effects",
+                        "isCorrect": 1,
+                        "explanation": "Physical models of the solar system typically use much smaller objects than actual planets, which significantly changes how gravity works in the model compared to real space. This limitation means data collected from the model about planetary movements would not accurately represent real gravitational interactions."
+                    },
+                    {
+                        "text": "The model is made of plastic and metal instead of the actual materials found in planets",
+                        "isCorrect": 0,
+                        "explanation": "While the materials used in the model differ from actual planetary composition, this limitation primarily affects representation of planetary properties rather than orbital movements. The composition of the model planets is less critical for studying orbital mechanics than scale and physics issues."
+                    },
+                    {
+                        "text": "The model can only represent planets visible to the naked eye",
+                        "isCorrect": 0,
+                        "explanation": "This limitation relates to the completeness of the model, not its ability to generate accurate data about the planets it does include. A model can still provide useful data about the planets it represents, even if it doesn't include all planets in the solar system."
+                    },
+                    {
+                        "text": "The model cannot be viewed from multiple angles simultaneously",
+                        "isCorrect": 0,
+                        "explanation": "While viewing angle might limit observational convenience, this is not a fundamental limitation that would significantly affect the data generated by the model for testing predictions. The orbital mechanics would function the same regardless of viewing perspective."
+                    },
+                    {
+                        "text": "The model doesn't include comets and asteroids",
+                        "isCorrect": 0,
+                        "explanation": "The absence of smaller celestial bodies like comets and asteroids is a limitation in the model's completeness, but for studying the primary planetary orbits, this would not be the most significant factor affecting the accuracy of the data generated for testing basic orbital predictions."
+                    }
+                ],
+                "funFact": "Scientists often use computer simulations alongside physical models to study the solar system because they can more accurately incorporate the complex mathematics of gravity. NASA's Jet Propulsion Laboratory uses highly sophisticated computer models that account for gravitational interactions between all planets, moons, and even the slight pressure from solar radiation when planning spacecraft trajectories."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to identify the limitations of a given model and how those limitations might affect the data generated for testing a proposed solution."
+        },
+        {
+            "question": {
+                "text": "A team of middle school students is designing a solar-powered water filter for a science competition. Their prototype pumps water through a series of filters using energy from a small solar panel. During initial testing, they found that the pump works well in direct sunlight but stops functioning when clouds appear. The team needs to modify their design to create a more reliable system. Which modification would best improve their design based on test data?",
+                "options": [
+                    {
+                        "text": "Add a battery to store energy when sunlight is available",
+                        "isCorrect": 1,
+                        "explanation": "Adding a battery would allow the system to store energy when sunlight is available and continue operating during cloudy periods. This directly addresses the identified problem and would make the design more reliable under variable conditions."
+                    },
+                    {
+                        "text": "Use a larger solar panel with the same specifications",
+                        "isCorrect": 0,
+                        "explanation": "While a larger panel of the same type would collect more energy in sunlight, it wouldn't solve the fundamental problem of the system failing during cloudy periods. The design needs a way to maintain operation when sunlight is temporarily unavailable."
+                    },
+                    {
+                        "text": "Change the color of the solar panel to absorb more light",
+                        "isCorrect": 0,
+                        "explanation": "Solar panels are already designed to maximize light absorption. Changing the color wouldn't significantly improve their performance during cloudy conditions when the issue is reduced light availability, not the panel's absorption capacity."
+                    },
+                    {
+                        "text": "Increase the size of the water filters to process more water at once",
+                        "isCorrect": 0,
+                        "explanation": "Larger filters would affect water processing capacity but wouldn't address the energy supply problem identified in testing. The issue is with power consistency, not filtration capacity."
+                    },
+                    {
+                        "text": "Add a manual backup pump to use when the solar pump fails",
+                        "isCorrect": 0,
+                        "explanation": "While this would provide a way to keep the system working, it doesn't optimize the original design concept of using solar power. A good solution would improve the existing system rather than requiring manual intervention."
+                    }
+                ],
+                "funFact": "Energy storage systems like batteries are a key component in many real-world solar applications. The largest solar-plus-storage systems can power entire communities through nighttime or cloudy days, using the same principle that would improve the students' water filter design."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting a scenario where students must determine which component of a proposed solution should be modified based on test data to better meet the design criteria."
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a water filtration system for a rural community. The system needs to remove sediment and bacteria while being cost-effective and easy to maintain. Which model would be most useful for generating data to optimize the design through iterative testing?",
+                "options": [
+                    {
+                        "text": "A computer simulation that shows only the final water quality results for each design",
+                        "isCorrect": 0,
+                        "explanation": "This model only shows final outcomes without providing data about how different components affect performance, making it difficult to identify which specific parts need modification."
+                    },
+                    {
+                        "text": "A scaled physical model that allows testing of different filter materials and measuring water flow rates, sediment removal, and bacterial counts at various stages",
+                        "isCorrect": 1,
+                        "explanation": "This model generates comprehensive data about how each component contributes to the system's performance, allowing for targeted modifications to optimize the design through iterative testing."
+                    },
+                    {
+                        "text": "A detailed drawing showing all components of the filtration system",
+                        "isCorrect": 0,
+                        "explanation": "While helpful for visualizing the system, a drawing doesn't generate any data for testing or modification purposes."
+                    },
+                    {
+                        "text": "A mathematical equation that calculates the theoretical maximum efficiency of the system",
+                        "isCorrect": 0,
+                        "explanation": "This provides only theoretical information about maximum potential performance but doesn't generate practical data about how the actual system functions under different conditions."
+                    },
+                    {
+                        "text": "A written description of how the filtration process should work",
+                        "isCorrect": 0,
+                        "explanation": "A description doesn't generate any testable data and cannot be used to identify which components need modification to improve performance."
+                    }
+                ],
+                "funFact": "Engineers who design water filtration systems often test their models with challenging contaminants like fluorescent particles to visually track how materials move through the system. This approach helps them optimize filter designs that are now bringing clean water to over 2 billion people who previously lacked access to safe drinking water."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question that presents a design problem with criteria and constraints, and asks students to select which model would generate the most useful data for testing potential solutions."
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing a new water filtration system for homes. They create a model to test how different filter materials affect water clarity. After their first test with sand as a filter, they collect data showing the water is still cloudy. What is the most useful next step in their design process?",
+                "options": [
+                    {
+                        "text": "Declare the design a failure and start over with a completely new approach",
+                        "isCorrect": 0,
+                        "explanation": "Starting over completely would waste valuable information gained from the first test. The iterative design process involves making modifications based on test results rather than abandoning designs entirely."
+                    },
+                    {
+                        "text": "Modify the filter by adding activated charcoal, then test again to see if water clarity improves",
+                        "isCorrect": 1,
+                        "explanation": "This represents the iterative testing and modification process that leads to an optimal design. Using data from the first test to inform a specific modification (adding activated charcoal) and then testing again is exactly how engineers refine their designs."
+                    },
+                    {
+                        "text": "Continue using the same sand filter but test with different water samples",
+                        "isCorrect": 0,
+                        "explanation": "Testing with different water samples without modifying the filter design doesn't address the problem identified in the data (cloudy water). This approach doesn't utilize the iterative improvement process."
+                    },
+                    {
+                        "text": "Collect more data points using the same design before making any changes",
+                        "isCorrect": 0,
+                        "explanation": "While more data can be helpful, the existing data already indicates a problem (cloudy water). The iterative design process suggests making modifications based on current data rather than collecting redundant information."
+                    },
+                    {
+                        "text": "Ask users if they would accept cloudy water rather than modifying the design",
+                        "isCorrect": 0,
+                        "explanation": "This approach ignores the design criteria (clean water) and doesn't utilize the iterative testing and modification process to improve the solution. It attempts to change the criteria rather than optimize the design."
+                    }
+                ],
+                "funFact": "Water filtration technology has evolved through thousands of iterations over centuries. Ancient Egyptians used sand and gravel filters as early as 2000 BCE, while modern activated carbon filters can remove particles as small as 0.5 microns\u2014about 100 times smaller than what the human eye can see!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to identify how the iterative testing process contributes to optimizing a solution by interpreting data from multiple design iterations."
+        },
+        {
+            "question": {
+                "text": "Engineers are designing a water filtering system to remove contaminants from a local stream. They have created a model that simulates how their filter works with different materials. The initial design uses sand as the filtering medium and shows it removes 70% of contaminants but clogs quickly. The team is considering switching to a combination of sand and activated charcoal. Based on what scientists know about models and design optimization, what would be the most appropriate next step for the engineering team?",
+                "options": [
+                    {
+                        "text": "Immediately implement the sand and activated charcoal combination in the actual stream",
+                        "isCorrect": 0,
+                        "explanation": "Implementing a solution without testing it first skips the crucial step of using the model to generate data about the new design. This approach doesn't follow the iterative testing process needed for optimization."
+                    },
+                    {
+                        "text": "Modify their model to test the sand and activated charcoal combination and collect performance data",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct approach in the engineering design process. Modifying the model to test the new combination allows engineers to generate data about the proposed change before implementation, supporting iterative testing and design optimization."
+                    },
+                    {
+                        "text": "Abandon the sand design completely since it clogs quickly and start over with a completely new concept",
+                        "isCorrect": 0,
+                        "explanation": "Starting over completely ignores valuable data from the initial design. Optimization typically builds on previous iterations rather than abandoning them entirely, using data to make targeted improvements."
+                    },
+                    {
+                        "text": "Conduct a survey of local residents to see if they prefer sand or activated charcoal filters",
+                        "isCorrect": 0,
+                        "explanation": "While user feedback can be valuable in design, at this stage the engineers need performance data from their model to determine if the new design would function better. Public preference doesn't address the technical performance issues being evaluated."
+                    }
+                ],
+                "funFact": "Water filtration systems often use multiple layers of different materials - modern municipal water treatment plants might use up to six different filtering media including sand, gravel, activated carbon, and other materials, each removing different types of contaminants through both physical and chemical processes."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting data from a model and asking students to predict how a specific modification to the design would affect the performance of the solution."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a robotic arm to assist with organizing books in a library. They want to test their prototype using a model before building the full-sized version. Which type of data would be most valuable to collect from their model to determine if their design meets the criteria of being able to handle books of different sizes without damaging them?",
+                "options": [
+                    {
+                        "text": "Data about the appearance of the robotic arm",
+                        "isCorrect": 0,
+                        "explanation": "While appearance might be important for user acceptance, it doesn't provide information about the arm's ability to handle books of different sizes without damage, which is the key criterion mentioned."
+                    },
+                    {
+                        "text": "Data about the grip strength and adjustability of the robotic arm when handling objects of various sizes",
+                        "isCorrect": 1,
+                        "explanation": "This data directly relates to the criteria of handling books of different sizes without damage. Measuring grip strength and adjustability allows engineers to determine if the arm can securely hold books without applying too much pressure that could damage them."
+                    },
+                    {
+                        "text": "Data about how quickly the robotic arm moves",
+                        "isCorrect": 0,
+                        "explanation": "While speed might be relevant for efficiency, it doesn't directly address the primary criterion of handling books of different sizes without damage."
+                    },
+                    {
+                        "text": "Data about the cost of materials used in the model",
+                        "isCorrect": 0,
+                        "explanation": "Cost is a constraint that would be important in the final design, but collecting this data from the model testing doesn't help determine if the arm can handle books of different sizes without damage."
+                    },
+                    {
+                        "text": "Data about the popularity of the design among library staff",
+                        "isCorrect": 0,
+                        "explanation": "User acceptance is important for implementation, but it doesn't provide technical information about whether the design meets the functional criteria of handling books of different sizes without damage."
+                    }
+                ],
+                "funFact": "Engineers often use scale models to test designs before building full-sized versions. The field of robotics frequently employs a technique called 'iterative prototyping,' where each version of a design is tested, modified based on data collected, and retested until an optimal solution is achieved\u2014sometimes going through dozens of iterations!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to identify which types of data would be most valuable to collect from a model to determine if a proposed solution meets specific criteria and constraints."
+        },
+        {
+            "question": {
+                "text": "A team of students is designing a solar-powered water filtration system for use in remote areas. They have created a small-scale model that pumps water through a series of filters using a solar panel. During their first test, they discovered that the system filtered water very slowly, producing only 1 liter of clean water per hour. What would be the most appropriate next step in their design process?",
+                "options": [
+                    {
+                        "text": "Immediately build a full-size version to see if it works better at a larger scale",
+                        "isCorrect": 0,
+                        "explanation": "Building a full-size version without addressing the problems identified in the model would waste resources and likely reproduce the same issues. The iterative design process involves testing and modifying before scaling up."
+                    },
+                    {
+                        "text": "Modify the model by testing different filter arrangements and measuring their flow rates",
+                        "isCorrect": 1,
+                        "explanation": "This option represents the correct application of the iterative design process - using data from the initial test to make targeted modifications to the model, then testing again to see if performance improves. This approach allows for optimization before finalizing the design."
+                    },
+                    {
+                        "text": "Conclude that solar power is insufficient and completely change to a different power source",
+                        "isCorrect": 0,
+                        "explanation": "Making such a dramatic change abandons the iterative design process. Before completely changing a major component, the team should first analyze data to identify the specific cause of the slow filtration and test modifications to address it."
+                    },
+                    {
+                        "text": "Determine that the model is working as intended since it successfully filters water",
+                        "isCorrect": 0,
+                        "explanation": "While the system does filter water, the slow rate suggests it needs optimization. The design process isn't complete after a first test if the solution doesn't adequately meet all criteria, which likely includes a reasonable filtration rate for practical use."
+                    }
+                ],
+                "funFact": "Solar-powered water filtration systems have been successfully deployed in many developing regions, with some designs capable of purifying up to 1,500 liters of water per day - enough to serve the needs of an entire small community!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting a scenario where students must determine the appropriate next step in the design process after analyzing data from a model test."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a solar-powered water filtration system for communities with limited access to clean water. They create a model that represents how sunlight is converted to electricity, which then powers a pump that moves water through filters. During testing, they discover the system doesn't produce enough filtered water per day. Which modification to their model would most likely help them optimize their design?",
+                "options": [
+                    {
+                        "text": "Add more detailed weather patterns to the model to show seasonal variations in sunlight.",
+                        "isCorrect": 0,
+                        "explanation": "While weather patterns affect real-world performance, adding this to the model doesn't directly help optimize the design. The immediate issue is insufficient water production, which requires modifications to the functional components."
+                    },
+                    {
+                        "text": "Include a component that tracks the relationship between solar panel angle and energy collection efficiency.",
+                        "isCorrect": 1,
+                        "explanation": "This modification allows engineers to test how changing the solar panel angle affects energy collection, which directly impacts how much power is available to run the pump. This data can be used iteratively to find the optimal panel configuration."
+                    },
+                    {
+                        "text": "Simplify the model by removing the filtration components to focus solely on the power generation.",
+                        "isCorrect": 0,
+                        "explanation": "Removing components makes the model less representative of the actual system. For optimization, engineers need to understand how all components work together, especially when the issue involves the system's overall output."
+                    },
+                    {
+                        "text": "Create a more visually accurate representation of the actual appearance of the water filtration system.",
+                        "isCorrect": 0,
+                        "explanation": "The visual appearance doesn't generate useful data about the system's functionality. Models for iterative testing should focus on relationships between components and performance metrics rather than aesthetics."
+                    },
+                    {
+                        "text": "Replace the model with a written description of how the system should ideally function.",
+                        "isCorrect": 0,
+                        "explanation": "A written description cannot generate testable data. Models are valuable specifically because they can produce data that allows engineers to test and modify different aspects of the design."
+                    }
+                ],
+                "funFact": "Engineers often use digital twin technology \u2013 advanced computer models that simulate real-world objects \u2013 to test thousands of design iterations virtually before building physical prototypes. NASA used this approach to optimize the Mars rovers, saving millions in development costs."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to identify the relationship between components in a model and explain how changing one component would affect the functionality of the entire system."
+        },
+        {
+            "question": {
+                "text": "A team of students is designing a solar-powered water filter for use in remote areas. They built a model that uses a small solar panel to power a pump that moves water through various filtering materials. The graph below shows the volume of clean water produced (in liters) versus the intensity of sunlight (in watts per square meter) for their initial design and after three modifications.\n\nInitial design: 0.2 liters at 200 W/m\u00b2, 0.4 liters at 400 W/m\u00b2, 0.6 liters at 600 W/m\u00b2, 0.8 liters at 800 W/m\u00b2, 1.0 liters at 1000 W/m\u00b2\n\nModification 1 (larger solar panel): 0.3 liters at 200 W/m\u00b2, 0.6 liters at 400 W/m\u00b2, 0.9 liters at 600 W/m\u00b2, 1.2 liters at 800 W/m\u00b2, 1.5 liters at 1000 W/m\u00b2\n\nModification 2 (more efficient pump): 0.4 liters at 200 W/m\u00b2, 0.8 liters at 400 W/m\u00b2, 1.2 liters at 600 W/m\u00b2, 1.6 liters at 800 W/m\u00b2, 2.0 liters at 1000 W/m\u00b2\n\nModification 3 (improved filter material): 0.4 liters at 200 W/m\u00b2, 0.8 liters at 400 W/m\u00b2, 1.2 liters at 600 W/m\u00b2, 1.6 liters at 800 W/m\u00b2, 2.0 liters at 1000 W/m\u00b2\n\nBased on the data from this model, what can you conclude about the relationship between the modifications and the system's performance?",
+                "options": [
+                    {
+                        "text": "The larger solar panel (Modification 1) provided the most significant improvement to the system's water output.",
+                        "isCorrect": 0,
+                        "explanation": "While the larger solar panel did improve performance from the initial design by 50%, it was not the most significant improvement. Modification 2 (more efficient pump) provided an even greater performance boost."
+                    },
+                    {
+                        "text": "The more efficient pump (Modification 2) doubled the water output compared to the initial design at all sunlight intensities.",
+                        "isCorrect": 1,
+                        "explanation": "The data shows that Modification 2 doubled the water output at every sunlight intensity level compared to the initial design (0.4 vs 0.2 at 200 W/m\u00b2, 0.8 vs 0.4 at 400 W/m\u00b2, etc.), representing a 100% improvement in performance."
+                    },
+                    {
+                        "text": "The improved filter material (Modification 3) significantly increased the water output compared to Modification 2.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The data shows that Modification 3 produced exactly the same water output as Modification 2 at all sunlight intensities, indicating the improved filter material did not affect the system's water output."
+                    },
+                    {
+                        "text": "The system's water output is not related to sunlight intensity according to the model data.",
+                        "isCorrect": 0,
+                        "explanation": "The data clearly shows that for all design versions, water output increases linearly with sunlight intensity. For example, in the initial design, 200 W/m\u00b2 produces 0.2 liters while 1000 W/m\u00b2 produces 1.0 liter, showing a direct relationship."
+                    },
+                    {
+                        "text": "Each modification improved the water output by exactly 0.5 liters at maximum sunlight intensity.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. From initial design to Modification 1, the output at 1000 W/m\u00b2 increased from 1.0 to 1.5 liters (a 0.5 liter increase). From Modification 1 to Modification 2, the output increased from 1.5 to 2.0 liters (another 0.5 liter increase). However, Modification 3 did not increase the output compared to Modification 2."
+                    }
+                ],
+                "funFact": "Models are crucial tools in engineering design processes because they allow engineers to test ideas before building full-scale prototypes. In real-world solar water filters, innovations in photovoltaic efficiency have increased from about 6% in early designs to over 20% in modern panels, dramatically improving the performance of solar-powered systems in remote locations."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to analyze data from a model and determine what the data reveals about the relationship between a specific input and output of the designed system."
+        },
+        {
+            "question": {
+                "text": "Engineers at a company are designing a solar-powered car for a competition. They created a computer model to test different configurations of solar panels, battery sizes, and wheel designs. The model generates data about how far each design can travel based on different amounts of sunlight. After several iterations, they collected the following data:\n\nDesign 1: Original design - 120 miles range, 470 pounds\nDesign 2: Larger solar panels - 150 miles range, 510 pounds\nDesign 3: Lighter wheels - 135 miles range, 450 pounds\nDesign 4: Larger battery - 140 miles range, 520 pounds\nDesign 5: Larger solar panels and lighter wheels - 170 miles range, 490 pounds\n\nThe competition requires cars to travel at least 150 miles on a sunny day, while keeping the total weight under 500 pounds. Which design iteration represents the optimal solution based on the criteria and constraints?",
+                "options": [
+                    {
+                        "text": "Design 1: Original design",
+                        "isCorrect": 0,
+                        "explanation": "The original design only achieves a range of 120 miles, which fails to meet the competition requirement of traveling at least 150 miles. While it meets the weight requirement at 470 pounds, it doesn't satisfy all criteria."
+                    },
+                    {
+                        "text": "Design 2: Larger solar panels",
+                        "isCorrect": 0,
+                        "explanation": "Design 2 meets the minimum range requirement (150 miles), but at 510 pounds, it exceeds the weight constraint of 500 pounds. Therefore, it doesn't satisfy all competition requirements."
+                    },
+                    {
+                        "text": "Design 3: Lighter wheels",
+                        "isCorrect": 0,
+                        "explanation": "Design 3 only achieves a range of 135 miles, which fails to meet the competition requirement of traveling at least 150 miles, though it does meet the weight requirement at 450 pounds."
+                    },
+                    {
+                        "text": "Design 4: Larger battery",
+                        "isCorrect": 0,
+                        "explanation": "Design 4 only achieves a range of 140 miles, which fails to meet the competition requirement of traveling at least 150 miles. Additionally, at 520 pounds, it exceeds the weight constraint of 500 pounds."
+                    },
+                    {
+                        "text": "Design 5: Larger solar panels and lighter wheels",
+                        "isCorrect": 1,
+                        "explanation": "Design 5 achieves the best performance with a range of 170 miles, which exceeds the minimum requirement of 150 miles. At 490 pounds, it also satisfies the weight constraint of being under 500 pounds. The combination of larger solar panels (for more energy collection) and lighter wheels (which reduces weight and improves efficiency) represents an optimal solution that meets both criteria and constraints."
+                    }
+                ],
+                "funFact": "Engineers often use computer modeling to test hundreds or thousands of design iterations before building physical prototypes. This process, called 'generative design,' can identify surprising solutions that humans might not think of on their own, such as the unique organic-looking structures seen in modern aerospace and automotive components."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question that presents data from multiple iterations of a model and asks students to identify which design change resulted in the optimal solution based on the criteria and constraints."
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing a new water filtration system for a community. They are using a computer model to test different designs before building a prototype. Which feature of their model would be most helpful for optimizing their design?",
+                "options": [
+                    {
+                        "text": "The ability to collect quantitative data about water flow rates through different filter designs",
+                        "isCorrect": 1,
+                        "explanation": "Collecting quantitative data allows engineers to compare the performance of different design iterations objectively, which is essential for optimization. This helps them determine which modifications improve performance based on evidence rather than assumptions."
+                    },
+                    {
+                        "text": "The ability to make the model visually appealing for presentations",
+                        "isCorrect": 0,
+                        "explanation": "While visual appeal might be helpful for communicating results, it doesn't contribute to the actual optimization process. Design decisions should be based on performance data rather than aesthetics."
+                    },
+                    {
+                        "text": "The ability to use expensive materials in the virtual model without real-world costs",
+                        "isCorrect": 0,
+                        "explanation": "Although testing expensive materials virtually can save money, this feature alone doesn't help optimize the design. The primary purpose of modeling is to generate useful data for testing and improving functionality."
+                    },
+                    {
+                        "text": "The ability to demonstrate the final solution without showing its limitations",
+                        "isCorrect": 0,
+                        "explanation": "Hiding limitations would actually hinder the optimization process. Understanding a design's limitations is crucial for making appropriate modifications to improve it through iterative testing."
+                    }
+                ],
+                "funFact": "Engineers at NASA use sophisticated computer models to test spacecraft designs before building physical prototypes. During the development of the Mars rovers, their models simulated the harsh Martian environment thousands of times, allowing them to optimize the rovers' designs to withstand extreme temperatures, dust storms, and challenging terrain."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question that asks students to identify which feature of a model is most helpful for testing a design solution, with options including ability to collect quantitative data, ability to identify limitations, ability to simulate real-world conditions, and ability to be visually appealing."
+        },
+        {
+            "question": {
+                "text": "A student is developing a model to test and refine a solar-powered water filtration system for remote areas. Initial testing shows that the system filters water effectively but stops working after a few hours because the battery cannot store enough energy. What should be the student's next step in the engineering design process?",
+                "options": [
+                    {
+                        "text": "Modify the battery storage capacity based on the test results and retest the system",
+                        "isCorrect": 1,
+                        "explanation": "This approach follows the iterative engineering design process by using test data to identify a specific problem (battery storage) and making targeted modifications to improve the design."
+                    },
+                    {
+                        "text": "Abandon the solar power approach entirely and switch to a manual filtration system",
+                        "isCorrect": 0,
+                        "explanation": "Completely abandoning the approach is premature when the test identified a specific component that needs improvement. The engineering design process encourages refinement rather than starting over completely unless absolutely necessary."
+                    },
+                    {
+                        "text": "Continue with the original design since all designs have some limitations",
+                        "isCorrect": 0,
+                        "explanation": "Ignoring test data defeats the purpose of the engineering design process. The point of testing is to identify areas for improvement and then modify the design accordingly."
+                    },
+                    {
+                        "text": "Start over with an entirely new design that uses a different energy source",
+                        "isCorrect": 0,
+                        "explanation": "Starting over completely is an inefficient use of resources when testing has identified a specific component (battery storage) that needs modification. The iterative design process focuses on refining existing solutions."
+                    },
+                    {
+                        "text": "Collect more data without making any changes to confirm the initial results",
+                        "isCorrect": 0,
+                        "explanation": "While additional testing can be valuable, the pattern is already clear that the battery storage is insufficient. The next logical step in the design process is to modify this component and then test again."
+                    }
+                ],
+                "funFact": "The iterative engineering design process used by NASA resulted in over 4,000 design modifications to the Mars Curiosity rover between its initial concept and final version, showing how repeated testing and refinement leads to optimal solutions for complex problems."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question that asks students to determine the best next step after initial testing reveals a design flaw in a solar-powered device, with options including modifying the design based on test results, abandoning the project, continuing with the original design, or starting over with a completely different approach."
+        },
+        {
+            "question": {
+                "text": "A team of students has built a physical model of a bridge to test how different designs handle weight loads. Their model uses wooden sticks to represent steel beams and string to represent cables. Which of the following is a limitation of their model that might affect how well it represents a real bridge?",
+                "options": [
+                    {
+                        "text": "The model cannot accurately represent how temperature changes would affect the real bridge materials.",
+                        "isCorrect": 1,
+                        "explanation": "Physical models often cannot replicate how real materials respond to environmental factors like temperature. In a real bridge, steel expands and contracts with temperature changes, which could significantly affect performance, but this wouldn't be accurately represented in a wooden model."
+                    },
+                    {
+                        "text": "The model cannot be tested multiple times to generate useful data.",
+                        "isCorrect": 0,
+                        "explanation": "Physical models can and should be tested multiple times to generate data. Iterative testing is actually one of the key benefits of using models in engineering design."
+                    },
+                    {
+                        "text": "The model cannot be modified after it is built the first time.",
+                        "isCorrect": 0,
+                        "explanation": "Models are specifically designed to be modified based on test results. Making changes to improve the design after testing is a fundamental part of the iterative engineering design process."
+                    },
+                    {
+                        "text": "The model cannot represent the basic structure of a bridge design.",
+                        "isCorrect": 0,
+                        "explanation": "Physical models are actually very good at representing the basic structural elements of designs. The wooden sticks and string can effectively model the basic structure, even if they don't perfectly replicate all properties of real materials."
+                    },
+                    {
+                        "text": "The model cannot be used to make predictions about the bridge's performance.",
+                        "isCorrect": 0,
+                        "explanation": "Making predictions is one of the primary purposes of models. While the model has limitations, it can still be used to predict relative performance of different design features, which is valuable data for the design process."
+                    }
+                ],
+                "funFact": "Engineers who design large structures like bridges often use multiple types of models during development\u2014physical models for basic structural testing, computer models for complex stress analysis, and mathematical models to predict how forces will be distributed. Each type of model has unique strengths and limitations, which is why using them in combination leads to better designs."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question about identifying the limitations of a physical model of a bridge structure used for testing, with options describing different constraints that might not be represented accurately in the model."
+        },
+        {
+            "question": {
+                "text": "A team of students is designing a solar water heater for their science project. They want to determine the most effective design for heating water using sunlight. They test four different prototypes and collect temperature data (in \u00b0C) over time. The data is shown in the table below:\n\nTime (min) | Prototype A | Prototype B | Prototype C | Prototype D\n------------|------------|------------|------------|------------\n0          | 20         | 20         | 20         | 20\n5          | 23         | 25         | 22         | 21\n10         | 26         | 29         | 25         | 23\n15         | 28         | 32         | 28         | 25\n20         | 30         | 34         | 31         | 27\n25         | 32         | 35         | 33         | 29\n30         | 33         | 36         | 35         | 30\n\nBased on this data, which prototype should the team select as their optimal design if their goal is to heat water to the highest temperature in the shortest amount of time?",
+                "options": [
+                    {
+                        "text": "Prototype A",
+                        "isCorrect": 0,
+                        "explanation": "Prototype A shows steady heating but reaches only 33\u00b0C after 30 minutes. It doesn't heat the water as quickly or to as high a temperature as some other prototypes."
+                    },
+                    {
+                        "text": "Prototype B",
+                        "isCorrect": 1,
+                        "explanation": "Prototype B heats water most rapidly and reaches the highest temperature (36\u00b0C after 30 minutes). It shows the steepest temperature increase, especially in the first 15 minutes, making it the optimal design for heating water quickly to a high temperature."
+                    },
+                    {
+                        "text": "Prototype C",
+                        "isCorrect": 0,
+                        "explanation": "Prototype C heats water to 35\u00b0C after 30 minutes, which is close to Prototype B's performance. However, it heats more slowly in the first 15 minutes, making it less optimal when considering both final temperature and heating rate."
+                    },
+                    {
+                        "text": "Prototype D",
+                        "isCorrect": 0,
+                        "explanation": "Prototype D shows the slowest heating rate and reaches the lowest final temperature (30\u00b0C after 30 minutes) among all prototypes, making it the least optimal design."
+                    }
+                ],
+                "funFact": "Engineers often use iterative testing to improve solar heating designs, sometimes achieving water temperatures above 90\u00b0C with simple materials! These principles are used in solar water heaters around the world, reducing energy consumption and providing sustainable hot water in many climates."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question about interpreting data from multiple iterations of testing a proposed solution, asking students to determine which modification led to the optimal outcome based on a data table showing test results."
+        },
+        {
+            "question": {
+                "text": "Engineers are designing a model to simulate water flow in a neighborhood during heavy rainfall. Initial testing shows that water is pooling in low-lying areas, causing flooding. Which aspect of their model would be most important to modify first to improve the design?",
+                "options": [
+                    {
+                        "text": "Add more data collection points to gather more information",
+                        "isCorrect": 0,
+                        "explanation": "While more data collection is useful, it doesn't directly modify the model to solve the flooding problem. This would help understand the problem better but doesn't represent an immediate improvement to the design."
+                    },
+                    {
+                        "text": "Change the terrain elevations to redirect water flow",
+                        "isCorrect": 1,
+                        "explanation": "Modifying the terrain elevations directly addresses the flooding issue by creating better drainage pathways. This represents an iterative improvement to the model based on test results, allowing engineers to optimize the solution."
+                    },
+                    {
+                        "text": "Increase the scale of the model to show more detail",
+                        "isCorrect": 0,
+                        "explanation": "Changing the scale might show more detail but doesn't address the fundamental problem of water pooling. The issue requires modifying components that affect functionality, not just improving visual representation."
+                    },
+                    {
+                        "text": "Run the simulation for a longer time period",
+                        "isCorrect": 0,
+                        "explanation": "Running the simulation longer would show more data about the problem but doesn't represent a modification to improve the design. Testing modifications is about changing aspects of the design itself."
+                    },
+                    {
+                        "text": "Document the flooding more precisely for future reference",
+                        "isCorrect": 0,
+                        "explanation": "Documentation is important but doesn't represent a modification to the model that would improve its function. This step doesn't contribute to the iterative testing and modification process needed to achieve an optimal design."
+                    }
+                ],
+                "funFact": "Watershed models used by civil engineers often incorporate permeable surfaces like rain gardens and bioswales that can absorb up to 30% more rainwater than traditional drainage systems, helping to prevent urban flooding while supporting local ecosystems."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question presenting a scenario where engineers are developing a watershed management system, asking students to analyze which aspect of their model would be most important to modify after initial testing revealed flooding issues."
+        },
+        {
+            "question": {
+                "text": "A team of middle school students is designing a new type of water filter for a science competition. They created a model to test how different materials affect water filtration speed and purity. What is the most effective approach to using this model to develop an optimal design?",
+                "options": [
+                    {
+                        "text": "Test the original design once, identify all flaws, then create a completely new design to address all issues simultaneously.",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't utilize the iterative nature of the design process. Making multiple changes at once makes it difficult to determine which specific modifications improved or worsened performance."
+                    },
+                    {
+                        "text": "Test the original design once, then select the best materials based on the criteria without further testing, since models provide definitive answers.",
+                        "isCorrect": 0,
+                        "explanation": "Models have limitations and cannot provide definitive answers in one test. This approach ignores the iterative testing process necessary for optimization."
+                    },
+                    {
+                        "text": "Test the original design, modify one component based on the data, test again, and continue this process until the design meets all criteria and constraints.",
+                        "isCorrect": 1,
+                        "explanation": "This describes the iterative design process where changes are tested systematically. By modifying one component at a time and testing after each modification, students can determine which changes improve performance and ultimately achieve an optimal design."
+                    },
+                    {
+                        "text": "Test multiple completely different designs simultaneously and select the one that performs best without making any modifications to any design.",
+                        "isCorrect": 0,
+                        "explanation": "While testing multiple designs can be useful for comparison, this approach doesn't utilize the iterative refinement process. Without modifications based on test results, it's unlikely to achieve an optimal solution."
+                    }
+                ],
+                "funFact": "NASA engineers used over 1,000 iterations in their model testing process when designing the Mars rover Perseverance. Each test provided data that led to improvements in the rover's design before it was actually built and sent to Mars in 2020."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question asking students to analyze the relationship between criteria, constraints, and the iterative design process when optimizing a solution, with options describing different approaches to balancing these factors."
+        },
+        {
+            "question": {
+                "text": "Scientists are designing a wildlife corridor to connect two forest habitats separated by a highway. They want to develop a model to test and improve their design before building it. Which type of data would be most valuable to collect during the testing of their model to help optimize the corridor design?",
+                "options": [
+                    {
+                        "text": "The opinions of local residents about the wildlife corridor",
+                        "isCorrect": 0,
+                        "explanation": "While community input is important for project acceptance, it doesn't provide scientific data about the effectiveness of the corridor design for wildlife movement."
+                    },
+                    {
+                        "text": "The frequency and types of animals using the corridor model",
+                        "isCorrect": 1,
+                        "explanation": "This data directly measures the effectiveness of the corridor in facilitating wildlife movement, which is the primary function of the design. Tracking which animals use the corridor and how often provides essential information for optimizing the design."
+                    },
+                    {
+                        "text": "The cost of materials needed to build the corridor",
+                        "isCorrect": 0,
+                        "explanation": "While cost is a constraint to consider, it doesn't provide data about how well the corridor functions for wildlife movement, which is needed to optimize the design."
+                    },
+                    {
+                        "text": "The weather conditions in the area",
+                        "isCorrect": 0,
+                        "explanation": "Weather data alone doesn't directly measure how effectively animals use the corridor, though it might be a secondary factor to consider in the overall design process."
+                    },
+                    {
+                        "text": "The width of the highway being crossed",
+                        "isCorrect": 0,
+                        "explanation": "The highway width is a fixed constraint rather than data generated during testing. It doesn't provide information about how animals interact with different corridor designs."
+                    }
+                ],
+                "funFact": "Wildlife corridors have been shown to reduce wildlife-vehicle collisions by up to 80% in some locations. The most successful corridor designs often incorporate natural elements familiar to local species and include features like noise barriers and native vegetation to encourage animal use."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question where students must identify which data would be most valuable to collect during testing of a proposed wildlife corridor design to determine its effectiveness."
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a water filtration system for a community affected by water pollution. She needs to develop a model to test and improve her design before implementing the full-scale system. Which relationship should be prioritized in her model to most effectively optimize the design?",
+                "options": [
+                    {
+                        "text": "The relationship between the testing schedule and the team members' availability",
+                        "isCorrect": 0,
+                        "explanation": "While scheduling is important for project management, it doesn't directly relate to how the filtration system functions or how the model generates useful data for optimization."
+                    },
+                    {
+                        "text": "The relationship between the data generated by the model and the functioning of the filtration system",
+                        "isCorrect": 1,
+                        "explanation": "This relationship is critical because it allows the engineer to see how modifications to the system components affect performance, enabling iterative testing and optimization based on actual performance data."
+                    },
+                    {
+                        "text": "The relationship between the cost of the model and the cost of the final system",
+                        "isCorrect": 0,
+                        "explanation": "While cost considerations are important constraints, the primary purpose of modeling is to test functionality and performance rather than just comparing costs."
+                    },
+                    {
+                        "text": "The relationship between the appearance of the model and public perception",
+                        "isCorrect": 0,
+                        "explanation": "The appearance of the model is not a priority for testing functionality; the model's purpose is to generate useful data about how well the system works."
+                    },
+                    {
+                        "text": "The relationship between the size of the model and the storage space available",
+                        "isCorrect": 0,
+                        "explanation": "The physical storage requirements of the model are logistical concerns but not central to the model's ability to test and optimize the design."
+                    }
+                ],
+                "funFact": "Engineers at NASA used iterative modeling and testing to develop water filtration systems for the International Space Station that now recycle about 90% of all water on board, including astronauts' urine and sweat. These same technologies are being adapted to help communities on Earth with limited access to clean water."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question presenting a scenario about developing a model to test a water filtration system, asking students to determine which relationships between components should be prioritized for testing."
+        },
+        {
+            "question": {
+                "text": "Why do all scientific models have limitations when testing solutions, and what is the implication for the engineering design process?",
+                "options": [
+                    {
+                        "text": "Models are simplified representations that cannot capture all aspects of reality, which means engineers must conduct iterative testing and modifications to find optimal solutions.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Scientific models are always simplified versions of reality that help us understand complex processes. These simplifications mean models have limitations, which is why engineers must test their designs multiple times, using data from each test to improve their solutions."
+                    },
+                    {
+                        "text": "Models have limitations because they are expensive to create, so engineers should rely more on theoretical calculations instead of testing.",
+                        "isCorrect": 0,
+                        "explanation": "While some models can be expensive, this isn't the primary reason for their limitations. Models have inherent limitations because they simplify reality. Also, the engineering design process requires testing and data collection, not just theoretical calculations."
+                    },
+                    {
+                        "text": "Models are limited only by the technology available, so the best approach is to wait for better technology before finalizing designs.",
+                        "isCorrect": 0,
+                        "explanation": "Models have inherent limitations beyond just technological constraints. They are simplified representations by design. The engineering process doesn't wait for perfect technology - it involves iterative testing and refinement with available tools to reach optimal solutions."
+                    },
+                    {
+                        "text": "Models have limitations because they can only be used once, which means engineers need to build new models for each design iteration.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models can typically be used multiple times and often are designed specifically to be modified and tested repeatedly. The iterative nature of testing and modifying models is central to the engineering design process."
+                    },
+                    {
+                        "text": "Models are limited because they can only test one variable at a time, so engineers should focus on testing each component separately rather than the whole system.",
+                        "isCorrect": 0,
+                        "explanation": "This is not accurate. Many models can test multiple variables simultaneously. While testing individual components can be valuable, engineers must also test how components work together in a system. Comprehensive testing considers both individual parts and their interactions."
+                    }
+                ],
+                "funFact": "The Mars rover missions demonstrate the importance of model limitations in engineering design. Before sending rovers to Mars, NASA engineers built and tested models in Mars-like environments on Earth. Despite extensive modeling, they still encountered unexpected challenges on Mars, leading to design improvements in subsequent rovers. This iterative approach based on real data has led to increasingly sophisticated and successful Mars missions."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question asking students to analyze why all models have limitations when testing design solutions, with options describing different reasons for model limitations and their implications for the design process."
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing a new solar-powered water filter for use in remote areas. They have created a prototype and need to determine if their design is optimal. What is the best approach to improve their design?",
+                "options": [
+                    {
+                        "text": "Test the prototype once under ideal conditions and use the results to finalize the design.",
+                        "isCorrect": 0,
+                        "explanation": "Testing a prototype only once provides limited data and doesn't allow for iterative improvements. An optimal design comes from multiple testing cycles and modifications based on those results."
+                    },
+                    {
+                        "text": "Compare the prototype to existing commercial water filters and adopt the design elements that appear most effective.",
+                        "isCorrect": 0,
+                        "explanation": "While comparing to existing designs can provide ideas, simply copying elements doesn't constitute testing and modification of your own design. This approach bypasses the iterative testing process needed for optimization."
+                    },
+                    {
+                        "text": "Develop a model to generate performance data, test the prototype multiple times with modifications between each test, and use the data to optimize the design.",
+                        "isCorrect": 1,
+                        "explanation": "This approach follows the engineering design process by using models to generate data through iterative testing and making modifications based on test results. This systematic process helps identify the optimal solution by continuously improving the design."
+                    },
+                    {
+                        "text": "Ask potential users what they would like to see in the water filter and implement all suggested features.",
+                        "isCorrect": 0,
+                        "explanation": "While user input is valuable, implementing all suggestions without testing could lead to an impractical design. The optimal solution comes from testing and data-based modifications, not just from collecting opinions."
+                    },
+                    {
+                        "text": "Calculate the theoretical efficiency of the filter design using mathematical equations before building anything.",
+                        "isCorrect": 0,
+                        "explanation": "Mathematical calculations are useful but insufficient alone. Physical testing of prototypes provides real-world data needed for optimization. Theoretical calculations don't account for all variables that affect performance in actual use."
+                    }
+                ],
+                "funFact": "NASA uses an intense iterative design process called 'test as you fly, fly as you test' which can involve thousands of tests and modifications before a spacecraft design is considered optimal. The Mars rover Perseverance went through over 30 major design iterations before its final form was approved for the mission."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question about how to use data generated from testing multiple iterations of a design to determine the optimal solution, with options describing different approaches to analyzing and applying test results."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a wind turbine that can efficiently convert wind energy into electricity. They want to use a computer simulation model to test and improve their design. Which modification to their simulation model would generate the most useful data for optimizing their wind turbine design?",
+                "options": [
+                    {
+                        "text": "Adding realistic wind speed patterns that change over time rather than using constant wind speeds",
+                        "isCorrect": 1,
+                        "explanation": "This modification would generate the most useful data because real-world wind conditions are variable. Testing the turbine design under changing wind speeds would reveal how well it performs across different conditions, allowing engineers to optimize the design for overall efficiency rather than just peak performance under ideal conditions."
+                    },
+                    {
+                        "text": "Simplifying the model by removing environmental factors like temperature and humidity",
+                        "isCorrect": 0,
+                        "explanation": "Simplifying the model by removing environmental factors would make the simulation less realistic and provide less valuable data. For optimal design, engineers need to understand how their turbine performs under various real-world conditions, including environmental factors that affect performance."
+                    },
+                    {
+                        "text": "Limiting the simulation to test only the maximum wind speed the turbine can handle",
+                        "isCorrect": 0,
+                        "explanation": "Testing only maximum wind speed would provide limited data about one extreme condition rather than the range of conditions the turbine will face. This approach would not support iterative testing and optimization across the turbine's full operational range."
+                    },
+                    {
+                        "text": "Creating a visual representation that shows what the turbine looks like without data on performance",
+                        "isCorrect": 0,
+                        "explanation": "A visual representation without performance data wouldn't generate useful information for optimizing the design. Models for testing solutions need to generate data that can be analyzed to evaluate performance and identify improvements."
+                    },
+                    {
+                        "text": "Programming the model to automatically select the best design without running multiple tests",
+                        "isCorrect": 0,
+                        "explanation": "Optimization requires iterative testing and modification based on data from multiple tests. Having the model automatically select a design without showing the testing process and results would not provide engineers with the understanding needed to optimize the design based on performance criteria."
+                    }
+                ],
+                "funFact": "Modern wind turbine designs are tested using computational fluid dynamics (CFD) simulations that can process billions of calculations to model how air flows around turbine blades. These simulations have helped increase wind turbine efficiency by more than 40% over the past two decades!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question asking students to determine which modification to a computer simulation model would generate the most useful data for improving a wind turbine design."
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a model to test a new solar-powered water filter system. The model includes inputs (sunlight intensity, water flow rate) and outputs (filtered water volume, filtration speed). Which approach would help the engineer best optimize the design through iterative testing?",
+                "options": [
+                    {
+                        "text": "Test the model once with average sunlight and water flow, then finalize the design",
+                        "isCorrect": 0,
+                        "explanation": "Testing only once doesn't utilize the iterative process necessary for optimization. Multiple rounds of testing with modifications are needed to find the optimal solution."
+                    },
+                    {
+                        "text": "Collect data on how different sunlight intensities affect filtration, modify the design, and retest multiple times",
+                        "isCorrect": 1,
+                        "explanation": "This approach demonstrates the iterative testing process - collecting data, modifying the design based on that data, and retesting to see improvements. This allows for optimizing the solution over multiple iterations."
+                    },
+                    {
+                        "text": "Build multiple different water filter systems and select the one that looks most promising",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't utilize data from testing to inform modifications. Optimization requires modifying designs based on test results rather than just selecting from different initial designs."
+                    },
+                    {
+                        "text": "Focus only on making the filter look appealing to potential users",
+                        "isCorrect": 0,
+                        "explanation": "This ignores the functional aspects of the design and doesn't address the optimization of performance through data collection and iterative testing."
+                    }
+                ],
+                "funFact": "Engineers at NASA use iterative design processes similar to this when developing water filtration systems for the International Space Station. Their recycling systems are so efficient that about 90% of all water on the ISS is recovered and reused, including astronauts' urine, sweat, and even breath condensation!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for a question about the relationship between inputs and outputs in a system model, asking students to analyze how changing specific inputs affects the functionality of a proposed solution."
+        }
+    ]
+}

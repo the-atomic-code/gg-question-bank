@@ -1,0 +1,1241 @@
+{
+    "id": "lesson-39",
+    "title": "What is Science?",
+    "standard": "MS-ETS1-2",
+    "n_recall": 13,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 37,
+    "questions": [
+        {
+            "question": {
+                "text": "What is the main purpose of scientific inquiry?",
+                "options": [
+                    {
+                        "text": "To identify patterns in nature and develop explanations of how and why those patterns exist",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Science fundamentally aims to identify patterns in the natural world and develop evidence-based explanations for those patterns."
+                    },
+                    {
+                        "text": "To follow the scientific method in a specific sequence of steps",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While scientists use systematic approaches, there is no single scientific method that all scientists follow in exactly the same way or sequence."
+                    },
+                    {
+                        "text": "To conduct laboratory experiments that prove theories beyond doubt",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Not all scientific investigations involve laboratory experiments, and scientific explanations are always open to revision with new evidence."
+                    },
+                    {
+                        "text": "To create mathematical equations that predict all natural phenomena",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While mathematics is an important tool in science, not all scientific work involves creating mathematical equations, and not all natural phenomena can be perfectly predicted."
+                    },
+                    {
+                        "text": "To develop technologies that solve human problems",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While scientific knowledge often contributes to technological development, the primary purpose of science is to understand the natural world, not to create technologies."
+                    }
+                ],
+                "funFact": "The word 'science' comes from the Latin word 'scientia,' which means 'knowledge.' However, science is not just about collecting facts\u2014it's about developing a deeper understanding of how the world works through a process of questioning, investigating, and revising explanations based on evidence."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the main purpose of science (identifying patterns in nature and developing explanations)."
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of a scientific model?",
+                "options": [
+                    {
+                        "text": "To create a picture-perfect replica of real-world phenomena",
+                        "isCorrect": 0,
+                        "explanation": "Models are simplified representations, not perfect replicas. They intentionally focus on certain aspects while omitting others."
+                    },
+                    {
+                        "text": "To provide a simplified representation that helps explain and make predictions about processes",
+                        "isCorrect": 1,
+                        "explanation": "Scientific models are representations that simplify complex processes to help scientists explain observations and make predictions about natural phenomena."
+                    },
+                    {
+                        "text": "To prove scientific theories beyond any doubt",
+                        "isCorrect": 0,
+                        "explanation": "Models don't prove theories beyond doubt. They help test ideas and make predictions, but all models have limitations."
+                    },
+                    {
+                        "text": "To replace the need for experiments and observations",
+                        "isCorrect": 0,
+                        "explanation": "Models complement experiments and observations rather than replace them. They help interpret data and guide future investigations."
+                    },
+                    {
+                        "text": "To create a permanent explanation that will never need revision",
+                        "isCorrect": 0,
+                        "explanation": "Scientific models, like all scientific knowledge, can change when new evidence is discovered that contradicts current understanding."
+                    }
+                ],
+                "funFact": "The Bohr model of the atom, which depicts electrons orbiting the nucleus like planets around the sun, is a famous example of a useful scientific model that was later replaced by more accurate quantum mechanical models. This illustrates how models evolve as our understanding deepens!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the correct definition of a scientific model and its primary purpose in science."
+        },
+        {
+            "question": {
+                "text": "What is the primary difference between a scientific law and a scientific theory?",
+                "options": [
+                    {
+                        "text": "A scientific law is more certain than a scientific theory.",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. Scientific laws are not more certain than theories; they serve different purposes in science."
+                    },
+                    {
+                        "text": "A scientific law describes patterns in nature, while a scientific theory explains how or why those patterns exist.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Laws describe what happens (the pattern or phenomenon) in nature, while theories provide explanations for how and why those patterns occur."
+                    },
+                    {
+                        "text": "A scientific theory eventually becomes a law when enough evidence is collected.",
+                        "isCorrect": 0,
+                        "explanation": "Theories do not evolve into laws. They are different types of scientific knowledge that serve different purposes, not stages in a hierarchy."
+                    },
+                    {
+                        "text": "A scientific law applies to all situations, while a scientific theory only applies to specific cases.",
+                        "isCorrect": 0,
+                        "explanation": "Both laws and theories can have broad or narrow applications depending on the phenomena they describe or explain. This is not what distinguishes them from each other."
+                    }
+                ],
+                "funFact": "Newton's Law of Universal Gravitation describes the pattern of gravitational attraction between objects, while Einstein's Theory of General Relativity explains why gravity works by proposing that mass warps spacetime. Both are still used in different contexts and represent the two different ways scientists understand natural phenomena!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to distinguish between the purpose of a scientific law versus a scientific theory."
+        },
+        {
+            "question": {
+                "text": "Which statement correctly explains the difference between data and evidence in science?",
+                "options": [
+                    {
+                        "text": "Data is raw information collected through observations or measurements, while evidence is data that has been analyzed and interpreted to support a scientific claim.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly distinguishes between data (raw measurements or observations) and evidence (analyzed and interpreted data used to support claims)."
+                    },
+                    {
+                        "text": "Data and evidence are the same thing - both are measurements collected during a scientific investigation.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While data consists of collected measurements or observations, evidence specifically refers to data that has been analyzed and interpreted to support claims."
+                    },
+                    {
+                        "text": "Evidence is collected first, then analyzed to become data.",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship. Scientists collect data first, then analyze and interpret it to use as evidence for their claims."
+                    },
+                    {
+                        "text": "Data is only numerical information, while evidence includes both numbers and observations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both data and evidence can include numerical measurements and qualitative observations. The difference is in how they're used, not their format."
+                    },
+                    {
+                        "text": "Evidence is only needed for experiments, while data is used for all types of scientific investigations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Evidence is needed for all scientific claims, regardless of whether they come from experiments or observational studies."
+                    }
+                ],
+                "funFact": "Scientists often go through multiple rounds of data collection and analysis before considering their evidence strong enough to support their claims. In some fields like astronomy or paleontology where controlled experiments aren't possible, careful observations over long periods become particularly important evidence."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the correct definition of evidence versus data in scientific contexts."
+        },
+        {
+            "question": {
+                "text": "Which of the following would make the best scientific question?",
+                "options": [
+                    {
+                        "text": "Is the Earth flat?",
+                        "isCorrect": 0,
+                        "explanation": "While this is a question about the natural world, it's not a good scientific question because it's phrased as a yes/no question rather than asking how or why something happens. Additionally, this question has already been thoroughly answered by science."
+                    },
+                    {
+                        "text": "How do tectonic plates contribute to mountain formation?",
+                        "isCorrect": 1,
+                        "explanation": "This is an excellent scientific question because it asks about how a natural process works, can be investigated through evidence collection, and is answerable through observation and experimentation."
+                    },
+                    {
+                        "text": "Why are unicorns extinct?",
+                        "isCorrect": 0,
+                        "explanation": "This is not a good scientific question because it assumes something that isn't supported by evidence (the existence of unicorns). Scientific questions must be based on observable phenomena in the natural world."
+                    },
+                    {
+                        "text": "Should we protect endangered species?",
+                        "isCorrect": 0,
+                        "explanation": "This is primarily a value-based or ethical question rather than a scientific one. While science can provide information about endangered species, the 'should' part involves human values and judgment beyond what science alone can answer."
+                    },
+                    {
+                        "text": "Do you like volcanoes?",
+                        "isCorrect": 0,
+                        "explanation": "This is a question about personal preference rather than a scientific question. Scientific questions need to focus on natural phenomena that can be investigated through evidence, not on subjective opinions."
+                    }
+                ],
+                "funFact": "Scientists often refine their questions through a process called 'operationalization,' where they transform broad research questions into specific, measurable investigations. For example, a question like 'How do trees respond to drought?' might become 'How does soil moisture below 15% affect the rate of photosynthesis in oak trees?'"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize the characteristics of a good scientific question."
+        },
+        {
+            "question": {
+                "text": "Why do scientific explanations sometimes change over time?",
+                "options": [
+                    {
+                        "text": "Because scientific explanations only need to be supported by a scientist's authority",
+                        "isCorrect": 0,
+                        "explanation": "Scientific explanations are based on evidence, not authority. The strength of a scientific explanation comes from the evidence that supports it, not from who proposes it."
+                    },
+                    {
+                        "text": "Because new evidence can be discovered that contradicts existing explanations",
+                        "isCorrect": 1,
+                        "explanation": "Scientific explanations must be based on evidence. When new evidence is discovered that contradicts an existing explanation, scientists must revise or replace that explanation to account for all available evidence."
+                    },
+                    {
+                        "text": "Because scientific explanations are intended to be temporary",
+                        "isCorrect": 0,
+                        "explanation": "Scientific explanations aren't designed to be temporary. They represent our best current understanding based on available evidence. They change only when new evidence requires it, not because they're meant to be replaced."
+                    },
+                    {
+                        "text": "Because older scientific explanations are always wrong",
+                        "isCorrect": 0,
+                        "explanation": "Older scientific explanations aren't always wrong - many have stood the test of time. Scientific explanations change only when new evidence contradicts them or when scientists develop better interpretations of existing evidence."
+                    },
+                    {
+                        "text": "Because scientists regularly vote on which explanations to accept",
+                        "isCorrect": 0,
+                        "explanation": "Scientists don't vote on explanations. Scientific explanations are accepted based on how well they're supported by evidence, not by popular opinion among scientists."
+                    }
+                ],
+                "funFact": "The theory of plate tectonics is a great example of scientific explanation changing over time. In the early 20th century, Alfred Wegener proposed continental drift, but it was largely rejected. Decades later, new evidence from seafloor mapping, magnetic studies, and earthquake patterns led to the development of plate tectonics theory, which is now universally accepted."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify why scientific explanations may change over time."
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of scientists engaging in argument from evidence?",
+                "options": [
+                    {
+                        "text": "To record all data for future generations",
+                        "isCorrect": 0,
+                        "explanation": "While recording data is important, the primary purpose of engaging in argument from evidence is to evaluate the strength of scientific explanations, not simply to preserve records."
+                    },
+                    {
+                        "text": "To develop and critique explanations based on available evidence",
+                        "isCorrect": 1,
+                        "explanation": "Scientists engage in argument from evidence to evaluate claims, debate the meaning of evidence, and determine how well evidence supports certain scientific explanations. This process is essential for developing robust scientific knowledge."
+                    },
+                    {
+                        "text": "To convince others that their personal theories are correct",
+                        "isCorrect": 0,
+                        "explanation": "Scientific argument is not about promoting personal theories regardless of evidence, but rather about objectively evaluating claims based on available evidence."
+                    },
+                    {
+                        "text": "To create controversy in the scientific community",
+                        "isCorrect": 0,
+                        "explanation": "Creating controversy is not the goal of scientific argument. Instead, scientists aim to resolve questions through evidence-based reasoning and evaluation."
+                    }
+                ],
+                "funFact": "Scientific arguments can sometimes take decades to resolve! When Alfred Wegener first proposed continental drift in 1912, many scientists argued against his idea. It wasn't until the 1960s, after more evidence was gathered about seafloor spreading, that plate tectonic theory was widely accepted by the scientific community."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the purpose of the science and engineering practice of 'engaging in argument from evidence'."
+        },
+        {
+            "question": {
+                "text": "When comparing different design solutions for a problem, which method would be most useful for systematically evaluating how well each solution meets the criteria and constraints?",
+                "options": [
+                    {
+                        "text": "Using a decision matrix that scores each solution against defined criteria and constraints",
+                        "isCorrect": 1,
+                        "explanation": "A decision matrix is a systematic method that allows comparison of multiple solutions by scoring each one against specific criteria and constraints, making it easier to identify strengths and weaknesses of each solution."
+                    },
+                    {
+                        "text": "Selecting the solution that appears most visually appealing",
+                        "isCorrect": 0,
+                        "explanation": "Visual appeal is subjective and doesn't systematically evaluate how well solutions meet the specific criteria and constraints of the problem."
+                    },
+                    {
+                        "text": "Going with the solution that costs the least to implement",
+                        "isCorrect": 0,
+                        "explanation": "While cost might be one constraint, focusing solely on cost doesn't systematically evaluate how well solutions meet all the criteria and constraints of the problem."
+                    },
+                    {
+                        "text": "Choosing the solution that is newest or uses the most advanced technology",
+                        "isCorrect": 0,
+                        "explanation": "Using advanced technology doesn't necessarily mean a solution better meets the criteria and constraints of the problem. A systematic evaluation needs to consider multiple factors."
+                    },
+                    {
+                        "text": "Testing only one solution at a time until a satisfactory one is found",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't allow for comparison between solutions and isn't systematic in evaluating multiple solutions against the same criteria and constraints."
+                    }
+                ],
+                "funFact": "Engineers at NASA use sophisticated decision matrices when designing spacecraft components. During the Apollo program, over 3,000 separate engineering decisions had to be systematically evaluated to create the lunar module that successfully landed on the moon."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify a systematic method that could be used to evaluate competing design solutions (such as a decision matrix)."
+        },
+        {
+            "question": {
+                "text": "In science and engineering, what are criteria and constraints when evaluating competing design solutions?",
+                "options": [
+                    {
+                        "text": "Criteria are the goals a solution should meet, while constraints are the limitations that must be considered.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Criteria define what makes a solution successful (like efficiency or cost), while constraints are the limitations or boundaries that restrict design options (like available materials or safety requirements)."
+                    },
+                    {
+                        "text": "Criteria are the rules for testing, while constraints are the materials needed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incomplete. While testing procedures are important, criteria are broader goals that solutions must achieve. Similarly, constraints include material limitations but also encompass other restrictions like time, budget, or environmental factors."
+                    },
+                    {
+                        "text": "Criteria are the problems being solved, and constraints are the potential solutions.",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship. The problem is what needs to be solved, criteria are standards for judging solution success, and constraints limit possible solutions. The potential solutions themselves are neither criteria nor constraints."
+                    },
+                    {
+                        "text": "Criteria are the opinions of the designers, and constraints are the opinions of the users.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Criteria and constraints are objective standards and limitations that apply to design solutions regardless of who establishes them. Both designers and users may contribute to defining criteria and identifying constraints."
+                    },
+                    {
+                        "text": "Criteria are the materials used, and constraints are the tools available.",
+                        "isCorrect": 0,
+                        "explanation": "This misidentifies both concepts. Materials and tools may be constrained in a design process, but they are not themselves the criteria or constraints. Criteria relate to performance goals, while constraints are limiting factors."
+                    }
+                ],
+                "funFact": "The systematic evaluation of design solutions has roots in ancient engineering projects like Roman aqueducts. Engineers had to meet criteria (delivering clean water) while dealing with constraints (available materials and terrain). Some Roman aqueducts were so well-designed they remained functional for over 1,000 years!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify what criteria and constraints are in the context of evaluating design solutions."
+        },
+        {
+            "question": {
+                "text": "When engineers evaluate competing design solutions to determine how well they meet the criteria and constraints of a problem, which additional type of evidence is important to consider?",
+                "options": [
+                    {
+                        "text": "The personal preferences of the engineers working on the project",
+                        "isCorrect": 0,
+                        "explanation": "Personal preferences are subjective and not a systematic way to evaluate solutions. Evidence-based evaluation should be objective and focus on how well solutions meet the defined criteria and constraints."
+                    },
+                    {
+                        "text": "The cost of implementing each solution compared to the available budget",
+                        "isCorrect": 0,
+                        "explanation": "While cost is important, it would typically be included as one of the constraints in the initial problem definition rather than being considered additional evidence."
+                    },
+                    {
+                        "text": "The possible environmental impacts of each proposed solution",
+                        "isCorrect": 1,
+                        "explanation": "Environmental impacts are an important type of additional evidence that should be considered when evaluating competing solutions, as they may not be immediately obvious in the initial problem definition but can significantly affect the long-term success and sustainability of a solution."
+                    },
+                    {
+                        "text": "The appearance and aesthetic qualities of each solution",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics might be one criterion for some problems, it is not typically considered additional evidence needed for evaluation and would already be included in the criteria if relevant."
+                    },
+                    {
+                        "text": "The number of parts required for each solution",
+                        "isCorrect": 0,
+                        "explanation": "The number of parts is a specific design detail that would typically be included in the initial evaluation criteria if relevant to the problem, rather than being considered additional evidence."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices to systematically evaluate competing solutions. These tools allow them to assign numerical values to how well each solution meets various criteria, making it easier to compare complex alternatives objectively."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize what types of additional evidence might be needed when evaluating competing solutions (such as societal impacts, environmental impacts, or past solutions)."
+        },
+        {
+            "question": {
+                "text": "When evaluating competing design solutions for a water filtration system, which of the following represents the most systematic approach?",
+                "options": [
+                    {
+                        "text": "Choose the solution that looks the most aesthetically pleasing and is easiest to build.",
+                        "isCorrect": 0,
+                        "explanation": "This approach is subjective and doesn't systematically evaluate the solutions against specific criteria and constraints related to the problem."
+                    },
+                    {
+                        "text": "Define criteria and constraints, test each solution against these measures, and compare their performances using a decision matrix.",
+                        "isCorrect": 1,
+                        "explanation": "This represents a systematic process that includes establishing clear criteria and constraints, evaluating each solution objectively, and using a structured method (decision matrix) to compare results."
+                    },
+                    {
+                        "text": "Pick the solution that uses the newest technology, as newer solutions are always better than older ones.",
+                        "isCorrect": 0,
+                        "explanation": "This approach makes an assumption without systematic evaluation. Newer technology isn't automatically better, and this method doesn't consider specific criteria or constraints."
+                    },
+                    {
+                        "text": "Ask experts which solution they prefer without defining specific evaluation criteria.",
+                        "isCorrect": 0,
+                        "explanation": "While expert opinion can be valuable, this approach lacks systematic evaluation against defined criteria and constraints, making it subjective rather than methodical."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices (sometimes called Pugh charts) to evaluate competing solutions. These matrices assign numerical values to how well each solution meets specific criteria, allowing for a quantitative comparison that helps remove personal bias from the decision-making process."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the proper steps in evaluating competing design solutions using a systematic process."
+        },
+        {
+            "question": {
+                "text": "Why do scientific models, despite being valuable tools, always have limitations?",
+                "options": [
+                    {
+                        "text": "Because models are only meant to be visual representations and not scientific tools",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models are indeed scientific tools used for explanation and prediction, not just visual aids."
+                    },
+                    {
+                        "text": "Because models are simplified representations that cannot capture all features of the processes they represent",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Scientific models are intentionally simplified to help understand complex processes, which means they never have all the same features as the real processes they represent."
+                    },
+                    {
+                        "text": "Because scientists have not yet developed technology advanced enough to create perfect models",
+                        "isCorrect": 0,
+                        "explanation": "This misunderstands the purpose of models. Even with the most advanced technology, models are intentionally simplified to focus on specific aspects of phenomena."
+                    },
+                    {
+                        "text": "Because models can only be used for processes that are too small to see",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models are used for processes of all scales - too large, too small, too complex, or invisible - not just for small-scale phenomena."
+                    },
+                    {
+                        "text": "Because models become outdated as soon as new evidence is discovered",
+                        "isCorrect": 0,
+                        "explanation": "While models may be updated with new evidence, their limitations are inherent to their nature as simplified representations, not because they become outdated."
+                    }
+                ],
+                "funFact": "The famous statistician George Box once said, 'All models are wrong, but some are useful.' This captures the essence of scientific modeling - even though models don't perfectly represent reality, they help us understand complex phenomena and make predictions about the natural world."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the limitations of models in science and why these limitations exist."
+        },
+        {
+            "question": {
+                "text": "What do all scientists have in common despite using different approaches to their work?",
+                "options": [
+                    {
+                        "text": "They all follow the exact same scientific method with fixed steps.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. There is no single scientific method that all scientists follow. Scientists use the eight science and engineering practices in different orders and combinations."
+                    },
+                    {
+                        "text": "They identify patterns in nature and develop evidence-based explanations.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. All scientists work to identify patterns in the natural world and develop explanations of how and why those patterns exist using evidence from observations and experiments."
+                    },
+                    {
+                        "text": "They always conduct laboratory experiments to test hypotheses.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Not all scientists conduct laboratory experiments. Some scientists, like astronomers and paleontologists, rely primarily on careful observation rather than experimentation."
+                    },
+                    {
+                        "text": "They only study phenomena that can be directly observed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientists often study processes that cannot be directly observed because they are too large, too small, too complex, or simply invisible. They use models to help understand these phenomena."
+                    },
+                    {
+                        "text": "They only change their explanations when ordered to by scientific authorities.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientific explanations change when new evidence contradicts existing explanations or when scientists' interpretation of evidence changes as they learn more over time, not because of orders from authorities."
+                    }
+                ],
+                "funFact": "The modern approach to science education focuses on eight science and engineering practices rather than a rigid scientific method. This shift recognizes the diverse ways that scientists actually work, from astrophysicists studying distant galaxies to microbiologists examining cells."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing recognition of what all scientists have in common despite not following a single scientific method."
+        },
+        {
+            "question": {
+                "text": "Environmental scientists are evaluating three different methods to clean up an oil spill in a coastal area. They need to determine which solution best meets criteria like effectiveness, cost, and environmental impact while staying within constraints like time and available resources. Which of the following approaches would provide the most systematic way to evaluate these competing solutions?",
+                "options": [
+                    {
+                        "text": "Using a decision matrix that scores each solution against defined criteria and constraints",
+                        "isCorrect": 1,
+                        "explanation": "A decision matrix is a systematic method that allows scientists to evaluate each solution against multiple criteria and constraints simultaneously, providing a structured way to compare solutions based on their performance against defined requirements."
+                    },
+                    {
+                        "text": "Choosing the solution that worked best in a similar situation in the past",
+                        "isCorrect": 0,
+                        "explanation": "While considering past solutions is valuable as evidence, simply choosing what worked before isn't systematic because it doesn't evaluate how well each current solution meets specific criteria and constraints for the present situation."
+                    },
+                    {
+                        "text": "Selecting the solution with the lowest environmental impact",
+                        "isCorrect": 0,
+                        "explanation": "This approach only considers one criterion (environmental impact) while ignoring others like cost and effectiveness. A systematic process must evaluate solutions against all relevant criteria and constraints."
+                    },
+                    {
+                        "text": "Having experts vote on which solution they think is best",
+                        "isCorrect": 0,
+                        "explanation": "Expert voting lacks the systematic structure needed to thoroughly evaluate each solution against specific criteria and constraints. It may introduce subjective bias without ensuring all aspects of each solution are carefully considered."
+                    },
+                    {
+                        "text": "Testing each solution once and selecting the one that appears most effective",
+                        "isCorrect": 0,
+                        "explanation": "A single test provides limited data and doesn't systematically evaluate solutions against multiple criteria and constraints. This approach also doesn't account for variables that might affect performance across different conditions."
+                    }
+                ],
+                "funFact": "Engineers at NASA use systematic evaluation methods like decision matrices (sometimes called Pugh charts) to compare spacecraft designs. During the Apollo program, engineers systematically evaluated hundreds of potential landing systems before selecting the lunar module design that eventually brought humans to the moon."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to identify which evaluation method would be most systematic when comparing multiple design solutions to solve an environmental problem"
+        },
+        {
+            "question": {
+                "text": "You are evaluating two different bridge designs for a community project. The first design uses traditional materials but costs more, while the second design uses innovative materials but has never been tested in similar conditions. Which criteria would be most important to include in your systematic evaluation process?",
+                "options": [
+                    {
+                        "text": "Only cost and aesthetic appeal",
+                        "isCorrect": 0,
+                        "explanation": "While cost is important, evaluating designs solely on cost and appearance overlooks critical safety and performance factors that must be considered in engineering solutions."
+                    },
+                    {
+                        "text": "Only construction time and material availability",
+                        "isCorrect": 0,
+                        "explanation": "Though construction timeline and material availability are practical considerations, they don't adequately address how well the designs meet the primary purpose of a bridge or safety requirements."
+                    },
+                    {
+                        "text": "Safety record, performance under expected conditions, and cost",
+                        "isCorrect": 1,
+                        "explanation": "This combination of criteria addresses both the functional requirements (safety and performance) as well as practical constraints (cost), providing a balanced approach to systematic evaluation."
+                    },
+                    {
+                        "text": "Only the opinions of the design team",
+                        "isCorrect": 0,
+                        "explanation": "Relying solely on subjective opinions without defined criteria fails to provide a systematic process for evaluation and may overlook important considerations."
+                    },
+                    {
+                        "text": "Only the most innovative features",
+                        "isCorrect": 0,
+                        "explanation": "Innovation alone doesn't ensure a design meets the needs of the project. A systematic evaluation should consider how well the solution addresses the problem, not just how novel it is."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices to evaluate competing designs, assigning numerical weights to different criteria based on their importance. This method, developed in the 1970s, helps transform subjective judgments into more objective comparisons."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to determine which criteria would be most important to include when evaluating competing solutions for a specific engineering challenge"
+        },
+        {
+            "question": {
+                "text": "You are evaluating three different water filtration designs for a science project. Look at the decision matrix below showing how each design performs against the criteria and constraints. A score of 1 is poor, 3 is average, and 5 is excellent.\n\nDecision Matrix:\n| Criteria/Constraints | Design A | Design B | Design C |\n|----------------------|---------|---------|----------|\n| Cost (low is better) | 5 | 3 | 1 |\n| Filtering efficiency | 2 | 4 | 5 |\n| Ease of assembly | 4 | 3 | 2 |\n| Durability | 2 | 4 | 5 |\n| Environmental impact | 3 | 4 | 2 |\n\nWhich design solution best meets the criteria and constraints based on a systematic evaluation?",
+                "options": [
+                    {
+                        "text": "Design A, because it has the lowest cost",
+                        "isCorrect": 0,
+                        "explanation": "While Design A does excel in cost (5 points), looking at only one criterion isn't a systematic evaluation. When all criteria are considered, Design A scores poorly in filtering efficiency and durability, giving it the lowest overall performance."
+                    },
+                    {
+                        "text": "Design B, because it has the most balanced performance across all criteria",
+                        "isCorrect": 1,
+                        "explanation": "Design B scores consistently well across all criteria with no significant weaknesses. When systematically evaluating all criteria, Design B has the highest overall performance (18 points total) compared to Design A (16 points) and Design C (15 points)."
+                    },
+                    {
+                        "text": "Design C, because it has the highest filtering efficiency",
+                        "isCorrect": 0,
+                        "explanation": "While Design C excels in filtering efficiency and durability, focusing on just these strengths ignores its poor performance in cost, ease of assembly, and environmental impact. A systematic evaluation considers all criteria, not just the strengths."
+                    },
+                    {
+                        "text": "All designs are equally effective because they each excel in different areas",
+                        "isCorrect": 0,
+                        "explanation": "While each design does have different strengths, a systematic evaluation requires comparing the overall performance against all criteria. The designs are not equally effective when all criteria are considered together."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices like this one in the real world to make complex design choices. NASA used similar systematic evaluation methods when designing the water filtration systems used on the International Space Station, where astronauts recycle nearly 90% of their water!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to analyze a decision matrix showing how different solutions perform against various criteria and identify which solution best meets the defined requirements"
+        },
+        {
+            "question": {
+                "text": "Two groups of middle school scientists are trying to determine which of three solar panel designs is most effective for their school's sustainability project. How should they systematically evaluate these competing solutions?",
+                "options": [
+                    {
+                        "text": "Group A should choose the design that looks most modern and appealing since appearance is the most important factor in solar panel effectiveness.",
+                        "isCorrect": 0,
+                        "explanation": "Appearance is subjective and not a systematic way to evaluate solar panel effectiveness. The evaluation should focus on how well each design meets specific criteria and constraints related to performance."
+                    },
+                    {
+                        "text": "Group B should create a decision matrix that rates each design against defined criteria (energy output, cost, durability) and constraints (budget, roof space, weather conditions).",
+                        "isCorrect": 1,
+                        "explanation": "Using a decision matrix to evaluate each solution against specific criteria and constraints is a systematic process that allows for objective comparison of strengths and weaknesses across multiple factors."
+                    },
+                    {
+                        "text": "Group A should simply select the design created by the student with the highest grades in science class.",
+                        "isCorrect": 0,
+                        "explanation": "This approach relies on authority rather than evidence and doesn't evaluate how well each solution meets the project's criteria and constraints."
+                    },
+                    {
+                        "text": "Group B should only evaluate which design produces the most energy, ignoring other factors like cost or installation requirements.",
+                        "isCorrect": 0,
+                        "explanation": "This approach only considers one criterion (energy output) and ignores other important criteria and constraints that affect the overall effectiveness of the solution."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices called Pugh charts in real-world design projects. These charts help teams objectively compare multiple solutions across various criteria, with weighted scores that reflect which factors are most important for the specific application."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents a scenario where scientists need to evaluate competing models and asks students to identify which approach demonstrates proper evaluation of limitations"
+        },
+        {
+            "question": {
+                "text": "When evaluating competing design solutions for a new energy system in your community, which approach would best help you determine the societal and environmental impacts?",
+                "options": [
+                    {
+                        "text": "Using a decision matrix that weighs criteria like environmental impact, cost, and community benefits against each solution",
+                        "isCorrect": 1,
+                        "explanation": "A decision matrix is a systematic process that allows for fair comparison of multiple solutions across various criteria, including societal and environmental impacts. This approach helps objectively evaluate how well each solution meets all important considerations."
+                    },
+                    {
+                        "text": "Selecting the solution with the lowest environmental impact regardless of other factors",
+                        "isCorrect": 0,
+                        "explanation": "While environmental impact is important, focusing on only one criterion ignores other critical factors like cost, feasibility, and societal benefits. A comprehensive evaluation needs to consider multiple criteria to determine the best overall solution."
+                    },
+                    {
+                        "text": "Following the solution that has worked best in other communities without additional evaluation",
+                        "isCorrect": 0,
+                        "explanation": "Solutions that worked elsewhere may not address the specific needs and constraints of your community. Every design problem requires fresh evaluation based on local conditions, resources, and priorities."
+                    },
+                    {
+                        "text": "Choosing the solution that uses the newest technology available",
+                        "isCorrect": 0,
+                        "explanation": "Newer technology isn't automatically better. All solutions must be systematically evaluated against established criteria and constraints. The newest option might have untested environmental impacts or higher costs that make it less suitable overall."
+                    }
+                ],
+                "funFact": "Engineers often use a tool called a Pugh Matrix (a type of decision matrix) when comparing design alternatives. This method, developed by Stuart Pugh in the 1980s, helps teams make decisions by rating each design against criteria and then calculating a score, making complex decisions more manageable and less subjective."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to determine how to best weigh the societal and environmental impacts when evaluating competing design solutions"
+        },
+        {
+            "question": {
+                "text": "Engineers are designing different solar-powered water filtration systems for remote communities. They need to evaluate which design is most effective. Which evidence would be most relevant for comparing the effectiveness of the different designs?",
+                "options": [
+                    {
+                        "text": "The cost of manufacturing each design",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint in engineering, it doesn't directly measure how effectively the systems filter water, which is the primary function."
+                    },
+                    {
+                        "text": "The amount of clean water produced per hour of sunlight",
+                        "isCorrect": 1,
+                        "explanation": "This evidence directly measures the performance of the primary function of the systems - how efficiently they convert sunlight into clean water production, which is essential for comparing their effectiveness."
+                    },
+                    {
+                        "text": "The opinions of the engineering team members",
+                        "isCorrect": 0,
+                        "explanation": "Subjective opinions without systematic evaluation don't provide reliable evidence for comparing design effectiveness. Objective measurements are needed."
+                    },
+                    {
+                        "text": "The number of parts in each design",
+                        "isCorrect": 0,
+                        "explanation": "The complexity or simplicity of a design doesn't necessarily indicate its effectiveness. A system with fewer parts might perform better or worse than one with more parts."
+                    },
+                    {
+                        "text": "The appearance and color of each design",
+                        "isCorrect": 0,
+                        "explanation": "Aesthetic qualities like appearance and color don't determine how well the systems function in filtering water, which is the primary measure of effectiveness."
+                    }
+                ],
+                "funFact": "Scientists and engineers often use what's called a 'decision matrix' to systematically evaluate competing solutions. This tool assigns numerical values to different criteria (like efficiency, cost, and durability) and then calculates weighted scores to determine which solution best meets the overall requirements."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents data from multiple solutions to a problem and asks students to identify which evidence would be most relevant for comparing their effectiveness"
+        },
+        {
+            "question": {
+                "text": "A team of students is investigating which design of a solar water heater is most effective. They have three designs to evaluate: Design A uses black metal tubing, Design B uses clear glass tubing, and Design C uses copper tubing with reflectors. What would be the most systematic approach to determine which design is most effective?",
+                "options": [
+                    {
+                        "text": "Choose Design A because black surfaces absorb more heat, which is common knowledge in solar design.",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't use a systematic evaluation process. It makes a decision based on one factor without testing against criteria or comparing actual performance."
+                    },
+                    {
+                        "text": "Test each design individually, record the maximum water temperature each achieves, and select the one with the highest temperature.",
+                        "isCorrect": 0,
+                        "explanation": "While this approach does test each solution, it only evaluates one criterion (maximum temperature) without considering other important factors like cost, durability, or efficiency over time."
+                    },
+                    {
+                        "text": "Create a decision matrix that evaluates each design against multiple criteria (heating efficiency, cost, durability, ease of construction) and constraints (budget, available materials), then compare total scores.",
+                        "isCorrect": 1,
+                        "explanation": "This represents a systematic process for evaluation, considering multiple criteria and constraints. By using a decision matrix, students can objectively compare different aspects of each design to determine which best meets all requirements."
+                    },
+                    {
+                        "text": "Ask other students to vote on which design they think looks most effective.",
+                        "isCorrect": 0,
+                        "explanation": "This approach relies on opinions rather than evidence or systematic evaluation. It doesn't test the designs against criteria or constraints."
+                    },
+                    {
+                        "text": "Research which materials are most commonly used in commercial solar heaters and select the design that most closely matches industry standards.",
+                        "isCorrect": 0,
+                        "explanation": "While research is valuable, this approach doesn't include testing the actual designs against specific criteria or constraints for the students' particular problem."
+                    }
+                ],
+                "funFact": "Engineers often use weighted decision matrices in design evaluation, where more important criteria (like energy efficiency) are given higher numerical weights than less important criteria (like appearance), allowing for a more nuanced comparison of design solutions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that describes a scientific investigation with competing explanations and asks students to identify how the evidence should be systematically analyzed to determine the strongest explanation"
+        },
+        {
+            "question": {
+                "text": "Two engineering teams have designed different solutions to keep food cold during a power outage. Solution A uses a solar-powered backup battery for refrigerators. Solution B uses an insulated container with reusable ice packs.\n\nBoth teams need to evaluate these solutions against the constraint that the solution must keep food at or below 40\u00b0F for at least 24 hours without electricity. Which approach demonstrates a systematic evaluation process?",
+                "options": [
+                    {
+                        "text": "Team members take a vote on which solution they like better based on their personal preferences.",
+                        "isCorrect": 0,
+                        "explanation": "This is not a systematic evaluation process. Personal preferences don't objectively measure how well solutions meet specific criteria and constraints. A systematic approach should use specific data and testing methods."
+                    },
+                    {
+                        "text": "The teams test both solutions by measuring the temperature every hour for 24 hours and record the data in a table to compare performance.",
+                        "isCorrect": 1,
+                        "explanation": "This represents a systematic evaluation process. By collecting quantitative data at regular intervals and organizing it in a table, the teams can objectively compare how well each solution meets the specific constraint of maintaining temperature for 24 hours."
+                    },
+                    {
+                        "text": "The teams decide Solution A is better because it uses modern technology and seems more advanced.",
+                        "isCorrect": 0,
+                        "explanation": "This evaluation is based on perception rather than systematic testing. The decision doesn't involve measuring how well each solution actually meets the temperature constraint over time."
+                    },
+                    {
+                        "text": "The teams research the cost of materials for each solution and choose the least expensive one.",
+                        "isCorrect": 0,
+                        "explanation": "While cost could be a valid constraint, this approach doesn't systematically evaluate how well the solutions meet the primary constraint of maintaining temperature. A systematic process would need to test the temperature performance."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices to systematically evaluate competing solutions. These matrices assign numerical values to how well each solution meets various criteria and constraints, allowing for objective comparison even when evaluating multiple factors simultaneously!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to evaluate how well constraints have been considered in competing engineering solutions to a given problem"
+        },
+        {
+            "question": {
+                "text": "Scientists need to communicate their findings with other researchers in the scientific community. Which of the following methods would best support critical evaluation and acceptance of a new scientific explanation?",
+                "options": [
+                    {
+                        "text": "Publishing research in scientific journals where other scientists can review and critique the findings",
+                        "isCorrect": 1,
+                        "explanation": "Scientific journals allow for peer review, where experts in the field can examine the methods, data, and conclusions. This process ensures that scientific explanations are rigorously evaluated before being accepted by the scientific community."
+                    },
+                    {
+                        "text": "Presenting findings exclusively at private conferences with limited attendance",
+                        "isCorrect": 0,
+                        "explanation": "Private conferences with limited attendance restrict the number of scientists who can evaluate the findings, limiting critical feedback and potentially slowing acceptance of valid explanations."
+                    },
+                    {
+                        "text": "Creating detailed computer models without sharing the underlying data",
+                        "isCorrect": 0,
+                        "explanation": "Without sharing the underlying data, other scientists cannot verify results or test alternative explanations, which prevents proper evaluation of the scientific claims."
+                    },
+                    {
+                        "text": "Announcing results through press releases before scientific review",
+                        "isCorrect": 0,
+                        "explanation": "Announcing results through press releases before scientific review bypasses the critical evaluation process, potentially allowing flawed explanations to gain publicity before proper scrutiny."
+                    },
+                    {
+                        "text": "Documenting findings in personal notebooks without sharing methodology",
+                        "isCorrect": 0,
+                        "explanation": "Personal documentation without sharing methodology prevents other scientists from replicating the work or evaluating the validity of the methods used, which is essential for critical evaluation."
+                    }
+                ],
+                "funFact": "Scientific journals have been the primary method of scientific communication since 1665 when the first scientific journals were published: 'Journal des s\u00e7avans' in France and 'Philosophical Transactions of the Royal Society' in England. This system of peer review has been refining scientific knowledge for over 350 years!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents different ways scientists have communicated their findings and asks students to identify which method best supports critical evaluation by the scientific community"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a solar-powered water filter for communities with limited access to clean water. After initial testing, they collected data showing their prototype filters 70% of contaminants but uses expensive materials. The team needs to evaluate this design against other solutions. Which approach would be most systematic for evaluating competing design solutions?",
+                "options": [
+                    {
+                        "text": "Immediately implement the current prototype since it works at 70% efficiency, which is better than having no filter at all.",
+                        "isCorrect": 0,
+                        "explanation": "This approach jumps to implementation without systematically evaluating the solution against criteria, constraints, or alternative designs. A systematic process requires comparing multiple solutions."
+                    },
+                    {
+                        "text": "Create a decision matrix that rates each design based on established criteria including filtration efficiency, cost of materials, durability, and environmental impact.",
+                        "isCorrect": 1,
+                        "explanation": "This is the most systematic approach because it evaluates multiple solutions against clearly defined criteria and constraints. A decision matrix provides a structured way to compare strengths and weaknesses of different designs."
+                    },
+                    {
+                        "text": "Ask community members which design they prefer based on appearance and then select the most popular option.",
+                        "isCorrect": 0,
+                        "explanation": "While user input is valuable, this approach is not systematic because it focuses on only one criterion (appearance) and doesn't consider performance metrics, constraints, or compare solutions based on objective evidence."
+                    },
+                    {
+                        "text": "Choose the design created by the most experienced engineer on the team, as experience guarantees the best solution.",
+                        "isCorrect": 0,
+                        "explanation": "This approach relies on authority rather than a systematic evaluation process. Experience is valuable but doesn't replace the need to evaluate all solutions against criteria and constraints using evidence."
+                    },
+                    {
+                        "text": "Test only the current prototype repeatedly until it reaches 100% filtration, ignoring alternative designs.",
+                        "isCorrect": 0,
+                        "explanation": "This approach lacks systematic comparison of multiple solutions. It focuses on improving one design without evaluating whether other approaches might better meet all criteria and constraints of the problem."
+                    }
+                ],
+                "funFact": "Engineers often use weighted decision matrices where more important criteria receive higher multipliers in the final score, allowing teams to prioritize critical factors like safety or accessibility while still considering all relevant criteria in their systematic evaluation."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that describes how a team of engineers refined their solution based on test results and asks students to identify the most systematic approach for incorporating this new evidence"
+        },
+        {
+            "question": {
+                "text": "When evaluating different design solutions for a bridge that needs to span a river, which factors would be most important to include in your evaluation criteria?",
+                "options": [
+                    {
+                        "text": "Only the aesthetic appearance of the bridge",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics might be one consideration, focusing only on appearance ignores critical functional aspects like structural integrity, cost, and environmental impact that are essential for a systematic evaluation of design solutions."
+                    },
+                    {
+                        "text": "The cost of materials, the bridge's load capacity, and environmental impact",
+                        "isCorrect": 1,
+                        "explanation": "This option includes multiple important criteria that address different aspects of the design problem - economic constraints (cost), functional requirements (load capacity), and broader impacts (environmental considerations), allowing for a comprehensive evaluation."
+                    },
+                    {
+                        "text": "The popularity of the design among local residents",
+                        "isCorrect": 0,
+                        "explanation": "While public opinion might be one consideration in some projects, it alone doesn't constitute a systematic evaluation process that considers technical performance, constraints, and broader impacts."
+                    },
+                    {
+                        "text": "Only the time required to complete construction",
+                        "isCorrect": 0,
+                        "explanation": "Construction time is just one constraint that might be considered, but a systematic evaluation requires multiple criteria addressing different aspects of the problem's requirements and constraints."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices to evaluate design solutions, assigning numerical weights to different criteria based on their importance. For example, in bridge design, factors like earthquake resistance might receive higher weights in seismically active regions, while aesthetic considerations might be weighted more heavily in tourist areas."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to identify which factors should be considered when establishing the criteria for evaluating a design solution's performance"
+        },
+        {
+            "question": {
+                "text": "Two scientific teams are studying why some coral reefs are dying while others remain healthy. Team A claims that rising ocean temperatures are causing coral bleaching. Team B claims that increased ocean acidity from carbon dioxide absorption is the main cause. What would be the most systematic way for scientists to evaluate these competing explanations?",
+                "options": [
+                    {
+                        "text": "Choose the explanation proposed by the team with more experience studying coral reefs.",
+                        "isCorrect": 0,
+                        "explanation": "The experience of the research team is not a systematic way to evaluate scientific explanations. Scientific claims should be evaluated based on evidence rather than the reputation or experience of those making the claims."
+                    },
+                    {
+                        "text": "Select the explanation that seems most logical based on common sense understanding of coral biology.",
+                        "isCorrect": 0,
+                        "explanation": "Relying on 'common sense' or intuition is not a systematic approach to scientific evaluation. Scientific explanations must be evaluated based on evidence rather than what seems logical without testing."
+                    },
+                    {
+                        "text": "Collect data on both ocean temperature and acidity in areas with healthy and dying coral reefs, then analyze how well each factor correlates with coral health.",
+                        "isCorrect": 1,
+                        "explanation": "This represents a systematic process for evaluation. By collecting relevant data on both proposed factors and analyzing how each correlates with coral health, scientists can determine which explanation is better supported by evidence."
+                    },
+                    {
+                        "text": "Perform a literature review to find which explanation has been cited more frequently in scientific journals.",
+                        "isCorrect": 0,
+                        "explanation": "While literature reviews are valuable, simply counting citations doesn't systematically evaluate the evidence for competing explanations. The number of citations doesn't necessarily indicate which explanation is better supported by evidence."
+                    },
+                    {
+                        "text": "Immediately implement conservation measures based on both explanations without further evaluation.",
+                        "isCorrect": 0,
+                        "explanation": "Taking action without systematic evaluation of the explanations doesn't help determine which explanation is better supported by evidence. Conservation measures should be based on well-evaluated scientific understanding."
+                    }
+                ],
+                "funFact": "Coral reefs are sometimes called 'the rainforests of the sea' because they host approximately 25% of all marine species despite covering less than 1% of the ocean floor. Scientists often use multiple methods to study coral health, including satellite imagery, underwater surveys, and chemical analysis of coral skeletons which can reveal historical ocean conditions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents a scenario where competing explanations exist for a natural phenomenon and asks students to determine how scientists should evaluate which explanation is best supported by evidence"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes a systematic process for evaluating competing design solutions?",
+                "options": [
+                    {
+                        "text": "Testing each solution and selecting the one that worked first",
+                        "isCorrect": 0,
+                        "explanation": "This approach doesn't involve comparing solutions against specific criteria and constraints, which is essential for systematic evaluation."
+                    },
+                    {
+                        "text": "Selecting the solution that appears to be the most technologically advanced",
+                        "isCorrect": 0,
+                        "explanation": "This approach is subjective and doesn't consider how well solutions meet the defined criteria and constraints of the problem."
+                    },
+                    {
+                        "text": "Using a decision matrix to compare how well each solution meets established criteria and constraints",
+                        "isCorrect": 1,
+                        "explanation": "A decision matrix is a systematic tool that allows for evaluating multiple solutions by comparing them against defined criteria and constraints, enabling an objective assessment."
+                    },
+                    {
+                        "text": "Choosing the solution that most scientists prefer based on a survey",
+                        "isCorrect": 0,
+                        "explanation": "This approach relies on opinions rather than systematic evaluation against criteria and constraints."
+                    },
+                    {
+                        "text": "Implementing all solutions simultaneously and seeing which one performs best",
+                        "isCorrect": 0,
+                        "explanation": "While this involves testing, it's not systematic and doesn't involve prior evaluation against specific criteria and constraints."
+                    }
+                ],
+                "funFact": "Decision matrices were first widely used during World War II by operations researchers to make complex military logistics decisions, and have since become essential tools in fields ranging from engineering to business management."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to identify the key components of a systematic evaluation process for comparing design solutions, focusing on how criteria and constraints are applied in this process."
+        },
+        {
+            "question": {
+                "text": "An eighth-grade engineering team is designing solar-powered cookers for a community without reliable electricity. They have created three different designs and need to evaluate which one works best. Which evaluation method would be most effective for systematically determining how well each design meets the criteria and constraints?",
+                "options": [
+                    {
+                        "text": "Have each team member vote for their favorite design based on personal preference.",
+                        "isCorrect": 0,
+                        "explanation": "This approach relies on subjective opinions rather than a systematic evaluation of how well each design meets specific criteria and constraints."
+                    },
+                    {
+                        "text": "Create a decision matrix that scores each design against defined criteria like maximum temperature, cooking time, cost, and durability.",
+                        "isCorrect": 1,
+                        "explanation": "A decision matrix is a systematic method that allows for objective evaluation of multiple solutions against clearly defined criteria and constraints, making it possible to compare designs based on performance measures."
+                    },
+                    {
+                        "text": "Test only the design that looks most promising and discard the other options.",
+                        "isCorrect": 0,
+                        "explanation": "This approach eliminates potentially effective solutions without evaluation and fails to use a systematic process to compare all designs against criteria and constraints."
+                    },
+                    {
+                        "text": "Select the design that costs the least to build without considering other performance factors.",
+                        "isCorrect": 0,
+                        "explanation": "This approach considers only one constraint (cost) while ignoring other important criteria that would be needed for a comprehensive evaluation of how well each design solves the problem."
+                    }
+                ],
+                "funFact": "Engineers often use weighted decision matrices where more important criteria receive higher multipliers in the final score. For example, in NASA's spacecraft design process, safety criteria typically receive the highest weight in their evaluation matrices."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a scenario with multiple design solutions to an engineering problem and asking students to identify which evaluation method would best determine how well they meet the criteria and constraints."
+        },
+        {
+            "question": {
+                "text": "Engineers are designing solar water heaters for a community garden. They need to determine which design is most effective based on evidence. Which approach would best help them evaluate competing design solutions?",
+                "options": [
+                    {
+                        "text": "Testing which design heats water to the highest temperature regardless of cost or environmental impact",
+                        "isCorrect": 0,
+                        "explanation": "This approach only considers one criterion (temperature) while ignoring other important factors like cost and environmental impact. A systematic evaluation requires considering multiple criteria and constraints."
+                    },
+                    {
+                        "text": "Selecting the design that looks the most attractive to garden visitors",
+                        "isCorrect": 0,
+                        "explanation": "Aesthetics might be one criterion to consider, but it shouldn't be the only factor in evaluating design solutions. This approach lacks systematic analysis of how well solutions meet functional requirements and constraints."
+                    },
+                    {
+                        "text": "Using a decision matrix to rate each design against multiple criteria including efficiency, cost, and environmental impact",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct approach. A decision matrix is a systematic method to evaluate competing solutions against multiple criteria and constraints, allowing for comprehensive comparison of strengths and weaknesses."
+                    },
+                    {
+                        "text": "Choosing the design created by the most experienced engineer without testing",
+                        "isCorrect": 0,
+                        "explanation": "This approach relies on authority rather than evidence. Even experienced engineers' designs need to be systematically evaluated against criteria and constraints to determine effectiveness."
+                    },
+                    {
+                        "text": "Implementing all designs simultaneously and seeing which one lasts longest",
+                        "isCorrect": 0,
+                        "explanation": "While durability might be one criterion, this approach is inefficient and doesn't systematically evaluate the designs against multiple criteria and constraints before implementation."
+                    }
+                ],
+                "funFact": "The first solar water heater was patented in 1891 by Clarence Kemp. Today, engineers use computer modeling alongside physical testing to evaluate solar heater designs, allowing them to simulate years of performance in different weather conditions before building prototypes."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question about the relationship between scientific evidence and design solution evaluation, asking students to analyze how evidence supports or refutes the effectiveness of competing solutions."
+        },
+        {
+            "question": {
+                "text": "When evaluating competing engineering solutions for earthquake-resistant buildings, how would scientific laws and theories be used differently?",
+                "options": [
+                    {
+                        "text": "Scientific laws would explain why buildings collapse during earthquakes, while theories would simply describe the pattern of collapse.",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the roles of laws and theories. Laws describe patterns without explaining why, while theories provide explanations for phenomena."
+                    },
+                    {
+                        "text": "Scientific laws would describe the mathematical relationships between forces acting on buildings, while theories would explain why certain designs resist earthquake forces better.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly distinguishes between laws and theories. Laws (like Newton's laws) describe what happens mathematically, while theories (like plate tectonics) provide explanations that help engineers understand why certain designs work better."
+                    },
+                    {
+                        "text": "Scientific laws and theories are interchangeable terms when evaluating engineering solutions.",
+                        "isCorrect": 0,
+                        "explanation": "Laws and theories are not interchangeable. They serve different purposes in science and engineering evaluation processes."
+                    },
+                    {
+                        "text": "Scientific laws are proven facts about building design, while theories are unproven ideas that cannot be relied upon for critical engineering decisions.",
+                        "isCorrect": 0,
+                        "explanation": "This misrepresents both laws and theories. Scientific laws are not proven facts but well-established descriptions of patterns. Theories are not merely unproven ideas but well-substantiated explanations supported by evidence."
+                    }
+                ],
+                "funFact": "The field of earthquake engineering uses both scientific laws (like conservation of energy) and theories (like elastic rebound theory) to develop innovations like base isolation systems that can allow buildings to effectively 'float' during seismic events, reducing damage by up to 80%."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to distinguish between the purpose and application of scientific laws versus scientific theories in the context of evaluating engineering solutions."
+        },
+        {
+            "question": {
+                "text": "A team of middle school students is designing water filtration systems to clean polluted water. They need to evaluate three proposed filter designs to determine which one best meets their criteria and constraints. Here is information about each design and the test results:\n\nDesign A: Uses sand, gravel, and charcoal layers\n- Cost: $15\n- Assembly time: 20 minutes\n- Filtered 95% of visible particles\n- Reduced bacterial count by 70%\n- Uses all recyclable materials\n\nDesign B: Uses a ceramic filter with cotton padding\n- Cost: $25\n- Assembly time: 10 minutes\n- Filtered 99% of visible particles\n- Reduced bacterial count by 85%\n- Contains some non-recyclable components\n\nDesign C: Uses a membrane filter with activated carbon\n- Cost: $20\n- Assembly time: 15 minutes\n- Filtered 90% of visible particles\n- Reduced bacterial count by 90%\n- Uses mostly recyclable materials\n\nThe team's criteria and constraints are:\n1. Must cost less than $30\n2. Must filter at least 90% of visible particles\n3. Must reduce bacterial count by at least 75%\n4. Must be as environmentally friendly as possible\n5. Must be quick to assemble (highest priority)\n\nWhich design is the best solution based on a systematic evaluation of how well each meets the criteria and constraints?",
+                "options": [
+                    {
+                        "text": "Design A",
+                        "isCorrect": 0,
+                        "explanation": "While Design A is the most affordable and uses all recyclable materials, it fails to meet one of the key criteria - reducing bacterial count by at least 75%. It only achieved 70% bacterial reduction, which is below the required minimum."
+                    },
+                    {
+                        "text": "Design B",
+                        "isCorrect": 1,
+                        "explanation": "Design B meets all the minimum criteria and constraints. It has the fastest assembly time (10 minutes), which is identified as the highest priority. It also has the best particle filtration (99%) and good bacterial reduction (85%). Though it's the most expensive option, the cost is still under the $30 limit, and the superior performance justifies the higher cost."
+                    },
+                    {
+                        "text": "Design C",
+                        "isCorrect": 0,
+                        "explanation": "Design C meets most criteria and performs the best in bacterial reduction (90%). However, it does not have the quickest assembly time, which was identified as the highest priority. When systematically evaluating all factors, Design B outperforms Design C on the highest priority criterion."
+                    },
+                    {
+                        "text": "All designs are equally effective solutions",
+                        "isCorrect": 0,
+                        "explanation": "The designs are not equally effective. Design A fails to meet the bacterial reduction requirement, and Designs B and C perform differently on the various criteria. A systematic evaluation shows clear differences in how well each meets the specified criteria and constraints."
+                    }
+                ],
+                "funFact": "Water filtration technology has been used since ancient times. The Egyptians used sand and gravel filters over 4,000 years ago, while Sanskrit writings from 2000 BCE describe methods of purifying water by boiling it in copper vessels, exposing it to sunlight, filtering through charcoal, and heating it with a copper rod - methods that we now know have scientific merit for killing pathogens!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting data from tests of competing design solutions and asking students to analyze which solution best meets specific criteria and constraints based on the evidence provided."
+        },
+        {
+            "question": {
+                "text": "When evaluating different engineering solutions to a problem using a scientific model, why is it important to consider the limitations of the model?",
+                "options": [
+                    {
+                        "text": "Scientific models perfectly represent real-world processes, so their limitations don't affect engineering evaluations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientific models are simplified representations and never perfectly capture all aspects of real-world processes."
+                    },
+                    {
+                        "text": "Because models are simplified representations that may not capture all relevant aspects of the real processes they represent.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Models are simplified representations that help scientists understand complex processes, but they inherently lack some features of the real system, which could affect engineering solution evaluations."
+                    },
+                    {
+                        "text": "The limitations of models only matter in scientific research, not in engineering applications.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The limitations of models are equally important to consider in engineering applications, as they can affect how well we predict a solution's performance."
+                    },
+                    {
+                        "text": "Models have limitations only when they are constructed incorrectly.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Even perfectly constructed models have limitations because they are intentionally simplified to focus on specific aspects of a system."
+                    },
+                    {
+                        "text": "The only limitation of scientific models is that they cannot be used to make predictions about engineering solutions.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientific models can be used to make predictions about engineering solutions, but their limitations must be considered when interpreting those predictions."
+                    }
+                ],
+                "funFact": "The famous statistician George Box once said, 'All models are wrong, but some are useful.' This highlights that even our best scientific models are approximations of reality, which is why engineers often test multiple models when evaluating complex solutions."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze the limitations of scientific models when used to evaluate potential engineering solutions, focusing on why all models have inherent limitations."
+        },
+        {
+            "question": {
+                "text": "How does communication among scientists contribute to the development and improvement of scientific explanations?",
+                "options": [
+                    {
+                        "text": "Scientists communicate only after their explanations are complete and proven correct",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientific explanations are developed through ongoing communication throughout the process, not just after completion."
+                    },
+                    {
+                        "text": "Scientists share, critique, and evaluate evidence to refine explanations collectively",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Scientists spend significant time communicating through conferences, publications, and other channels. Scientific explanations are accepted only after they are shared, critiqued, and determined to be supported by evidence."
+                    },
+                    {
+                        "text": "Scientists work independently to avoid bias from other researchers' ideas",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Rather than avoiding communication, scientists actively engage with others to identify potential biases and strengthen explanations."
+                    },
+                    {
+                        "text": "Scientists communicate their findings only through formal publications after completing all research",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Communication happens throughout the scientific process through various channels, not just through formal publications at the end."
+                    },
+                    {
+                        "text": "Scientists keep their methods private while sharing only final results",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientists share both their methods and results so that others can evaluate their work and possibly replicate it."
+                    }
+                ],
+                "funFact": "Scientists spend approximately half of their professional time obtaining, evaluating, and communicating information - this collaborative process is essential to science and helps explain why major scientific breakthroughs often occur simultaneously in different laboratories around the world!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to evaluate how communication among scientists and engineers contributes to the refinement and improvement of design solutions over time."
+        },
+        {
+            "question": {
+                "text": "When comparing two design solutions for a new solar-powered water filtration system, which type of evidence would be most appropriate to evaluate the potential environmental impacts?",
+                "options": [
+                    {
+                        "text": "The personal preferences of the design team members",
+                        "isCorrect": 0,
+                        "explanation": "Personal preferences are subjective and do not provide objective evidence about environmental impacts. Scientific evaluation requires unbiased data."
+                    },
+                    {
+                        "text": "Data about energy consumption and waste materials produced during operation",
+                        "isCorrect": 1,
+                        "explanation": "Energy consumption and waste production data directly relates to environmental impact. This quantitative evidence allows for systematic comparison of the environmental effects of each design."
+                    },
+                    {
+                        "text": "The cost of materials needed to build each system",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint in design evaluation, it does not directly measure environmental impact. Environmental assessment requires evidence specific to ecological effects."
+                    },
+                    {
+                        "text": "How quickly each system can be manufactured",
+                        "isCorrect": 0,
+                        "explanation": "Manufacturing speed is related to production efficiency but does not provide evidence about the environmental impacts of the designs once they are in operation."
+                    }
+                ],
+                "funFact": "Environmental impact assessments often use a metric called 'Life Cycle Analysis' that tracks environmental effects from raw material extraction through manufacturing, use, and disposal. This comprehensive approach helps engineers identify unexpected environmental consequences that might not be obvious when looking at just one phase of a product's existence."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to identify appropriate types of evidence needed to evaluate societal and environmental impacts of competing design solutions."
+        },
+        {
+            "question": {
+                "text": "Engineers are evaluating two different designs for a solar-powered water filtration system for a remote community. Initial tests showed Design A was more efficient, but after six months of real-world testing, most engineers now favor Design B. Why is changing to support Design B consistent with good scientific and engineering practices?",
+                "options": [
+                    {
+                        "text": "Design B was probably cheaper to produce, so the change is based on economic factors rather than performance.",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly assumes the change was based on cost rather than evidence. Good engineering decisions should consider performance criteria first, with costs as one of many factors."
+                    },
+                    {
+                        "text": "The engineers are responding to new evidence from real-world testing, showing that the initial assessment didn't capture all important factors.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies that engineering solutions evolve as new evidence emerges. The systematic evaluation process involves gathering data over time and revising conclusions based on real-world performance."
+                    },
+                    {
+                        "text": "Engineers typically change their minds frequently about designs to show they are open-minded.",
+                        "isCorrect": 0,
+                        "explanation": "Engineering decisions should be based on evidence and systematic evaluation, not simply to demonstrate open-mindedness. Changes should be justified by data."
+                    },
+                    {
+                        "text": "Design B was likely created by more experienced engineers whose opinions carry more weight regardless of test results.",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly suggests that authority or experience should override evidence. In a systematic evaluation process, the performance data should be the primary factor in decision-making, not the status of who created the design."
+                    }
+                ],
+                "funFact": "The International Space Station's design underwent over 160,000 changes between its initial concept and final construction, demonstrating how even the most carefully planned engineering projects evolve significantly as new evidence, requirements, and constraints emerge during development and testing."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question about how the iterative nature of science affects engineering design solutions, asking students to analyze why solutions may change as new evidence emerges."
+        },
+        {
+            "question": {
+                "text": "When engineers evaluate competing design solutions, they need to use a systematic process. Which of the eight science and engineering practices is MOST directly involved in determining how well different solutions meet criteria and constraints?",
+                "options": [
+                    {
+                        "text": "Asking Questions and Defining Problems",
+                        "isCorrect": 0,
+                        "explanation": "While this practice is important for starting the engineering process by defining the problem, it comes before the evaluation of competing solutions rather than being the main practice used during evaluation."
+                    },
+                    {
+                        "text": "Developing and Using Models",
+                        "isCorrect": 0,
+                        "explanation": "Engineers may use models to represent design solutions, but this isn't the primary practice used when systematically evaluating how well solutions meet criteria and constraints."
+                    },
+                    {
+                        "text": "Planning and Carrying Out Investigations",
+                        "isCorrect": 0,
+                        "explanation": "This practice focuses on collecting data through experiments or observations, but the systematic evaluation of solutions against criteria happens after data collection."
+                    },
+                    {
+                        "text": "Analyzing and Interpreting Data",
+                        "isCorrect": 0,
+                        "explanation": "While engineers analyze data during evaluation, this practice alone doesn't encompass the full systematic process of comparing solutions against specific criteria and constraints."
+                    },
+                    {
+                        "text": "Engaging in Argument from Evidence",
+                        "isCorrect": 1,
+                        "explanation": "This practice is most directly involved in the systematic evaluation of competing solutions because it requires using evidence to make claims about which solutions best meet the defined criteria and constraints. Engineers engage in this practice when they compare the strengths and weaknesses of different solutions based on evidence."
+                    }
+                ],
+                "funFact": "Engineers often use decision matrices as a systematic tool during the evaluation process. These matrices allow them to assign numerical values to how well each solution meets specific criteria, making complex decisions more objective and data-driven."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze how the eight science and engineering practices are applied in the process of evaluating competing design solutions."
+        },
+        {
+            "question": {
+                "text": "Three teams of students designed solar water heaters to provide hot water for a school science lab. Each team collected data on their design's performance over several sunny days. The table below shows their results:\n\nTeam A: Average water temperature increase: 15\u00b0C, Cost: $75, Materials: All recyclable, Time to heat 1 gallon: 45 minutes\n\nTeam B: Average water temperature increase: 20\u00b0C, Cost: $120, Materials: 50% recyclable, Time to heat 1 gallon: 30 minutes\n\nTeam C: Average water temperature increase: 18\u00b0C, Cost: $90, Materials: 80% recyclable, Time to heat 1 gallon: 35 minutes\n\nThe school's criteria and constraints for the project were:\n- Water temperature must increase by at least 15\u00b0C\n- Cost must be under $100\n- Use of recyclable materials is preferred\n- Heating time should be as short as possible\n\nWhich statement best evaluates these design solutions using a systematic approach?",
+                "options": [
+                    {
+                        "text": "Team A's design is best because it uses all recyclable materials, which is the most important environmental consideration.",
+                        "isCorrect": 0,
+                        "explanation": "This evaluation focuses only on one criterion (recyclable materials) without systematically comparing all the criteria and constraints. A proper evaluation would consider all factors with their relative importance."
+                    },
+                    {
+                        "text": "Team B's design is best because it provides the highest temperature increase, proving it's the most effective solution overall.",
+                        "isCorrect": 0,
+                        "explanation": "This evaluation only considers one performance metric (temperature increase) while ignoring other important criteria like cost (which exceeds the $100 constraint) and recyclability."
+                    },
+                    {
+                        "text": "Team C's design represents the optimal balance of all criteria: it meets the temperature requirement, stays within budget, uses mostly recyclable materials, and has reasonable heating time.",
+                        "isCorrect": 1,
+                        "explanation": "This evaluation systematically considers all criteria and constraints. Team C's design meets the minimum temperature requirement, stays under the cost constraint, uses a high percentage of recyclable materials, and has a heating time that falls between the other two options."
+                    },
+                    {
+                        "text": "All three designs are equally effective because they each excel in at least one category, so the choice depends solely on which feature is most important to the user.",
+                        "isCorrect": 0,
+                        "explanation": "This evaluation fails to use a systematic approach to compare the designs against all criteria and constraints. It incorrectly suggests that the designs are equal when they perform differently across multiple metrics."
+                    },
+                    {
+                        "text": "There isn't enough data to evaluate these designs because we don't know how long they will last before needing replacement.",
+                        "isCorrect": 0,
+                        "explanation": "While durability could be an additional consideration, this response avoids evaluating the designs based on the given criteria and constraints, which provide sufficient information for a systematic comparison."
+                    }
+                ],
+                "funFact": "Solar water heaters have been used for over 100 years! In 1891, Clarence Kemp patented the first commercial solar water heater called the 'Climax.' Today's solar water heating systems can reduce a household's water heating bills by 50-80% while preventing over a ton of carbon dioxide emissions annually."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting multiple interpretations of the same experimental data about design solutions and asking students to determine which interpretation best supports an evidence-based conclusion."
+        },
+        {
+            "question": {
+                "text": "A team of students is evaluating three different solar cooker designs for a science competition. They created a decision matrix with weighted criteria to determine which design performs best. Review their matrix below and determine which solar cooker design should be selected as the best solution.\n\nDecision Matrix (Scale: 1-5, with 5 being best)\n\nCriteria | Weight | Design A | Design B | Design C\n--- | --- | --- | --- | ---\nMaximum temperature | 3 | 4 | 5 | 3\nSetup time | 2 | 5 | 2 | 4\nDurability | 3 | 3 | 4 | 5\nCost of materials | 2 | 2 | 3 | 1\n",
+                "options": [
+                    {
+                        "text": "Design A with a total weighted score of 35",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect. To calculate the weighted score, you multiply each rating by its weight and add all products. Design A's calculation is (3\u00d74)+(2\u00d75)+(3\u00d73)+(2\u00d72) = 12+10+9+4 = 35. While this is the correct score for Design A, it's not the highest score among the three designs."
+                    },
+                    {
+                        "text": "Design B with a total weighted score of 37",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Design B's weighted score is (3\u00d75)+(2\u00d72)+(3\u00d74)+(2\u00d73) = 15+4+12+6 = 37. This is the highest score among all three designs, making Design B the best solution according to the systematic evaluation process."
+                    },
+                    {
+                        "text": "Design C with a total weighted score of 34",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect. Design C's weighted score is (3\u00d73)+(2\u00d74)+(3\u00d75)+(2\u00d71) = 9+8+15+2 = 34. This is not the highest score among the three designs, so Design C is not the best solution."
+                    },
+                    {
+                        "text": "Design B with a total weighted score of 14",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect. The calculation simply adds the ratings without considering their weights (5+2+4+3 = 14). This isn't the proper way to evaluate using a decision matrix, as the criteria weights must be multiplied by each rating before summing."
+                    },
+                    {
+                        "text": "All designs are equally effective with a score of 10",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect. This calculation only considers the weights (3+2+3+2 = 10) without the actual performance ratings. Each design has different performance ratings for the criteria, resulting in different weighted scores. The designs are not equally effective."
+                    }
+                ],
+                "funFact": "Decision matrices are widely used in engineering, product development, and even in space programs. NASA used similar systematic evaluation processes to select the landing sites for the Mars rovers, weighing factors like scientific value, safety considerations, and technical feasibility of different locations on the Martian surface."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze a decision matrix for competing design solutions and determine which solution performs best based on weighted criteria and constraints."
+        }
+    ]
+}

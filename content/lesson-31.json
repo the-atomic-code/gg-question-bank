@@ -1,0 +1,1281 @@
+{
+    "id": "lesson-31",
+    "title": "What is Science?",
+    "standard": "MS-ETS1-1",
+    "n_recall": 13,
+    "n_application": 12,
+    "n_analysis": 13,
+    "n_total": 38,
+    "questions": [
+        {
+            "question": {
+                "text": "Which statement best describes what science is?",
+                "options": [
+                    {
+                        "text": "Science is the process of identifying patterns in nature and developing explanations of how and why those patterns exist.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Science involves identifying patterns in the natural world and developing evidence-based explanations for those patterns."
+                    },
+                    {
+                        "text": "Science is following the scientific method exactly as a sequence of steps to conduct laboratory experiments.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While experiments are important in science, there is no single scientific method that all scientists follow in the same sequence. Scientists use various practices in different orders and combinations."
+                    },
+                    {
+                        "text": "Science is the collection of all known facts about the natural world.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Science is not just a collection of facts, but rather a process of investigating the natural world through observation, experimentation, and developing explanations."
+                    },
+                    {
+                        "text": "Science is creating laws that describe what happens in nature.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While scientific laws are part of science, they only describe patterns of what happens. Science more broadly involves developing explanations (theories) of how and why those patterns exist."
+                    },
+                    {
+                        "text": "Science is using advanced technology to solve human problems.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While science can contribute to technological solutions, science itself focuses on understanding the natural world rather than solving practical problems, which is more the domain of engineering."
+                    }
+                ],
+                "funFact": "Scientific knowledge is constantly evolving. When new evidence contradicts existing explanations, scientists must revise or replace those explanations. For example, scientists once believed that Earth was the center of the universe, but observations by astronomers like Copernicus and Galileo led to a complete revision of this understanding!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the definition of science as the process of identifying patterns in nature and developing explanations for those patterns"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly distinguishes between experiments and observations as methods scientists use to collect evidence?",
+                "options": [
+                    {
+                        "text": "Experiments always provide more reliable evidence than observations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both experiments and observations can provide reliable evidence depending on the scientific question. Neither method is inherently more reliable than the other."
+                    },
+                    {
+                        "text": "Experiments involve manipulating variables and measuring results, while observations involve collecting data without manipulating variables.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Experiments involve the deliberate manipulation of variables to measure their effects, while observations involve carefully collecting data without changing the natural conditions."
+                    },
+                    {
+                        "text": "Observations are only used in certain fields like astronomy, while experiments are used in all other scientific fields.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Observations are used across all scientific fields when appropriate, not just in astronomy. Many fields use both experimental and observational methods depending on the question."
+                    },
+                    {
+                        "text": "Scientists always start with observations and then move to experiments as their research progresses.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientists don't necessarily follow this fixed sequence. Some research questions may never require experiments, while others might begin with experiments."
+                    },
+                    {
+                        "text": "Experiments can answer any scientific question, while observations are limited to describing only what can be seen.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Some scientific questions cannot be answered through experiments due to ethical, practical, or scale constraints. Observations can include data collected through various tools, not just what is visible to the naked eye."
+                    }
+                ],
+                "funFact": "Many groundbreaking scientific discoveries came from careful observation rather than controlled experiments. For instance, the theory of plate tectonics developed primarily from observational evidence, as scientists cannot experimentally manipulate entire continents!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to distinguish between experiments and observations as different methods scientists use to collect evidence"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes the relationship between data and evidence in scientific investigations?",
+                "options": [
+                    {
+                        "text": "Data and evidence are the same thing, as they both refer to the raw observations scientists collect.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While data and evidence are related, they are not the same thing. Data refers to raw observations or measurements, while evidence involves analyzing and interpreting that data."
+                    },
+                    {
+                        "text": "Data is raw information collected through observation or measurement, while evidence is data that has been analyzed and interpreted to support a scientific claim.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Data refers to the raw observations or measurements that scientists collect, while evidence is data that has been analyzed and interpreted specifically to support or refute a scientific claim."
+                    },
+                    {
+                        "text": "Evidence is any information collected during an experiment, while data is only the numerical information.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Data includes both numerical and non-numerical information collected during observations or experiments. Evidence is data that has been processed and interpreted."
+                    },
+                    {
+                        "text": "Data is only used in experiments, while evidence is only used in observational studies.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both data and evidence are used in all types of scientific investigations, including both experiments and observational studies."
+                    },
+                    {
+                        "text": "Evidence is collected first, then analyzed to produce data that supports scientific claims.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The sequence is reversed - scientists first collect data (raw observations or measurements), then analyze and interpret this data to develop evidence that can support or refute scientific claims."
+                    }
+                ],
+                "funFact": "Scientists often spend more time analyzing and interpreting data than they do collecting it! For complex research projects, the analysis phase can take months or even years after the initial data collection is complete."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the relationship between data and evidence in scientific investigations"
+        },
+        {
+            "question": {
+                "text": "Why do all scientific models have limitations?",
+                "options": [
+                    {
+                        "text": "Models are too complex to be useful to scientists",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Models are actually designed to simplify complex processes, not make them more complex. They are valuable tools for scientists precisely because they make complicated processes easier to understand."
+                    },
+                    {
+                        "text": "Models are simplified representations that cannot capture all features of the real process",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Scientific models are always simplified versions of reality. They help scientists understand and make predictions about processes that might be too large, small, complex, or invisible to observe directly, but by simplifying these processes, models necessarily leave out some details of the real world."
+                    },
+                    {
+                        "text": "Scientists aren't skilled enough to create accurate models",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The limitations of models aren't due to lack of skill on the part of scientists. Rather, limitations are inherent to the nature of models themselves - they are intentionally simplified representations of reality."
+                    },
+                    {
+                        "text": "Models only work for small-scale processes",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Scientists use models for processes at all scales - from subatomic particles to entire galaxies and ecosystems. Models have limitations regardless of the scale of the process they represent."
+                    },
+                    {
+                        "text": "Models become outdated too quickly to be useful",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While scientific knowledge does evolve over time, models remain useful tools even as they are refined or replaced. The fact that models can be updated with new information is actually a strength of the scientific process, not a limitation of models themselves."
+                    }
+                ],
+                "funFact": "The Bohr model of the atom, which depicts electrons orbiting the nucleus like planets around the sun, is a famous example of a useful scientific model with known limitations. Despite not accurately representing the quantum nature of electrons, it's still taught in schools because it helps students visualize atomic structure in a simplified way."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize the limitations of scientific models and why all models have constraints"
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes the difference between a scientific law and a scientific theory?",
+                "options": [
+                    {
+                        "text": "A scientific law is proven to be true, while a scientific theory is still being tested.",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. Scientific laws are not 'proven' truths, and theories are not simply ideas waiting to be proven. Both laws and theories are well-supported explanations based on evidence."
+                    },
+                    {
+                        "text": "A scientific law describes a pattern in nature, while a scientific theory explains how or why that pattern exists.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Scientific laws describe what happens in nature (the observable patterns), while scientific theories provide explanations for how or why those patterns occur."
+                    },
+                    {
+                        "text": "A scientific law applies to all situations without exception, while a scientific theory has limitations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both scientific laws and theories can have limitations and constraints on where they apply. Neither is absolute or without exception."
+                    },
+                    {
+                        "text": "A scientific law is based on mathematics, while a scientific theory is based on observations.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both laws and theories can use mathematical relationships and observational evidence. The difference is in their purpose - describing versus explaining - not in the tools used to develop them."
+                    },
+                    {
+                        "text": "A scientific law eventually becomes a theory when enough evidence is collected.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Laws do not 'graduate' to become theories. They serve different purposes in science - laws describe patterns, while theories explain them. They are different types of scientific knowledge, not stages in a progression."
+                    }
+                ],
+                "funFact": "The law of gravity describes how objects attract each other with a force proportional to their masses and inversely proportional to the square of the distance between them. The theory of gravity (gravitational theory) explains why this happens - it's due to the warping of space-time by mass as described by Einstein's General Theory of Relativity!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the difference between scientific laws and theories"
+        },
+        {
+            "question": {
+                "text": "Which of the following best explains why scientific explanations sometimes change over time?",
+                "options": [
+                    {
+                        "text": "Scientific explanations change because scientists realize their previous work contained mathematical errors.",
+                        "isCorrect": 0,
+                        "explanation": "While mathematical errors can occasionally lead to revised explanations, this is not the primary reason why scientific explanations evolve over time."
+                    },
+                    {
+                        "text": "Scientific explanations change when new evidence is discovered that contradicts existing explanations or when scientists develop new interpretations of existing evidence.",
+                        "isCorrect": 1,
+                        "explanation": "Scientific explanations must be based on evidence. When new evidence contradicts existing explanations or when scientists develop new ways to interpret existing evidence, explanations must be revised or replaced."
+                    },
+                    {
+                        "text": "Scientific explanations change only when a more famous scientist proposes a different explanation.",
+                        "isCorrect": 0,
+                        "explanation": "The validity of scientific explanations is based on evidence, not on the fame or reputation of the scientist proposing them."
+                    },
+                    {
+                        "text": "Scientific explanations change whenever scientists want to publish new research papers.",
+                        "isCorrect": 0,
+                        "explanation": "Scientific explanations change based on evidence, not because scientists are seeking to publish new papers."
+                    },
+                    {
+                        "text": "Scientific explanations change only when all scientists unanimously agree on a new explanation.",
+                        "isCorrect": 0,
+                        "explanation": "While scientific consensus is important, explanations begin to change as soon as compelling evidence emerges, not only after unanimous agreement is reached."
+                    }
+                ],
+                "funFact": "The field of astronomy provides many examples of changing scientific explanations. For centuries, astronomers believed in a geocentric model of the universe (with Earth at the center). This was replaced by a heliocentric model as observational evidence improved, and our understanding continues to evolve with new technologies like space telescopes that allow us to observe phenomena that were previously invisible to us."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize why scientific explanations sometimes change over time"
+        },
+        {
+            "question": {
+                "text": "Which of the following would be considered a good scientific question?",
+                "options": [
+                    {
+                        "text": "What is the purpose of life?",
+                        "isCorrect": 0,
+                        "explanation": "This question is philosophical in nature and cannot be answered through scientific evidence or experimentation. Good scientific questions must be answerable through observation or data collection."
+                    },
+                    {
+                        "text": "Do plants grow better with classical music or rock music?",
+                        "isCorrect": 1,
+                        "explanation": "This is a good scientific question because it asks about a natural phenomenon (plant growth), can be tested through experimentation, and the evidence can be collected through observations and measurements."
+                    },
+                    {
+                        "text": "What is the most beautiful flower?",
+                        "isCorrect": 0,
+                        "explanation": "This question involves subjective judgment about beauty, which cannot be answered through scientific evidence. Good scientific questions should seek objective answers based on evidence."
+                    },
+                    {
+                        "text": "Is it better to use renewable energy?",
+                        "isCorrect": 0,
+                        "explanation": "While related to science, this question as stated involves value judgments about what is 'better' without specific criteria. A good scientific question would need to specify measurable criteria for comparison."
+                    },
+                    {
+                        "text": "Can psychics predict the future?",
+                        "isCorrect": 0,
+                        "explanation": "This question as stated is too broad and vague to be scientifically testable. A good scientific question needs to be specific enough to design a controlled investigation that could collect relevant evidence."
+                    }
+                ],
+                "funFact": "Scientists often refine their questions multiple times before conducting investigations. What starts as a broad question like 'How do plants grow?' might eventually become a more specific, testable question like 'How does the concentration of nitrogen in soil affect the growth rate of corn plants?' This process of question refinement is a crucial part of scientific thinking."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the characteristics of a good scientific question"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of analyzing and interpreting data in the scientific process?",
+                "options": [
+                    {
+                        "text": "To create mathematical models that can replace experiments",
+                        "isCorrect": 0,
+                        "explanation": "While mathematical models are valuable tools in science, the primary purpose of analyzing and interpreting data is to identify patterns and make sense of what the data means, not to replace experiments."
+                    },
+                    {
+                        "text": "To identify patterns and develop explanations for how and why those patterns exist",
+                        "isCorrect": 1,
+                        "explanation": "Scientists analyze data to identify patterns in the natural world and then use that evidence to explain how and why those patterns exist, which is fundamental to the scientific process."
+                    },
+                    {
+                        "text": "To prove that a hypothesis is correct beyond any doubt",
+                        "isCorrect": 0,
+                        "explanation": "Science doesn't prove hypotheses beyond doubt; rather, it develops explanations supported by evidence. Scientific explanations can change as new evidence emerges."
+                    },
+                    {
+                        "text": "To communicate findings without needing to conduct additional research",
+                        "isCorrect": 0,
+                        "explanation": "While communication is important in science, analyzing data isn't primarily about ending research but about making sense of observations and potentially generating new questions for further investigation."
+                    },
+                    {
+                        "text": "To eliminate the need for careful observation in scientific investigations",
+                        "isCorrect": 0,
+                        "explanation": "Data analysis doesn't replace careful observation; it complements it. Both are essential parts of scientific investigation, with observations providing the data that is then analyzed."
+                    }
+                ],
+                "funFact": "When Watson and Crick discovered the structure of DNA in 1953, they spent months analyzing X-ray crystallography data collected by Rosalind Franklin. Their data analysis revealed the double helix pattern that revolutionized our understanding of genetics and inheritance!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the purpose of analyzing and interpreting data in the scientific process"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes how scientific explanations are developed and accepted within the scientific community?",
+                "options": [
+                    {
+                        "text": "Scientists collect data, analyze it individually, and immediately publish their findings as new scientific knowledge.",
+                        "isCorrect": 0,
+                        "explanation": "This option incorrectly suggests that science is a solitary process without peer review or critique. Scientific explanations require evaluation and acceptance by the broader scientific community."
+                    },
+                    {
+                        "text": "Scientists develop explanations through argument, debate, and communication, with explanations being accepted only after they are shared, critiqued, and determined to be supported by evidence.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes the collaborative and evidence-based nature of science, where explanations develop through argument about evidence and must be critically evaluated by the scientific community before acceptance."
+                    },
+                    {
+                        "text": "Scientific explanations are developed through a single, universal scientific method that all scientists must follow precisely.",
+                        "isCorrect": 0,
+                        "explanation": "This option reflects a common misconception. There is no single scientific method that all scientists follow in the same way. Scientists use the eight science and engineering practices in different orders and combinations."
+                    },
+                    {
+                        "text": "Once a scientific explanation is published, it becomes permanent scientific knowledge that cannot be changed or challenged.",
+                        "isCorrect": 0,
+                        "explanation": "Scientific explanations are never permanent. They can and do change over time as new evidence is discovered or as scientists' interpretations of existing evidence evolve with new knowledge."
+                    },
+                    {
+                        "text": "Scientific explanations are primarily developed through laboratory experiments, as observational data is considered less reliable.",
+                        "isCorrect": 0,
+                        "explanation": "This option incorrectly suggests that experimental data is always superior to observational data. Many branches of science (like astronomy or paleontology) rely heavily on observations because experiments are not always possible."
+                    }
+                ],
+                "funFact": "Scientists spend approximately half of their professional time obtaining, evaluating, and communicating information through various channels such as conferences, publications, and peer reviews. This communication process is so crucial that many scientific discoveries throughout history occurred when multiple scientists were working on the same problem simultaneously, sometimes leading to debates about who should receive credit!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize how scientists communicate and evaluate information as part of the scientific process"
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a water filtration system for a rural community facing water contamination issues. Which of the following best describes how criteria and constraints would influence this engineering design process?",
+                "options": [
+                    {
+                        "text": "Criteria are fixed requirements that cannot be changed, while constraints are flexible guidelines that can be ignored if necessary.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Criteria are standards for evaluating success, while constraints are limitations that must be considered. Neither should be ignored, and criteria can sometimes be adjusted based on priorities."
+                    },
+                    {
+                        "text": "Criteria define what the solution must accomplish (like water purity standards), while constraints identify limitations (like available materials and budget) that may restrict possible solutions.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Criteria are the standards that define what makes a successful solution, such as water quality requirements, while constraints are limitations like cost, available materials, and environmental impacts that restrict the range of possible solutions."
+                    },
+                    {
+                        "text": "Both criteria and constraints are determined solely by the engineer without input from the community that will use the solution.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Effective engineering design considers the needs and input of stakeholders, particularly the community that will use the solution. Both criteria and constraints should reflect their needs and concerns."
+                    },
+                    {
+                        "text": "The engineering design process is complete once all constraints have been identified, even before solutions are developed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Identifying constraints is just one early step in the engineering design process. The process continues with developing, testing, and refining solutions that meet the criteria while working within the constraints."
+                    }
+                ],
+                "funFact": "Some of the world's most innovative engineering solutions have emerged from working within tight constraints. For example, NASA's solution to the Apollo 13 carbon dioxide problem required engineers to design a life-saving air filter using only materials available to the astronauts on the damaged spacecraft."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify how criteria and constraints influence design solutions in engineering"
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a solar-powered water purification system for a remote village with limited resources. Which of the following scientific principles would most likely create a constraint on the design of this system?",
+                "options": [
+                    {
+                        "text": "The amount of sunlight available in the region",
+                        "isCorrect": 1,
+                        "explanation": "The availability of sunlight is a scientific principle that would directly constrain the design of a solar-powered system. If the region has limited sunlight, the system would need to be modified to work effectively under those conditions."
+                    },
+                    {
+                        "text": "The color preferences of the village residents",
+                        "isCorrect": 0,
+                        "explanation": "While considering user preferences is important in design, color preferences are not a scientific principle that would significantly constrain the functionality of a water purification system."
+                    },
+                    {
+                        "text": "The educational background of the engineer",
+                        "isCorrect": 0,
+                        "explanation": "The engineer's background may influence their approach but is not a scientific principle that would create a constraint on the design itself."
+                    },
+                    {
+                        "text": "The popularity of solar technology in neighboring villages",
+                        "isCorrect": 0,
+                        "explanation": "The popularity of a technology in nearby areas is a social factor, not a scientific principle that would create physical limitations on how the system functions."
+                    }
+                ],
+                "funFact": "Solar-powered water purification systems often use ultraviolet (UV) light to kill harmful microorganisms. This technology can work even on cloudy days because UV rays can penetrate cloud cover, though at reduced intensity."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize how scientific principles might limit possible engineering solutions"
+        },
+        {
+            "question": {
+                "text": "When engineers develop a new solar-powered water filtration system for communities with limited access to clean water, which environmental impact should they consider most carefully in their design?",
+                "options": [
+                    {
+                        "text": "The color scheme of the filtration system",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics can be a consideration in design, the color scheme has minimal environmental impact compared to other factors and is not a critical environmental consideration."
+                    },
+                    {
+                        "text": "The disposal of chemical waste produced during the filtration process",
+                        "isCorrect": 1,
+                        "explanation": "Chemical waste from water filtration can harm ecosystems if improperly disposed of. Engineers must consider how waste products will be handled to minimize negative environmental impacts, making this a critical constraint in the design process."
+                    },
+                    {
+                        "text": "The brand name of the filtration system",
+                        "isCorrect": 0,
+                        "explanation": "The brand name is a marketing consideration and does not have direct environmental impacts that need to be considered during the engineering design process."
+                    },
+                    {
+                        "text": "The sound the filtration system makes while operating",
+                        "isCorrect": 0,
+                        "explanation": "While noise pollution can be an environmental concern in some contexts, for a water filtration system, it's typically a minor consideration compared to waste management and other environmental impacts."
+                    }
+                ],
+                "funFact": "Some innovative water filtration systems today use natural processes like biofiltration, which employs microorganisms to break down contaminants without generating chemical waste. This biomimicry approach demonstrates how engineers can look to nature to create more environmentally sustainable solutions."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify potential environmental impacts that should be considered when developing engineering solutions"
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a water purification system for a rural community in a developing country. What factor should the engineer prioritize first when defining this engineering problem?",
+                "options": [
+                    {
+                        "text": "Calculating the maximum cost that can be spent on the project",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint in any engineering project, identifying the specific needs of the users should come before determining budget limitations."
+                    },
+                    {
+                        "text": "Understanding the specific water quality issues and needs of the community",
+                        "isCorrect": 1,
+                        "explanation": "The first step in defining an engineering problem is understanding the needs of the people affected by the problem, as this will guide all other aspects of the design process."
+                    },
+                    {
+                        "text": "Researching the latest water purification technologies available",
+                        "isCorrect": 0,
+                        "explanation": "Researching technologies is important, but it should come after understanding the specific problem and needs that must be addressed."
+                    },
+                    {
+                        "text": "Determining the environmental impact of the proposed system",
+                        "isCorrect": 0,
+                        "explanation": "Environmental impact is a critical constraint to consider, but it follows after clearly defining the problem and needs that must be met."
+                    },
+                    {
+                        "text": "Creating a detailed timeline for project completion",
+                        "isCorrect": 0,
+                        "explanation": "While time constraints are important, they should be established after understanding the fundamental problem and needs of the users."
+                    }
+                ],
+                "funFact": "Engineering solutions that successfully address societal problems often fail when designers don't adequately understand local conditions. For example, many water purification systems have failed in developing regions because they weren't designed with consideration for local maintenance capabilities, cultural practices, or available resources."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify important factors to consider when defining an engineering problem"
+        },
+        {
+            "question": {
+                "text": "A middle school science club wants to design a system to reduce waste in the school cafeteria. Which of the following criteria would be most effective in ensuring their solution is successful?",
+                "options": [
+                    {
+                        "text": "The solution should be liked by everyone in the school.",
+                        "isCorrect": 0,
+                        "explanation": "While acceptance is important, this criterion is too vague and likely impossible to achieve. Effective criteria need to be measurable and realistic."
+                    },
+                    {
+                        "text": "The solution should reduce cafeteria waste by a specific percentage within a defined timeframe.",
+                        "isCorrect": 1,
+                        "explanation": "This is a precise, measurable criterion that establishes both what constitutes success (percentage reduction) and a timeframe for evaluation, making it possible to determine if the solution is working."
+                    },
+                    {
+                        "text": "The solution should be inexpensive.",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint to consider, this criterion is not specific enough. 'Inexpensive' is relative and doesn't define what constitutes success."
+                    },
+                    {
+                        "text": "The solution should use technology.",
+                        "isCorrect": 0,
+                        "explanation": "This criterion focuses on how the solution should work rather than what it should accomplish. It doesn't help evaluate whether the solution successfully addresses the waste problem."
+                    },
+                    {
+                        "text": "The solution should be easy to implement.",
+                        "isCorrect": 0,
+                        "explanation": "Ease of implementation is a consideration, but this criterion is subjective and doesn't define what would make the solution successful in addressing the waste problem."
+                    }
+                ],
+                "funFact": "Scientists estimate that school cafeterias in the United States can generate up to 530,000 tons of food waste each year. Precisely defining success criteria for waste reduction projects helps schools measure their impact and can lead to significant environmental benefits."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to identify the most effective criteria for evaluating a solution to reduce plastic pollution in a school environment, focusing on how precise criteria enable successful solutions."
+        },
+        {
+            "question": {
+                "text": "You are designing a water conservation system for your school's community garden. Which of the following correctly identifies criteria for the solution rather than constraints?",
+                "options": [
+                    {
+                        "text": "The system must collect at least 50 gallons of rainwater per month",
+                        "isCorrect": 1,
+                        "explanation": "This is a criterion because it specifies what the solution must accomplish (a performance requirement). Criteria define the goals that must be met for the solution to be successful."
+                    },
+                    {
+                        "text": "The system cannot cost more than $500 to build",
+                        "isCorrect": 0,
+                        "explanation": "This is a constraint because it places a limitation on possible solutions based on cost considerations. Constraints are restrictions that limit the possible solutions."
+                    },
+                    {
+                        "text": "The system must fit within the 10' x 12' garden shed area",
+                        "isCorrect": 0,
+                        "explanation": "This is a constraint because it limits possible solutions based on available space. Constraints define boundaries or limitations that solutions must work within."
+                    },
+                    {
+                        "text": "The system cannot use chemicals that might harm beneficial insects",
+                        "isCorrect": 0,
+                        "explanation": "This is a constraint because it restricts solutions based on environmental concerns. It limits what materials or methods can be used rather than defining what the solution must accomplish."
+                    },
+                    {
+                        "text": "The system must be completed before the spring planting season",
+                        "isCorrect": 0,
+                        "explanation": "This is a constraint because it places a time limitation on the development of the solution. Time constraints restrict when a solution must be completed."
+                    }
+                ],
+                "funFact": "Water conservation systems in community gardens can reduce water usage by up to 80% compared to traditional irrigation methods. Ancient civilizations like the Nabataeans built sophisticated water collection systems over 2,000 years ago that enabled agriculture in desert regions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that requires students to differentiate between criteria (what the solution must accomplish) and constraints (limitations on possible solutions) in the context of designing a water conservation system for a community garden."
+        },
+        {
+            "question": {
+                "text": "You are designing a solar-powered lighting system for a school's science classroom. Which of the following considerations represents a scientific principle that could limit possible solutions?",
+                "options": [
+                    {
+                        "text": "The amount of sunlight available throughout the school year",
+                        "isCorrect": 1,
+                        "explanation": "This represents a scientific principle (solar energy availability) that creates a physical limitation on the design. The amount of available sunlight directly affects how much energy can be captured, which constrains design possibilities."
+                    },
+                    {
+                        "text": "The budget allocated by the school board",
+                        "isCorrect": 0,
+                        "explanation": "While budget constraints are important to consider in any design problem, they represent economic limitations rather than scientific principles that limit solutions."
+                    },
+                    {
+                        "text": "The preference of teachers for warmer lighting tones",
+                        "isCorrect": 0,
+                        "explanation": "Teacher preferences are important user requirements, but they represent personal or aesthetic preferences rather than scientific principles that physically limit what solutions are possible."
+                    },
+                    {
+                        "text": "The timeline for completing the installation",
+                        "isCorrect": 0,
+                        "explanation": "Time constraints are practical considerations in engineering projects, but they aren't scientific principles that physically limit what solutions are possible."
+                    }
+                ],
+                "funFact": "Modern solar panels typically convert only 15-20% of the sunlight they receive into electricity. This fundamental efficiency limitation is based on the physics of photovoltaic materials and represents an important scientific constraint that engineers must work within when designing solar-powered systems."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents a scenario about designing an energy-efficient classroom lighting system and asks students to identify which considerations represent scientific principles that could limit possible solutions."
+        },
+        {
+            "question": {
+                "text": "A school is developing a plan to reduce traffic congestion in the surrounding neighborhood. What is the most important environmental impact that should be considered as a constraint when developing this solution?",
+                "options": [
+                    {
+                        "text": "The cost of implementing traffic signals",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint to consider in any design solution, it is not specifically an environmental impact. Cost would be categorized as a resource constraint rather than an environmental concern."
+                    },
+                    {
+                        "text": "The reduction in air pollution from idling vehicles",
+                        "isCorrect": 1,
+                        "explanation": "Reducing air pollution is a significant environmental impact to consider. Traffic congestion causes vehicles to idle for longer periods, releasing more exhaust emissions. A good solution should consider how to minimize these harmful emissions to protect the local air quality."
+                    },
+                    {
+                        "text": "The popularity of the solution among students",
+                        "isCorrect": 0,
+                        "explanation": "Student popularity is a social consideration rather than an environmental impact. While stakeholder opinions are important in engineering design, they don't directly address environmental constraints."
+                    },
+                    {
+                        "text": "The time saved by drivers during their commute",
+                        "isCorrect": 0,
+                        "explanation": "Time efficiency is an important criterion for evaluating the effectiveness of a traffic solution, but it is not an environmental impact. It would be classified as a performance criterion rather than an environmental constraint."
+                    },
+                    {
+                        "text": "The technical difficulty of implementing the solution",
+                        "isCorrect": 0,
+                        "explanation": "Technical difficulty relates to feasibility constraints in the design process, not to environmental impacts. While important to consider during planning, it doesn't directly address how the solution might affect the natural environment."
+                    }
+                ],
+                "funFact": "Traffic congestion around schools is a widespread issue that affects air quality. Studies have shown that vehicle emissions near schools can be 3-5 times higher during drop-off and pick-up times compared to other periods of the day, which can significantly impact local air quality and student health."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents students with a scenario about developing a solution for reducing traffic congestion near their school and asks them to identify the potential environmental impacts that should be considered as constraints."
+        },
+        {
+            "question": {
+                "text": "You are designing a playground structure for your school. Which of the following safety considerations represents the most important constraint that must be addressed?",
+                "options": [
+                    {
+                        "text": "The playground structure must be under the maximum allowed budget.",
+                        "isCorrect": 0,
+                        "explanation": "While budget is an important constraint, it is not the most critical safety consideration. Safety of users should take priority over financial constraints."
+                    },
+                    {
+                        "text": "The playground structure must have a fall zone with proper cushioning material.",
+                        "isCorrect": 1,
+                        "explanation": "Fall zones with proper cushioning materials are essential safety features that prevent serious injuries when children fall from playground equipment. This directly addresses user safety, which is the highest priority constraint."
+                    },
+                    {
+                        "text": "The playground structure must be colorful and visually appealing to students.",
+                        "isCorrect": 0,
+                        "explanation": "Visual appeal is a design criterion that affects user satisfaction, but it is not primarily a safety consideration. Safety features should take priority over aesthetic considerations."
+                    },
+                    {
+                        "text": "The playground structure must be completed before the end of the school year.",
+                        "isCorrect": 0,
+                        "explanation": "While timeline constraints are important for project planning, rushing construction to meet a deadline could compromise safety. Safety considerations should not be sacrificed for speed of completion."
+                    }
+                ],
+                "funFact": "According to the Consumer Product Safety Commission, over 200,000 children are treated in emergency rooms each year for playground-related injuries, with falls accounting for about 80% of these injuries. This is why fall zones with proper cushioning materials are considered critical safety features in playground design."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents information about designing a playground structure and asks students to identify which safety considerations represent the most important constraints that must be addressed."
+        },
+        {
+            "question": {
+                "text": "A community wants to design a solution to reduce noise pollution from a nearby highway. Which of the following criteria would best enable comparisons between different noise reduction solutions?",
+                "options": [
+                    {
+                        "text": "The aesthetic appearance of each solution",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics might be a consideration, it is subjective and doesn't provide a quantitative way to compare how effectively different solutions reduce noise pollution."
+                    },
+                    {
+                        "text": "The decibel reduction achieved by each solution",
+                        "isCorrect": 1,
+                        "explanation": "Decibel measurements provide a quantitative way to compare how effectively different solutions reduce noise levels, allowing for objective comparison between solutions."
+                    },
+                    {
+                        "text": "The popularity of each solution among community members",
+                        "isCorrect": 0,
+                        "explanation": "Popularity is important for community acceptance but doesn't provide a quantifiable measure of how effectively each solution addresses the noise pollution problem."
+                    },
+                    {
+                        "text": "The number of materials used in each solution",
+                        "isCorrect": 0,
+                        "explanation": "The number of materials doesn't necessarily correlate with effectiveness in reducing noise pollution and doesn't allow for meaningful comparison between solutions."
+                    },
+                    {
+                        "text": "The color options available for each solution",
+                        "isCorrect": 0,
+                        "explanation": "Color options are related to appearance rather than function and don't provide a way to measure or compare the effectiveness of noise reduction solutions."
+                    }
+                ],
+                "funFact": "The human ear can detect sound intensity changes as small as 1 decibel. When designing noise reduction solutions, a decrease of 10 decibels is perceived by humans as cutting the loudness in half, while a 20-decibel reduction would make the noise seem about one-fourth as loud!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents a scenario about designing a solution to reduce noise pollution in a community and asks students to identify which quantitative criteria would enable the most effective comparison between different solutions."
+        },
+        {
+            "question": {
+                "text": "A community is working on a project to improve their recycling system. They want to design a better collection process for recyclable materials. Which of the following factors represents societal needs and values that might limit possible solutions?",
+                "options": [
+                    {
+                        "text": "The cost of implementing a new recycling collection system",
+                        "isCorrect": 1,
+                        "explanation": "Cost is a significant societal constraint that reflects community values and economic realities. Limited financial resources can restrict which recycling solutions are feasible, as communities must balance environmental goals with economic considerations."
+                    },
+                    {
+                        "text": "The chemical composition of recyclable plastics",
+                        "isCorrect": 0,
+                        "explanation": "The chemical composition of recyclable plastics is a scientific fact rather than a societal need or value. While this is an important consideration in designing a recycling system, it represents a technical constraint rather than a societal one."
+                    },
+                    {
+                        "text": "The weight of recyclable materials",
+                        "isCorrect": 0,
+                        "explanation": "The weight of recyclable materials is a physical property that represents a technical consideration rather than a societal need or value. This may affect the design of collection vehicles but is not related to community values or social factors."
+                    },
+                    {
+                        "text": "The elements in the periodic table",
+                        "isCorrect": 0,
+                        "explanation": "The elements in the periodic table represent scientific facts that don't change based on societal needs or values. They are fundamental properties of matter rather than factors that reflect community priorities or social considerations."
+                    }
+                ],
+                "funFact": "Recycling programs vary widely across different countries based on local values and economic conditions. In Japan, some communities sort recyclables into more than 34 different categories, reflecting their cultural emphasis on waste management, while other nations prioritize convenience with single-stream recycling systems that require less sorting by residents."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that requires students to analyze a design problem about improving recycling in a community and identify which factors represent societal needs and values that might limit possible solutions."
+        },
+        {
+            "question": {
+                "text": "You are designing a solution to reduce the urban heat island effect in your city. The urban heat island effect happens when cities become hotter than surrounding rural areas due to buildings, roads, and other infrastructure absorbing and retaining heat. Your team must create a design that addresses this problem while considering various constraints. Which of the following constraints would most significantly impact the feasibility of implementing green roofs throughout the downtown area?",
+                "options": [
+                    {
+                        "text": "The costs of reinforcing existing buildings to support the additional weight of soil and plants",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct answer because structural limitations and the high costs of retrofitting existing buildings to support the weight of soil, plants, and water are major constraints when implementing green roofs. Many older buildings were not designed to hold this additional weight, making this a significant feasibility constraint that involves both technical and economic considerations."
+                    },
+                    {
+                        "text": "The time required to plant vegetation on the green roofs",
+                        "isCorrect": 0,
+                        "explanation": "While planting vegetation does take time, this is a relatively minor constraint compared to structural modifications. Planting can be scheduled efficiently and doesn't present the same level of technical or economic challenge as reinforcing buildings to support the added weight of green roofs."
+                    },
+                    {
+                        "text": "The costs of watering the plants during summer months",
+                        "isCorrect": 0,
+                        "explanation": "Ongoing maintenance costs like watering are important considerations, but they represent operational expenses rather than implementation barriers. Modern green roof designs often incorporate water-efficient systems and drought-resistant plants to minimize this concern, making it less significant than structural limitations."
+                    },
+                    {
+                        "text": "The materials needed to create waterproof membrane layers",
+                        "isCorrect": 0,
+                        "explanation": "While waterproofing materials are essential components of green roof systems, they represent a standard material cost that is predictable and manageable. These materials are readily available and their installation is a routine part of green roof construction, unlike the more complex challenge of structural reinforcement."
+                    },
+                    {
+                        "text": "The time needed to obtain permits from city authorities",
+                        "isCorrect": 0,
+                        "explanation": "Administrative processes like obtaining permits are temporary constraints that can be addressed through proper planning. While they may cause delays, they don't fundamentally limit the technical feasibility of green roof implementation in the way that structural constraints do."
+                    }
+                ],
+                "funFact": "A well-designed green roof can reduce a building's energy costs by 15-30% by providing natural insulation, while also absorbing rainwater, reducing stormwater runoff by up to 90% during summer months. Some cities like Chicago, Toronto, and Paris have implemented policies to encourage or require green roofs on new buildings to combat urban heat islands and improve air quality."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents a scenario about designing a solution to reduce urban heat islands and asks students to identify which time, material, and cost constraints would most significantly impact the solution's feasibility."
+        },
+        {
+            "question": {
+                "text": "A town is planning to build a wildlife crossing over a busy highway that cuts through a forest. Which of the following best represents a potential negative environmental effect if the crossing is not designed properly?",
+                "options": [
+                    {
+                        "text": "Increased road maintenance costs for the highway department",
+                        "isCorrect": 0,
+                        "explanation": "While increased maintenance costs are a concern, they represent an economic impact rather than an environmental effect. Environmental effects focus on impacts to natural systems and wildlife."
+                    },
+                    {
+                        "text": "Continued habitat fragmentation leading to isolated wildlife populations",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies an environmental impact. When habitats are fragmented by highways without proper crossings, wildlife populations become isolated, which can lead to decreased genetic diversity, limited access to resources, and population decline."
+                    },
+                    {
+                        "text": "Reduced tourism in the area due to fewer wildlife sightings",
+                        "isCorrect": 0,
+                        "explanation": "This describes an economic or social impact related to tourism, not a direct environmental effect. Environmental effects focus on impacts to ecosystems and wildlife."
+                    },
+                    {
+                        "text": "Higher traffic congestion during construction of the crossing",
+                        "isCorrect": 0,
+                        "explanation": "Traffic congestion is a social and logistical concern during construction, not an environmental effect. Environmental effects would focus on impacts to natural systems, wildlife, or habitats."
+                    },
+                    {
+                        "text": "Increased vehicle insurance costs due to wildlife collisions",
+                        "isCorrect": 0,
+                        "explanation": "Insurance costs represent an economic impact to humans, not an environmental effect. Environmental effects would involve impacts to ecosystems, wildlife populations, or natural resources."
+                    }
+                ],
+                "funFact": "Wildlife crossings have proven remarkably effective in many locations. In Banff National Park, Canada, wildlife crossings reduced wildlife-vehicle collisions by more than 80%, and researchers have documented over 200,000 animal crossings of various species using these structures since they were built."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to analyze a scenario about designing a wildlife crossing over a highway and identify which considerations represent potential negative environmental effects if the problem is not solved properly."
+        },
+        {
+            "question": {
+                "text": "You are designing an emergency shelter for communities affected by natural disasters. Which set of criteria would best ensure a successful design that meets the needs of those who will use it?",
+                "options": [
+                    {
+                        "text": "A shelter that is easy to set up, uses locally available materials, can withstand local weather conditions, and provides adequate ventilation and safety features.",
+                        "isCorrect": 1,
+                        "explanation": "This option correctly balances multiple essential criteria including ease of use, resource availability, environmental considerations, and human needs for safety and comfort."
+                    },
+                    {
+                        "text": "A shelter with the most advanced technological features, regardless of cost or complexity of setup.",
+                        "isCorrect": 0,
+                        "explanation": "This option focuses only on technology without considering important constraints like cost, ease of use, or the specific needs of disaster victims."
+                    },
+                    {
+                        "text": "A shelter designed primarily to be aesthetically pleasing to boost morale among disaster victims.",
+                        "isCorrect": 0,
+                        "explanation": "While morale is important, this option neglects critical functional requirements like structural integrity, safety, and practical needs of people in emergency situations."
+                    },
+                    {
+                        "text": "A shelter designed to last for many years with the highest quality materials available.",
+                        "isCorrect": 0,
+                        "explanation": "Emergency shelters often need to be temporary and deployed quickly. This option focuses on durability and quality while ignoring constraints like rapid deployment and cost-effectiveness."
+                    }
+                ],
+                "funFact": "When engineers designed emergency shelters after the 2010 Haiti earthquake, they discovered that integrating local building techniques with modern materials created solutions that were both culturally appropriate and structurally sound. This demonstrates how understanding both scientific principles and social contexts leads to more effective engineering solutions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents information about designing an emergency shelter and asks students to identify which criteria best reflect the needs of the individuals who would use it, demonstrating understanding of how user needs shape design requirements."
+        },
+        {
+            "question": {
+                "text": "You are leading a team designing a solar-powered irrigation system for a school garden. The system needs to deliver water efficiently while considering environmental impact. Which of the following constraints represents a natural resource limitation that must be considered in your design?",
+                "options": [
+                    {
+                        "text": "The garden is located in an area that receives limited rainfall throughout the year.",
+                        "isCorrect": 1,
+                        "explanation": "This is a natural resource constraint because the limited rainfall is a natural condition that affects how the irrigation system must be designed. It's a constraint related to the natural environment that limits possible solutions."
+                    },
+                    {
+                        "text": "The school has allocated $500 for the project budget.",
+                        "isCorrect": 0,
+                        "explanation": "This is a financial constraint, not a natural resource limitation. It's an important limitation to consider in the design, but it relates to human-imposed limitations rather than natural resource availability."
+                    },
+                    {
+                        "text": "The system must be easy for students to operate.",
+                        "isCorrect": 0,
+                        "explanation": "This is a user requirement or criterion, not a natural resource limitation. It relates to human needs and usability rather than natural resource constraints."
+                    },
+                    {
+                        "text": "The installation must be completed before the growing season begins.",
+                        "isCorrect": 0,
+                        "explanation": "This is a time constraint related to project scheduling, not a natural resource limitation. It's a human-imposed limitation rather than a constraint from the natural environment."
+                    }
+                ],
+                "funFact": "Efficient irrigation systems can reduce water usage by up to 70% compared to conventional watering methods. Modern solar-powered systems often include soil moisture sensors that automatically adjust watering schedules based on actual plant needs, further conserving valuable water resources."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that presents a scenario about designing a school garden irrigation system and asks students to identify which constraints represent the natural resource limitations that must be considered in the solution."
+        },
+        {
+            "question": {
+                "text": "A school is developing a new recycling system to reduce waste in the cafeteria. The principal has asked a team of students to design this system. From the following list, which SINGLE stakeholder group would be the most critical to consult for the day-to-day operation and maintenance of the solution?",
+                "options": [
+                    {
+                        "text": "The cafeteria staff who will need to manage the waste",
+                        "isCorrect": 1,
+                        "explanation": "The cafeteria staff are the primary stakeholders because they will be responsible for implementing and maintaining the recycling system on a daily basis. Their workflow and procedures will be directly affected, making their needs and input crucial for a successful and sustainable solution."
+                    },
+                    {
+                        "text": "The school board members who fund the cafeteria",
+                        "isCorrect": 0,
+                        "explanation": "While the school board is important for funding decisions, they are not the most directly involved stakeholders in the day-to-day operation of the recycling system. They represent a constraint on budget but not the primary users of the system."
+                    },
+                    {
+                        "text": "The parents who pay for school lunches",
+                        "isCorrect": 0,
+                        "explanation": "Parents are stakeholders in the school system, but they will have minimal direct interaction with the cafeteria recycling system. Their concerns may need to be addressed, but they are not the primary users whose needs must be met for the system to function properly."
+                    },
+                    {
+                        "text": "The janitorial staff who clean after hours",
+                        "isCorrect": 0,
+                        "explanation": "The janitorial staff plays a role in waste management, but they typically work after hours and would have less direct involvement with the recycling system during active cafeteria hours. Their input may be valuable but is not as critical as those who manage the waste throughout the meal periods."
+                    },
+                    {
+                        "text": "The students who eat in the cafeteria",
+                        "isCorrect": 0,
+                        "explanation": "While students are important stakeholders as users of the cafeteria, the cafeteria staff have the most critical role in ensuring the recycling system functions properly day-to-day, as they will be responsible for implementing and maintaining the system throughout meal periods."
+                    }
+                ],
+                "funFact": "School cafeterias in the United States generate approximately 530,000 tons of food waste per year. Successful cafeteria waste reduction programs have been shown to reduce food waste by up to 40%, which can save schools money and reduce environmental impact."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question that asks students to analyze a design problem about reducing food waste in the school cafeteria and identify the most important stakeholders whose needs must be considered for a successful solution."
+        },
+        {
+            "question": {
+                "text": "A community is concerned about pollution in their local stream and wants to design a solution to address this problem. Which of the following criteria would be MOST important to consider when designing an effective solution?",
+                "options": [
+                    {
+                        "text": "The cost of implementing the solution",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint to consider, it is not the most critical criterion when addressing environmental pollution. Solutions need to be effective at solving the environmental problem even if they require reasonable investment."
+                    },
+                    {
+                        "text": "The potential environmental impact of the solution",
+                        "isCorrect": 1,
+                        "explanation": "The primary goal of any solution to stream pollution should be to reduce harm to the environment without creating new problems. Considering the environmental impact ensures the solution addresses the core issue while avoiding unintended consequences."
+                    },
+                    {
+                        "text": "The amount of time needed to implement the solution",
+                        "isCorrect": 0,
+                        "explanation": "Time constraints are a practical consideration, but they shouldn't be the most important factor when addressing pollution. An effective solution may require appropriate time for implementation to ensure it works properly."
+                    },
+                    {
+                        "text": "The aesthetic appearance of the solution",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics might be a consideration for community acceptance, the effectiveness of the solution in reducing pollution should take priority over how it looks."
+                    },
+                    {
+                        "text": "The popularity of the solution among community members",
+                        "isCorrect": 0,
+                        "explanation": "Though community buy-in is helpful for implementation, the most important criterion should be how effectively the solution addresses the pollution problem, even if it's not the most popular option."
+                    }
+                ],
+                "funFact": "Scientists often use a method called biomonitoring to assess stream health by examining the types and quantities of aquatic organisms present. Certain species of insects, particularly mayflies, stoneflies, and caddisflies, are very sensitive to pollution and their presence indicates good water quality, while their absence can signal environmental problems."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question that asks students to identify which criteria would be most important to consider when designing a solution to reduce pollution in a local stream, with answer options representing different types of criteria (environmental impact, cost, time constraints, and community needs)."
+        },
+        {
+            "question": {
+                "text": "A community is planning to build a new bridge over a river that runs through a protected wetland area. The bridge needs to connect two growing neighborhoods to improve transportation. Which of the following constraints would most limit the possible design solutions for this bridge project?",
+                "options": [
+                    {
+                        "text": "The bridge must be completed within a 12-month timeframe.",
+                        "isCorrect": 0,
+                        "explanation": "While time constraints are important to consider in engineering projects, they typically don't limit design possibilities as severely as environmental constraints. Construction schedules can often be adjusted if necessary."
+                    },
+                    {
+                        "text": "The bridge must stay within the allocated budget of $2 million.",
+                        "isCorrect": 0,
+                        "explanation": "Budget constraints are significant in engineering projects, but they may allow for multiple design solutions through creative material choices or phased construction approaches."
+                    },
+                    {
+                        "text": "The bridge construction cannot disrupt the protected wetland ecosystem.",
+                        "isCorrect": 1,
+                        "explanation": "Environmental constraints, especially protecting sensitive ecosystems like wetlands, often place the most significant limitations on design possibilities. This constraint may restrict location, materials, construction methods, and structural options to prevent environmental damage."
+                    },
+                    {
+                        "text": "The bridge must support emergency vehicles weighing up to 40 tons.",
+                        "isCorrect": 0,
+                        "explanation": "While load requirements are important safety considerations, they represent standard engineering parameters that can be addressed through various design approaches without severely limiting possible solutions."
+                    },
+                    {
+                        "text": "The bridge must match the architectural style of the surrounding neighborhoods.",
+                        "isCorrect": 0,
+                        "explanation": "Aesthetic considerations are important for community acceptance but typically don't fundamentally limit design possibilities as much as environmental constraints do. Various designs can incorporate aesthetic elements while meeting other requirements."
+                    }
+                ],
+                "funFact": "Engineers designing bridges near sensitive ecosystems sometimes use specialized construction techniques like 'top-down construction,' where the bridge is built from above rather than from the ground up, to minimize environmental disruption. This approach can reduce the need for temporary access roads and construction equipment in sensitive areas."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a scenario about designing a bridge, asking students to determine which constraint would most limit possible design solutions, with options including material strength limitations, budget restrictions, environmental considerations, and community access needs."
+        },
+        {
+            "question": {
+                "text": "The city of Waterside is facing a severe drought and has tasked engineers with designing a water conservation system for public parks. Which of the following represents a constraint rather than a criterion in this design problem?",
+                "options": [
+                    {
+                        "text": "The system must reduce water usage by at least 30%",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion because it defines a measurable goal (30% reduction) that solutions will be evaluated against."
+                    },
+                    {
+                        "text": "The system should maintain the health of existing plants",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion because it states a desired outcome that solutions will be judged on - whether they can keep plants healthy."
+                    },
+                    {
+                        "text": "The system must be installed with a budget of $50,000",
+                        "isCorrect": 1,
+                        "explanation": "This is a constraint because it limits the possible solutions based on available resources (money). Constraints are factors that restrict the possible solutions."
+                    },
+                    {
+                        "text": "The system should be easy for park staff to maintain",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion because it describes a desired quality (ease of maintenance) that will be used to evaluate potential solutions."
+                    },
+                    {
+                        "text": "The system should be visually appealing to park visitors",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion because it describes a desired quality (visual appeal) that will be used to judge the success of potential solutions."
+                    }
+                ],
+                "funFact": "Water conservation technologies like drip irrigation can reduce water usage by up to 70% compared to traditional sprinkler systems, while actually improving plant health by delivering water directly to roots."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question describing a city's water conservation challenge and asking students to determine which factor represents a constraint rather than a criterion in the design problem."
+        },
+        {
+            "question": {
+                "text": "A middle school is developing a new waste reduction system for their cafeteria. Which statement best defines the system boundaries for this engineering problem?",
+                "options": [
+                    {
+                        "text": "The system includes only the trash cans and recycling bins in the cafeteria.",
+                        "isCorrect": 0,
+                        "explanation": "This defines the system too narrowly, focusing only on the waste collection containers without considering other components like the people involved, food sources, or environmental impacts."
+                    },
+                    {
+                        "text": "The system includes the cafeteria, students, staff, food suppliers, waste management services, and potential environmental impacts of waste disposal.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies comprehensive system boundaries that include all major components: the physical space, the people involved, the supply chain, waste management infrastructure, and environmental considerations."
+                    },
+                    {
+                        "text": "The system includes only the cafeteria space and the students who eat there.",
+                        "isCorrect": 0,
+                        "explanation": "This definition is too limited because it doesn't account for staff, food suppliers, waste management services, or environmental impacts of the waste."
+                    },
+                    {
+                        "text": "The system includes only the types of waste produced and their environmental impacts.",
+                        "isCorrect": 0,
+                        "explanation": "While environmental impacts are important, this definition neglects the physical space, the people involved, and the processes that generate and handle the waste."
+                    },
+                    {
+                        "text": "The system only needs to consider the cost of new recycling equipment.",
+                        "isCorrect": 0,
+                        "explanation": "This focuses on just one constraint (cost) and one component (recycling equipment), missing many other important boundaries such as people involved, processes, and environmental impacts."
+                    }
+                ],
+                "funFact": "School cafeterias in the US generate approximately 530,000 tons of food waste annually. Some innovative schools have reduced their cafeteria waste by up to 90% through comprehensive systems that include composting programs, food recovery initiatives, and student-led waste audits."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question that presents a design problem involving waste reduction in a cafeteria, asking students to identify which statement best defines the system boundaries of the problem."
+        },
+        {
+            "question": {
+                "text": "Your team is designing an accessible playground for a community park. Which of the following considerations represents a potential societal impact rather than an environmental impact of your solution?",
+                "options": [
+                    {
+                        "text": "The amount of natural habitat that will be removed for the playground",
+                        "isCorrect": 0,
+                        "explanation": "This consideration focuses on the effect on the natural environment, specifically habitat loss, which makes it an environmental impact rather than a societal one."
+                    },
+                    {
+                        "text": "The playground's ability to accommodate children with different physical abilities",
+                        "isCorrect": 1,
+                        "explanation": "This consideration focuses on how the design affects different groups of people in society, specifically children with varying physical abilities, making it a societal impact."
+                    },
+                    {
+                        "text": "The potential for playground materials to leach chemicals into the soil",
+                        "isCorrect": 0,
+                        "explanation": "This consideration focuses on pollution and contamination of the natural environment, making it an environmental impact rather than a societal one."
+                    },
+                    {
+                        "text": "The amount of stormwater runoff created by the playground surface",
+                        "isCorrect": 0,
+                        "explanation": "This consideration focuses on how the design affects water systems in the natural environment, making it an environmental impact rather than a societal one."
+                    },
+                    {
+                        "text": "The playground's contribution to increasing local temperatures through heat absorption",
+                        "isCorrect": 0,
+                        "explanation": "This consideration focuses on how the design affects local climate conditions in the natural environment, making it an environmental impact rather than a societal one."
+                    }
+                ],
+                "funFact": "When designing playgrounds, engineers often use the concept of 'universal design' which aims to create spaces that are accessible and enjoyable for everyone regardless of age, size, ability, or disability without the need for adaptation or specialized design."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze a scenario about designing an accessible playground and identify which consideration represents a potential societal impact rather than an environmental impact."
+        },
+        {
+            "question": {
+                "text": "A community is concerned about erosion along a riverbank that is threatening several homes and a public park. A team of engineers has been asked to design a solution to reduce the erosion. Which of the following design solutions best addresses both the scientific principles of erosion control and the community's needs?",
+                "options": [
+                    {
+                        "text": "Build a concrete wall along the entire riverbank to completely block water flow against the shoreline.",
+                        "isCorrect": 0,
+                        "explanation": "While a concrete wall would prevent direct water erosion, it doesn't work with natural processes, is extremely expensive, disrupts the ecosystem, and would significantly alter the natural appearance of the park that residents value."
+                    },
+                    {
+                        "text": "Install a combination of native vegetation and strategically placed rock barriers that allow controlled water flow while stabilizing the soil.",
+                        "isCorrect": 1,
+                        "explanation": "This solution uses scientific principles of how plants' root systems help hold soil in place while the rock barriers dissipate water energy. It balances erosion control with environmental considerations, maintains the natural aesthetic, and is more cost-effective than complete artificial structures."
+                    },
+                    {
+                        "text": "Redirect the river flow away from the affected area by dredging a new channel through an undeveloped area of land.",
+                        "isCorrect": 0,
+                        "explanation": "This solution may stop erosion in the current location but simply transfers the problem elsewhere. It would be extremely disruptive to the ecosystem, very expensive, and likely face significant regulatory hurdles and community opposition."
+                    },
+                    {
+                        "text": "Apply chemical soil hardeners across the entire riverbank to create a waterproof barrier.",
+                        "isCorrect": 0,
+                        "explanation": "Chemical soil treatments may temporarily reduce erosion but raise serious environmental concerns about water contamination, harm to aquatic life, and potential health impacts for park users. This approach doesn't address the underlying causes of erosion."
+                    }
+                ],
+                "funFact": "Nature's own erosion control systems can be remarkably effective. Beaver dams not only create habitat but can reduce stream velocity by up to 95%, significantly decreasing erosion while creating wetlands that filter pollutants from water."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question that asks students to evaluate multiple design solutions for reducing erosion along a riverbank and determine which solution best addresses both the scientific principles and community needs."
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing an eco-friendly school building in a region that experiences hot summers and cold winters. They need to select the most appropriate insulation material. The team has defined the following criteria and constraints:\n\nCriteria:\n- Excellent insulation value (R-value of at least 4.0 per inch)\n- Durability (must last at least 30 years)\n\nConstraints:\n- Cost must not exceed $1.50 per square foot\n- Must use materials with minimal environmental impact\n- Must not release harmful chemicals\n\nBased on their research, they collected the following data about various insulation options:\n\nOption A: Fiberglass Insulation\n- R-value: 3.8 per inch\n- Lifespan: 25-35 years\n- Cost: $0.85 per square foot\n- Environmental impact: Moderate (manufacturing requires significant energy)\n- Safety: Can cause skin irritation during installation\n\nOption B: Cellulose Insulation\n- R-value: 3.5 per inch\n- Lifespan: 20-30 years\n- Cost: $0.90 per square foot\n- Environmental impact: Low (made from recycled paper)\n- Safety: Treated with fire retardants\n\nOption C: Spray Foam Insulation\n- R-value: 6.5 per inch\n- Lifespan: 40+ years\n- Cost: $1.75 per square foot\n- Environmental impact: Moderate to high (petroleum-based)\n- Safety: May release VOCs during installation\n\nOption D: Sheep's Wool Insulation\n- R-value: 4.3 per inch\n- Lifespan: 30-50 years\n- Cost: $1.40 per square foot\n- Environmental impact: Low (natural, renewable material)\n- Safety: Natural fire resistance, no harmful chemicals\n\nWhich insulation option best meets all the defined criteria while staying within the constraints?",
+                "options": [
+                    {
+                        "text": "Option A: Fiberglass Insulation",
+                        "isCorrect": 0,
+                        "explanation": "Fiberglass insulation fails to meet the R-value criterion (3.8 is less than the required 4.0 per inch). While it is within the cost constraint, its moderate environmental impact and potential health concerns during installation make it less suitable than other options."
+                    },
+                    {
+                        "text": "Option B: Cellulose Insulation",
+                        "isCorrect": 0,
+                        "explanation": "Cellulose insulation fails to meet both the R-value criterion (3.5 is less than the required 4.0 per inch) and its lifespan is at the lower end of the durability requirement (20-30 years). Though it has low environmental impact, it doesn't satisfy all the necessary criteria."
+                    },
+                    {
+                        "text": "Option C: Spray Foam Insulation",
+                        "isCorrect": 0,
+                        "explanation": "While spray foam insulation exceeds the R-value requirement (6.5 per inch) and durability criterion (40+ years), it exceeds the cost constraint ($1.75 is more than the $1.50 maximum). It also has moderate to high environmental impact and potential VOC emissions, violating the constraints on environmental impact and harmful chemicals."
+                    },
+                    {
+                        "text": "Option D: Sheep's Wool Insulation",
+                        "isCorrect": 1,
+                        "explanation": "Sheep's wool insulation meets all criteria and constraints: it has an R-value above the required minimum (4.3 > 4.0), exceeds the durability requirement (30-50 years), stays within the cost constraint ($1.40 < $1.50), has low environmental impact as a natural renewable material, and doesn't release harmful chemicals with natural fire resistance."
+                    }
+                ],
+                "funFact": "Sheep's wool insulation has natural moisture regulation properties that help prevent mold and mildew growth. It can absorb and release moisture without losing its insulating properties, making it particularly effective in humid climates. Some sheep's wool insulation products can absorb and neutralize indoor air pollutants like formaldehyde, improving indoor air quality."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting data about different materials for insulating a building and asking students to analyze which option best meets the defined criteria while staying within the specified constraints."
+        },
+        {
+            "question": {
+                "text": "A city is planning to build a new public transportation system to connect several neighborhoods. The city council must choose between two proposals: a bus system or a light rail system. Which approach to evaluating these proposals would best ensure a successful solution?",
+                "options": [
+                    {
+                        "text": "Choose the light rail system because it has higher upfront costs, which means it must be better quality.",
+                        "isCorrect": 0,
+                        "explanation": "This approach fails to consider multiple criteria and constraints. Higher cost doesn't necessarily mean better quality, and this reasoning ignores environmental impacts and the needs of different community members."
+                    },
+                    {
+                        "text": "Select the option with the most advanced technology regardless of cost or community needs.",
+                        "isCorrect": 0,
+                        "explanation": "This approach focuses only on technological aspects while ignoring important criteria like costs, environmental impacts, and how well the solution meets the needs of different groups in the community."
+                    },
+                    {
+                        "text": "Define specific criteria (like capacity, speed, and accessibility) and constraints (such as budget, environmental impact, and construction timeline) for evaluation, then compare how each option meets these requirements.",
+                        "isCorrect": 1,
+                        "explanation": "This approach properly defines both criteria and constraints with sufficient precision. It allows for comparison between solutions while considering scientific principles and potential impacts on people and the environment."
+                    },
+                    {
+                        "text": "Survey only the residents who live near the proposed routes to determine which option they prefer.",
+                        "isCorrect": 0,
+                        "explanation": "While community input is important, this approach is too narrow. It fails to consider other stakeholders, environmental impacts, scientific principles, costs, and other constraints that might limit possible solutions."
+                    },
+                    {
+                        "text": "Choose the option with the lowest environmental impact without considering the transportation needs of the community.",
+                        "isCorrect": 0,
+                        "explanation": "This approach considers only one constraint (environmental impact) while ignoring other important criteria like meeting community transportation needs, costs, and technical feasibility."
+                    }
+                ],
+                "funFact": "Transportation planners often use computer modeling to simulate how different transit systems would affect traffic patterns, air quality, and travel times before making major infrastructure decisions. These models can process data from thousands of simulated journeys to predict the real-world performance of different transportation solutions."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question describing a transportation design problem and asking students to identify which approach best takes into account both the needs of different stakeholder groups and potential environmental impacts."
+        },
+        {
+            "question": {
+                "text": "A community is planning to create a garden in an unused lot. The garden needs to provide fresh produce for the local food bank while being accessible to community volunteers of all ages. Which design consideration best addresses both environmental impact constraints and the criteria for success?",
+                "options": [
+                    {
+                        "text": "Using chemical pesticides to maximize crop yield",
+                        "isCorrect": 0,
+                        "explanation": "While this might increase crop yield in the short term, chemical pesticides can have negative environmental impacts and potentially affect the health of community members, failing to address environmental impact constraints."
+                    },
+                    {
+                        "text": "Installing concrete pathways throughout the entire garden space",
+                        "isCorrect": 0,
+                        "explanation": "Excessive concrete would reduce planting space, increase runoff, and have negative environmental impacts. This focuses more on accessibility but at the expense of environmental considerations and growing capacity."
+                    },
+                    {
+                        "text": "Creating raised garden beds with native soil-improving plants in rotation with food crops",
+                        "isCorrect": 1,
+                        "explanation": "This solution addresses environmental constraints by using sustainable practices (native plants, crop rotation) while meeting criteria for success (food production) and accessibility (raised beds make gardening easier for people of all ages and abilities)."
+                    },
+                    {
+                        "text": "Building a tall fence to keep animals out of the garden",
+                        "isCorrect": 0,
+                        "explanation": "While this addresses a potential problem, it focuses only on one aspect without considering broader environmental impacts or accessibility concerns."
+                    },
+                    {
+                        "text": "Designating the entire space for rare ornamental plants",
+                        "isCorrect": 0,
+                        "explanation": "This fails to meet the primary criteria for success, which is providing food for the local food bank. It also doesn't necessarily address environmental impact considerations."
+                    }
+                ],
+                "funFact": "Community gardens often serve multiple purposes beyond growing food - they can reduce urban heat island effects, improve stormwater management, increase biodiversity in cities, and even improve air quality by absorbing carbon dioxide and releasing oxygen."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze a design for a community garden and determine which aspect of the design successfully addresses a specific constraint while also meeting the core criteria for success."
+        },
+        {
+            "question": {
+                "text": "Your school is planning to reduce food waste in the cafeteria. You have been asked to help design a solution to this problem. Which mathematical calculation would be most helpful in evaluating potential solutions?",
+                "options": [
+                    {
+                        "text": "Calculating the average number of students who eat in the cafeteria each day",
+                        "isCorrect": 0,
+                        "explanation": "While knowing the number of students is useful background information, it doesn't directly measure food waste or the effectiveness of solutions."
+                    },
+                    {
+                        "text": "Calculating the total weight of food waste generated per week before and after implementing a solution",
+                        "isCorrect": 1,
+                        "explanation": "Measuring the weight of food waste before and after implementing a solution provides quantitative data that directly shows whether the solution is effective at reducing waste."
+                    },
+                    {
+                        "text": "Calculating the cost of cafeteria meals per student",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint to consider in any solution, it doesn't directly measure whether food waste is being reduced."
+                    },
+                    {
+                        "text": "Calculating the number of different menu options available each day",
+                        "isCorrect": 0,
+                        "explanation": "Menu variety might be related to food waste, but simply counting options doesn't measure the effectiveness of a waste reduction solution."
+                    },
+                    {
+                        "text": "Calculating the percentage of students who bring lunch from home",
+                        "isCorrect": 0,
+                        "explanation": "This calculation focuses on students who don't use the cafeteria rather than measuring the food waste problem or solution effectiveness."
+                    }
+                ],
+                "funFact": "School cafeterias in the United States throw away approximately 530,000 tons of food each year. Some schools have reduced their food waste by up to 50% through simple solutions like longer lunch periods, serving favorite foods on Fridays, and creating composting programs."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a scenario about designing a solution for reducing food waste in a school cafeteria and asking students to identify which mathematical calculation would be most helpful in evaluating potential solutions."
+        },
+        {
+            "question": {
+                "text": "Ms. Williams' 8th grade science class is designing air purification systems to improve classroom air quality. Which of the following would be classified as a constraint rather than a criterion in this engineering design problem?",
+                "options": [
+                    {
+                        "text": "The air purification system should reduce airborne particles by at least 80%.",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion, not a constraint. It defines a specific performance goal that can be used to evaluate different solutions and determine their success."
+                    },
+                    {
+                        "text": "The air purification system must be built with materials costing less than $50.",
+                        "isCorrect": 1,
+                        "explanation": "This is a constraint because it limits the possible solutions based on cost. Constraints are limitations that must be considered when designing a solution, such as budget, time, materials available, safety concerns, or environmental impacts."
+                    },
+                    {
+                        "text": "The air purification system should operate quietly enough to not disrupt classroom learning.",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion, as it defines a performance requirement that will be used to evaluate the success of different solutions."
+                    },
+                    {
+                        "text": "The air purification system should be energy efficient.",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion because it describes a desired quality or performance standard that will be used to judge possible solutions."
+                    },
+                    {
+                        "text": "The air purification system should be easy to maintain by classroom users.",
+                        "isCorrect": 0,
+                        "explanation": "This is a criterion that describes a desired quality of the solution. It sets a standard for evaluating different possible designs rather than limiting what designs are possible."
+                    }
+                ],
+                "funFact": "In engineering design, constraints and criteria serve different purposes. Constraints are limitations that restrict the possible solutions (like budget, materials, safety requirements), while criteria are standards used to evaluate how well different solutions work. The distinction is important because successful designs must work within constraints while optimizing the criteria!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question that asks students to determine which aspect of a design problem for improving air quality in a classroom would be classified as a constraint rather than a criterion."
+        },
+        {
+            "question": {
+                "text": "A community group wants to design a solution to address the lack of recycling services in their neighborhood. The group includes local residents, business owners, and environmental scientists. Which of the following represents a well-defined problem statement that properly identifies the criteria and constraints needed for a successful solution?",
+                "options": [
+                    {
+                        "text": "Design a recycling program that collects plastic and paper waste with collection bins placed throughout the community, and all materials must be processed within 24 hours.",
+                        "isCorrect": 0,
+                        "explanation": "This statement focuses only on specific details of a potential solution rather than defining the problem and considering various stakeholder needs, scientific principles, and potential impacts."
+                    },
+                    {
+                        "text": "Design a recycling system for the community that maximizes waste collection while being affordable to implement, considering environmental impacts, operating within local regulations, and meeting the needs of both residents and businesses.",
+                        "isCorrect": 1,
+                        "explanation": "This properly defines the problem with clear criteria (maximizing waste collection, meeting stakeholder needs) and constraints (affordability, environmental considerations, regulatory compliance) while considering all relevant stakeholders."
+                    },
+                    {
+                        "text": "Design the most efficient recycling program possible that eliminates all waste from the community without any consideration of cost.",
+                        "isCorrect": 0,
+                        "explanation": "This statement has an unrealistic goal (eliminating all waste) and ignores important constraints like cost considerations, which would make it difficult to implement successfully."
+                    },
+                    {
+                        "text": "Design a recycling program that focuses exclusively on meeting the needs of business owners while ignoring potential environmental impacts.",
+                        "isCorrect": 0,
+                        "explanation": "This statement only considers one stakeholder group (business owners) and explicitly ignores environmental impacts, which fails to account for all relevant constraints and stakeholder needs."
+                    }
+                ],
+                "funFact": "When engineers design recycling systems, they must balance technical factors like sorting technology with social factors like community participation rates. Studies show that clear communication about what can be recycled can increase participation rates by up to 25%, demonstrating how human behavior is a critical consideration in engineering design."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze how different stakeholder perspectives would influence the criteria and constraints for designing a community recycling program."
+        },
+        {
+            "question": {
+                "text": "Your middle school is planning to implement a renewable energy system to power part of the school building. As a student on the design team, which of the following is an important scientific principle that should be considered for a successful solution?",
+                "options": [
+                    {
+                        "text": "The impact of the energy system on local wildlife and ecosystems",
+                        "isCorrect": 1,
+                        "explanation": "Considering environmental impacts is a crucial constraint in design problems. A successful renewable energy solution must account for how it might affect local wildlife and ecosystems to avoid creating new environmental problems. This is one of several important scientific principles that should be addressed."
+                    },
+                    {
+                        "text": "The aesthetic appearance of the renewable energy system",
+                        "isCorrect": 0,
+                        "explanation": "While appearance may be considered as part of design, it's not a scientific principle that would significantly impact the success of the solution from a scientific or engineering standpoint."
+                    },
+                    {
+                        "text": "The popularity of different energy systems among students",
+                        "isCorrect": 0,
+                        "explanation": "Student preferences might be considered as stakeholder input, but this is not a scientific principle that would determine the success of the solution."
+                    },
+                    {
+                        "text": "The current trends in renewable energy technology",
+                        "isCorrect": 0,
+                        "explanation": "While staying current with technology trends is useful, it's not a scientific principle that would directly ensure the success of the solution."
+                    }
+                ],
+                "funFact": "Scientists who design renewable energy systems often use computer models to predict energy output based on local climate data. For example, solar panel efficiency can vary by as much as 30% depending on geographic location, seasonal changes, and weather patterns!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question that requires students to analyze a design problem about renewable energy implementation in a school and identify which scientific principle must be considered to ensure a successful solution."
+        }
+    ]
+}

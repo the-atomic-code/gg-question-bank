@@ -1,0 +1,1176 @@
+{
+    "id": "lesson-91",
+    "title": "Intro to Climate Change",
+    "standard": "MS-ESS3-5",
+    "n_recall": 15,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 39,
+    "questions": [
+        {
+            "question": {
+                "text": "Which statement correctly describes climate as distinct from weather?",
+                "options": [
+                    {
+                        "text": "Climate is the long-term average weather patterns over a large area, while weather describes day-to-day atmospheric conditions locally",
+                        "isCorrect": 1,
+                        "explanation": "This correctly distinguishes climate as long-term average conditions from weather as short-term, local conditions"
+                    },
+                    {
+                        "text": "Climate is what's happening right now outside, while weather describes what will happen next week",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly reverses the time scales - weather is short-term current conditions while climate looks at long-term patterns"
+                    },
+                    {
+                        "text": "Climate and weather are the same thing, just measured over different locations",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly suggests climate and weather only differ in location, when the key difference is actually the time scale they cover"
+                    },
+                    {
+                        "text": "Climate describes precipitation patterns only, while weather includes temperature and wind conditions",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly limits climate to just precipitation when it actually includes all atmospheric conditions averaged over time"
+                    }
+                ],
+                "funFact": "A helpful way to remember the difference between weather and climate is through your wardrobe: Weather determines what you wear today, while climate determines what clothes you keep in your closet year-round!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the correct definition of climate as distinct from weather"
+        },
+        {
+            "question": {
+                "text": "Which of the following gases are the primary greenhouse gases in Earth's atmosphere that help maintain its temperature?",
+                "options": [
+                    {
+                        "text": "Carbon dioxide, methane, and water vapor",
+                        "isCorrect": 1,
+                        "explanation": "These are the main greenhouse gases that absorb and redirect infrared radiation back to Earth's surface, helping maintain Earth's temperature at livable levels."
+                    },
+                    {
+                        "text": "Nitrogen, oxygen, and argon",
+                        "isCorrect": 0,
+                        "explanation": "While these gases make up most of Earth's atmosphere, they are not greenhouse gases and do not significantly contribute to the greenhouse effect."
+                    },
+                    {
+                        "text": "Helium, neon, and krypton",
+                        "isCorrect": 0,
+                        "explanation": "These are noble gases present in very small amounts in the atmosphere and do not contribute to the greenhouse effect."
+                    },
+                    {
+                        "text": "Hydrogen, nitrogen, and oxygen",
+                        "isCorrect": 0,
+                        "explanation": "While nitrogen and oxygen are the most abundant gases in our atmosphere, they do not trap heat like greenhouse gases do."
+                    }
+                ],
+                "funFact": "Without greenhouse gases, Earth's average temperature would be about -18\u00b0C (0\u00b0F), making it too cold for most life forms! The natural greenhouse effect makes Earth warm enough to support the diverse life we see today."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize the primary greenhouse gases present in Earth's atmosphere"
+        },
+        {
+            "question": {
+                "text": "What is the primary factor that has caused the increase in Earth's average temperature over the past century?",
+                "options": [
+                    {
+                        "text": "Increased burning of fossil fuels releasing greenhouse gases",
+                        "isCorrect": 1,
+                        "explanation": "The burning of fossil fuels since the Industrial Revolution has released large amounts of carbon dioxide and other greenhouse gases into the atmosphere, leading to enhanced greenhouse effect and rising global temperatures."
+                    },
+                    {
+                        "text": "Increased volcanic activity releasing heat and gases",
+                        "isCorrect": 0,
+                        "explanation": "Data shows there has not been an increase in volcanic activity over the past 200 years, so this cannot explain the rising temperatures."
+                    },
+                    {
+                        "text": "Increased energy output from the Sun",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy reaching Earth has actually decreased in the past 50 years while temperatures continued to rise, so this cannot be the primary cause."
+                    },
+                    {
+                        "text": "Natural climate cycles of the Earth",
+                        "isCorrect": 0,
+                        "explanation": "While Earth does have natural climate cycles, the rapid temperature increase of the past century is unprecedented and cannot be explained by natural cycles alone."
+                    }
+                ],
+                "funFact": "The greenhouse effect was first proposed by French scientist Joseph Fourier in 1824, but it wasn't until the late 1950s that scientists began to seriously study how increased carbon dioxide from human activities could warm the planet."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the main cause of increased global temperatures over the past century"
+        },
+        {
+            "question": {
+                "text": "What would Earth's average temperature be without the greenhouse effect?",
+                "options": [
+                    {
+                        "text": "-18\u00b0C",
+                        "isCorrect": 1,
+                        "explanation": "Without greenhouse gases trapping heat in the atmosphere, Earth's average temperature would be -18\u00b0C, making it too cold for most life forms."
+                    },
+                    {
+                        "text": "0\u00b0C",
+                        "isCorrect": 0,
+                        "explanation": "While 0\u00b0C is the freezing point of water, Earth would be much colder without the greenhouse effect trapping heat in the atmosphere."
+                    },
+                    {
+                        "text": "15\u00b0C",
+                        "isCorrect": 0,
+                        "explanation": "15\u00b0C is closer to Earth's current average temperature with the greenhouse effect, not without it."
+                    },
+                    {
+                        "text": "-50\u00b0C",
+                        "isCorrect": 0,
+                        "explanation": "While Earth would be very cold without the greenhouse effect, it would not be quite this cold. The actual temperature would be -18\u00b0C."
+                    }
+                ],
+                "funFact": "Venus experiences an extreme greenhouse effect with temperatures reaching 462\u00b0C due to its thick atmosphere of carbon dioxide. This shows how the greenhouse effect can vary dramatically between planets, making Earth's natural greenhouse effect perfect for supporting life!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to select the correct temperature Earth would be without the greenhouse effect"
+        },
+        {
+            "question": {
+                "text": "Which scientific method do scientists use to study Earth's climate from thousands of years ago?",
+                "options": [
+                    {
+                        "text": "Analyzing ice cores from glaciers",
+                        "isCorrect": 1,
+                        "explanation": "Ice cores from glaciers contain trapped air bubbles and other materials that provide valuable information about Earth's climate from thousands of years ago."
+                    },
+                    {
+                        "text": "Reading daily temperature records",
+                        "isCorrect": 0,
+                        "explanation": "Daily temperature records only go back to around 1850 when scientists began using thermometers to systematically record temperatures."
+                    },
+                    {
+                        "text": "Studying volcanic eruptions",
+                        "isCorrect": 0,
+                        "explanation": "While volcanic activity can affect climate, studying eruptions alone doesn't provide comprehensive data about Earth's climate history thousands of years ago."
+                    },
+                    {
+                        "text": "Measuring current sea levels",
+                        "isCorrect": 0,
+                        "explanation": "Current sea level measurements only tell us about present conditions, not about Earth's climate thousands of years ago."
+                    }
+                ],
+                "funFact": "The oldest ice core ever recovered comes from Antarctica and contains climate information from approximately 2.7 million years ago! These ancient ice samples are carefully stored in special freezers to preserve their valuable climate data."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify methods scientists use to study past climate conditions"
+        },
+        {
+            "question": {
+                "text": "During which historical period did the significant increase in greenhouse gas emissions begin due to widespread use of fossil fuels?",
+                "options": [
+                    {
+                        "text": "Late 1700s and early 1800s",
+                        "isCorrect": 1,
+                        "explanation": "The Industrial Revolution began during this period, leading to increased use of fossil fuels like coal, oil, and natural gas in factories and transportation, which significantly increased greenhouse gas emissions."
+                    },
+                    {
+                        "text": "Early 1600s",
+                        "isCorrect": 0,
+                        "explanation": "While there was some use of fossil fuels during this period, the major industrialization and widespread use of fossil fuels had not yet begun."
+                    },
+                    {
+                        "text": "Mid 1900s",
+                        "isCorrect": 0,
+                        "explanation": "While greenhouse gas emissions continued to increase during this period, the significant increase began much earlier during the Industrial Revolution."
+                    },
+                    {
+                        "text": "2000s",
+                        "isCorrect": 0,
+                        "explanation": "While greenhouse gas emissions are still increasing today, the major shift toward fossil fuel dependence began much earlier during the Industrial Revolution."
+                    }
+                ],
+                "funFact": "Before the Industrial Revolution, the amount of carbon dioxide in Earth's atmosphere had remained relatively stable for thousands of years. The invention of the steam engine, which primarily used coal for fuel, was one of the key technological developments that sparked the dramatic increase in greenhouse gas emissions."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize the time period when major industrialization led to increased fossil fuel usage"
+        },
+        {
+            "question": {
+                "text": "What are the primary consequences of rising global temperatures on Earth's systems?",
+                "options": [
+                    {
+                        "text": "Melting glaciers leading to sea level rise, stronger hurricanes, severe droughts, and increased wildfires",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the major impacts of global warming, showing how rising temperatures affect multiple Earth systems including ice, water, and weather patterns."
+                    },
+                    {
+                        "text": "Only increased rainfall and flooding in all regions globally",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because global warming causes different effects in different regions - some areas experience increased drought while others face flooding."
+                    },
+                    {
+                        "text": "Decreased temperatures in winter and increased temperatures only in summer",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because global warming affects temperatures year-round, not just during specific seasons."
+                    },
+                    {
+                        "text": "Only changes to plant growing seasons with no other effects",
+                        "isCorrect": 0,
+                        "explanation": "This understates the impacts - while growing seasons are affected, rising temperatures have many other significant consequences for Earth's systems."
+                    }
+                ],
+                "funFact": "The Arctic is warming about twice as fast as the global average, a phenomenon known as Arctic amplification. This accelerated warming in the Arctic is causing permafrost to thaw, releasing additional greenhouse gases that were trapped in the frozen ground for thousands of years."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the main consequences of rising global temperatures"
+        },
+        {
+            "question": {
+                "text": "Which of the following energy sources can help reduce greenhouse gas emissions and combat climate change?",
+                "options": [
+                    {
+                        "text": "Solar panels for electricity generation",
+                        "isCorrect": 1,
+                        "explanation": "Solar panels convert sunlight directly into electricity without producing greenhouse gases, making them an excellent renewable energy source for fighting climate change."
+                    },
+                    {
+                        "text": "Coal-powered electrical plants",
+                        "isCorrect": 0,
+                        "explanation": "Coal is a fossil fuel that releases large amounts of carbon dioxide when burned, contributing significantly to global warming."
+                    },
+                    {
+                        "text": "Natural gas heating systems",
+                        "isCorrect": 0,
+                        "explanation": "While cleaner than coal, natural gas is still a fossil fuel that releases greenhouse gases when burned, contributing to climate change."
+                    },
+                    {
+                        "text": "Oil-based transportation fuels",
+                        "isCorrect": 0,
+                        "explanation": "Petroleum-based fuels release significant amounts of carbon dioxide when burned in vehicles, contributing to global warming."
+                    }
+                ],
+                "funFact": "The amount of solar energy that reaches Earth in just one hour is more than the total amount of energy that the entire world's population consumes in a year! This shows the immense potential of solar power as a renewable energy source."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to select examples of renewable energy sources that can help address climate change"
+        },
+        {
+            "question": {
+                "text": "Which of the following best defines fossil fuels?",
+                "options": [
+                    {
+                        "text": "Carbon-based fuels formed from the remains of ancient plants and animals buried underground for millions of years",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Fossil fuels like coal, oil, and natural gas formed when plant and animal remains were buried and compressed over millions of years."
+                    },
+                    {
+                        "text": "Renewable energy sources that can be quickly replenished",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fossil fuels are non-renewable and take millions of years to form, unlike renewable energy sources like solar or wind power."
+                    },
+                    {
+                        "text": "Fuels created by volcanic activity underground",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While both are found underground, fossil fuels form from organic matter, not from volcanic activity."
+                    },
+                    {
+                        "text": "Energy sources produced by current plant decomposition",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fossil fuels come from ancient organisms, not from current plant decomposition. Current plant decomposition creates biomass but not fossil fuels."
+                    }
+                ],
+                "funFact": "The word 'fossil' in fossil fuels comes from the Latin word 'fossilis' meaning 'obtained by digging.' Some of the fossil fuels we use today were formed from organisms that lived during the time of dinosaurs, over 65 million years ago!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the correct definition of fossil fuels"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes how the greenhouse effect keeps Earth warm?",
+                "options": [
+                    {
+                        "text": "Greenhouse gases in the atmosphere absorb infrared light from Earth's surface and redirect it back, trapping heat",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how greenhouse gases like carbon dioxide and methane trap heat by absorbing and redirecting infrared radiation back to Earth"
+                    },
+                    {
+                        "text": "The atmosphere acts like a physical barrier that prevents heat from escaping into space",
+                        "isCorrect": 0,
+                        "explanation": "The atmosphere doesn't act as a physical barrier - rather specific gases interact with infrared radiation to trap heat"
+                    },
+                    {
+                        "text": "The Sun's rays get trapped inside Earth's atmosphere like in a greenhouse",
+                        "isCorrect": 0,
+                        "explanation": "While this is a common misconception, the greenhouse effect works by gases interacting with infrared radiation, not by physically trapping the Sun's rays"
+                    },
+                    {
+                        "text": "Greenhouse gases reflect all of the Sun's energy back to Earth's surface",
+                        "isCorrect": 0,
+                        "explanation": "Greenhouse gases specifically interact with infrared radiation, not all of the Sun's energy, and they redirect rather than reflect it"
+                    }
+                ],
+                "funFact": "Without the natural greenhouse effect, Earth's average temperature would be about -18\u00b0C (0\u00b0F), making most of the planet too cold for life as we know it! The greenhouse effect itself isn't harmful - it's the enhanced greenhouse effect from excess gases that causes problems."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize how the greenhouse effect works in Earth's atmosphere"
+        },
+        {
+            "question": {
+                "text": "What percentage of climate scientists agree that human activities, particularly the burning of fossil fuels, are the primary cause of global warming?",
+                "options": [
+                    {
+                        "text": "97%",
+                        "isCorrect": 1,
+                        "explanation": "The vast majority - 97% of climate researchers agree that the evidence supports the conclusion that human activities, especially burning fossil fuels, are causing global warming."
+                    },
+                    {
+                        "text": "75%",
+                        "isCorrect": 0,
+                        "explanation": "This percentage is too low. The scientific consensus is much stronger, with 97% of climate researchers agreeing that human activities are causing global warming."
+                    },
+                    {
+                        "text": "50%",
+                        "isCorrect": 0,
+                        "explanation": "This percentage significantly understates the scientific consensus. The actual percentage is 97% of climate researchers who agree that human activities are causing global warming."
+                    },
+                    {
+                        "text": "25%",
+                        "isCorrect": 0,
+                        "explanation": "This percentage greatly understates the scientific consensus. The overwhelming majority - 97% of climate researchers agree that human activities are causing global warming."
+                    }
+                ],
+                "funFact": "The scientific consensus on climate change is stronger than the scientific consensus that smoking causes cancer. This strong agreement among scientists is based on multiple independent lines of evidence, including temperature records, ice core data, tree rings, and satellite measurements."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the percentage of climate scientists who agree that human activities are causing global warming"
+        },
+        {
+            "question": {
+                "text": "In the greenhouse effect process, what happens to the infrared radiation that is emitted from Earth's surface?",
+                "options": [
+                    {
+                        "text": "It is absorbed by greenhouse gases and redirected back toward Earth's surface",
+                        "isCorrect": 1,
+                        "explanation": "Greenhouse gases like carbon dioxide, methane, and water vapor absorb infrared radiation from Earth's surface and redirect it back, which helps keep Earth warm."
+                    },
+                    {
+                        "text": "It completely escapes into space without any interaction",
+                        "isCorrect": 0,
+                        "explanation": "Some infrared radiation does escape to space, but a significant portion is absorbed by greenhouse gases rather than completely escaping."
+                    },
+                    {
+                        "text": "It is converted into visible light by the atmosphere",
+                        "isCorrect": 0,
+                        "explanation": "Infrared radiation is not converted into visible light by the atmosphere. It remains as infrared radiation when it interacts with greenhouse gases."
+                    },
+                    {
+                        "text": "It is all blocked by the ozone layer",
+                        "isCorrect": 0,
+                        "explanation": "The ozone layer primarily blocks harmful ultraviolet radiation from the Sun, not infrared radiation from Earth's surface."
+                    }
+                ],
+                "funFact": "If Earth had no greenhouse effect at all, its average surface temperature would be about -18\u00b0C (0\u00b0F), making it too cold for most life forms! The natural greenhouse effect makes Earth habitable by keeping it about 33\u00b0C warmer than it would be otherwise."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to recognize what happens to infrared radiation in the greenhouse effect process"
+        },
+        {
+            "question": {
+                "text": "Scientists have observed that Earth's average global temperature has increased significantly over the past century. What evidence best supports the relationship between carbon dioxide levels and this temperature increase?",
+                "options": [
+                    {
+                        "text": "Carbon dioxide levels in the atmosphere have increased at approximately the same rate as global temperature increases, while other factors like solar energy and volcanic activity do not show this correlation",
+                        "isCorrect": 1,
+                        "explanation": "This demonstrates the strongest relationship between CO2 and temperature rise, especially since other potential causes have been ruled out through scientific investigation"
+                    },
+                    {
+                        "text": "Volcanic eruptions have increased at the same rate as global temperature increases over the past century",
+                        "isCorrect": 0,
+                        "explanation": "Data shows there has not been an increase in volcanic eruptions even though Earth's temperature has increased"
+                    },
+                    {
+                        "text": "The amount of solar energy reaching Earth has increased at the same rate as global temperature increases",
+                        "isCorrect": 0,
+                        "explanation": "Energy from the Sun has actually decreased in the last 50 years while Earth's temperature has continued to rise"
+                    },
+                    {
+                        "text": "Changes in Earth's orbit have caused temperatures to increase at the same rate as carbon dioxide levels",
+                        "isCorrect": 0,
+                        "explanation": "Changes in Earth's orbit occur over much longer time periods and cannot explain the rapid temperature increase over the past century"
+                    }
+                ],
+                "funFact": "Scientists can study Earth's past climate going back hundreds of thousands of years by analyzing air bubbles trapped in ancient ice cores from Antarctica and Greenland. These bubbles contain samples of Earth's atmosphere from when the ice formed, allowing researchers to measure historical CO2 levels!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the relationship between carbon dioxide levels and global temperature increases"
+        },
+        {
+            "question": {
+                "text": "Which statement best describes the greenhouse effect?",
+                "options": [
+                    {
+                        "text": "A process where gases in Earth's atmosphere trap heat by absorbing and redirecting infrared radiation back to Earth's surface",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes the greenhouse effect where gases like carbon dioxide, methane, and water vapor absorb infrared radiation and redirect it back to Earth, keeping our planet warm."
+                    },
+                    {
+                        "text": "A process where the Sun's heat is directly blocked from reaching Earth's surface by atmospheric gases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The greenhouse effect doesn't block sunlight from reaching Earth - it actually traps the heat that would otherwise escape back into space."
+                    },
+                    {
+                        "text": "A process that only occurs in greenhouses and has no effect on Earth's atmosphere",
+                        "isCorrect": 0,
+                        "explanation": "While the name comes from greenhouses, this natural process occurs in Earth's atmosphere and is crucial for maintaining Earth's temperature."
+                    },
+                    {
+                        "text": "A process where the atmosphere reflects all infrared radiation back into space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The greenhouse effect involves trapping some infrared radiation and redirecting it back to Earth, not reflecting all of it into space."
+                    }
+                ],
+                "funFact": "Without the greenhouse effect, Earth's average temperature would be about -18\u00b0C (0\u00b0F), making most of the planet too cold for life as we know it. The natural greenhouse effect makes Earth habitable, but its enhancement due to human activities is causing global warming."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to select the correct definition of the greenhouse effect"
+        },
+        {
+            "question": {
+                "text": "Since when have scientists been using thermometers to record temperatures around the world?",
+                "options": [
+                    {
+                        "text": "Since about 1850",
+                        "isCorrect": 1,
+                        "explanation": "Scientists began systematically recording temperatures using thermometers around 1850, providing reliable data for studying global temperature changes."
+                    },
+                    {
+                        "text": "Since about 1750",
+                        "isCorrect": 0,
+                        "explanation": "While the Industrial Revolution began in the late 1700s, systematic temperature recordings using thermometers didn't start until about a century later."
+                    },
+                    {
+                        "text": "Since about 1950",
+                        "isCorrect": 0,
+                        "explanation": "By 1950, temperature recordings had already been ongoing for about 100 years. This is too recent to be the start of thermometer-based temperature recordings."
+                    },
+                    {
+                        "text": "Since about 1650",
+                        "isCorrect": 0,
+                        "explanation": "Although thermometers were invented earlier, worldwide systematic temperature recordings didn't begin until about two centuries after this date."
+                    }
+                ],
+                "funFact": "Before thermometers were widely used, scientists could still study historical temperatures through natural records like tree rings and ice cores, which can reveal temperature patterns from thousands of years ago!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question asking students to identify the time period since when scientists have been recording temperatures using thermometers"
+        },
+        {
+            "question": {
+                "text": "Scientists have observed that both global temperatures and atmospheric CO2 levels have risen significantly since the Industrial Revolution. Which of the following best explains the relationship between these two variables and the underlying mechanism?",
+                "options": [
+                    {
+                        "text": "Rising CO2 levels trap more heat in the atmosphere through the greenhouse effect, causing global temperatures to increase",
+                        "isCorrect": 1,
+                        "explanation": "CO2 is a greenhouse gas that absorbs and redirects infrared radiation back to Earth's surface, leading to warming. The increased CO2 from human activities enhances this natural greenhouse effect."
+                    },
+                    {
+                        "text": "Rising temperatures cause CO2 to be released from the oceans, leading to higher atmospheric CO2 levels",
+                        "isCorrect": 0,
+                        "explanation": "While warming can affect ocean CO2, the primary relationship is the reverse - human-produced CO2 is causing warming, not the other way around."
+                    },
+                    {
+                        "text": "The relationship is just a coincidence since both started increasing around the same time",
+                        "isCorrect": 0,
+                        "explanation": "Scientists have thoroughly investigated other possible causes and found strong evidence that increased CO2 from human activities is the primary driver of warming."
+                    },
+                    {
+                        "text": "Increased solar activity causes both temperature and CO2 levels to rise simultaneously",
+                        "isCorrect": 0,
+                        "explanation": "Solar activity has actually decreased slightly in recent decades while temperatures continued rising, showing it's not the cause of current warming."
+                    }
+                ],
+                "funFact": "While greenhouse gases have a warming effect on Earth, they're actually essential for life - without them, Earth's average temperature would be about -18\u00b0C (0\u00b0F), making most of the planet too cold for life as we know it!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a graph showing changes in global temperatures and CO2 levels over the past century, identify the most likely relationship between these two variables and explain the underlying mechanism"
+        },
+        {
+            "question": {
+                "text": "Which of the following factors has been the primary driver of global temperature increase over the past century?",
+                "options": [
+                    {
+                        "text": "Increased burning of fossil fuels by human activities",
+                        "isCorrect": 1,
+                        "explanation": "Data shows that increased CO2 from burning fossil fuels since the Industrial Revolution correlates strongly with rising global temperatures, with 97% of climate scientists agreeing this is the main cause."
+                    },
+                    {
+                        "text": "Increased solar energy reaching Earth",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy reaching Earth has actually decreased over the past 50 years while temperatures continued rising, showing this is not the primary cause."
+                    },
+                    {
+                        "text": "Increased volcanic activity",
+                        "isCorrect": 0,
+                        "explanation": "Records show no significant increase in volcanic activity over the past 200 years, while temperatures have risen dramatically."
+                    },
+                    {
+                        "text": "Natural climate cycles",
+                        "isCorrect": 0,
+                        "explanation": "While climate naturally varies, the rapid temperature increase of the past century is unprecedented and cannot be explained by natural cycles alone."
+                    }
+                ],
+                "funFact": "If all greenhouse gases were removed from Earth's atmosphere, the average global temperature would be about -18\u00b0C (0\u00b0F), making most of the planet too cold for life as we know it!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze different sources of greenhouse gas emissions (natural vs human activities) and determine which has contributed most significantly to climate change in recent decades"
+        },
+        {
+            "question": {
+                "text": "Scientists want to understand how Earth's temperature has changed over the past several thousand years. Which combination of data sources would provide the most reliable evidence of long-term temperature changes?",
+                "options": [
+                    {
+                        "text": "Tree rings and ice core samples",
+                        "isCorrect": 1,
+                        "explanation": "Tree rings and ice cores provide reliable historical temperature data going back thousands of years. Tree rings show yearly growth patterns affected by temperature, while ice cores trap air bubbles containing temperature information from ancient atmospheres."
+                    },
+                    {
+                        "text": "Satellite measurements and volcanic eruption records",
+                        "isCorrect": 0,
+                        "explanation": "While satellite measurements are accurate, they only date back to the 1970s. Volcanic eruption records alone don't provide direct temperature data and showed no correlation with recent temperature increases."
+                    },
+                    {
+                        "text": "Current thermometer readings and sunlight measurements",
+                        "isCorrect": 0,
+                        "explanation": "Modern thermometer readings only go back to about 1850, and sunlight measurements have actually shown a decrease in solar energy while temperatures rose, making these insufficient for understanding long-term trends."
+                    },
+                    {
+                        "text": "Weather station data and newspaper reports",
+                        "isCorrect": 0,
+                        "explanation": "Weather station data and newspaper reports are too recent and localized to show long-term global temperature trends over thousands of years."
+                    }
+                ],
+                "funFact": "The oldest ice core samples, found in Antarctica, contain air bubbles trapped in ice that are over 800,000 years old! These ancient air samples allow scientists to directly measure the composition of Earth's atmosphere from hundreds of thousands of years ago."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare historical temperature data from tree rings and ice cores with modern temperature measurements to evaluate long-term climate trends"
+        },
+        {
+            "question": {
+                "text": "Scientists have investigated several factors that could be causing Earth's rising temperatures over the past century. Which factor shows the strongest correlation with the observed temperature increase?",
+                "options": [
+                    {
+                        "text": "Changes in carbon dioxide levels in the atmosphere",
+                        "isCorrect": 1,
+                        "explanation": "Data shows that atmospheric carbon dioxide levels have increased at about the same rate as global temperatures over the past century, showing the strongest correlation among all factors studied."
+                    },
+                    {
+                        "text": "Changes in volcanic activity",
+                        "isCorrect": 0,
+                        "explanation": "Records from the past 200 years show no significant increase in volcanic activity, even though Earth's temperature has continued to rise."
+                    },
+                    {
+                        "text": "Changes in energy from the Sun",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy reaching Earth has actually decreased over the last 50 years while temperatures continued to rise, showing an inverse correlation."
+                    }
+                ],
+                "funFact": "While greenhouse gases like carbon dioxide are often viewed negatively due to climate change, without any greenhouse gases in Earth's atmosphere, the average temperature would be about -18\u00b0C (0\u00b0F), making our planet too cold for most life forms!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Evaluate multiple factors (volcanic activity, solar radiation, greenhouse gases) that could affect global temperatures and identify which shows the strongest correlation with observed temperature changes"
+        },
+        {
+            "question": {
+                "text": "A city is planning to replace its coal-fired power plant with a new energy source. Which of the following options would be most effective in reducing greenhouse gas emissions while meeting the city's energy needs?",
+                "options": [
+                    {
+                        "text": "Building a new nuclear power plant",
+                        "isCorrect": 1,
+                        "explanation": "Nuclear power plants generate electricity without producing greenhouse gases during operation, making them highly effective at reducing emissions while providing reliable, large-scale power generation."
+                    },
+                    {
+                        "text": "Installing natural gas generators",
+                        "isCorrect": 0,
+                        "explanation": "While natural gas produces fewer greenhouse gases than coal, it still releases significant amounts of carbon dioxide when burned, making it less effective at reducing emissions than zero-emission alternatives."
+                    },
+                    {
+                        "text": "Setting up solar panels only",
+                        "isCorrect": 0,
+                        "explanation": "While solar panels produce no emissions during operation, they are weather-dependent and may not provide consistent power to meet the city's continuous energy demands without substantial battery storage."
+                    },
+                    {
+                        "text": "Continuing with the coal plant but adding filters",
+                        "isCorrect": 0,
+                        "explanation": "Adding filters to coal plants can reduce some pollutants but does not significantly reduce carbon dioxide emissions, which are the main contributor to global warming."
+                    }
+                ],
+                "funFact": "A single nuclear power plant can prevent about 3.1 million metric tons of carbon dioxide emissions annually compared to coal - equivalent to taking 667,000 cars off the road!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given scenarios describing different energy sources, determine which would most effectively reduce greenhouse gas emissions while meeting society's energy needs"
+        },
+        {
+            "question": {
+                "text": "Scientists have data showing that annual precipitation patterns have changed significantly in many regions since the 1800s. Which statement best explains why these changes in precipitation patterns provide evidence of climate change?",
+                "options": [
+                    {
+                        "text": "Changes in precipitation patterns over long time periods indicate a shift in climate systems, which is consistent with global temperature increases",
+                        "isCorrect": 1,
+                        "explanation": "Long-term changes in precipitation patterns are a key indicator of climate change, as warmer temperatures affect the water cycle and atmospheric circulation patterns"
+                    },
+                    {
+                        "text": "Changes in precipitation patterns are just natural variations that happen regularly and don't indicate climate change",
+                        "isCorrect": 0,
+                        "explanation": "While natural variations occur, the significant and sustained changes in precipitation patterns since the 1800s are too large to be explained by natural variation alone"
+                    },
+                    {
+                        "text": "Changes in precipitation patterns are only related to local weather events and have no connection to global climate",
+                        "isCorrect": 0,
+                        "explanation": "Precipitation patterns are part of larger climate systems and sustained changes indicate shifts in global climate, not just local weather"
+                    },
+                    {
+                        "text": "Changes in precipitation patterns are temporary and will return to normal once temperatures stop rising",
+                        "isCorrect": 0,
+                        "explanation": "Climate change causes long-term systemic changes to precipitation patterns that won't simply reverse when temperature rise slows"
+                    }
+                ],
+                "funFact": "The world's longest continuous precipitation record comes from England, where measurements have been taken at Kew Gardens since 1697. This remarkable dataset has helped scientists understand long-term climate trends and changes in precipitation patterns."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare temperature and precipitation patterns before and after the industrial revolution to evaluate climate stability and change"
+        },
+        {
+            "question": {
+                "text": "Data analysis shows the following trends between 1980 and 2020:\n- Global average temperature increased by 1\u00b0C\n- Frequency of severe hurricanes doubled\n- Length of droughts increased by 50%\n- Number of extreme heat days tripled\n\nWhich of these best explains the relationship between these weather events and global warming?",
+                "options": [
+                    {
+                        "text": "Rising global temperatures increase atmospheric energy, leading to more frequent and intense extreme weather events",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Higher temperatures mean more energy in the atmosphere, which fuels stronger storms, longer droughts, and more heat waves."
+                    },
+                    {
+                        "text": "These weather events are causing global temperatures to rise through natural processes",
+                        "isCorrect": 0,
+                        "explanation": "This reverses cause and effect. The rising temperatures are causing the increase in extreme weather events, not the other way around."
+                    },
+                    {
+                        "text": "These changes in weather patterns are normal variations unrelated to global temperature changes",
+                        "isCorrect": 0,
+                        "explanation": "The significant increase in extreme weather events correlates strongly with rising temperatures and is not within the range of normal variation."
+                    },
+                    {
+                        "text": "Only the increase in heat waves is related to global warming; the other events are coincidental",
+                        "isCorrect": 0,
+                        "explanation": "All these extreme weather events are connected to global warming, not just heat waves. Rising temperatures affect the entire climate system."
+                    }
+                ],
+                "funFact": "The energy from the heat trapped by greenhouse gases in just one day could power every home in the United States for an entire year! This enormous amount of extra energy in our atmosphere is what drives the increase in extreme weather events."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze data showing changes in extreme weather events and temperature patterns to evaluate the consequences of global warming"
+        },
+        {
+            "question": {
+                "text": "Which of the following strategies would be most effective in directly addressing the primary cause of global temperature rise?",
+                "options": [
+                    {
+                        "text": "Switching from fossil fuels to renewable energy sources like solar and wind power",
+                        "isCorrect": 1,
+                        "explanation": "This strategy directly addresses the root cause by reducing greenhouse gas emissions from burning fossil fuels, which is the main driver of global warming"
+                    },
+                    {
+                        "text": "Building sea walls around coastal cities",
+                        "isCorrect": 0,
+                        "explanation": "While sea walls help protect against rising sea levels, they don't address the underlying cause of climate change - they only deal with one of its consequences"
+                    },
+                    {
+                        "text": "Installing more air conditioners in buildings",
+                        "isCorrect": 0,
+                        "explanation": "Air conditioning actually increases energy consumption and greenhouse gas emissions if powered by fossil fuels, potentially making the problem worse"
+                    },
+                    {
+                        "text": "Creating more drought-resistant crops",
+                        "isCorrect": 0,
+                        "explanation": "This is an adaptation strategy that helps cope with the effects of climate change, but doesn't address the root cause of increasing greenhouse gas emissions"
+                    }
+                ],
+                "funFact": "A single wind turbine can provide enough electricity to power about 1,500 homes while preventing approximately 2,700 tons of carbon dioxide emissions annually - equivalent to planting about 62,000 trees!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given different mitigation strategies (renewable energy, reduced fossil fuel use, reforestation), determine which would most effectively address the root cause of climate change"
+        },
+        {
+            "question": {
+                "text": "Scientists have compared atmospheric CO2 levels and global temperatures across different time periods. Which statement best describes how current climate changes compare to historical patterns?",
+                "options": [
+                    {
+                        "text": "Current changes in temperature and CO2 levels are similar to natural fluctuations seen over the past few thousand years",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Current changes are happening much more rapidly than historical natural fluctuations, showing an unprecedented rate of increase over the past century."
+                    },
+                    {
+                        "text": "The rate of temperature and CO2 increase over the past century is unusually rapid compared to natural historical changes",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Scientific evidence shows that both temperature and CO2 levels are increasing at an unprecedented rate since the Industrial Revolution, far faster than natural historical variations."
+                    },
+                    {
+                        "text": "Current climate changes are entirely due to natural cycles in Earth's orbit and solar activity",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While natural factors influence climate, data shows that recent changes cannot be explained by natural causes alone and are primarily driven by human activities."
+                    },
+                    {
+                        "text": "Global temperatures have remained stable while only CO2 levels have increased in recent decades",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both global temperatures and CO2 levels have shown significant increases, with strong correlation between the two measurements over the past century."
+                    }
+                ],
+                "funFact": "Tree rings don't just tell us about past temperatures - they can also reveal information about historical rainfall patterns, volcanic eruptions, and even solar activity! Some of the oldest trees used for climate research are bristlecone pines, which can live for over 5,000 years."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare greenhouse gas levels and global temperatures across different geological time periods to evaluate the uniqueness of current climate changes"
+        },
+        {
+            "question": {
+                "text": "Scientists have observed rising global temperatures over the past century. Which evidence best supports the conclusion that human activities, rather than natural processes, are primarily responsible for this warming trend?",
+                "options": [
+                    {
+                        "text": "Carbon dioxide levels in the atmosphere have increased dramatically since the Industrial Revolution, correlating strongly with rising global temperatures and increased fossil fuel use",
+                        "isCorrect": 1,
+                        "explanation": "This evidence directly links human activities (burning fossil fuels) to increased CO2 levels and rising temperatures, showing a clear cause-and-effect relationship."
+                    },
+                    {
+                        "text": "Volcanic activity has been increasing steadily over the past 200 years, releasing more heat-trapping gases into the atmosphere",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - records show no significant increase in volcanic activity over the past 200 years, even as temperatures have risen."
+                    },
+                    {
+                        "text": "The amount of solar energy reaching Earth has been increasing significantly over the past 50 years",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - solar energy reaching Earth has actually decreased slightly over the past 50 years while temperatures continued to rise."
+                    },
+                    {
+                        "text": "Natural climate cycles are causing more heat to be trapped in the atmosphere than ever before in Earth's history",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - while natural climate cycles exist, the current rate of warming is unprecedented and cannot be explained by natural cycles alone."
+                    }
+                ],
+                "funFact": "Prior to the Industrial Revolution, Earth's atmospheric CO2 levels remained relatively stable for thousands of years at around 280 parts per million. Today, those levels have surpassed 410 parts per million - a 46% increase in less than 300 years!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine evidence from multiple sources (temperature records, ice cores, atmospheric data) to determine whether recent climate changes are part of natural variation or human-induced"
+        },
+        {
+            "question": {
+                "text": "Based on current climate trends and glacier melting patterns, which of the following scenarios is most likely to occur by the year 2100 if global temperatures continue to rise at the present rate?",
+                "options": [
+                    {
+                        "text": "Coastal cities like New York and Miami will face significant flooding and partial inundation of low-lying areas, and there will be an increase in extreme weather events",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because rising temperatures lead to glacier melting, causing sea level rise that threatens low-lying coastal areas, while also intensifying weather patterns leading to more extreme events"
+                    },
+                    {
+                        "text": "Glaciers will grow larger and coastal cities will experience colder temperatures",
+                        "isCorrect": 0,
+                        "explanation": "This contradicts the current trend of rising temperatures causing glacier melting rather than growth, and warming rather than cooling in coastal areas"
+                    },
+                    {
+                        "text": "Sea levels will remain constant because melting glaciers will be balanced by increased snowfall",
+                        "isCorrect": 0,
+                        "explanation": "The rate of glacier melting far exceeds any potential increase in snowfall, making it impossible for such a balance to occur naturally"
+                    },
+                    {
+                        "text": "Only inland cities will be affected by climate change while coastal areas will remain unchanged",
+                        "isCorrect": 0,
+                        "explanation": "Coastal areas are actually more vulnerable to climate change impacts due to rising sea levels and increased storm intensity"
+                    }
+                ],
+                "funFact": "The world's oceans have risen by about 8 inches since reliable record keeping began in 1880, with about three of those inches gained in the last 25 years alone. This acceleration is primarily due to thermal expansion of warming ocean water and melting ice sheets."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze the relationship between melting glaciers, rising sea levels, and global temperature changes to predict potential future impacts"
+        },
+        {
+            "question": {
+                "text": "During the Industrial Revolution in the late 1700s and early 1800s, global temperatures began to rise significantly. What evidence best supports the connection between human industrial activities and this temperature increase?",
+                "options": [
+                    {
+                        "text": "The amount of carbon dioxide in the atmosphere increased at the same rate as global temperatures during this period",
+                        "isCorrect": 1,
+                        "explanation": "The correlation between CO2 levels and temperature rise, coupled with the timing of industrialization and fossil fuel use, provides strong evidence for human influence on climate"
+                    },
+                    {
+                        "text": "Volcanic activity increased significantly during this time period",
+                        "isCorrect": 0,
+                        "explanation": "Data shows no significant increase in volcanic activity during this period, ruling this out as a primary cause of temperature rise"
+                    },
+                    {
+                        "text": "The amount of solar energy reaching Earth increased dramatically",
+                        "isCorrect": 0,
+                        "explanation": "Historical records and proxy data do not show any significant increase in solar energy during the Industrial Revolution period that would account for the observed temperature increases"
+                    },
+                    {
+                        "text": "Natural climate cycles reached a warming phase at this time",
+                        "isCorrect": 0,
+                        "explanation": "Natural climate cycles occur much more gradually and cannot explain the rapid temperature increase coinciding with industrialization"
+                    }
+                ],
+                "funFact": "Before the Industrial Revolution, Earth's carbon dioxide levels had remained relatively stable for thousands of years at around 280 parts per million. Today, they have risen to over 410 parts per million - a level not seen in at least 800,000 years!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine data showing the timing of industrialization and rising CO2 levels to determine how human activities have influenced atmospheric composition"
+        },
+        {
+            "question": {
+                "text": "Based on data collected from 1920-2020, scientists observed that periods of increased volcanic activity did not correspond with increases in global temperature. What conclusion can be drawn from this observation?",
+                "options": [
+                    {
+                        "text": "Volcanic activity is not a primary driver of the observed global temperature increase over the past century",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because the data shows no correlation between volcanic activity and global temperature rise, suggesting other factors like human activities are more significant contributors."
+                    },
+                    {
+                        "text": "Volcanoes have cooled the Earth's temperature over the past century",
+                        "isCorrect": 0,
+                        "explanation": "While volcanic eruptions can temporarily cool Earth by releasing particles that block sunlight, the data shows no significant cooling effect over the century-long period."
+                    },
+                    {
+                        "text": "Volcanic activity has no effect on Earth's temperature",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because volcanoes do affect Earth's temperature through gas and particle emissions. The data only shows they aren't responsible for the long-term warming trend."
+                    },
+                    {
+                        "text": "Global temperatures are independent of any natural processes",
+                        "isCorrect": 0,
+                        "explanation": "This is too broad a conclusion. While volcanic activity isn't driving recent temperature increases, other natural processes can still affect global temperature."
+                    }
+                ],
+                "funFact": "When Mount Pinatubo erupted in 1991, it caused a temporary global cooling of about 0.5\u00b0C for about two years by releasing sulfur dioxide into the stratosphere, which formed reflective sulfate aerosols. However, such cooling effects are short-term and don't explain long-term temperature trends."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate data showing changes in global temperature over the past century alongside data showing volcanic activity to determine the relationship between these factors"
+        },
+        {
+            "question": {
+                "text": "Scientists have data showing Earth's temperature patterns over many centuries. They have gathered temperature records from the past 100 years and tree ring data from the past 1000 years. Which pattern would best support the evidence that recent climate change is primarily caused by human activities?",
+                "options": [
+                    {
+                        "text": "Tree ring data shows steady temperature increases over 1000 years, with the same rate of increase continuing in the past 100 years",
+                        "isCorrect": 0,
+                        "explanation": "If temperatures increased steadily over 1000 years, it would suggest natural long-term climate variation rather than human influence"
+                    },
+                    {
+                        "text": "Tree ring data shows relatively stable temperatures for 900 years, followed by a sharp increase during the past 100 years",
+                        "isCorrect": 1,
+                        "explanation": "This pattern aligns with the timing of increased human industrial activity and fossil fuel use, supporting human influence on recent climate change"
+                    },
+                    {
+                        "text": "Tree ring data shows random temperature fluctuations over 1000 years, including similar changes in the past 100 years",
+                        "isCorrect": 0,
+                        "explanation": "Random fluctuations would suggest natural variability rather than a specific cause like human activities"
+                    },
+                    {
+                        "text": "Tree ring data shows temperature decreases over 900 years, followed by a slight increase in the past 100 years",
+                        "isCorrect": 0,
+                        "explanation": "A long cooling trend followed by slight warming would not support the significant human influence on recent climate change"
+                    }
+                ],
+                "funFact": "The oldest tree rings ever found come from bristlecone pines in California, which can live for over 5,000 years! These ancient trees have helped scientists understand Earth's climate patterns long before modern temperature records began."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare tree ring data from the past 1000 years with temperature records from the past 100 years to identify patterns of climate change"
+        },
+        {
+            "question": {
+                "text": "Scientists have observed that Earth's average global temperature has been increasing over the past century. Data shows that in the last 50 years, while global temperatures have continued to rise, the amount of solar energy reaching Earth has actually:",
+                "options": [
+                    {
+                        "text": "Decreased",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Scientific data shows that while global temperatures have risen over the past 50 years, solar energy reaching Earth has actually decreased, indicating that changes in solar energy are not responsible for recent global warming."
+                    },
+                    {
+                        "text": "Increased proportionally with temperature",
+                        "isCorrect": 0,
+                        "explanation": "While this might seem logical, data shows that solar energy and temperature haven't increased together. In fact, solar energy has decreased while temperatures have risen."
+                    },
+                    {
+                        "text": "Remained exactly the same",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy reaching Earth hasn't remained constant - measurements show it has actually decreased over the past 50 years while temperatures have increased."
+                    },
+                    {
+                        "text": "Fluctuated randomly with no pattern",
+                        "isCorrect": 0,
+                        "explanation": "The changes in solar energy haven't been random - there has been a clear pattern of decrease over the past 50 years, while temperatures have increased."
+                    }
+                ],
+                "funFact": "The Sun's energy output naturally varies in an 11-year cycle, but these variations are too small to explain the significant warming Earth has experienced. The amount of extra heat trapped by human-produced greenhouse gases is about 100 times greater than the variations in the Sun's energy reaching Earth."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine data showing changes in solar energy reaching Earth over the past 50 years compared to global temperature changes to determine their relationship"
+        },
+        {
+            "question": {
+                "text": "Scientists studying ancient ice cores have discovered that both CO2 levels and global temperatures have changed over time. Which of the following best describes the relationship between CO2 concentrations and global temperature changes over the past century?",
+                "options": [
+                    {
+                        "text": "As CO2 concentrations in the atmosphere have increased, global temperatures have increased at about the same rate",
+                        "isCorrect": 1,
+                        "explanation": "Data shows a strong correlation between rising CO2 levels and increasing global temperatures over the past century, with both increasing at similar rates due to human activities like burning fossil fuels"
+                    },
+                    {
+                        "text": "As CO2 concentrations have increased, global temperatures have decreased",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - both CO2 levels and global temperatures have increased over the past century, not decreased"
+                    },
+                    {
+                        "text": "CO2 concentrations and global temperatures have remained constant",
+                        "isCorrect": 0,
+                        "explanation": "Historical data shows that both CO2 levels and temperatures have changed significantly, not remained constant"
+                    },
+                    {
+                        "text": "Changes in CO2 concentrations and global temperatures are completely unrelated",
+                        "isCorrect": 0,
+                        "explanation": "Scientific evidence shows a strong relationship between CO2 levels and temperature changes through the greenhouse effect"
+                    }
+                ],
+                "funFact": "Ice cores from Antarctica can contain trapped air bubbles that are up to 800,000 years old! By analyzing these ancient air samples, scientists can determine both the CO2 levels and temperatures from hundreds of thousands of years ago."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze the relationship between greenhouse gas concentrations and global temperature changes by comparing historical data from ice core samples"
+        },
+        {
+            "question": {
+                "text": "Scientists have observed the following changes over the past century:\n- Global average temperatures have increased by approximately 1\u00b0C\n- Sea levels have risen by about 20 centimeters\n- Arctic ice has decreased by about 13% per decade\n- Mountain glaciers have been retreating worldwide\n\nWhich cause-effect relationship best explains these observed changes?",
+                "options": [
+                    {
+                        "text": "Increased greenhouse gas emissions from human activities have trapped more heat in the atmosphere, leading to widespread warming and ice melting",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the primary cause (increased greenhouse gases from human activities) and explains how it leads to the multiple observed effects through a chain of warming and melting"
+                    },
+                    {
+                        "text": "Changes in solar energy reaching Earth have warmed the planet, causing ice to melt and sea levels to rise",
+                        "isCorrect": 0,
+                        "explanation": "Data shows solar energy reaching Earth has actually decreased slightly in recent decades while temperatures continued rising, so this cannot explain the observed changes"
+                    },
+                    {
+                        "text": "Increased volcanic activity has released more heat and gases, resulting in global temperature increases",
+                        "isCorrect": 0,
+                        "explanation": "Records show no significant increase in volcanic activity over the past century that could account for the observed warming trend and its effects"
+                    },
+                    {
+                        "text": "Natural climate cycles are causing temporary warming that will reverse in the coming decades",
+                        "isCorrect": 0,
+                        "explanation": "The rate and pattern of warming observed does not match known natural climate cycles and is too rapid to be explained by natural variability alone"
+                    }
+                ],
+                "funFact": "The last time Earth experienced such a rapid increase in global temperature was approximately 55 million years ago during an event called the Paleocene-Eocene Thermal Maximum (PETM). However, the current rate of warming is occurring about 10 times faster than during the PETM."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate multiple datasets showing the timing of glacial melting, sea level rise, and temperature changes to determine cause-effect relationships"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly compares the contribution of natural carbon dioxide production to human-generated carbon dioxide in Earth's atmosphere over the past century?",
+                "options": [
+                    {
+                        "text": "For millions of years before the industrial revolution, natural carbon dioxide production and absorption remained balanced, but human activities disrupted this balance through fossil fuel burning",
+                        "isCorrect": 1,
+                        "explanation": "Natural systems maintained a balance of CO2 production and absorption until human activities, particularly burning fossil fuels since the industrial revolution, added excess CO2 to the atmosphere"
+                    },
+                    {
+                        "text": "Natural carbon dioxide production from volcanoes has increased significantly more than human-generated carbon dioxide over the past century",
+                        "isCorrect": 0,
+                        "explanation": "Data shows no significant increase in volcanic activity over the past 200 years, while human CO2 emissions have risen dramatically"
+                    },
+                    {
+                        "text": "Natural carbon dioxide production from plants and animals has doubled over the past century while human contributions remained stable",
+                        "isCorrect": 0,
+                        "explanation": "Natural CO2 production from plants and animals has remained relatively stable, while human activities have significantly increased atmospheric CO2"
+                    },
+                    {
+                        "text": "The Sun's increased energy output is primarily responsible for rising carbon dioxide levels compared to human activities",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy has actually decreased over the past 50 years while temperatures continued rising, indicating human activities are the primary cause"
+                    }
+                ],
+                "funFact": "The last time Earth's atmospheric CO2 levels were as high as they are today was about 3 million years ago, during the Pliocene epoch, when sea levels were 50-80 feet higher than they are now!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare data on natural carbon dioxide production from Earth's systems with human-generated carbon dioxide to determine the relative impact of each"
+        },
+        {
+            "question": {
+                "text": "Scientists have collected temperature and rainfall data from different regions around the world over the past century. Which statement accurately describes how climate change impacts have varied across different geographical locations?",
+                "options": [
+                    {
+                        "text": "Climate change impacts are identical across all regions, with every location experiencing the same increase in temperature and rainfall patterns",
+                        "isCorrect": 0,
+                        "explanation": "Climate change impacts vary significantly by region. Not all areas experience the same changes in temperature and precipitation."
+                    },
+                    {
+                        "text": "Coastal regions are experiencing sea level rise and stronger hurricanes, while some inland areas face more severe droughts",
+                        "isCorrect": 1,
+                        "explanation": "Different regions experience different climate change impacts. Coastal areas face rising seas and stronger storms, while some inland regions experience more drought conditions."
+                    },
+                    {
+                        "text": "Only polar regions are affected by climate change, while all other regions maintain their historical climate patterns",
+                        "isCorrect": 0,
+                        "explanation": "While polar regions are significantly affected, climate change impacts all regions of Earth, not just the poles."
+                    },
+                    {
+                        "text": "Tropical regions are the only areas experiencing climate change effects, while temperate zones remain unchanged",
+                        "isCorrect": 0,
+                        "explanation": "Climate change affects all regions, not just tropical areas. Temperate zones also experience significant changes in temperature and precipitation patterns."
+                    }
+                ],
+                "funFact": "The Arctic is warming about twice as fast as the global average, a phenomenon known as Arctic amplification. This rapid warming is causing significant changes in Arctic ecosystems and affecting global weather patterns."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze temperature and precipitation data from different regions to determine how climate change impacts vary geographically"
+        },
+        {
+            "question": {
+                "text": "Over the past 50 years, scientists have observed an increase in the frequency and intensity of hurricanes in coastal regions. Which data pattern would most strongly support the connection between this trend and global climate change?",
+                "options": [
+                    {
+                        "text": "Average ocean surface temperatures have increased during the same time period",
+                        "isCorrect": 1,
+                        "explanation": "Warmer ocean temperatures provide more energy for hurricane formation and intensification, directly linking rising global temperatures to stronger and more frequent hurricanes"
+                    },
+                    {
+                        "text": "Volcanic activity has decreased during the same time period",
+                        "isCorrect": 0,
+                        "explanation": "While volcanic activity can affect climate, data shows no significant correlation between volcanic activity and hurricane patterns over the past 50 years"
+                    },
+                    {
+                        "text": "Solar energy reaching Earth has decreased during the same time period",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy reaching Earth has actually decreased slightly while temperatures rose, indicating it is not the primary factor in increased hurricane activity"
+                    },
+                    {
+                        "text": "The number of earthquakes has increased during the same time period",
+                        "isCorrect": 0,
+                        "explanation": "Earthquakes are not directly related to climate or weather patterns and do not influence hurricane formation or intensity"
+                    }
+                ],
+                "funFact": "The most intense part of a hurricane, called the eyewall, contains winds that can reach speeds over 150 miles per hour. Scientists use special aircraft called 'Hurricane Hunters' to fly directly into these storms to gather critical data about their strength and behavior!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine historical records of extreme weather events alongside temperature data to determine patterns in frequency and intensity"
+        },
+        {
+            "question": {
+                "text": "A city planner is analyzing data from the past 50 years for a growing metropolitan area. The data shows that as urbanization increased, energy consumption rose by 200%, and the average local temperature increased by 2\u00b0C more than surrounding rural areas. What is the most likely explanation for the higher temperature increase in the urban area compared to rural areas?",
+                "options": [
+                    {
+                        "text": "The increased use of air conditioning systems in urban buildings releases more heat into the environment",
+                        "isCorrect": 0,
+                        "explanation": "While air conditioning does contribute to urban heat, it is not the primary factor causing the temperature difference between urban and rural areas"
+                    },
+                    {
+                        "text": "The concentration of buildings, roads, and reduced vegetation creates an urban heat island effect",
+                        "isCorrect": 1,
+                        "explanation": "Urban materials like concrete and asphalt absorb and retain more heat than natural surfaces, while reduced vegetation means less cooling through evapotranspiration"
+                    },
+                    {
+                        "text": "More people living in the urban area generate body heat that increases the temperature",
+                        "isCorrect": 0,
+                        "explanation": "While humans do generate heat, the collective body heat from the population is not significant enough to cause such a temperature difference"
+                    },
+                    {
+                        "text": "Increased vehicle traffic in urban areas creates more friction on roads, generating heat",
+                        "isCorrect": 0,
+                        "explanation": "Though vehicles do generate heat through friction, this effect is minimal compared to other factors affecting urban temperatures"
+                    }
+                ],
+                "funFact": "The urban heat island effect can make cities up to 7\u00b0C warmer than surrounding areas. This temperature difference is typically most noticeable at night when urban materials continue releasing stored heat while rural areas cool more quickly."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate data showing the relationship between urbanization rates, energy consumption patterns, and local temperature changes"
+        },
+        {
+            "question": {
+                "text": "Scientists have analyzed ice cores from Antarctica that contain trapped air bubbles from thousands of years ago. The data shows that during periods when CO2 levels were around 280 parts per million (ppm), average global temperatures were relatively stable. However, since the Industrial Revolution, CO2 levels have risen to over 400 ppm. What does this evidence suggest about the relationship between CO2 and temperature changes?",
+                "options": [
+                    {
+                        "text": "The correlation between CO2 levels and temperature indicates that rising CO2 levels from human activities are likely contributing to current global warming",
+                        "isCorrect": 1,
+                        "explanation": "Historical ice core data shows a strong correlation between CO2 levels and temperature, and the unprecedented rapid rise in CO2 since industrialization aligns with observed temperature increases"
+                    },
+                    {
+                        "text": "The rise in CO2 levels is likely caused by increasing global temperatures rather than the other way around",
+                        "isCorrect": 0,
+                        "explanation": "While there is a relationship between temperature and CO2, the rapid rise in CO2 levels coinciding with industrial activity indicates human activities are driving the change rather than temperature causing CO2 increases"
+                    },
+                    {
+                        "text": "The relationship between CO2 and temperature in ice cores is coincidental and not causally related",
+                        "isCorrect": 0,
+                        "explanation": "The consistent correlation between CO2 and temperature across thousands of years of ice core data, combined with our understanding of the greenhouse effect, shows the relationship is not coincidental"
+                    },
+                    {
+                        "text": "Natural variations in CO2 levels throughout Earth's history explain current temperature changes",
+                        "isCorrect": 0,
+                        "explanation": "The current rate of CO2 increase is much faster than natural variations seen in ice core records, suggesting human activities rather than natural processes are responsible for recent changes"
+                    }
+                ],
+                "funFact": "The oldest ice core ever recovered comes from Antarctica and contains climate records going back 2.7 million years! These ancient air bubbles trapped in ice are like time capsules that allow scientists to study Earth's past atmosphere."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze ice core data showing the relationship between atmospheric composition and temperature over geological time scales compared to recent changes"
+        },
+        {
+            "question": {
+                "text": "Which energy source contributes more to atmospheric carbon dioxide levels when generating the same amount of electricity?",
+                "options": [
+                    {
+                        "text": "A coal power plant generating 1000 megawatt-hours of electricity",
+                        "isCorrect": 1,
+                        "explanation": "Coal produces significantly more CO2 per unit of energy compared to renewable sources. A coal plant generating this much electricity would release approximately 1000 tons of CO2."
+                    },
+                    {
+                        "text": "A solar farm generating 1000 megawatt-hours of electricity",
+                        "isCorrect": 0,
+                        "explanation": "Solar power generates electricity without directly producing CO2 emissions. Only minimal emissions occur during manufacturing and installation of panels."
+                    },
+                    {
+                        "text": "A wind farm generating 1000 megawatt-hours of electricity",
+                        "isCorrect": 0,
+                        "explanation": "Wind turbines generate electricity without producing CO2 emissions during operation. Only minimal emissions occur during manufacturing and installation."
+                    },
+                    {
+                        "text": "A geothermal plant generating 1000 megawatt-hours of electricity",
+                        "isCorrect": 0,
+                        "explanation": "Geothermal power plants produce very minimal CO2 emissions compared to fossil fuel plants, as they harness Earth's natural heat."
+                    }
+                ],
+                "funFact": "A single coal power plant can release more carbon dioxide in one hour than a solar farm would indirectly cause through manufacturing and installation over its entire 25-30 year lifetime!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare energy production data from fossil fuels versus renewable sources to analyze their relative contributions to atmospheric carbon dioxide"
+        },
+        {
+            "question": {
+                "text": "Since the beginning of the Industrial Revolution, Earth has experienced a significant increase in global temperatures. What evidence most strongly suggests that human activities are the primary cause of this temperature rise?",
+                "options": [
+                    {
+                        "text": "The correlation between increased fossil fuel use and rising carbon dioxide levels in the atmosphere",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because data shows that CO2 levels rose dramatically with industrialization and fossil fuel use, while other factors like solar energy and volcanic activity did not show corresponding increases."
+                    },
+                    {
+                        "text": "Changes in the amount of sunlight reaching Earth",
+                        "isCorrect": 0,
+                        "explanation": "Solar energy actually decreased in the last 50 years while temperatures continued to rise, showing this was not the primary cause."
+                    },
+                    {
+                        "text": "An increase in volcanic activity worldwide",
+                        "isCorrect": 0,
+                        "explanation": "Data from the past 200 years shows no significant increase in volcanic activity, even as global temperatures rose dramatically."
+                    },
+                    {
+                        "text": "Natural variations in Earth's climate cycles",
+                        "isCorrect": 0,
+                        "explanation": "While Earth's climate does have natural variations, the rapid rate of temperature increase in the past century cannot be explained by natural cycles alone."
+                    }
+                ],
+                "funFact": "Before the Industrial Revolution, Earth's carbon dioxide levels remained relatively stable for thousands of years at around 280 parts per million. Today, they have risen to over 410 parts per million - a level not seen in at least 800,000 years!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze graphs showing the correlation between industrial revolution timeline and atmospheric carbon dioxide levels to determine the primary driver of climate change"
+        }
+    ]
+}

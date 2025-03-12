@@ -1,0 +1,1096 @@
+{
+    "id": "lesson-87",
+    "title": "Engineering Design Process",
+    "standard": "MS-ETS1-1",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "In the engineering design process, what does it mean when we say the process is 'iterative'?",
+                "options": [
+                    {
+                        "text": "Steps can be repeated and don't have to be followed in a fixed order",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. An iterative process means engineers can go back to previous steps and repeat them as needed to improve their design, rather than following steps in a strict linear order."
+                    },
+                    {
+                        "text": "Steps must be followed in a specific linear sequence from start to finish",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. An iterative process is not linear - steps can be repeated and done in different orders as needed during the design process."
+                    },
+                    {
+                        "text": "Each step can only be done once before moving to the next step",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Being iterative means steps can and often need to be repeated multiple times to achieve the best solution."
+                    },
+                    {
+                        "text": "Testing only happens at the very end of the process",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. In an iterative process, testing can happen multiple times throughout the process, not just at the end."
+                    }
+                ],
+                "funFact": "The word 'iterate' comes from the Latin word 'iterare' which means 'to repeat.' Many successful innovations, like the light bulb and the airplane, went through hundreds or even thousands of iterations before reaching their final design!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the meaning of 'iterative' in engineering design by having students select the correct definition from options related to repeating steps, linear progress, one-time process, or final testing"
+        },
+        {
+            "question": {
+                "text": "In engineering design, which of the following best describes design criteria?",
+                "options": [
+                    {
+                        "text": "The requirements that must be met for a design solution to be considered successful",
+                        "isCorrect": 1,
+                        "explanation": "Design criteria are the specific requirements that define what makes a solution successful, like performance targets or functionality goals."
+                    },
+                    {
+                        "text": "The limitations placed on the design solution",
+                        "isCorrect": 0,
+                        "explanation": "These are actually design constraints, not criteria. Constraints are limitations like budget, materials, or time restrictions."
+                    },
+                    {
+                        "text": "The steps followed to create a design",
+                        "isCorrect": 0,
+                        "explanation": "This describes the engineering design process itself, not the criteria. Criteria are about what the solution needs to achieve."
+                    },
+                    {
+                        "text": "The tools and materials available for the project",
+                        "isCorrect": 0,
+                        "explanation": "Available materials are actually constraints that limit what can be used, not criteria that define success."
+                    }
+                ],
+                "funFact": "The first formal design criteria in engineering were developed during the Industrial Revolution in the 1800s, when engineers needed standardized ways to evaluate if steam engines and other machines would work safely and effectively."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question to assess student understanding of what design criteria means in engineering by asking them to identify the correct definition among options like requirements for success, limitations on design, project timeline, and available materials"
+        },
+        {
+            "question": {
+                "text": "What is the correct sequence of the three main phases in the engineering design process?",
+                "options": [
+                    {
+                        "text": "Define the problem \u2192 Develop ideas \u2192 Optimize the design solution",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct sequence. Engineers first clearly define the problem and its requirements, then develop possible solutions through brainstorming and research, and finally test and improve their design to optimize it."
+                    },
+                    {
+                        "text": "Develop ideas \u2192 Define the problem \u2192 Optimize the design solution",
+                        "isCorrect": 0,
+                        "explanation": "You cannot effectively develop ideas without first understanding and defining the problem you're trying to solve."
+                    },
+                    {
+                        "text": "Optimize the design solution \u2192 Define the problem \u2192 Develop ideas",
+                        "isCorrect": 0,
+                        "explanation": "It's impossible to optimize a solution before defining the problem or developing ideas. Optimization comes after having a design to improve."
+                    },
+                    {
+                        "text": "Develop ideas \u2192 Optimize the design solution \u2192 Define the problem",
+                        "isCorrect": 0,
+                        "explanation": "Starting with developing ideas without first defining what problem you're solving would lead to unfocused and potentially irrelevant solutions."
+                    }
+                ],
+                "funFact": "Did you know that Thomas Edison made over 1,000 unsuccessful attempts before successfully inventing the light bulb? This is a perfect example of the engineering design process in action - particularly the 'optimize the design solution' phase where repeated testing and improvements lead to success!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the three main phases of the engineering design process by having students select the correct sequence from different ordered combinations of define problem, develop ideas, and optimize solution"
+        },
+        {
+            "question": {
+                "text": "In engineering design, what does optimization of a design solution mean?",
+                "options": [
+                    {
+                        "text": "The process of continuously testing and improving a design to better meet requirements",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Optimization involves iterative testing and refinement of a design to achieve the best possible performance within given criteria and constraints."
+                    },
+                    {
+                        "text": "The initial planning phase where engineers decide what problem to solve",
+                        "isCorrect": 0,
+                        "explanation": "This describes problem definition, not optimization. Optimization occurs later in the design process after initial solutions have been developed."
+                    },
+                    {
+                        "text": "Selecting the cheapest materials to build a prototype",
+                        "isCorrect": 0,
+                        "explanation": "Material selection is just one aspect of design. Optimization involves improving the entire design solution, not just choosing materials."
+                    },
+                    {
+                        "text": "Creating a perfect design solution on the first attempt",
+                        "isCorrect": 0,
+                        "explanation": "Engineering design is iterative - it's rare to create a perfect solution initially. Optimization is about gradually improving designs through testing and refinement."
+                    }
+                ],
+                "funFact": "The Wright brothers conducted over 1,000 wind tunnel tests to optimize their aircraft designs before achieving powered flight in 1903 - showing how important repeated testing and refinement is in engineering!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing knowledge of what optimization means in engineering design by asking students to identify the correct description from options about improving designs, initial planning, material selection, or problem definition"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a new solar-powered device for outdoor lighting in public parks. When evaluating different design solutions, which combination best shows how criteria and constraints work together to determine the most successful design?",
+                "options": [
+                    {
+                        "text": "Criteria determine if the design is possible to build, while constraints specify how well it needs to perform",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the roles - criteria specify performance requirements while constraints limit what's possible to build"
+                    },
+                    {
+                        "text": "Criteria and constraints both specify design requirements but don't help compare different solutions",
+                        "isCorrect": 0,
+                        "explanation": "Both criteria and constraints are essential for comparing and evaluating competing design solutions"
+                    },
+                    {
+                        "text": "Criteria define required performance levels while constraints set boundaries on acceptable solutions",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows how criteria establish needed performance targets while constraints define practical limitations"
+                    },
+                    {
+                        "text": "Criteria and constraints are the same thing used at different design stages",
+                        "isCorrect": 0,
+                        "explanation": "Criteria and constraints serve different purposes throughout the entire design process, not just at different stages"
+                    }
+                ],
+                "funFact": "The first solar-powered street lights were installed in Arizona in the 1950s as an experiment. Today, solar lighting saves cities millions in energy costs while reducing carbon emissions - a great example of how engineering solutions must balance performance criteria with practical constraints!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between criteria and constraints in evaluating design solutions by asking students to identify how they are used to judge success from different option combinations"
+        },
+        {
+            "question": {
+                "text": "Which of the following is an example of a design constraint in an engineering project?",
+                "options": [
+                    {
+                        "text": "A limited budget of $10,000 to complete the project",
+                        "isCorrect": 1,
+                        "explanation": "A budget limit is a classic example of a design constraint as it restricts how much can be spent on materials, labor, and other resources during the project."
+                    },
+                    {
+                        "text": "The goal to make the device as efficient as possible",
+                        "isCorrect": 0,
+                        "explanation": "This is actually a design criterion or requirement for success, not a constraint. It describes what you want to achieve rather than a limitation you must work within."
+                    },
+                    {
+                        "text": "Making the product attractive to customers",
+                        "isCorrect": 0,
+                        "explanation": "This is a design criterion that describes a desired outcome or goal, not a constraint that limits what can be done."
+                    },
+                    {
+                        "text": "The device should be easy to use",
+                        "isCorrect": 0,
+                        "explanation": "Ease of use is a design criterion or requirement that describes what you want the final product to achieve, not a limitation on the design process."
+                    }
+                ],
+                "funFact": "The Saturn V rocket, which took humans to the Moon, faced a unique design constraint - it had to fit through the Vehicle Assembly Building doors at Kennedy Space Center! This height limitation actually influenced some key design decisions for the rocket."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question to test knowledge of what design constraints are in engineering by having students select the correct example from options like budget limits, desired features, project goals, and success metrics"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of creating a prototype during the engineering design process?",
+                "options": [
+                    {
+                        "text": "To test and evaluate the functionality of a design solution",
+                        "isCorrect": 1,
+                        "explanation": "Prototypes are preliminary models built specifically to test how well a design works and to collect data on how effectively it meets the criteria and constraints."
+                    },
+                    {
+                        "text": "To create an attractive final product for sale",
+                        "isCorrect": 0,
+                        "explanation": "Prototypes are not meant to be final products - they are working models used during the development phase to test and improve the design."
+                    },
+                    {
+                        "text": "To document the design process",
+                        "isCorrect": 0,
+                        "explanation": "While documentation is important, prototypes are built for testing functionality, not for documentation purposes. Documentation happens throughout the design process."
+                    },
+                    {
+                        "text": "To showcase the design to investors",
+                        "isCorrect": 0,
+                        "explanation": "Although prototypes may be shown to stakeholders, their main purpose is to test functionality and gather data for design improvements."
+                    }
+                ],
+                "funFact": "The first computer mouse prototype, developed by Doug Engelbart in the 1960s, was made of wood! The rough prototype helped demonstrate the revolutionary concept of moving a cursor on a screen, even though it looked nothing like the sleek computer mice we use today."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question focusing on the definition of a prototype in engineering design by asking students to identify its primary purpose from options like testing functionality, final product, decoration, or documentation"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of research in the engineering design process?",
+                "options": [
+                    {
+                        "text": "To gather information about existing solutions and enhance current ideas",
+                        "isCorrect": 1,
+                        "explanation": "Research helps engineers learn from existing solutions and improve their ideas by examining what has already been developed and what could be enhanced."
+                    },
+                    {
+                        "text": "To build multiple prototypes quickly",
+                        "isCorrect": 0,
+                        "explanation": "While prototypes are important, they come after research. Building prototypes is part of the testing and optimization phase, not the research phase."
+                    },
+                    {
+                        "text": "To present final results to stakeholders",
+                        "isCorrect": 0,
+                        "explanation": "Presenting results happens after a solution is developed and tested. Research occurs earlier in the process to inform the development of solutions."
+                    },
+                    {
+                        "text": "To determine the project budget",
+                        "isCorrect": 0,
+                        "explanation": "While budget considerations are important constraints, research primarily focuses on gathering technical information and understanding existing solutions."
+                    }
+                ],
+                "funFact": "The Wright brothers conducted extensive research before building their first airplane, studying bird flight and reading every book they could find about aeronautics. This research was crucial to their success in developing the first powered aircraft!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the purpose of research in engineering design by having students select the correct function from options like gathering information, building prototypes, testing materials, or presenting results"
+        },
+        {
+            "question": {
+                "text": "Which statement best describes engineering?",
+                "options": [
+                    {
+                        "text": "The use of scientific, mathematical, and design principles to solve problems",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Engineering combines scientific knowledge, mathematical calculations, and design thinking to develop solutions to various problems."
+                    },
+                    {
+                        "text": "The study of how machines work without considering mathematical principles",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Engineering requires mathematical principles - they are essential for designing and analyzing solutions."
+                    },
+                    {
+                        "text": "The process of building things by trial and error without using scientific knowledge",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Engineering is not random trial and error - it requires applying scientific knowledge systematically."
+                    },
+                    {
+                        "text": "The collection of scientific data without developing solutions to problems",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While engineers use scientific data, engineering specifically focuses on developing solutions to problems, not just collecting data."
+                    }
+                ],
+                "funFact": "The word 'engineer' comes from the Latin words 'ingeniare' and 'ingenium,' meaning to design or devise and cleverness. Ancient engineers built remarkable structures like the pyramids of Egypt using sophisticated mathematical and scientific principles, even thousands of years ago!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question focusing on the definition of engineering by asking students to identify the correct description from options about using scientific and mathematical principles to solve problems versus other incorrect descriptions"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of using Computer-Aided Design (CAD) in engineering?",
+                "options": [
+                    {
+                        "text": "To create and visualize three-dimensional models showing how parts interact",
+                        "isCorrect": 1,
+                        "explanation": "CAD is primarily used to create detailed 3D models that show how different components of a system move and work together, helping engineers visualize and refine their designs before building prototypes."
+                    },
+                    {
+                        "text": "To conduct research on existing solutions",
+                        "isCorrect": 0,
+                        "explanation": "While research is important in engineering, CAD is not primarily used for research purposes. Research typically involves gathering information from various sources about existing solutions and technologies."
+                    },
+                    {
+                        "text": "To document design problems and constraints",
+                        "isCorrect": 0,
+                        "explanation": "While CAD can help document aspects of a design, its primary purpose is not to document problems and constraints. These are typically documented through other means during the problem definition phase."
+                    },
+                    {
+                        "text": "To test material properties",
+                        "isCorrect": 0,
+                        "explanation": "Testing material properties is typically done through physical testing and experimentation, not through CAD software. CAD is used for modeling and visualization rather than material testing."
+                    }
+                ],
+                "funFact": "Modern CAD software can do more than just create 3D models - it can simulate real-world physics, analyze structural integrity, and even optimize designs for manufacturing processes, helping engineers spot potential issues before anything is built!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding of what Computer-Aided Design (CAD) is used for in engineering by having students select its primary purpose from options like modeling designs, conducting research, documenting problems, or testing materials"
+        },
+        {
+            "question": {
+                "text": "Which of the following scenarios represents a valid engineering design problem that engineers would work to solve?",
+                "options": [
+                    {
+                        "text": "Designing a more energy-efficient solar-powered car",
+                        "isCorrect": 1,
+                        "explanation": "This is a valid engineering problem as it involves clear criteria (energy efficiency), potential constraints (cost, materials, technology limitations), and aims to solve a specific technical challenge while considering environmental impact."
+                    },
+                    {
+                        "text": "Deciding what color to paint a classroom",
+                        "isCorrect": 0,
+                        "explanation": "This is primarily an aesthetic decision that doesn't require engineering principles or solving technical problems. It doesn't involve the application of scientific or mathematical concepts."
+                    },
+                    {
+                        "text": "Choosing which movie to watch on the weekend",
+                        "isCorrect": 0,
+                        "explanation": "This is a personal preference decision that doesn't involve engineering principles, scientific concepts, or technical problem-solving."
+                    },
+                    {
+                        "text": "Selecting which grocery store to shop at",
+                        "isCorrect": 0,
+                        "explanation": "This is a consumer choice based on personal preferences and convenience, not an engineering problem that requires technical solutions or scientific principles."
+                    }
+                ],
+                "funFact": "Engineers often work on projects that seem impossible at first! The first solar-powered car was built in 1955 by William G. Cobb of General Motors. Today, solar-powered vehicles are becoming increasingly efficient and some can reach speeds over 60 miles per hour!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing knowledge of what constitutes a design problem by having students identify correct examples from options like reducing pollution, increasing speed, improving efficiency, versus non-engineering problems"
+        },
+        {
+            "question": {
+                "text": "What is the key characteristic of brainstorming during the engineering design process?",
+                "options": [
+                    {
+                        "text": "Generating many ideas without judging or evaluating them",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. During brainstorming, engineers focus on generating and documenting all possible ideas without judging them, allowing for maximum creativity and potential solutions."
+                    },
+                    {
+                        "text": "Selecting the best solution from existing designs",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Selecting the best solution comes after brainstorming, during the evaluation phase of the design process."
+                    },
+                    {
+                        "text": "Testing prototypes to see if they work",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Testing prototypes is part of the optimization phase, which comes after initial ideas have been developed through brainstorming."
+                    },
+                    {
+                        "text": "Researching existing solutions online",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While research is an important part of the engineering design process, it is typically done before or after brainstorming, but is not the defining characteristic of the brainstorming phase itself, which focuses on idea generation."
+                    }
+                ],
+                "funFact": "The term 'brainstorming' was coined in 1939 by advertising executive Alex Faickney Osborn, who popularized the method as a way to generate creative solutions in business. Today, it's used across many fields, from engineering to art!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question testing understanding of what brainstorming means in engineering by asking students to identify its key characteristic from options like generating ideas without judgment, selecting final design, testing prototypes, or documenting results"
+        },
+        {
+            "question": {
+                "text": "A community in a rural area needs a water filtration system to provide clean drinking water. Which scientific principle would be most important to consider when designing this system?",
+                "options": [
+                    {
+                        "text": "The force of gravity to enable natural water flow through filters",
+                        "isCorrect": 1,
+                        "explanation": "Gravity is a crucial scientific principle that allows water to flow naturally through filtration materials without requiring additional energy, making the system more sustainable and cost-effective."
+                    },
+                    {
+                        "text": "The speed of sound in water to monitor flow rates",
+                        "isCorrect": 0,
+                        "explanation": "While sound can be used to monitor flow rates, it's not the most critical principle for a basic filtration system. This would add unnecessary complexity and cost."
+                    },
+                    {
+                        "text": "The magnetic properties of water molecules",
+                        "isCorrect": 0,
+                        "explanation": "Water molecules are not significantly affected by magnetic forces, making this principle irrelevant for basic water filtration needs."
+                    },
+                    {
+                        "text": "The freezing point of water to preserve the system",
+                        "isCorrect": 0,
+                        "explanation": "While important in cold climates, the freezing point is not the most fundamental principle needed for the basic function of a water filtration system."
+                    }
+                ],
+                "funFact": "Ancient Egyptians were among the first to develop water filtration methods, using the basic principle of gravity. They would pour water through sand and gravel to remove particles and improve its clarity - a method still used in some modern filtration systems!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a case study of designing a water filtration system for a rural area, requiring students to identify the most relevant scientific principles that would limit possible solutions"
+        },
+        {
+            "question": {
+                "text": "A coastal city is experiencing frequent flooding during storms and high tides. Engineers are tasked with designing a flood prevention system. Which scientific principle would most significantly limit the possible solutions?",
+                "options": [
+                    {
+                        "text": "Gravity's effect on water flow",
+                        "isCorrect": 1,
+                        "explanation": "Gravity is a fundamental force that determines how water flows and accumulates, making it a key limiting factor in designing flood prevention systems. Any solution must work with gravity rather than against it."
+                    },
+                    {
+                        "text": "Wind patterns in the area",
+                        "isCorrect": 0,
+                        "explanation": "While wind patterns can influence flooding, they are generally less constraining than gravity and can be addressed through various design adaptations."
+                    },
+                    {
+                        "text": "Local wildlife populations",
+                        "isCorrect": 0,
+                        "explanation": "While wildlife impact is an important environmental consideration, it typically doesn't fundamentally limit the physical possibilities of flood prevention solutions like gravity does."
+                    },
+                    {
+                        "text": "Soil composition",
+                        "isCorrect": 0,
+                        "explanation": "Though soil composition affects construction methods, engineers can usually modify or work around soil conditions, making it less limiting than gravity."
+                    }
+                ],
+                "funFact": "The Netherlands has been fighting against flooding for centuries and has developed some of the world's most innovative flood prevention systems, including the Maeslantkering storm surge barrier, which is as long as two Eiffel Towers laid down!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a situation about designing a flood prevention system, requiring students to determine which scientific principles would most limit the possible solutions"
+        },
+        {
+            "question": {
+                "text": "A team of biomedical engineers is developing a new robotic surgical assistant for minimally invasive procedures. Which safety consideration should be their highest priority when defining the design constraints?",
+                "options": [
+                    {
+                        "text": "The maximum cost of manufacturing the device",
+                        "isCorrect": 0,
+                        "explanation": "While cost is a valid constraint, patient safety takes precedence over financial considerations in medical device development."
+                    },
+                    {
+                        "text": "The precision and reliability of the device's movement control systems",
+                        "isCorrect": 1,
+                        "explanation": "Precise control and reliability are crucial safety requirements for surgical robots, as even tiny errors could cause serious harm to patients during procedures."
+                    },
+                    {
+                        "text": "The aesthetic appearance of the device",
+                        "isCorrect": 0,
+                        "explanation": "While professional appearance matters, it is not a critical safety consideration for medical devices compared to their functional safety."
+                    },
+                    {
+                        "text": "The speed at which the device can complete procedures",
+                        "isCorrect": 0,
+                        "explanation": "Operating speed is important for efficiency but should not be prioritized over the safety and accuracy of the surgical procedure."
+                    }
+                ],
+                "funFact": "The first surgical robot, PUMA 560, was used in 1985 for a neurosurgical biopsy. Since then, surgical robots have become increasingly sophisticated, with some modern systems capable of movements more precise than the human hand, operating at accuracies of less than 1 millimeter!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Provide a case study about developing a new medical device, asking students to identify which safety considerations would be most crucial in defining design constraints"
+        },
+        {
+            "question": {
+                "text": "A city wants to develop a new recycling system to better manage its waste. Which of the following factors would be most important to consider as constraints when designing this system?",
+                "options": [
+                    {
+                        "text": "The available budget, existing infrastructure, and collection schedules",
+                        "isCorrect": 1,
+                        "explanation": "Budget, infrastructure, and schedules are key practical constraints that directly impact the feasibility and sustainability of a recycling system. These factors determine what solutions are actually possible to implement."
+                    },
+                    {
+                        "text": "The color scheme and aesthetic design of recycling bins",
+                        "isCorrect": 0,
+                        "explanation": "While bin design has some importance for user engagement, it is a minor consideration compared to fundamental system constraints like budget and infrastructure that determine basic functionality."
+                    },
+                    {
+                        "text": "The number of awards the system might win",
+                        "isCorrect": 0,
+                        "explanation": "Winning awards should not be a primary consideration when designing a critical infrastructure system. The focus should be on practical constraints that affect the system's ability to serve its core purpose."
+                    },
+                    {
+                        "text": "The popularity of the system on social media",
+                        "isCorrect": 0,
+                        "explanation": "Social media reception is not a crucial constraint for designing an effective recycling system. The focus should be on practical limitations and requirements that affect the system's ability to function."
+                    }
+                ],
+                "funFact": "San Francisco achieved an 80% waste diversion rate - one of the highest in North America - by carefully considering practical constraints when designing their recycling system, including innovative solutions for apartment buildings and businesses with space limitations."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Provide a scenario about developing a new recycling system for a city, asking students to analyze which societal and environmental factors would most influence the design constraints"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a solar-powered water purification system for a remote village. Which set of specifications would provide the most precise definition of success criteria for this project?",
+                "options": [
+                    {
+                        "text": "The system should clean water and be affordable",
+                        "isCorrect": 0,
+                        "explanation": "This is too vague - it doesn't specify how clean the water should be or what price range is considered affordable."
+                    },
+                    {
+                        "text": "The system should work during sunny days and be easy to maintain",
+                        "isCorrect": 0,
+                        "explanation": "These criteria are subjective and lack specific, measurable targets for performance and maintenance."
+                    },
+                    {
+                        "text": "The system should purify 100 liters of water per day to WHO drinking standards, cost under $500, and operate for 5+ years with monthly maintenance",
+                        "isCorrect": 1,
+                        "explanation": "This provides specific, measurable criteria including volume, quality standards, cost constraints, and maintenance requirements."
+                    },
+                    {
+                        "text": "The system should be environmentally friendly and help the community",
+                        "isCorrect": 0,
+                        "explanation": "These goals are important but too general - they don't provide measurable criteria to evaluate success."
+                    }
+                ],
+                "funFact": "Solar water purification systems can remove up to 99.999% of harmful bacteria and pathogens, and some advanced models can even text message maintenance alerts to local operators when service is needed!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a situation about designing a solar-powered device, requiring students to determine which specifications would ensure the most precise definition of success criteria"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is working on developing a solution to reduce plastic waste in oceans. Which of the following system boundaries would be most crucial to define at the start of their engineering design process?",
+                "options": [
+                    {
+                        "text": "The specific types of marine life affected by plastic pollution",
+                        "isCorrect": 0,
+                        "explanation": "While marine life impacts are important, they are a subset of the broader environmental impacts that need to be considered. The system boundaries need to be more comprehensive."
+                    },
+                    {
+                        "text": "The sources, pathways, and stakeholders involved in plastic waste entering the oceans",
+                        "isCorrect": 1,
+                        "explanation": "This correctly identifies the key system components needed to understand the problem - where the plastic comes from, how it reaches the oceans, and who is involved in the process. This allows for developing targeted solutions."
+                    },
+                    {
+                        "text": "The chemical composition of different plastic materials",
+                        "isCorrect": 0,
+                        "explanation": "While plastic composition is relevant for potential solutions, it is too narrow as a system boundary and doesn't address the broader context of how plastic reaches the oceans."
+                    },
+                    {
+                        "text": "The costs of different cleanup technologies",
+                        "isCorrect": 0,
+                        "explanation": "Cost considerations come later in the design process. The system boundaries need to first define the scope and context of the problem itself."
+                    }
+                ],
+                "funFact": "The Great Pacific Garbage Patch, a collection of marine debris in the North Pacific Ocean, is actually comprised of two distinct collections of debris connected by the North Pacific Subtropical Convergence Zone. Understanding such ocean patterns is crucial for engineers working on plastic pollution solutions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe a problem of reducing plastic waste in oceans, asking students to identify which considerations would be most crucial in defining the system boundaries of the problem"
+        },
+        {
+            "question": {
+                "text": "A group of farmers in an arid region needs to develop a new irrigation system to efficiently water their crops. Which of the following factors would be the most critical constraint to consider when designing this system?",
+                "options": [
+                    {
+                        "text": "The amount of available water in the region's aquifer",
+                        "isCorrect": 1,
+                        "explanation": "Water availability is a crucial natural resource constraint that directly impacts the viability and sustainability of an irrigation system in an arid region."
+                    },
+                    {
+                        "text": "The color scheme of the irrigation equipment",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetic considerations might matter, they are not critical constraints for a functional irrigation system design."
+                    },
+                    {
+                        "text": "The brand name of the irrigation components",
+                        "isCorrect": 0,
+                        "explanation": "The specific brand of components is less important than ensuring the system meets functional requirements within resource constraints."
+                    },
+                    {
+                        "text": "The packaging design for the system parts",
+                        "isCorrect": 0,
+                        "explanation": "Packaging design is not a critical constraint for the functionality or success of an irrigation system."
+                    }
+                ],
+                "funFact": "Modern precision irrigation systems can reduce water usage by up to 50% compared to traditional flood irrigation methods, while simultaneously improving crop yields through more targeted water delivery."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a scenario about developing a new irrigation system for farmers, requiring students to analyze how natural resource limitations affect the design constraints"
+        },
+        {
+            "question": {
+                "text": "A city is planning to develop a new public transportation system to connect its downtown area with surrounding neighborhoods. Which of the following criteria would be most important to consider when designing this system?",
+                "options": [
+                    {
+                        "text": "The transportation system's impact on traffic congestion, air quality, and accessibility for all residents",
+                        "isCorrect": 1,
+                        "explanation": "This considers multiple critical societal needs including environmental impact (air quality), efficiency (traffic reduction), and social equity (accessibility), which are key factors in public transportation design."
+                    },
+                    {
+                        "text": "The maximum speed the vehicles can achieve on straight routes",
+                        "isCorrect": 0,
+                        "explanation": "While speed is a factor, focusing solely on maximum speed ignores more important societal and environmental considerations that affect the entire community."
+                    },
+                    {
+                        "text": "The aesthetic appearance of the vehicles and stations",
+                        "isCorrect": 0,
+                        "explanation": "Although aesthetics contribute to user experience, they are secondary to fundamental societal needs like accessibility, environmental impact, and system efficiency."
+                    },
+                    {
+                        "text": "The number of different vehicle color options available",
+                        "isCorrect": 0,
+                        "explanation": "Vehicle color options are a superficial consideration that does not address the core societal needs and values that should drive public transportation design."
+                    }
+                ],
+                "funFact": "The TransMilenio bus rapid transit system in Bogot\u00e1, Colombia was designed with social equity in mind - it serves over 2.4 million passengers daily and has dedicated lanes that allow buses to move faster than private vehicles, encouraging public transportation use and reducing traffic congestion."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Provide a situation about designing a new public transportation system, asking students to determine which societal needs and values would most impact the design criteria"
+        },
+        {
+            "question": {
+                "text": "An architectural firm is designing a new office building in an urban area. Which combination of factors would be most critical to consider as design constraints for creating an energy-efficient building?",
+                "options": [
+                    {
+                        "text": "Initial construction costs and exterior aesthetic appeal",
+                        "isCorrect": 0,
+                        "explanation": "While construction costs are a constraint, focusing only on costs and aesthetics overlooks critical environmental and long-term efficiency factors that are essential for energy efficiency."
+                    },
+                    {
+                        "text": "Building height and number of parking spaces",
+                        "isCorrect": 0,
+                        "explanation": "Although these are building design considerations, they are not directly related to creating an energy-efficient structure."
+                    },
+                    {
+                        "text": "Insulation materials, window placement, and local climate patterns",
+                        "isCorrect": 1,
+                        "explanation": "These factors directly impact the building's energy efficiency by affecting heat retention, natural lighting, and heating/cooling needs based on environmental conditions."
+                    },
+                    {
+                        "text": "Construction timeline and available workforce",
+                        "isCorrect": 0,
+                        "explanation": "While these are important project management constraints, they don't significantly impact the building's long-term energy efficiency."
+                    }
+                ],
+                "funFact": "Modern energy-efficient buildings can reduce energy consumption by up to 80% compared to conventional buildings through smart design choices like proper orientation, advanced insulation materials, and passive solar heating techniques."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a case about developing an energy-efficient building, requiring students to identify which economic and environmental factors would be most critical in defining design constraints"
+        },
+        {
+            "question": {
+                "text": "A city is planning to build a new recycling facility to manage plastic waste. Which of the following criteria would be most important to consider to ensure the solution benefits both the community and the environment?",
+                "options": [
+                    {
+                        "text": "Only the cost of building and operating the facility",
+                        "isCorrect": 0,
+                        "explanation": "While cost is an important constraint, focusing solely on financial aspects ignores critical environmental and community impacts that need to be considered for a successful solution."
+                    },
+                    {
+                        "text": "The facility's capacity to process different types of plastics and its impact on local water quality",
+                        "isCorrect": 1,
+                        "explanation": "This considers both technical requirements (processing capacity) and environmental impact (water quality), which are essential for a comprehensive solution that benefits both the community and environment."
+                    },
+                    {
+                        "text": "Only the speed at which plastics can be processed",
+                        "isCorrect": 0,
+                        "explanation": "Processing speed is just one technical aspect. A successful solution must consider broader environmental and community impacts."
+                    },
+                    {
+                        "text": "Only the distance residents need to travel to reach the facility",
+                        "isCorrect": 0,
+                        "explanation": "While accessibility is important, focusing solely on location ignores other crucial factors like environmental impact and processing capabilities."
+                    }
+                ],
+                "funFact": "Advanced recycling facilities can now identify and sort different types of plastics using infrared technology and artificial intelligence, making the recycling process more efficient and effective than ever before!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe a scenario about creating a waste management solution, asking students to analyze how different stakeholder needs influence the definition of success criteria"
+        },
+        {
+            "question": {
+                "text": "Engineers at an automotive company are working on designing a new electric vehicle. Which of the following would be considered a constraint rather than a criteria in their design process?",
+                "options": [
+                    {
+                        "text": "Maximum driving range of 300 miles on a single charge",
+                        "isCorrect": 0,
+                        "explanation": "This is a criteria because it's a specific performance requirement that defines success for the design, not a limitation on the design process."
+                    },
+                    {
+                        "text": "The vehicle should achieve a 5-star safety rating",
+                        "isCorrect": 0,
+                        "explanation": "This is a criteria because it represents a specific performance goal to optimize toward, rather than a limitation or requirement that must be met."
+                    },
+                    {
+                        "text": "Limited budget of $2 million for development",
+                        "isCorrect": 1,
+                        "explanation": "This is a constraint because it places a limitation on the resources available for the design process, restricting what solutions are possible."
+                    },
+                    {
+                        "text": "Acceleration from 0 to 60 mph in under 7 seconds",
+                        "isCorrect": 0,
+                        "explanation": "This is a criteria because it's a specific performance goal that defines success for the design, not a limitation on the design process."
+                    }
+                ],
+                "funFact": "The development budget for a new car model typically ranges from $500 million to over $6 billion when including everything from initial design to setting up manufacturing facilities. The Tesla Model 3, one of the most successful electric vehicles, had a reported development cost of around $2.5 billion."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe a situation where engineers are designing an electric vehicle, asking students to determine which factors would be considered constraints versus criteria in the design process"
+        },
+        {
+            "question": {
+                "text": "A small town needs a new bridge across a river to connect two growing communities. The town council is starting the engineering design process for this project. Which set of criteria and constraints would be MOST important to consider for a successful bridge design?",
+                "options": [
+                    {
+                        "text": "Cost of materials, maximum vehicle weight capacity, environmental impact on river ecosystem, and expected lifespan of the bridge",
+                        "isCorrect": 1,
+                        "explanation": "These criteria and constraints cover key aspects: financial limitations, safety requirements, environmental considerations, and long-term durability - all essential for a successful bridge design."
+                    },
+                    {
+                        "text": "Bridge color, construction company's reputation, number of lanes, and type of lighting",
+                        "isCorrect": 0,
+                        "explanation": "While these factors may be relevant, they are secondary considerations compared to fundamental aspects like structural safety, cost, and environmental impact."
+                    },
+                    {
+                        "text": "Construction speed, bridge aesthetics, worker uniforms, and toll booth design",
+                        "isCorrect": 0,
+                        "explanation": "These factors focus too much on superficial aspects and don't address critical safety, environmental, and structural requirements for bridge design."
+                    },
+                    {
+                        "text": "Bridge name, opening ceremony date, advertising space, and visitor parking",
+                        "isCorrect": 0,
+                        "explanation": "These criteria focus on non-essential aspects that don't impact the bridge's primary function and safety requirements."
+                    }
+                ],
+                "funFact": "The world's longest bridge is the Danyang-Kunshan Grand Bridge in China, completed in 2011, stretching 102.4 miles (164.8 kilometers). Engineers had to consider complex environmental factors including the impact on wetlands, earthquake resistance, and the ability to withstand typhoon-force winds."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a scenario about a community needing a new bridge, requiring students to identify appropriate criteria and constraints considering environmental impact and community needs"
+        },
+        {
+            "question": {
+                "text": "A manufacturing company needs to optimize their process for producing electric vehicle batteries. Which factor should be considered most critical when defining this engineering problem?",
+                "options": [
+                    {
+                        "text": "Production speed to meet market demand",
+                        "isCorrect": 0,
+                        "explanation": "While production speed is important, it doesn't account for safety and environmental impacts which are crucial for battery manufacturing."
+                    },
+                    {
+                        "text": "Environmental and safety impacts of the manufacturing process",
+                        "isCorrect": 1,
+                        "explanation": "Battery manufacturing involves hazardous materials and complex chemical processes. Environmental and safety considerations are paramount to protect workers, communities, and ecosystems."
+                    },
+                    {
+                        "text": "Cost of raw materials",
+                        "isCorrect": 0,
+                        "explanation": "While material costs affect profitability, they shouldn't override safety and environmental concerns in problem definition."
+                    },
+                    {
+                        "text": "Competition from other manufacturers",
+                        "isCorrect": 0,
+                        "explanation": "Market competition, while relevant to business success, is secondary to ensuring safe and environmentally sound manufacturing processes."
+                    }
+                ],
+                "funFact": "Electric vehicle battery manufacturing facilities, often called 'gigafactories', can be so large that they're visible from space! Tesla's Gigafactory in Nevada is projected to be the largest building in the world by footprint when completed."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate a scenario where engineers must optimize a manufacturing process. Given multiple constraints including cost, environmental regulations, and production efficiency, determine which factors most critically influence the problem definition."
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing a solar-powered car for a cross-country race. Given the following criteria and constraints, which would most significantly limit their design process?\n\nCriteria:\n- Must maintain average speed of 50 mph\n- Must complete 3000-mile journey in 7 days\n- Must cost less than $100,000 to build\n\nConstraints:\n1. Available solar panel efficiency\n2. Weather conditions during race\n3. Maximum weight restrictions\n4. Battery storage capacity\n5. Road safety regulations",
+                "options": [
+                    {
+                        "text": "Available solar panel efficiency",
+                        "isCorrect": 1,
+                        "explanation": "Solar panel efficiency directly affects the car's ability to generate power, which impacts both speed and range. Current commercial solar panel efficiency limits (around 15-25%) create a fundamental constraint that cannot be easily overcome through design modifications."
+                    },
+                    {
+                        "text": "Weather conditions during race",
+                        "isCorrect": 0,
+                        "explanation": "While weather affects solar power generation, this is a variable constraint that can be partially addressed through energy storage systems and route planning rather than a fundamental design limitation."
+                    },
+                    {
+                        "text": "Maximum weight restrictions",
+                        "isCorrect": 0,
+                        "explanation": "Weight can be managed through material selection and design optimization, making it less limiting than core technology constraints like solar panel efficiency."
+                    },
+                    {
+                        "text": "Battery storage capacity",
+                        "isCorrect": 0,
+                        "explanation": "Battery capacity can be adjusted by adding more batteries or using higher density ones, though this affects weight and cost. It's more flexible than solar panel efficiency limitations."
+                    },
+                    {
+                        "text": "Road safety regulations",
+                        "isCorrect": 0,
+                        "explanation": "Safety regulations, while important, typically have established compliance pathways and don't fundamentally limit the core performance capabilities of the vehicle."
+                    }
+                ],
+                "funFact": "The world record for the fastest solar-powered vehicle was set by the Sunswift 7 car from the University of New South Wales, achieving an average speed of 84.25 kilometers per hour (52.35 mph) over a distance of 1000 kilometers."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a situation where an engineer is designing a solar-powered car. Given multiple criteria like speed requirements, cost limitations, and environmental impact, determine which constraints would most significantly affect the design process."
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a bridge in a seismically active coastal region. Which combination of criteria and constraints would be most important to consider for ensuring a successful design?",
+                "options": [
+                    {
+                        "text": "Construction cost and aesthetic appeal",
+                        "isCorrect": 0,
+                        "explanation": "While cost is a constraint and aesthetics may be desirable, these factors alone don't address the critical safety and environmental considerations needed for a bridge in an earthquake-prone area."
+                    },
+                    {
+                        "text": "Seismic resistance standards, local geological conditions, and community evacuation needs",
+                        "isCorrect": 1,
+                        "explanation": "This combination properly addresses the key scientific principles (seismic standards), physical constraints (geological conditions), and societal impacts (evacuation needs) essential for a safe and effective bridge design."
+                    },
+                    {
+                        "text": "Construction timeline and material availability",
+                        "isCorrect": 0,
+                        "explanation": "While timeline and materials are important constraints, they don't address the crucial safety and environmental factors needed for a bridge in a seismically active region."
+                    },
+                    {
+                        "text": "Bridge capacity and maintenance schedule",
+                        "isCorrect": 0,
+                        "explanation": "Though capacity and maintenance are relevant factors, they don't specifically address the critical seismic safety requirements and community needs in an earthquake-prone area."
+                    }
+                ],
+                "funFact": "The world's longest earthquake-resistant bridge, the Akashi Kaiky\u014d Bridge in Japan, can withstand winds of 286 kilometers per hour and earthquakes of magnitude 8.5. Its design allows it to sway up to 2 meters side to side to absorb earthquake movements!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine a situation where engineers must design a bridge in an earthquake-prone region. Analyze how scientific principles, safety requirements, and community needs interact to define the design constraints."
+        },
+        {
+            "question": {
+                "text": "A city wants to develop a new water filtration system for their community. Which set of criteria and constraints would be most effective in ensuring both technical success and positive social impact?",
+                "options": [
+                    {
+                        "text": "Focus only on water purity levels and installation costs",
+                        "isCorrect": 0,
+                        "explanation": "While these are important technical aspects, this approach overlooks crucial social and environmental impacts that need to be considered for a comprehensive solution."
+                    },
+                    {
+                        "text": "Consider water quality standards, maintenance costs, environmental impact, and community accessibility",
+                        "isCorrect": 1,
+                        "explanation": "This comprehensive approach balances technical requirements with social and environmental considerations, ensuring a solution that works for both the system and the community."
+                    },
+                    {
+                        "text": "Evaluate only the environmental impact and community feedback",
+                        "isCorrect": 0,
+                        "explanation": "While social and environmental factors are important, ignoring technical specifications and cost constraints could lead to an impractical or ineffective solution."
+                    },
+                    {
+                        "text": "Consider only the speed of filtration and energy efficiency",
+                        "isCorrect": 0,
+                        "explanation": "This narrow focus on technical performance metrics neglects important factors like environmental impact, community needs, and long-term sustainability."
+                    }
+                ],
+                "funFact": "The first municipal water filtration system in the United States was built in 1872 in Poughkeepsie, New York, marking a major advancement in public health by significantly reducing waterborne diseases in the community."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare different approaches to defining success criteria for a water purification system. Analyze how each approach considers both technical performance metrics and social impact measures."
+        },
+        {
+            "question": {
+                "text": "An architectural firm is designing sustainable housing for different regions across the country. Which factor would most significantly impact the precision of design criteria for these houses?",
+                "options": [
+                    {
+                        "text": "The varying climate conditions in different regions",
+                        "isCorrect": 1,
+                        "explanation": "Climate variations across regions significantly impact housing design criteria, affecting choices in materials, insulation, energy systems, and overall structure to ensure sustainability and efficiency."
+                    },
+                    {
+                        "text": "The color preferences of potential homeowners",
+                        "isCorrect": 0,
+                        "explanation": "While color preferences matter for aesthetics, they don't significantly impact the core design criteria for sustainable housing solutions."
+                    },
+                    {
+                        "text": "The brand of construction tools available",
+                        "isCorrect": 0,
+                        "explanation": "Construction tool brands are interchangeable and don't meaningfully affect the fundamental design criteria for sustainable housing."
+                    },
+                    {
+                        "text": "The names of local construction companies",
+                        "isCorrect": 0,
+                        "explanation": "The names of construction companies are irrelevant to establishing precise design criteria for sustainable housing solutions."
+                    }
+                ],
+                "funFact": "Sustainable housing designs can reduce energy consumption by up to 90% compared to conventional buildings through proper consideration of local climate conditions. The ancient Romans were pioneers in climate-adapted architecture, using different building techniques for homes in various parts of their empire."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given a scenario about developing sustainable housing solutions, evaluate how different geographical, economic, and social constraints impact the precision of design criteria."
+        },
+        {
+            "question": {
+                "text": "An engineering team is documenting constraints for designing a new solar-powered car. Which method would best ensure clear and complete documentation of the constraints?",
+                "options": [
+                    {
+                        "text": "Creating a detailed checklist that categorizes constraints into technical limitations, budget restrictions, safety requirements, and environmental impacts",
+                        "isCorrect": 1,
+                        "explanation": "A categorized checklist helps organize different types of constraints systematically, ensuring nothing important is overlooked and making it easier to reference during the design process."
+                    },
+                    {
+                        "text": "Writing a brief summary paragraph listing all the constraints together",
+                        "isCorrect": 0,
+                        "explanation": "A single paragraph can make constraints hard to distinguish from each other and important details might get lost or overlooked in the continuous text."
+                    },
+                    {
+                        "text": "Creating a simple bullet point list of constraints as they come to mind",
+                        "isCorrect": 0,
+                        "explanation": "While bullet points are organized, an unstructured list without categories might miss important constraints and doesn't show relationships between different types of limitations."
+                    },
+                    {
+                        "text": "Recording constraints individually as separate notes throughout the project documentation",
+                        "isCorrect": 0,
+                        "explanation": "Scattered documentation makes it difficult to see all constraints at once and increases the risk of missing critical limitations when making design decisions."
+                    }
+                ],
+                "funFact": "Engineers working on the world's largest solar-powered car race, the World Solar Challenge in Australia, must document and work within over 50 pages of technical constraints to ensure safety and fair competition while pushing the boundaries of solar technology."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine three different methods for documenting engineering constraints. Analyze how each method affects the clarity and completeness of the problem definition."
+        },
+        {
+            "question": {
+                "text": "A marine conservation organization is evaluating three proposals to reduce plastic waste in oceans:\n\nProposal 1: Develop biodegradable plastic alternatives for single-use items\nProposal 2: Install river filtration systems to catch plastic before it reaches oceans\nProposal 3: Launch a public awareness campaign about plastic pollution\n\nWhich proposal best addresses both the scientific principles and potential societal impacts of ocean plastic pollution?",
+                "options": [
+                    {
+                        "text": "Proposal 1, because it eliminates plastic waste entirely by replacing conventional plastics",
+                        "isCorrect": 0,
+                        "explanation": "While biodegradable alternatives help reduce plastic waste, they don't address existing pollution or consider broader societal behaviors and economic impacts on industries dependent on plastic manufacturing."
+                    },
+                    {
+                        "text": "Proposal 2, because it prevents plastic from entering oceans while considering both environmental and economic factors",
+                        "isCorrect": 1,
+                        "explanation": "This solution applies scientific principles of filtration, addresses the immediate environmental concern, and considers societal impacts by not requiring significant behavioral changes while creating potential jobs in maintenance and operations."
+                    },
+                    {
+                        "text": "Proposal 3, because educating people will automatically solve the plastic pollution problem",
+                        "isCorrect": 0,
+                        "explanation": "While public awareness is important, it alone doesn't address the scientific aspects of existing pollution or provide immediate solutions to prevent plastic from entering oceans."
+                    },
+                    {
+                        "text": "None of the proposals, because plastic pollution is too complex to solve",
+                        "isCorrect": 0,
+                        "explanation": "This perspective ignores that complex problems can be addressed through well-designed solutions that consider both scientific principles and societal impacts."
+                    }
+                ],
+                "funFact": "The Great Pacific Garbage Patch, a collection of marine debris in the North Pacific Ocean, is estimated to cover an area three times the size of France. Scientists have discovered that some bacteria are evolving to eat plastic in these garbage patches, showing nature's remarkable adaptability!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare three proposed solutions for reducing plastic waste in oceans. Evaluate how each solution addresses both scientific principles and potential societal impacts to determine the most comprehensive approach."
+        },
+        {
+            "question": {
+                "text": "A team of biomedical engineers is developing a new wearable device to monitor heart rate and blood pressure for patients with cardiovascular conditions. Which factor should be given the highest priority when defining the design criteria for this device?",
+                "options": [
+                    {
+                        "text": "Battery life of the device",
+                        "isCorrect": 0,
+                        "explanation": "While battery life is important, it is primarily a technical constraint rather than a critical safety or effectiveness criterion for medical monitoring."
+                    },
+                    {
+                        "text": "Accuracy of vital sign measurements",
+                        "isCorrect": 1,
+                        "explanation": "Accurate measurements are essential for patient safety and medical decision-making, making this the highest priority criterion for a medical monitoring device."
+                    },
+                    {
+                        "text": "Aesthetic appearance of the device",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics may affect patient acceptance, it should not take precedence over functional requirements for a medical device."
+                    },
+                    {
+                        "text": "Manufacturing cost",
+                        "isCorrect": 0,
+                        "explanation": "Although cost is an important constraint, it should not be prioritized over the primary function and safety requirements of a medical monitoring device."
+                    }
+                ],
+                "funFact": "The first wearable heart rate monitor was invented in 1977 by Polar Electro for the Finnish National Cross Country Ski team as a training aid. Today's medical wearables can monitor multiple vital signs simultaneously and even detect early warning signs of health issues."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine a scenario where a team of engineers must design a medical device. Given information about patient needs, technical requirements, and safety regulations, identify which factors should be prioritized in the design criteria."
+        },
+        {
+            "question": {
+                "text": "A city is planning to develop a new electric bus system to reduce traffic congestion and air pollution. Which of the following would be the most comprehensive set of criteria and constraints to evaluate the success of this transportation system?",
+                "options": [
+                    {
+                        "text": "Focus only on the maximum speed and passenger capacity of the buses",
+                        "isCorrect": 0,
+                        "explanation": "This is too narrow as it only considers technical specifications while ignoring other important factors like environmental impact, accessibility, and community needs."
+                    },
+                    {
+                        "text": "Consider operating costs and ticket prices while ignoring environmental impacts",
+                        "isCorrect": 0,
+                        "explanation": "This focuses solely on economic factors while neglecting crucial environmental considerations that are central to the project's sustainability goals."
+                    },
+                    {
+                        "text": "Evaluate bus route efficiency, costs, emissions reduction, accessibility for all residents, and community impact",
+                        "isCorrect": 1,
+                        "explanation": "This is the most comprehensive approach as it balances technical, economic, environmental, and social factors while considering multiple stakeholder needs."
+                    },
+                    {
+                        "text": "Look only at reducing carbon emissions and air pollution levels",
+                        "isCorrect": 0,
+                        "explanation": "While environmental impact is important, focusing solely on emissions ignores other crucial factors like system functionality, costs, and community needs."
+                    }
+                ],
+                "funFact": "The world's first electric bus system was introduced in Germany in 1882! Known as the Elektromote, it was developed by Werner von Siemens and operated in a Berlin suburb using overhead power lines - an early predecessor to modern electric bus systems."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a case where engineers are developing a new public transportation system. Consider multiple stakeholder perspectives and determine how competing needs influence the definition of success criteria."
+        },
+        {
+            "question": {
+                "text": "A city is planning to replace its coal power plant with a renewable energy system. They have three proposed designs:\n\nDesign A: A large solar farm that would cover 1000 acres of unused land\nDesign B: A wind farm with 50 turbines along the coastline\nDesign C: A combination of a smaller solar farm (500 acres) and 25 wind turbines\n\nAll three designs would meet the city's power needs, but they need to evaluate which best balances energy efficiency with environmental impact. Which design would likely be the most optimal solution?",
+                "options": [
+                    {
+                        "text": "Design A, because solar panels have no moving parts and minimal impact on wildlife",
+                        "isCorrect": 0,
+                        "explanation": "While solar panels have minimal maintenance needs, large solar farms can significantly impact local ecosystems and require extensive land clearing"
+                    },
+                    {
+                        "text": "Design B, because wind turbines take up less ground space and produce power day and night",
+                        "isCorrect": 0,
+                        "explanation": "While wind turbines have a smaller footprint, they can impact bird migration patterns and marine ecosystems when placed along coastlines"
+                    },
+                    {
+                        "text": "Design C, because it combines the benefits of both technologies while reducing their individual environmental impacts",
+                        "isCorrect": 1,
+                        "explanation": "A hybrid approach reduces the environmental impact of each technology while maintaining reliable power generation through diversification"
+                    },
+                    {
+                        "text": "None of the designs, because renewable energy systems always have more environmental impact than traditional power plants",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - renewable energy systems typically have far less environmental impact than fossil fuel power plants when properly designed"
+                    }
+                ],
+                "funFact": "Hybrid renewable energy systems are becoming increasingly popular worldwide. The Gullen Solar Farm in Australia was the world's first large-scale solar farm to be co-located with a wind farm, reducing costs by sharing existing infrastructure and maximizing land use efficiency."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given three different prototype designs for a renewable energy system, evaluate how each addresses the balance between energy efficiency and environmental impact constraints."
+        },
+        {
+            "question": {
+                "text": "A city is planning to develop a new waste management system. Which consideration would be MOST important in defining the design criteria for this system?",
+                "options": [
+                    {
+                        "text": "The aesthetic appearance of waste collection bins",
+                        "isCorrect": 0,
+                        "explanation": "While aesthetics can be considered, it is not the most critical factor when designing a waste management system that impacts the entire community and environment."
+                    },
+                    {
+                        "text": "The combined impact on environmental sustainability and public health",
+                        "isCorrect": 1,
+                        "explanation": "This is the most important consideration as it addresses both environmental protection and community wellbeing, which are key criteria for any waste management solution."
+                    },
+                    {
+                        "text": "The speed of waste collection vehicles",
+                        "isCorrect": 0,
+                        "explanation": "While operational efficiency matters, it is a secondary consideration compared to broader environmental and health impacts of the waste management system."
+                    },
+                    {
+                        "text": "The color scheme of the recycling labels",
+                        "isCorrect": 0,
+                        "explanation": "Though clear labeling is helpful, it is a minor detail compared to the system's overall impact on environment and public health."
+                    }
+                ],
+                "funFact": "Modern waste management systems can convert garbage into energy! Some facilities use thermal treatment to transform waste into electricity, providing power to thousands of homes while reducing landfill usage."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how different stakeholder perspectives affect the definition of design criteria for a new waste management system. Consider economic, environmental, and social factors in the analysis."
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing a new solar-powered vehicle for a city's public transportation system. They need to balance the immediate benefits of lower fuel costs with potential long-term impacts. Which approach would best address both short-term and long-term considerations in their design criteria?",
+                "options": [
+                    {
+                        "text": "Focus primarily on minimizing current operational costs, with less emphasis on future maintenance requirements",
+                        "isCorrect": 0,
+                        "explanation": "While reducing immediate costs is important, focusing mainly on short-term benefits could lead to higher long-term expenses and potential environmental issues."
+                    },
+                    {
+                        "text": "Consider both immediate performance metrics and long-term environmental impacts while setting specific measurable targets for each",
+                        "isCorrect": 1,
+                        "explanation": "This balanced approach ensures both immediate benefits and long-term sustainability by establishing clear, measurable criteria for both short-term and long-term impacts."
+                    },
+                    {
+                        "text": "Prioritize only the long-term environmental benefits without considering current technological limitations",
+                        "isCorrect": 0,
+                        "explanation": "Ignoring current technological constraints could result in an impractical design that fails to meet immediate transportation needs."
+                    },
+                    {
+                        "text": "Base the design criteria solely on current public transportation needs without considering future adaptability",
+                        "isCorrect": 0,
+                        "explanation": "Failing to consider future adaptability could result in a system that becomes obsolete quickly and requires costly replacements."
+                    }
+                ],
+                "funFact": "The world's first solar-powered train went into operation in Byron Bay, Australia in 2017. This pioneering project demonstrated how considering both immediate operational needs and long-term sustainability goals can lead to successful transportation solutions."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare different approaches to balancing short-term and long-term impacts in engineering design criteria. Analyze how each approach affects the overall success of the solution."
+        }
+    ]
+}

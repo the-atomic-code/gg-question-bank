@@ -1,0 +1,1191 @@
+{
+    "id": "lesson-85",
+    "title": "Electromagnetic Spectrum",
+    "standard": "MS-PS4-1",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "When a wave transfers energy, which characteristic of the wave is most directly related to the amount of energy it carries?",
+                "options": [
+                    {
+                        "text": "The energy of a wave is directly proportional to the square of its amplitude.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The amount of energy carried by a wave is proportional to the square of its amplitude. This means that if the amplitude doubles, the energy increases by a factor of four."
+                    },
+                    {
+                        "text": "The energy of a wave is directly proportional to its wavelength.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is not directly related to its wavelength. While wavelength is an important characteristic of a wave, it's the amplitude that directly correlates with the wave's energy."
+                    },
+                    {
+                        "text": "The energy of a wave is inversely proportional to its amplitude.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The relationship between energy and amplitude is actually the opposite - as amplitude increases, the energy increases (proportional to the square of the amplitude), not decreases."
+                    },
+                    {
+                        "text": "The energy of a wave is not related to its amplitude.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is directly related to its amplitude. Specifically, the energy is proportional to the square of the amplitude."
+                    }
+                ],
+                "funFact": "Ocean waves can travel thousands of miles before reaching shore. During major storms, waves can reach heights of over 100 feet, containing enormous amounts of energy - enough to power thousands of homes if we could efficiently harness it!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Create a question asking students to identify which characteristic of a wave relates to the energy it transfers, focusing on amplitude and its relationship to energy."
+        },
+        {
+            "question": {
+                "text": "If you double the amplitude of a wave, how does the energy of the wave change?",
+                "options": [
+                    {
+                        "text": "The energy remains the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is related to its amplitude, and changing the amplitude affects the energy."
+                    },
+                    {
+                        "text": "The energy doubles",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When the amplitude doubles, the energy increases by more than a factor of 2."
+                    },
+                    {
+                        "text": "The energy becomes 4 times greater",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The energy of a wave is proportional to the square of its amplitude. When amplitude doubles (\u00d72), the energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "The energy becomes half as great",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Increasing the amplitude of a wave increases its energy, not decreases it."
+                    },
+                    {
+                        "text": "The energy becomes 8 times greater",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While the energy does increase significantly when amplitude doubles, it increases by a factor of 4, not 8."
+                    }
+                ],
+                "funFact": "Ocean waves demonstrate this energy-amplitude relationship dramatically. A 3-meter high wave carries 9 times more energy than a 1-meter wave, which is why larger ocean waves can cause so much more damage to coastal structures!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Develop a question about the mathematical relationship between a wave's amplitude and its energy (energy is proportional to the square of amplitude)."
+        },
+        {
+            "question": {
+                "text": "Which type of electromagnetic wave has the highest energy and shortest wavelength?",
+                "options": [
+                    {
+                        "text": "Radio waves",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves have the longest wavelength and lowest energy in the electromagnetic spectrum, not the shortest wavelength and highest energy."
+                    },
+                    {
+                        "text": "Microwaves",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves have longer wavelengths and lower energy than many other types of electromagnetic waves. They are not the type with the shortest wavelength and highest energy."
+                    },
+                    {
+                        "text": "Visible light",
+                        "isCorrect": 0,
+                        "explanation": "Visible light has medium wavelengths and energy levels within the electromagnetic spectrum. While violet light has the highest energy within the visible spectrum, there are other waves with even higher energy."
+                    },
+                    {
+                        "text": "X-rays",
+                        "isCorrect": 0,
+                        "explanation": "X-rays have very short wavelengths and high energy, but they are not the type with the shortest wavelength and highest energy in the electromagnetic spectrum."
+                    },
+                    {
+                        "text": "Gamma rays",
+                        "isCorrect": 1,
+                        "explanation": "Gamma rays have the shortest wavelengths and highest energy of all electromagnetic waves. They are produced by radioactive materials and can pass through most materials due to their high energy."
+                    }
+                ],
+                "funFact": "Gamma rays are so powerful that they can only be blocked by thick layers of dense materials like lead. They're used in treating certain cancers through radiation therapy, where their high energy can be directed to destroy cancer cells."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Design a question asking students to identify which type of electromagnetic wave has the highest energy and shortest wavelength."
+        },
+        {
+            "question": {
+                "text": "Which of the following correctly describes the relationship between wavelength and frequency in the electromagnetic spectrum?",
+                "options": [
+                    {
+                        "text": "As wavelength increases, frequency also increases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency have an inverse relationship, not a direct relationship. When one increases, the other decreases."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency decreases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency have an inverse relationship. When wavelength decreases, frequency actually increases."
+                    },
+                    {
+                        "text": "As wavelength increases, frequency decreases",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Wavelength and frequency have an inverse relationship. As waves move from gamma rays to radio waves on the electromagnetic spectrum, the wavelength increases while the frequency decreases."
+                    },
+                    {
+                        "text": "Wavelength and frequency are independent of each other",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency are directly related to each other through the wave equation (speed = wavelength \u00d7 frequency). They are not independent variables."
+                    },
+                    {
+                        "text": "The relationship between wavelength and frequency depends on the type of electromagnetic wave",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The inverse relationship between wavelength and frequency applies to all electromagnetic waves, regardless of where they fall on the spectrum. It's a fundamental property of all waves."
+                    }
+                ],
+                "funFact": "All electromagnetic waves travel at the same speed in a vacuum - the speed of light, which is about 300,000,000 meters per second. Since speed = wavelength \u00d7 frequency, and the speed is constant, wavelength and frequency must have an inverse relationship. This is why gamma rays with extremely short wavelengths have extraordinarily high frequencies!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Create a question about the relationship between wavelength and frequency in the electromagnetic spectrum."
+        },
+        {
+            "question": {
+                "text": "Which color of visible light has the longest wavelength and least energy?",
+                "options": [
+                    {
+                        "text": "Red",
+                        "isCorrect": 1,
+                        "explanation": "Red light has the longest wavelength in the visible spectrum (about 700 nanometers) and therefore carries the least amount of energy. On the electromagnetic spectrum, red is closest to infrared radiation."
+                    },
+                    {
+                        "text": "Green",
+                        "isCorrect": 0,
+                        "explanation": "Green light falls in the middle of the visible spectrum with medium wavelength and energy. It has a shorter wavelength than red light but longer than blue or violet light."
+                    },
+                    {
+                        "text": "Blue",
+                        "isCorrect": 0,
+                        "explanation": "Blue light has a relatively short wavelength in the visible spectrum and therefore carries more energy than red or green light. It is closer to the ultraviolet end of the spectrum."
+                    },
+                    {
+                        "text": "Violet",
+                        "isCorrect": 0,
+                        "explanation": "Violet light has the shortest wavelength in the visible spectrum (about 400 nanometers) and therefore carries the most energy among visible light colors. It is closest to ultraviolet radiation on the spectrum."
+                    },
+                    {
+                        "text": "All colors of visible light carry the same amount of energy",
+                        "isCorrect": 0,
+                        "explanation": "Different colors of visible light have different wavelengths and frequencies, which means they carry different amounts of energy. Shorter wavelengths (like violet) carry more energy than longer wavelengths (like red)."
+                    }
+                ],
+                "funFact": "The relationship between a wave's color and its energy is why ultraviolet light can damage skin (causing sunburn) while the longer-wavelength infrared light is felt as heat but doesn't cause the same kind of damage. This is also why many protective sunglasses specifically block UV light\u2014it carries enough energy to potentially damage your eyes!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Develop a question asking students to identify which color of visible light has the longest wavelength and least energy."
+        },
+        {
+            "question": {
+                "text": "Which of the following correctly defines wavelength in the context of wave patterns?",
+                "options": [
+                    {
+                        "text": "The height of a wave from its resting point",
+                        "isCorrect": 0,
+                        "explanation": "This describes amplitude, not wavelength. Amplitude measures how far the wave reaches from its equilibrium position."
+                    },
+                    {
+                        "text": "The distance from one wave peak to the next wave peak",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct definition of wavelength. It measures the spatial period of a wave\u2014the distance over which the wave's shape repeats."
+                    },
+                    {
+                        "text": "The number of waves that pass a given point in one second",
+                        "isCorrect": 0,
+                        "explanation": "This describes frequency, not wavelength. Frequency measures how many complete wave cycles occur per unit of time."
+                    },
+                    {
+                        "text": "The total energy carried by the wave",
+                        "isCorrect": 0,
+                        "explanation": "This is not wavelength. The energy of a wave is related to both its amplitude and frequency, but is not a direct measure of wavelength."
+                    },
+                    {
+                        "text": "The speed at which the wave travels",
+                        "isCorrect": 0,
+                        "explanation": "This describes wave velocity, not wavelength. Wave velocity depends on both wavelength and frequency (velocity = wavelength \u00d7 frequency)."
+                    }
+                ],
+                "funFact": "Ocean waves typically have wavelengths of about 120 meters, while visible light has incredibly tiny wavelengths ranging from about 400 nanometers (violet) to 700 nanometers (red). That's why violet light has higher energy than red light - shorter wavelength means higher frequency and energy!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Design a question asking students to select the correct definition of wavelength as it relates to wave patterns."
+        },
+        {
+            "question": {
+                "text": "Which wave characteristic measures how many waves pass a point in one second?",
+                "options": [
+                    {
+                        "text": "Frequency",
+                        "isCorrect": 1,
+                        "explanation": "Frequency measures how many waves pass a point in one second. For example, a wave with a frequency of 3 would pass a given point three times in 1 second."
+                    },
+                    {
+                        "text": "Amplitude",
+                        "isCorrect": 0,
+                        "explanation": "Amplitude is the height of a wave from its resting point, not how many waves pass a point in one second."
+                    },
+                    {
+                        "text": "Wavelength",
+                        "isCorrect": 0,
+                        "explanation": "Wavelength is the distance from one wave peak to the next, not how many waves pass a point in one second."
+                    },
+                    {
+                        "text": "Energy",
+                        "isCorrect": 0,
+                        "explanation": "Energy is the ability to cause changes in matter. While energy is related to frequency, it is not the measurement of how many waves pass a point in one second."
+                    }
+                ],
+                "funFact": "The human ear can detect frequencies between about 20 Hz and 20,000 Hz. This means we can hear sound waves that pass a point anywhere from 20 to 20,000 times per second! Dogs can hear frequencies up to about 45,000 Hz, which is why they can hear dog whistles that humans cannot perceive."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Create a question where students must identify the characteristic of a wave that measures how many waves pass a point in one second."
+        },
+        {
+            "question": {
+                "text": "A scientist is studying energy transfer through ocean waves. She notices that during a storm, the frequency of waves hitting the shore increases from 6 waves per minute to 12 waves per minute, while the wave height remains the same. How does this change in frequency affect the amount of energy transferred to the shore each minute?",
+                "options": [
+                    {
+                        "text": "The energy transferred doubles.",
+                        "isCorrect": 1,
+                        "explanation": "The amount of energy transferred by waves in a given time is directly proportional to frequency. When the frequency doubles from 6 to 12 waves per minute, the energy transferred also doubles."
+                    },
+                    {
+                        "text": "The energy transferred stays the same.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Even though the wave height (amplitude) remains constant, the number of waves delivering energy each minute has doubled, so the total energy delivered will increase."
+                    },
+                    {
+                        "text": "The energy transferred quadruples.",
+                        "isCorrect": 0,
+                        "explanation": "This would be correct if the amplitude (wave height) had doubled, since energy is proportional to the square of amplitude. However, in this case, only the frequency changed, so energy transferred doubles rather than quadruples."
+                    },
+                    {
+                        "text": "The energy transferred is halved.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When frequency increases, more waves hit the shore per minute, delivering more energy, not less."
+                    }
+                ],
+                "funFact": "Ocean waves can travel thousands of miles before reaching shore. During this journey, they lose very little energy, which is why tsunamis generated by earthquakes in one part of the ocean can cause devastating damage on distant coastlines."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Develop a question asking students to identify the relationship between frequency and energy transfer in a given time period."
+        },
+        {
+            "question": {
+                "text": "What happens to the energy of a wave when its amplitude is doubled?",
+                "options": [
+                    {
+                        "text": "The energy increases by 2 times",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is proportional to the square of the amplitude, not directly proportional to the amplitude."
+                    },
+                    {
+                        "text": "The energy increases by 4 times",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The energy of a wave is proportional to the square of the amplitude. When the amplitude doubles (\u00d72), the energy increases by 2\u00b2 = 4 times."
+                    },
+                    {
+                        "text": "The energy increases by 8 times",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is proportional to the square of the amplitude, not the cube of the amplitude."
+                    },
+                    {
+                        "text": "The energy remains the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When the amplitude of a wave changes, its energy also changes. Specifically, the energy is proportional to the square of the amplitude."
+                    }
+                ],
+                "funFact": "Ocean waves can travel thousands of miles before reaching shore. During major storms, the energy carried by these waves can be enormous - a single large breaking wave can release more than 9,000 joules of energy per square meter!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Design a question asking students to identify what happens to a wave's energy when its amplitude is doubled."
+        },
+        {
+            "question": {
+                "text": "Which characteristic of a wave represents the height of the wave from its resting point?",
+                "options": [
+                    {
+                        "text": "Amplitude",
+                        "isCorrect": 1,
+                        "explanation": "Amplitude is defined as the height of a wave from its resting point. It is related to the energy of the wave - waves with larger amplitude transfer more energy."
+                    },
+                    {
+                        "text": "Wavelength",
+                        "isCorrect": 0,
+                        "explanation": "Wavelength is the distance from one wave peak to the next peak, not the height of the wave from its resting point."
+                    },
+                    {
+                        "text": "Frequency",
+                        "isCorrect": 0,
+                        "explanation": "Frequency measures how many waves pass a point in one second, not the height of the wave from its resting point."
+                    },
+                    {
+                        "text": "Energy",
+                        "isCorrect": 0,
+                        "explanation": "While amplitude is related to energy (larger amplitude means more energy), energy itself is not a characteristic that represents the height of a wave from its resting point."
+                    }
+                ],
+                "funFact": "The energy carried by a wave is proportional to the square of its amplitude. This means that if the amplitude of a wave doubles, the energy it carries increases by a factor of four!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Create a question asking students to identify which characteristic of a wave is represented by the height from its resting point."
+        },
+        {
+            "question": {
+                "text": "In a microwave oven, why does a cup of water heat up more quickly than a ceramic plate?",
+                "options": [
+                    {
+                        "text": "Because microwaves are specifically designed to target ceramic materials",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Microwaves are not specifically designed to target ceramic materials. In fact, most ceramics do not absorb microwaves efficiently, which is why ceramic dishes typically remain relatively cool in microwave ovens."
+                    },
+                    {
+                        "text": "Because microwaves cause water molecules to vibrate, converting energy to heat",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Microwaves are absorbed by water molecules, causing them to vibrate faster. This increased molecular motion is experienced as heat. Since water-rich foods absorb more microwave energy, they heat up more quickly than materials with little or no water content, like most ceramics."
+                    },
+                    {
+                        "text": "Because the water has a higher initial temperature than the plate",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The heating difference is not due to initial temperatures but rather how effectively each material absorbs microwave energy. Water molecules absorb microwave energy efficiently, while most ceramics do not."
+                    },
+                    {
+                        "text": "Because the amplitude of microwaves increases when they contact water",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amplitude of the microwaves doesn't increase when contacting water. Instead, the energy from the waves is absorbed by water molecules, causing them to vibrate faster and generate heat. The energy transfer depends on the wave's original amplitude, not an increase in amplitude upon contact."
+                    },
+                    {
+                        "text": "Because water conducts electricity better than ceramic",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While water can conduct electricity (especially with dissolved minerals), microwave heating is not related to electrical conductivity. It's about how water molecules absorb the microwave radiation and convert that energy to heat through increased vibration."
+                    }
+                ],
+                "funFact": "Microwave ovens operate at a specific frequency of 2.45 GHz (2.45 billion cycles per second), which was chosen because it's particularly effective at being absorbed by water molecules while allowing the waves to penetrate food deeply. This frequency is also relatively free from interference with communication devices, which is why it was allocated for household appliances."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Develop a question about how microwaves heat food through energy transfer to water molecules."
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes how energy is transferred by electromagnetic waves?",
+                "options": [
+                    {
+                        "text": "Electromagnetic waves transfer energy proportionally to their wavelength, with longer wavelengths carrying more energy.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The relationship is actually the opposite - shorter wavelength electromagnetic waves carry more energy than longer wavelength waves."
+                    },
+                    {
+                        "text": "Electromagnetic waves transfer energy proportionally to their frequency, with higher frequency waves carrying more energy.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Higher frequency electromagnetic waves (like gamma rays and X-rays) transfer more energy than lower frequency waves (like radio waves). As you move from radio waves to gamma rays on the spectrum, frequency increases and so does energy."
+                    },
+                    {
+                        "text": "All types of electromagnetic waves transfer the same amount of energy regardless of their wavelength or frequency.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Different types of electromagnetic waves transfer different amounts of energy depending on their frequency and wavelength. Gamma rays (high frequency, short wavelength) transfer much more energy than radio waves (low frequency, long wavelength)."
+                    },
+                    {
+                        "text": "Electromagnetic waves transfer energy based solely on their amplitude, with no relationship to frequency or wavelength.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While amplitude does affect the energy of a wave (higher amplitude means more energy), the frequency and wavelength of electromagnetic waves are also directly related to how much energy they transfer."
+                    }
+                ],
+                "funFact": "The relationship between frequency and energy in electromagnetic waves explains why we need to be careful with high-frequency radiation like X-rays and gamma rays, but don't worry about radio waves. Your microwave oven uses electromagnetic waves at just the right frequency to cause water molecules to vibrate and heat up your food, but these waves are contained within the oven by the metal mesh in the door!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Design a question asking students to identify how energy is transferred by electromagnetic waves."
+        },
+        {
+            "question": {
+                "text": "When a wave's amplitude doubles, what happens to the energy of the wave?",
+                "options": [
+                    {
+                        "text": "The energy remains the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Energy is related to amplitude, and when amplitude changes, the energy also changes."
+                    },
+                    {
+                        "text": "The energy is doubled",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. The relationship between energy and amplitude is not directly proportional (1:1), but is proportional to the square of the amplitude."
+                    },
+                    {
+                        "text": "The energy is quadrupled",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The energy of a wave is proportional to the square of its amplitude. When amplitude doubles (\u00d72), the energy increases by a factor of 2\u00b2 = 4, so it quadruples."
+                    },
+                    {
+                        "text": "The energy is halved",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When amplitude increases, energy also increases, not decreases."
+                    },
+                    {
+                        "text": "The energy increases by a factor of 8",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While energy does increase when amplitude increases, it follows a square relationship, not a cubic one. When amplitude doubles, energy increases by a factor of 4, not 8."
+                    }
+                ],
+                "funFact": "Ocean waves demonstrate this energy-amplitude relationship dramatically. A tsunami might be only 1 foot tall in the open ocean but contain enormous energy. As it approaches shore and the amplitude increases, the energy concentrated in the taller wave can cause devastating damage."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question about the relationship between amplitude and energy in a wave, asking students to predict how energy changes when amplitude doubles, with mathematical reasoning required"
+        },
+        {
+            "question": {
+                "text": "Look at the diagrams of four different waves below:\n\nWave A: A small wave with amplitude of 1 cm\nWave B: A medium wave with amplitude of 2 cm\nWave C: A large wave with amplitude of 3 cm\nWave D: A very large wave with amplitude of 4 cm\n\nAll four waves have the same wavelength and frequency. Which wave transfers the most energy?",
+                "options": [
+                    {
+                        "text": "Wave A",
+                        "isCorrect": 0,
+                        "explanation": "Wave A has the smallest amplitude (1 cm), so it transfers the least energy. The energy of a wave is proportional to the square of its amplitude."
+                    },
+                    {
+                        "text": "Wave B",
+                        "isCorrect": 0,
+                        "explanation": "Wave B has a medium amplitude (2 cm), but not the largest. Since energy is proportional to the square of amplitude, it transfers more energy than Wave A but less than Waves C and D."
+                    },
+                    {
+                        "text": "Wave C",
+                        "isCorrect": 0,
+                        "explanation": "Wave C has a large amplitude (3 cm), but not the largest. Since energy is proportional to the square of amplitude, it transfers more energy than Waves A and B but less than Wave D."
+                    },
+                    {
+                        "text": "Wave D",
+                        "isCorrect": 1,
+                        "explanation": "Wave D has the largest amplitude (4 cm), and the energy of a wave is proportional to the square of its amplitude. Since all waves have the same wavelength and frequency, Wave D transfers the most energy."
+                    }
+                ],
+                "funFact": "Ocean waves can travel thousands of miles before reaching shore. For example, waves generated by storms near Antarctica can travel all the way to California, carrying their energy across the entire Pacific Ocean! The larger the amplitude of these waves, the more destructive power they have when they finally reach the coastline."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question asking students to interpret a diagram of waves with different amplitudes and determine which one transfers the most energy, requiring application of the amplitude-energy relationship"
+        },
+        {
+            "question": {
+                "text": "A radio station broadcasts its signal through radio waves. If the station doubles the frequency at which it transmits waves, how will this affect the amount of energy transferred to receivers in a given time?",
+                "options": [
+                    {
+                        "text": "The energy transferred will be doubled.",
+                        "isCorrect": 1,
+                        "explanation": "When the frequency is doubled, twice as many waves reach the receiver in the same amount of time. Since each wave carries a specific amount of energy, doubling the frequency means twice as much energy is transferred in the given time period."
+                    },
+                    {
+                        "text": "The energy transferred will be quadrupled.",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly applies the relationship between amplitude and energy (energy is proportional to amplitude squared) to frequency. While energy is proportional to amplitude squared, energy transfer over time is directly proportional to frequency."
+                    },
+                    {
+                        "text": "The energy transferred will remain the same.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amount of energy transferred in a given time is proportional to frequency. If the frequency doubles, the energy transfer also doubles, not remains the same."
+                    },
+                    {
+                        "text": "The energy transferred will be halved.",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly assumes an inverse relationship between frequency and energy transfer. In reality, energy transfer increases (not decreases) as frequency increases."
+                    },
+                    {
+                        "text": "The energy transferred will depend on the wavelength, not the frequency.",
+                        "isCorrect": 0,
+                        "explanation": "While wavelength and frequency are related (they are inversely proportional), the amount of energy transferred in a given time is directly proportional to frequency, not wavelength."
+                    }
+                ],
+                "funFact": "Radio astronomers use this principle when collecting data from space. By measuring radio waves across different frequencies, they can gather much more energy and information than if they only monitored a single frequency. This is why radio telescopes often scan across multiple frequency bands!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question about the relationship between frequency and energy transfer over time, asking students to predict how energy transfer changes when frequency changes"
+        },
+        {
+            "question": {
+                "text": "Which of the following correctly explains why gamma rays have more energy than radio waves?",
+                "options": [
+                    {
+                        "text": "Gamma rays have shorter wavelengths and higher frequencies than radio waves",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. In the electromagnetic spectrum, energy is directly related to frequency and inversely related to wavelength. Gamma rays have the shortest wavelengths and highest frequencies, giving them the most energy."
+                    },
+                    {
+                        "text": "Gamma rays have longer wavelengths and lower frequencies than radio waves",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gamma rays actually have shorter wavelengths and higher frequencies than radio waves, which gives gamma rays more energy."
+                    },
+                    {
+                        "text": "Gamma rays and radio waves have the same energy but different applications",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gamma rays and radio waves have significantly different energies. Gamma rays have much more energy than radio waves due to their higher frequencies and shorter wavelengths."
+                    },
+                    {
+                        "text": "Gamma rays have more amplitude than radio waves",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While amplitude does affect the amount of energy a wave carries, the primary reason gamma rays have more energy than radio waves is due to their higher frequencies and shorter wavelengths, not their amplitude."
+                    }
+                ],
+                "funFact": "A single gamma ray photon can have more than a million times the energy of a single radio wave photon! This enormous energy difference explains why gamma rays can pass through materials that block radio waves, and why we need special shielding like lead to protect ourselves from gamma radiation."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question asking students to analyze different parts of the electromagnetic spectrum and explain why gamma rays have more energy than radio waves, using wavelength and frequency relationships"
+        },
+        {
+            "question": {
+                "text": "Two ocean waves are traveling at the same speed. Wave A has a wavelength of 10 meters, while Wave B has a wavelength of 5 meters. Both waves have the same amplitude. Which of the following statements is correct?",
+                "options": [
+                    {
+                        "text": "Wave A has a higher frequency and transfers more energy per second than Wave B.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wave A has a longer wavelength (10m) than Wave B (5m). Since frequency = speed \u00f7 wavelength, and both waves have the same speed, Wave A actually has a lower frequency than Wave B."
+                    },
+                    {
+                        "text": "Wave B has a higher frequency and transfers more energy per second than Wave A.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Since both waves travel at the same speed, the wave with the shorter wavelength (Wave B, 5m) has a higher frequency than the wave with the longer wavelength (Wave A, 10m). Higher frequency means more waves pass a point each second, which means more energy is transferred per second."
+                    },
+                    {
+                        "text": "Both waves have the same frequency and transfer the same amount of energy per second.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Since the waves have different wavelengths but the same speed, they must have different frequencies (frequency = speed \u00f7 wavelength)."
+                    },
+                    {
+                        "text": "Wave B has a higher frequency but both waves transfer the same amount of energy per second.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While Wave B does have a higher frequency, this means it transfers more energy per second. Since frequency determines how many waves pass a point each second, higher frequency means more energy transfer per second."
+                    }
+                ],
+                "funFact": "The energy transferred by ocean waves powers wave energy converters that can generate electricity. The global potential of wave energy is estimated to be 2 terawatts, which could theoretically provide up to 10% of the world's current energy needs!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question requiring students to interpret and compare graphs of two waves with different wavelengths but the same amplitude, and determine which has higher frequency and energy"
+        },
+        {
+            "question": {
+                "text": "Why do microwave ovens heat food faster than other electromagnetic waves?",
+                "options": [
+                    {
+                        "text": "Microwaves have a specific wavelength that causes water molecules to vibrate rapidly, converting energy to heat",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Microwave ovens use waves with a specific wavelength that cause water molecules in food to vibrate faster, which increases their energy and generates heat. This is why foods with high water content heat up quickly in microwaves."
+                    },
+                    {
+                        "text": "Microwaves have longer wavelengths than other electromagnetic waves, giving them more energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. In the electromagnetic spectrum, longer wavelengths (like radio waves and microwaves) actually have lower energy than shorter wavelengths (like X-rays and gamma rays). Microwave effectiveness comes from their specific interaction with water molecules, not from having more energy."
+                    },
+                    {
+                        "text": "Microwaves have the highest amplitude of all electromagnetic waves",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amplitude of a wave relates to its intensity, not its heating efficiency. While higher amplitude does mean more energy transfer, microwaves don't inherently have higher amplitude than other electromagnetic waves. Their effectiveness comes from their specific interaction with water molecules."
+                    },
+                    {
+                        "text": "Microwaves travel faster than other electromagnetic waves, delivering energy more quickly",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All electromagnetic waves travel at the same speed in a vacuum (the speed of light). The effectiveness of microwaves for heating food is due to their interaction with water molecules, not their speed of travel."
+                    },
+                    {
+                        "text": "Microwaves are the only electromagnetic waves that can transfer energy to matter",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All electromagnetic waves can transfer energy to matter. Different types of waves interact with matter in different ways, but they all can cause heating to some degree. Microwaves are particularly effective at heating food because they cause water molecules to vibrate rapidly."
+                    }
+                ],
+                "funFact": "Microwave ovens were invented accidentally in 1945 when engineer Percy Spencer was working with a magnetron (a device that produces microwaves) and noticed that a chocolate bar in his pocket had melted. This led to experiments with popcorn and eggs, which eventually resulted in the development of the microwave oven for cooking food!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question about microwave heating, asking students to explain the physical process in terms of wave energy transfer to matter and particle vibration"
+        },
+        {
+            "question": {
+                "text": "When comparing two waves that have the same amplitude, but one has a shorter wavelength than the other, what can you conclude about their energies?",
+                "options": [
+                    {
+                        "text": "The wave with the shorter wavelength has more energy because it has a higher frequency.",
+                        "isCorrect": 1,
+                        "explanation": "When wavelength decreases while amplitude remains constant, frequency increases (since wave speed = frequency \u00d7 wavelength). Higher frequency means more wave cycles per second, which results in more energy being transferred in a given time period."
+                    },
+                    {
+                        "text": "The wave with the shorter wavelength has less energy because it covers less distance.",
+                        "isCorrect": 0,
+                        "explanation": "This misconception confuses wavelength with the total distance a wave travels. The energy of a wave is related to its amplitude and frequency, not the physical distance it covers."
+                    },
+                    {
+                        "text": "Both waves have the same energy because they have the same amplitude.",
+                        "isCorrect": 0,
+                        "explanation": "While amplitude is related to a wave's energy (energy is proportional to amplitude squared), frequency also affects energy. Two waves with equal amplitude but different frequencies will have different energies."
+                    },
+                    {
+                        "text": "The wave with the shorter wavelength has less energy because shorter waves are weaker.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The strength or energy of a wave is not inversely related to wavelength. In fact, shorter wavelengths generally correspond to higher frequencies and therefore more energy when amplitude is constant."
+                    }
+                ],
+                "funFact": "This relationship between wavelength and energy is why gamma rays (with extremely short wavelengths) are much more energetic and potentially dangerous than radio waves (with very long wavelengths), even when they have the same amplitude."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question asking students to predict what happens to wave energy when wavelength is decreased but amplitude remains constant, utilizing the mathematical relationships between wave properties"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the relationship between visible light colors and their energy?",
+                "options": [
+                    {
+                        "text": "Red light has the highest energy because it has the longest wavelength.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While red light does have the longest wavelength in the visible spectrum, longer wavelengths correspond to lower energy, not higher energy."
+                    },
+                    {
+                        "text": "Violet light has the highest energy because it has the shortest wavelength.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. In the electromagnetic spectrum, shorter wavelengths correspond to higher frequencies and higher energy. Violet light has the shortest wavelength in the visible spectrum and therefore has the highest energy."
+                    },
+                    {
+                        "text": "All colors of visible light have the same energy regardless of wavelength.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Different colors of visible light have different wavelengths and therefore different energies. Energy is inversely proportional to wavelength."
+                    },
+                    {
+                        "text": "The energy of light depends only on its amplitude, not its wavelength or frequency.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While amplitude is related to the intensity or brightness of light, the energy of an individual photon is determined by its frequency (or wavelength). Higher frequency (shorter wavelength) light has higher energy per photon."
+                    }
+                ],
+                "funFact": "The relationship between energy and wavelength is why ultraviolet light can cause sunburn while visible light doesn't. UV light has shorter wavelengths and higher energy than visible light, allowing it to damage skin cells, which is why sunscreen is designed to block these harmful high-energy waves."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question requiring analysis of visible light colors (red vs. violet) and determination of which has more energy based on wavelength properties"
+        },
+        {
+            "question": {
+                "text": "Why are X-rays effective for medical imaging of bones but not soft tissues?",
+                "options": [
+                    {
+                        "text": "X-rays have longer wavelengths than radio waves, allowing them to pass through all body tissues equally",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. X-rays actually have shorter wavelengths than radio waves, not longer. Also, X-rays don't pass through all tissues equally - they're absorbed differently by different tissues."
+                    },
+                    {
+                        "text": "X-rays have high energy due to their short wavelength, and bones absorb this energy while soft tissues allow most of it to pass through",
+                        "isCorrect": 1,
+                        "explanation": "Correct! X-rays have short wavelengths and high energy. Bones, which contain calcium and other dense elements, absorb more X-ray energy than soft tissues. This difference in absorption creates the contrast that makes bones appear white on X-ray images while soft tissues appear gray."
+                    },
+                    {
+                        "text": "X-rays have lower energy than visible light, making them ideal for penetrating soft tissue but being blocked by bones",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. X-rays actually have higher energy than visible light, not lower. Their high energy is what allows them to penetrate soft tissues."
+                    },
+                    {
+                        "text": "X-rays have the same wavelength as ultraviolet light, which is naturally blocked by calcium in bones",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. X-rays have shorter wavelengths than ultraviolet light. While calcium in bones does absorb X-rays, the mechanism is related to the density and atomic structure of bone tissue, not a specific relationship to ultraviolet light."
+                    },
+                    {
+                        "text": "X-rays have variable frequencies that can be adjusted to only interact with bone tissue",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While X-ray machines can be adjusted to different settings, they cannot be tuned to interact only with bone tissue. The contrast in X-ray images comes from the natural difference in how various tissues absorb X-ray energy."
+                    }
+                ],
+                "funFact": "Wilhelm R\u00f6ntgen discovered X-rays in 1895 and took the first X-ray image of his wife's hand, showing her bones and wedding ring. When she saw the image of her skeletal hand, she exclaimed, 'I have seen my death!' Despite her reaction, this discovery revolutionized medicine and earned R\u00f6ntgen the first Nobel Prize in Physics in 1901."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question about real-world applications, asking students to explain why X-rays can pass through soft tissue but are blocked by bones, using concepts of energy and wave-matter interactions"
+        },
+        {
+            "question": {
+                "text": "A sound wave's amplitude determines how loud we perceive the sound. When comparing two sound waves with different amplitudes but the same frequency, which statement correctly describes their relationship?",
+                "options": [
+                    {
+                        "text": "If the amplitude of a sound wave doubles, the energy of the wave doubles.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is proportional to the square of its amplitude, not directly proportional. When amplitude doubles, the energy increases by a factor of 4."
+                    },
+                    {
+                        "text": "If the amplitude of a sound wave doubles, the energy of the wave quadruples.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The energy of a wave is proportional to the square of its amplitude. Therefore, when the amplitude doubles (\u00d72), the energy increases by a factor of 2\u00b2 = 4 times."
+                    },
+                    {
+                        "text": "If the amplitude of a sound wave doubles, the wavelength of the sound doubles.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Changing the amplitude of a wave does not affect its wavelength. Wavelength is determined by the frequency and the speed of the wave, not its amplitude."
+                    },
+                    {
+                        "text": "If the amplitude of a sound wave doubles, the frequency of the sound doubles.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Changing the amplitude of a wave does not affect its frequency. Frequency is determined by the source of the wave and remains constant even if amplitude changes."
+                    },
+                    {
+                        "text": "If the amplitude of a sound wave doubles, the volume we perceive decreases by half.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Increasing the amplitude of a sound wave increases the perceived volume or loudness. When amplitude doubles, the sound becomes louder, not quieter."
+                    }
+                ],
+                "funFact": "The human ear can detect sound wave amplitude differences so small that they cause our eardrum to move a distance less than the diameter of a hydrogen atom! This incredible sensitivity allows us to hear sounds ranging from a whisper to a jet engine, representing a difference in wave energy of about a trillion times."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question about sound waves where students must compare different amplitude sounds and explain how the energy differences relate to volume perception using wave mathematics"
+        },
+        {
+            "question": {
+                "text": "Wave A has twice the amplitude and half the frequency of Wave B. How does the energy of Wave A compare to the energy of Wave B?",
+                "options": [
+                    {
+                        "text": "Wave A has half the energy of Wave B",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is proportional to the square of its amplitude, and increasing amplitude increases energy. Though Wave A has half the frequency of Wave B, which would decrease energy, the amplitude effect is stronger."
+                    },
+                    {
+                        "text": "Wave A has the same energy as Wave B",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The effects of changing amplitude and frequency don't cancel each other out in this way. Amplitude has a squared relationship with energy, while frequency has a direct relationship."
+                    },
+                    {
+                        "text": "Wave A has four times the energy of Wave B",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While doubling the amplitude does increase energy by a factor of four, the frequency of Wave A is half that of Wave B, which reduces the energy by half."
+                    },
+                    {
+                        "text": "Wave A has twice the energy of Wave B",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The energy of a wave is proportional to the square of its amplitude and directly proportional to its frequency. When amplitude is doubled, energy increases by a factor of 4. When frequency is halved, energy decreases by a factor of 2. Therefore, the net effect is 4 \u00d7 (1/2) = 2, meaning Wave A has twice the energy of Wave B."
+                    }
+                ],
+                "funFact": "Ocean waves can travel thousands of miles across open water before reaching shore. During this journey, the energy in the wave is conserved, though the wave's shape and characteristics may change due to interactions with wind, currents, and the ocean floor."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question requiring students to predict the energy changes in a wave as multiple parameters (amplitude, frequency, wavelength) are altered simultaneously"
+        },
+        {
+            "question": {
+                "text": "In a science demonstration, a teacher creates waves in a water tank. The teacher changes the wave pattern and asks students to predict what happens to the energy of the waves. If the amplitude (height) of the water waves is doubled while keeping the frequency the same, how will the energy of the waves change?",
+                "options": [
+                    {
+                        "text": "The energy will remain the same.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is not independent of its amplitude. When the amplitude changes, the energy also changes."
+                    },
+                    {
+                        "text": "The energy will double.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While the energy does increase when amplitude increases, the relationship is not directly proportional (1:1)."
+                    },
+                    {
+                        "text": "The energy will become four times greater.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The energy of a wave is proportional to the square of its amplitude. When amplitude doubles (\u00d72), the energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "The energy will become half as great.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Increasing the amplitude of a wave increases its energy, not decreases it."
+                    },
+                    {
+                        "text": "The energy will become eight times greater.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While the energy does increase with amplitude, the relationship is proportional to the square of amplitude (not the cube). Doubling the amplitude results in 2\u00b2 = 4 times the energy, not 2\u00b3 = 8."
+                    }
+                ],
+                "funFact": "This mathematical relationship between wave amplitude and energy applies to all types of waves, including mechanical waves (like water waves) and electromagnetic waves. For electromagnetic waves, the energy is also proportional to frequency. Gamma rays are dangerous to living tissue primarily because of their high frequency, which gives each photon enough energy to damage cells and DNA."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A blueprint for a question asking students to analyze the relationship between a wave's physical characteristics and its mathematical representation, specifically how changing amplitude affects the mathematical model and physical energy"
+        },
+        {
+            "question": {
+                "text": "Two ocean waves are traveling toward a beach. Wave A has an amplitude of 2 meters, while Wave B has an amplitude of 4 meters. How does the energy of Wave B compare to the energy of Wave A?",
+                "options": [
+                    {
+                        "text": "Wave B has the same energy as Wave A.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is not directly equal to its amplitude but is proportional to the square of the amplitude."
+                    },
+                    {
+                        "text": "Wave B has twice the energy of Wave A.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While Wave B has twice the amplitude of Wave A, the energy of a wave is proportional to the square of the amplitude, not directly proportional to the amplitude."
+                    },
+                    {
+                        "text": "Wave B has four times the energy of Wave A.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The energy of a wave is proportional to the square of its amplitude. Since Wave B's amplitude (4 meters) is twice that of Wave A (2 meters), the energy is 2\u00b2 = 4 times greater."
+                    },
+                    {
+                        "text": "Wave B has eight times the energy of Wave A.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is proportional to the square of the amplitude, not the cube. Since the amplitude is doubled, the energy is increased by a factor of 2\u00b2 = 4, not 2\u00b3 = 8."
+                    },
+                    {
+                        "text": "Wave B has 16 times the energy of Wave A.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is proportional to the square of the amplitude. Since the amplitude is doubled, the energy is increased by a factor of 2\u00b2 = 4, not 2\u2074 = 16."
+                    }
+                ],
+                "funFact": "Ocean waves can travel thousands of miles across open water before reaching shore. During major storms, waves can release more than 10 kilowatts of power per meter of coastline\u2014enough energy that many countries are developing technologies to harness wave power as a renewable energy source!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to compare the energy levels of two waves with different amplitudes, where one has twice the amplitude of the other, requiring students to apply the relationship that energy is proportional to the square of amplitude"
+        },
+        {
+            "question": {
+                "text": "Based on your knowledge of the electromagnetic spectrum, which statement correctly describes the relationship between wavelength and frequency for electromagnetic waves?",
+                "options": [
+                    {
+                        "text": "As wavelength increases, frequency also increases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency have an inverse relationship, not a direct relationship. When wavelength increases, frequency decreases, and vice versa."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency decreases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency have an inverse relationship. When wavelength decreases, frequency increases, not decreases."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency increases",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Wavelength and frequency have an inverse relationship. As you move from radio waves to gamma rays on the electromagnetic spectrum, wavelength decreases while frequency increases."
+                    },
+                    {
+                        "text": "Wavelength and frequency are unrelated to each other",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency are directly related to each other by an inverse relationship. They are not independent variables."
+                    },
+                    {
+                        "text": "The relationship between wavelength and frequency depends on the type of electromagnetic wave",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The inverse relationship between wavelength and frequency is consistent across all types of electromagnetic waves, from radio waves to gamma rays."
+                    }
+                ],
+                "funFact": "All electromagnetic waves travel at the same speed in a vacuum\u2014the speed of light, which is approximately 300,000,000 meters per second! This means that the product of wavelength and frequency is always constant. Higher frequency (and thus shorter wavelength) radiation like gamma rays has more energy, which is why it can be dangerous to living organisms."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting data about wavelength and frequency for different types of electromagnetic waves, asking students to identify the pattern of how these properties relate to each other across the electromagnetic spectrum"
+        },
+        {
+            "question": {
+                "text": "A scientist is designing a new microwave oven and wants to increase its ability to heat food more quickly. Which change to the microwaves would most effectively accomplish this goal?",
+                "options": [
+                    {
+                        "text": "Decreasing the frequency of the microwaves",
+                        "isCorrect": 0,
+                        "explanation": "Decreasing frequency would reduce energy transfer, as lower-frequency waves carry less energy. This would make the microwave less efficient at heating food."
+                    },
+                    {
+                        "text": "Increasing the frequency of the microwaves",
+                        "isCorrect": 1,
+                        "explanation": "Increasing frequency leads to greater energy transfer per unit time. Higher-frequency waves carry more energy, allowing the microwave to heat food more efficiently."
+                    },
+                    {
+                        "text": "Keeping the frequency the same but making the waves travel more slowly",
+                        "isCorrect": 0,
+                        "explanation": "The speed of electromagnetic waves in a given medium is constant. Changing the speed wouldn't be possible without changing the medium, and wouldn't directly affect heating efficiency."
+                    },
+                    {
+                        "text": "Making the waves continuous instead of pulsing",
+                        "isCorrect": 0,
+                        "explanation": "While continuous waves might provide more constant heating, this change doesn't address the relationship between frequency and energy transfer, which is the key factor in improving heating efficiency."
+                    },
+                    {
+                        "text": "Changing the direction of the microwaves",
+                        "isCorrect": 0,
+                        "explanation": "The direction of the waves doesn't affect their energy content. Energy transfer depends on frequency and amplitude, not direction."
+                    }
+                ],
+                "funFact": "Microwave ovens typically operate at a specific frequency of 2.45 GHz, which was chosen because it's particularly effective at exciting water molecules in food while allowing the waves to penetrate deep enough into the food. Interestingly, this frequency is shared with many WiFi routers, which is why your internet connection might experience interference when your microwave is running!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze how changing the frequency of a microwave would affect its ability to heat water, based on the relationship between frequency and energy transfer"
+        },
+        {
+            "question": {
+                "text": "Why can X-rays pass through soft tissue in the human body but get absorbed by bones?",
+                "options": [
+                    {
+                        "text": "X-rays have a shorter wavelength than visible light, giving them more energy to penetrate soft tissue, but bones contain calcium which absorbs this energy",
+                        "isCorrect": 1,
+                        "explanation": "X-rays have high energy due to their short wavelength. This allows them to pass through soft tissue, but the dense calcium in bones absorbs the X-ray energy, creating the contrast seen in X-ray images."
+                    },
+                    {
+                        "text": "X-rays have a longer wavelength than visible light, allowing them to move around soft tissue cells but get blocked by the larger bone cells",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. X-rays actually have shorter wavelengths than visible light, not longer. Wave penetration ability is related to energy, not the ability to move around cells of different sizes."
+                    },
+                    {
+                        "text": "X-rays have the same wavelength as radio waves, which can only penetrate soft materials",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. X-rays have much shorter wavelengths than radio waves. Radio waves are at the opposite end of the electromagnetic spectrum and have much lower energy than X-rays."
+                    },
+                    {
+                        "text": "X-rays have lower amplitude than other waves, allowing them to pass through soft tissue but not bones",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The ability of X-rays to penetrate matter is related to their wavelength and energy, not their amplitude. Amplitude affects the intensity of waves but not their penetrating ability."
+                    }
+                ],
+                "funFact": "Wilhelm R\u00f6ntgen discovered X-rays in 1895 and took the first X-ray image of his wife's hand. When she saw her skeleton, she exclaimed, 'I have seen my death!' The medical use of X-rays revolutionized medicine by allowing doctors to see inside the body without surgery."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a scenario about X-rays and their ability to pass through different materials, asking students to analyze why they can pass through soft tissue but are blocked by bones based on wave properties"
+        },
+        {
+            "question": {
+                "text": "A radio station broadcasts waves that hit an antenna at a rate of 500 waves per second. If the broadcasting equipment is adjusted so that 1,000 waves hit the antenna per second, how would the energy transfer to the antenna change?",
+                "options": [
+                    {
+                        "text": "The energy transfer would remain the same.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amount of energy transferred by waves in a given time is proportional to frequency. When the frequency doubles, the energy transfer also doubles."
+                    },
+                    {
+                        "text": "The energy transfer would double.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The amount of energy transferred by waves in a given time is proportional to frequency. When the frequency doubles from 500 to 1,000 waves per second, the energy transfer also doubles."
+                    },
+                    {
+                        "text": "The energy transfer would quadruple.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Energy transfer is proportional to frequency, not the square of frequency. Doubling the frequency doubles (not quadruples) the energy transfer."
+                    },
+                    {
+                        "text": "The energy transfer would be halved.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Energy transfer increases (not decreases) with frequency. When frequency doubles, energy transfer doubles rather than being reduced."
+                    },
+                    {
+                        "text": "The energy transfer would increase, but the exact amount cannot be determined without knowing the amplitude.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While amplitude does affect the energy of individual waves, the question is about the total energy transfer, which is proportional to frequency. Doubling the frequency doubles the energy transfer, regardless of amplitude."
+                    }
+                ],
+                "funFact": "Radio stations are assigned specific frequencies for broadcasting. AM radio frequencies range from 540 to 1,700 kilohertz (thousands of waves per second), while FM radio frequencies range from 88 to 108 megahertz (millions of waves per second). The higher frequency of FM radio allows it to carry more information and provide better sound quality!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to predict how the energy transfer would change if the number of radio waves hitting an antenna doubled in a given time period"
+        },
+        {
+            "question": {
+                "text": "Which color of visible light has the highest energy?",
+                "options": [
+                    {
+                        "text": "Red",
+                        "isCorrect": 0,
+                        "explanation": "Red light has the longest wavelength in the visible spectrum, which means it has the lowest frequency and therefore the lowest energy."
+                    },
+                    {
+                        "text": "Green",
+                        "isCorrect": 0,
+                        "explanation": "Green light has a wavelength in the middle of the visible spectrum, so its energy is also in the middle - higher than red but lower than violet."
+                    },
+                    {
+                        "text": "Blue",
+                        "isCorrect": 0,
+                        "explanation": "Blue light has a shorter wavelength than green and red, giving it higher energy, but it still has a longer wavelength than violet."
+                    },
+                    {
+                        "text": "Violet",
+                        "isCorrect": 1,
+                        "explanation": "Violet light has the shortest wavelength in the visible spectrum, which means it has the highest frequency and therefore carries the most energy."
+                    },
+                    {
+                        "text": "All colors of visible light have the same energy",
+                        "isCorrect": 0,
+                        "explanation": "Different colors of light represent different wavelengths and frequencies on the electromagnetic spectrum. Shorter wavelengths (like violet) have higher frequencies and higher energy than longer wavelengths (like red)."
+                    }
+                ],
+                "funFact": "The relationship between color and energy is why ultraviolet light (beyond violet) can damage skin and cause sunburns, while infrared light (below red) is felt as heat but doesn't have enough energy to cause the same kind of damage."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question showing graphical representations of visible light waves of different colors, asking students to identify which color would have the most energy based on wavelength and frequency patterns"
+        },
+        {
+            "question": {
+                "text": "A thermal imaging camera is being used by firefighters to locate people in a smoke-filled building. The camera detects infrared waves coming from body heat. If the amplitude of the infrared waves emitted by a person were to double, how would this affect the amount of energy detected by the camera?",
+                "options": [
+                    {
+                        "text": "The energy would remain the same because only wavelength affects energy in waves.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave is not independent of amplitude. There is a direct relationship between wave amplitude and energy."
+                    },
+                    {
+                        "text": "The energy would double because energy is directly proportional to amplitude.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While energy does increase with amplitude, the relationship is not directly proportional (1:1 ratio)."
+                    },
+                    {
+                        "text": "The energy would quadruple because energy is proportional to the square of the amplitude.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The energy carried by a wave is proportional to the square of its amplitude. When amplitude doubles, energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "The energy would decrease because amplitude and energy are inversely related.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Amplitude and energy are not inversely related; they are positively related. Higher amplitude means more energy, not less."
+                    },
+                    {
+                        "text": "The energy would increase by a factor of eight because energy is proportional to the cube of the amplitude.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Energy is proportional to the square of amplitude (not the cube). If amplitude doubles, energy increases by 2\u00b2 = 4 times, not 2\u00b3 = 8 times."
+                    }
+                ],
+                "funFact": "Thermal imaging technology was first developed for military use in the 1950s, but today it has numerous applications beyond firefighting, including building inspections to detect heat leaks, medical diagnostics to identify inflammation, and wildlife studies to locate animals at night."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze a thermal imaging scenario, asking how changes to the infrared waves' properties would affect the amount of energy detected by the camera"
+        },
+        {
+            "question": {
+                "text": "Ultraviolet (UV) light comes in different wavelengths and frequencies. Suppose UV-A waves have a wavelength of about 340 nanometers, while UV-C waves have a wavelength of about 260 nanometers. Scientists have observed that UV-C waves cause more damage to skin cell DNA than UV-A waves. Which statement best explains why UV-C waves are more damaging to skin cells?",
+                "options": [
+                    {
+                        "text": "UV-C waves have a higher frequency than UV-A waves, so they transfer more energy when absorbed by skin cells.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Since UV-C has a shorter wavelength than UV-A, it has a higher frequency. Higher frequency waves carry more energy, which allows UV-C to cause more damage to DNA in skin cells when absorbed."
+                    },
+                    {
+                        "text": "UV-C waves have a longer wavelength than UV-A waves, so they transfer more energy when absorbed by skin cells.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. UV-C actually has a shorter wavelength (260 nm) than UV-A (340 nm), not longer. Additionally, longer wavelengths correspond to lower frequencies and less energy."
+                    },
+                    {
+                        "text": "UV-C and UV-A waves transfer the same amount of energy, but skin cells absorb UV-C waves more easily.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. UV-C and UV-A waves do not transfer the same amount of energy. The energy of electromagnetic waves is directly related to their frequency, with higher frequencies carrying more energy."
+                    },
+                    {
+                        "text": "UV-C waves have a greater amplitude than UV-A waves, which is the only factor that determines the energy of a wave.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While amplitude does affect a wave's energy, it is not the only factor. For electromagnetic waves like UV radiation, frequency is directly related to energy. The statement also incorrectly assumes that UV-C naturally has greater amplitude than UV-A, which isn't necessarily true."
+                    }
+                ],
+                "funFact": "Our atmosphere acts as a natural shield against harmful UV radiation. Ozone in the stratosphere absorbs most of the high-energy UV-C rays, which is fortunate since these rays could cause severe damage to all living organisms if they reached Earth's surface in large amounts. This is why ozone layer depletion is a serious environmental concern!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting data about ultraviolet waves and their effects on materials, asking students to use wave models to explain why higher frequency UV waves cause more damage to skin cells"
+        },
+        {
+            "question": {
+                "text": "Why does it require thick lead shielding to protect against gamma ray exposure, while paper or aluminum can effectively block other types of radiation?",
+                "options": [
+                    {
+                        "text": "Because gamma rays have the longest wavelength in the electromagnetic spectrum",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gamma rays actually have the shortest wavelength in the electromagnetic spectrum, not the longest. Radio waves have the longest wavelength."
+                    },
+                    {
+                        "text": "Because gamma rays have the highest frequency and energy in the electromagnetic spectrum",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Gamma rays have the shortest wavelength and highest frequency in the electromagnetic spectrum, which gives them more energy. This high energy allows them to penetrate through most materials, including paper and aluminum, requiring dense materials like lead to block them."
+                    },
+                    {
+                        "text": "Because gamma rays move faster than other forms of electromagnetic radiation",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All electromagnetic waves, including gamma rays, travel at the same speed in a vacuum (the speed of light)."
+                    },
+                    {
+                        "text": "Because gamma rays have larger amplitude than other forms of electromagnetic radiation",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amplitude of a wave is related to its intensity or brightness, not its penetrating power. The penetrating power of gamma rays is related to their high frequency and energy, not their amplitude."
+                    }
+                ],
+                "funFact": "The relationship between wave energy and amplitude is actually a squared relationship - if you double the amplitude of a wave, you quadruple its energy! However, when comparing different types of electromagnetic radiation, it's the frequency (or inversely, the wavelength) that determines the energy level and penetrating power."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to analyze how gamma ray shielding requirements relate to the properties that give gamma rays their high energy levels"
+        },
+        {
+            "question": {
+                "text": "A scientist conducted an experiment measuring the amplitude of sound waves and the energy they carried. The results are shown in the table below:\n\nAmplitude (mm) | Energy (mJ)\n--------------|----------\n1             | 0.4\n2             | 1.6\n3             | 3.6\n4             | 6.4\n\nWhat mathematical relationship best describes how the energy of a sound wave relates to its amplitude?",
+                "options": [
+                    {
+                        "text": "The energy is proportional to the amplitude (E \u221d A).",
+                        "isCorrect": 0,
+                        "explanation": "This option suggests a direct linear relationship where doubling the amplitude would double the energy. Looking at the data, when amplitude doubles from 1 to 2, the energy increases from 0.4 to 1.6 (a factor of 4, not 2), which doesn't support this relationship."
+                    },
+                    {
+                        "text": "The energy is proportional to the square of the amplitude (E \u221d A\u00b2).",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. For each amplitude value, if you square it and multiply by 0.4, you get the corresponding energy value. For example: when A = 2, E = 0.4 \u00d7 2\u00b2 = 0.4 \u00d7 4 = 1.6 mJ. This relationship holds for all data points in the table."
+                    },
+                    {
+                        "text": "The energy is proportional to the cube of the amplitude (E \u221d A\u00b3).",
+                        "isCorrect": 0,
+                        "explanation": "This option suggests that energy increases with the cube of amplitude. If this were true, when amplitude increases from 1 to 2, energy would increase by a factor of 8, not 4 as shown in the data. The data doesn't support this relationship."
+                    },
+                    {
+                        "text": "The energy is inversely proportional to the amplitude (E \u221d 1/A).",
+                        "isCorrect": 0,
+                        "explanation": "This option suggests that as amplitude increases, energy decreases. This contradicts the data completely, as we can clearly see energy increasing with amplitude in every measurement."
+                    },
+                    {
+                        "text": "The energy is proportional to the square root of the amplitude (E \u221d \u221aA).",
+                        "isCorrect": 0,
+                        "explanation": "This option suggests that energy would increase less rapidly than amplitude. If this were true, doubling the amplitude from 1 to 2 would only increase energy by a factor of about 1.4, not by the factor of 4 shown in the data."
+                    }
+                ],
+                "funFact": "The relationship between amplitude and energy (E \u221d A\u00b2) applies to all types of waves, not just sound. This is why ocean waves with twice the height carry four times the energy and can cause significantly more damage when they reach shore. The same principle applies to earthquakes, where a single point increase on the Richter scale represents approximately 32 times more energy!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting data on amplitude and energy measurements for sound waves, asking students to identify the mathematical relationship between them"
+        },
+        {
+            "question": {
+                "text": "Which of the following electromagnetic waves would transfer more energy to an object in one second?",
+                "options": [
+                    {
+                        "text": "Radio waves with a frequency of 100 MHz",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves have lower frequencies and therefore transfer less energy than higher frequency waves. At 100 MHz, these would transfer less energy than gamma rays."
+                    },
+                    {
+                        "text": "Gamma rays with a frequency of 10^20 Hz",
+                        "isCorrect": 1,
+                        "explanation": "Gamma rays have the highest frequency of all electromagnetic waves, around 10^20 Hz. The amount of energy transferred by waves in a given time is proportional to frequency, so gamma rays transfer more energy than radio waves."
+                    },
+                    {
+                        "text": "Both would transfer the same amount of energy because all electromagnetic waves travel at the same speed",
+                        "isCorrect": 0,
+                        "explanation": "While all electromagnetic waves do travel at the same speed in a vacuum, their energy transfer rate depends on their frequency, not their speed. Higher frequency waves transfer more energy per second."
+                    },
+                    {
+                        "text": "The energy transfer would depend only on the amplitude of the waves, not their frequency",
+                        "isCorrect": 0,
+                        "explanation": "While amplitude does affect the energy of a wave (energy is proportional to amplitude squared), the rate of energy transfer in a given time also depends on frequency. Higher frequency waves deliver more wave cycles per second and therefore more energy."
+                    }
+                ],
+                "funFact": "The entire electromagnetic spectrum spans more than 20 orders of magnitude in frequency - from low-frequency radio waves (around 10^3 Hz) to high-frequency gamma rays (above 10^20 Hz). This means gamma rays can deliver over a quintillion (10^18) times more energy per second than the lowest radio waves!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to compare the energy transfer rates of two different sections of the electromagnetic spectrum based on their frequencies"
+        },
+        {
+            "question": {
+                "text": "In the electromagnetic spectrum, violet light has a shorter wavelength than red light. If the wavelength of a light wave is halved, how does this change affect the energy of the wave?",
+                "options": [
+                    {
+                        "text": "The energy is halved",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When wavelength decreases, energy increases, not decreases. The energy of an electromagnetic wave is inversely proportional to its wavelength."
+                    },
+                    {
+                        "text": "The energy is doubled",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The energy of an electromagnetic wave is inversely proportional to its wavelength. When the wavelength is halved, the frequency doubles, and the energy doubles as well."
+                    },
+                    {
+                        "text": "The energy remains the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Changing the wavelength does affect the energy of the wave. Specifically, decreasing the wavelength increases the energy."
+                    },
+                    {
+                        "text": "The energy is quadrupled",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While amplitude squared is proportional to energy, the relationship between wavelength and energy is different. When wavelength is halved, energy is doubled, not quadrupled."
+                    },
+                    {
+                        "text": "The energy is reduced to zero",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Reducing wavelength actually increases energy, not reduces it to zero. All electromagnetic waves carry energy."
+                    }
+                ],
+                "funFact": "Our eyes can only detect a tiny portion of the electromagnetic spectrum as visible light. If we could see gamma rays, our world would look completely different - even ordinary objects like bananas would glow because they naturally emit a small amount of gamma radiation from potassium-40!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to analyze how changing the wavelength of visible light affects both its color and energy level, requiring application of the mathematical wave model"
+        }
+    ]
+}

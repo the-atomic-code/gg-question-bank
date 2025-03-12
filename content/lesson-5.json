@@ -1,0 +1,1086 @@
+{
+    "id": "lesson-5",
+    "title": "Comparative Anatomy",
+    "standard": "MS-LS4-2",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "Which pattern of bones is found in the upper limbs (arm/wing/flipper) of humans, dogs, fruit bats, and dolphins?",
+                "options": [
+                    {
+                        "text": "One large bone connected to two bones, connected to many small bones, ending in finger-like bones",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct pattern seen in all these mammals, showing their common evolutionary ancestry despite their different lifestyles"
+                    },
+                    {
+                        "text": "Two large bones connected to one bone, connected to many small bones, ending in claws",
+                        "isCorrect": 0,
+                        "explanation": "This pattern is incorrect - all these mammals have one upper arm bone (humerus) that connects to two forearm bones (radius and ulna)"
+                    },
+                    {
+                        "text": "Three bones of equal size connected to multiple small bones, ending in a single large bone",
+                        "isCorrect": 0,
+                        "explanation": "This pattern does not match the actual bone structure found in these mammals' limbs"
+                    },
+                    {
+                        "text": "Multiple small bones connected to one large bone, ending in webbed fingers",
+                        "isCorrect": 0,
+                        "explanation": "While some of these animals have webbed fingers, this does not accurately describe the bone pattern in their limbs"
+                    }
+                ],
+                "funFact": "Despite evolving for different purposes - walking, flying, and swimming - the basic bone structure in the upper limbs of all mammals has remained remarkably similar for over 200 million years, demonstrating their shared evolutionary history!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question identifying the basic bone pattern shared between humans, dogs, fruit bats, and dolphins in their upper extremities"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the main anatomical difference between male and female human skeletons?",
+                "options": [
+                    {
+                        "text": "Males have wider pelvises while females have wider shoulders",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The opposite is true - males typically have wider shoulders while females have wider pelvises."
+                    },
+                    {
+                        "text": "Males have wider shoulders while females have wider pelvises",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. While male and female skeletons share the same basic bone structure, males typically have wider shoulders and females have wider pelvises to accommodate childbirth."
+                    },
+                    {
+                        "text": "Males have more bones than females",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Male and female skeletons have the same number of bones - the differences are in proportions and dimensions, not the number of bones."
+                    },
+                    {
+                        "text": "Males and females have completely different skeletal structures",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Male and female skeletons share the same basic bone structure and arrangement, with only slight differences in proportions."
+                    }
+                ],
+                "funFact": "The wider female pelvis evolved as a crucial adaptation for human childbirth, as human babies have relatively large heads compared to other primates. This adaptation was necessary when humans evolved to walk upright on two legs!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about the basic anatomical differences between male and female human skeletons"
+        },
+        {
+            "question": {
+                "text": "In a population of wild rabbits, some individuals have thicker fur that helps them survive cold winters better than rabbits with thinner fur. How does this beneficial trait become more common in the rabbit population over time?",
+                "options": [
+                    {
+                        "text": "Rabbits with thick fur teach other rabbits how to grow thicker fur",
+                        "isCorrect": 0,
+                        "explanation": "Acquired traits cannot be taught to other organisms. Traits are passed through genes, not through learning."
+                    },
+                    {
+                        "text": "Rabbits with thick fur survive better, reproduce more, and pass the trait to their offspring",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes natural selection - beneficial traits help organisms survive and reproduce, allowing these traits to be passed to future generations."
+                    },
+                    {
+                        "text": "All rabbits gradually develop thicker fur as they get older",
+                        "isCorrect": 0,
+                        "explanation": "Individual organisms don't gradually develop new traits during their lifetime. Changes occur across generations through inheritance."
+                    },
+                    {
+                        "text": "Rabbits choose to grow thicker fur when they need it",
+                        "isCorrect": 0,
+                        "explanation": "Organisms cannot consciously choose to develop new traits. Genetic traits are inherited, not developed by choice."
+                    }
+                ],
+                "funFact": "The Arctic hare, a relative of rabbits, has evolved such effective thick white fur that it can survive in temperatures as low as -40\u00b0F (-40\u00b0C) in the Arctic tundra. Their fur even covers the soles of their feet!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about how successful traits get passed down through generations and become more common in populations over time"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of studying comparative anatomy in biology?",
+                "options": [
+                    {
+                        "text": "To understand how organisms are related through their structural similarities and differences",
+                        "isCorrect": 1,
+                        "explanation": "Comparative anatomy helps scientists understand evolutionary relationships by examining shared structural patterns between organisms, both living and extinct."
+                    },
+                    {
+                        "text": "To determine which organisms are stronger and more likely to survive",
+                        "isCorrect": 0,
+                        "explanation": "Comparative anatomy is not about determining organism strength or survival chances, but rather about understanding relationships through structural similarities."
+                    },
+                    {
+                        "text": "To learn how to build better artificial organs and limbs",
+                        "isCorrect": 0,
+                        "explanation": "While anatomical knowledge can help in medical technology, the primary purpose of comparative anatomy is to study evolutionary relationships, not to develop artificial body parts."
+                    },
+                    {
+                        "text": "To classify organisms based on their size and weight",
+                        "isCorrect": 0,
+                        "explanation": "Comparative anatomy focuses on structural patterns and similarities, not on classifying organisms by their physical measurements."
+                    }
+                ],
+                "funFact": "The first major comparative anatomy studies were conducted by Aristotle in ancient Greece. He dissected and compared over 50 different animal species, laying the groundwork for modern evolutionary biology."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing knowledge of comparative anatomy definition and its purpose in studying structural similarities between organisms"
+        },
+        {
+            "question": {
+                "text": "Which statement best describes why fossils are important in understanding evolution?",
+                "options": [
+                    {
+                        "text": "Fossils provide physical evidence of how organisms have changed over long periods of time and show relationships between extinct and living species",
+                        "isCorrect": 1,
+                        "explanation": "Fossils preserve the remains of ancient organisms and allow us to see how species have evolved over millions of years, showing transitions between extinct and modern forms"
+                    },
+                    {
+                        "text": "Fossils only tell us what ancient organisms looked like but provide no information about evolution",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because fossils do more than just show appearance - they provide crucial evidence of evolutionary changes and relationships between species over time"
+                    },
+                    {
+                        "text": "Fossils are important because they preserve all organisms that ever lived on Earth",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because fossilization is rare and not all organisms become fossils - we only have fossils from a small fraction of past life"
+                    },
+                    {
+                        "text": "Fossils are only useful for determining the age of rocks",
+                        "isCorrect": 0,
+                        "explanation": "While fossils can help date rocks, their primary importance for evolution is showing how organisms have changed over time and how species are related"
+                    }
+                ],
+                "funFact": "The oldest known fossils are of bacteria-like organisms that lived approximately 3.5 billion years ago! These microscopic fossils were discovered in rocks from Western Australia and help us understand the very early evolution of life on Earth."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about what fossils are and their importance in providing evidence for evolution"
+        },
+        {
+            "question": {
+                "text": "Based on the fossil record of whale skulls, which statement best explains the change in blowhole position from 50 million years ago to modern whales?",
+                "options": [
+                    {
+                        "text": "The blowhole gradually moved from the front of the skull to the top, allowing whales to breathe more efficiently while swimming",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The fossil record shows the blowhole position shifted from the front to the top of the skull over millions of years, making it easier for whales to breathe while staying mostly submerged."
+                    },
+                    {
+                        "text": "The blowhole suddenly appeared on top of the skull in modern whales without any intermediate forms",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. The fossil record shows a gradual change in blowhole position over millions of years, not a sudden appearance."
+                    },
+                    {
+                        "text": "The blowhole moved from the top of the skull to the front as whales evolved",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. The fossil evidence shows the opposite - the blowhole moved from the front to the top of the skull over time."
+                    },
+                    {
+                        "text": "The blowhole position has remained unchanged for the past 50 million years",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. Fossil evidence clearly shows the blowhole position changed significantly over millions of years."
+                    }
+                ],
+                "funFact": "Modern whales can hold their breath for impressive amounts of time - sperm whales can stay underwater for up to 90 minutes on a single breath! Their efficient blowhole position helps them quickly replenish oxygen when they surface."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing knowledge of how whale skull structure and blowhole position have changed over millions of years"
+        },
+        {
+            "question": {
+                "text": "Why do human embryos initially develop features like tails that later disappear during development?",
+                "options": [
+                    {
+                        "text": "These features are evidence of evolutionary relationships with other organisms that share a common ancestor",
+                        "isCorrect": 1,
+                        "explanation": "Early embryonic features that later disappear reflect our evolutionary history and common ancestry with other organisms that retain these features in adulthood"
+                    },
+                    {
+                        "text": "These features are random mutations that serve no purpose",
+                        "isCorrect": 0,
+                        "explanation": "These features are not random - they appear consistently during development and reflect our evolutionary history"
+                    },
+                    {
+                        "text": "These features help the embryo survive inside the womb",
+                        "isCorrect": 0,
+                        "explanation": "Features like tails do not serve a survival function for human embryos in the womb - they are developmental remnants from our evolutionary past"
+                    },
+                    {
+                        "text": "These features are mistakes in development that get corrected",
+                        "isCorrect": 0,
+                        "explanation": "The appearance and disappearance of these features is a normal part of development, not mistakes that need correction"
+                    }
+                ],
+                "funFact": "Many mammals go through a stage in embryonic development where they have a yolk sac, even though only egg-laying animals use yolk for nutrition. This is another example of a temporary embryonic feature that reflects evolutionary history!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about why human embryos initially develop certain features (like tails) that later disappear"
+        },
+        {
+            "question": {
+                "text": "How do embryonic similarities between different species support evolutionary relationships?",
+                "options": [
+                    {
+                        "text": "Early embryos of different species show similar developmental patterns because they share common ancestors",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The presence of similar developmental patterns in early embryos of different species indicates their shared evolutionary history and common ancestry."
+                    },
+                    {
+                        "text": "Embryonic similarities are random coincidences with no evolutionary significance",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Embryonic similarities are not random but reflect shared evolutionary history and common descent."
+                    },
+                    {
+                        "text": "Embryonic similarities only occur between species that look alike as adults",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Even species that look very different as adults can show similar embryonic development patterns due to shared ancestry."
+                    },
+                    {
+                        "text": "Embryonic similarities are only important for studying current species relationships",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Embryonic similarities help understand both current and historical evolutionary relationships between species."
+                    }
+                ],
+                "funFact": "The temporary tail that human embryos develop during early stages of development is a fascinating example of our evolutionary heritage! This tail typically disappears by the eighth week of development, but in extremely rare cases, some humans are born with a vestigial tail."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing understanding of how embryonic similarities between different species provide evidence for evolutionary relationships"
+        },
+        {
+            "question": {
+                "text": "What key skeletal characteristic do eagles, Komodo dragons, and lizards share that provides evidence of their evolutionary relationship?",
+                "options": [
+                    {
+                        "text": "They all have a single occipital condyle",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Eagles, Komodo dragons, and lizards all have a single occipital condyle (the point where the skull attaches to the first vertebra), which is a characteristic feature of Sauropsida (reptiles and birds), suggesting their common evolutionary ancestry."
+                    },
+                    {
+                        "text": "They all have hollow bones",
+                        "isCorrect": 0,
+                        "explanation": "While birds like eagles have hollow bones as an adaptation for flight, reptiles like Komodo dragons and lizards have solid bones."
+                    },
+                    {
+                        "text": "They all have a similar wing structure",
+                        "isCorrect": 0,
+                        "explanation": "Only eagles have wings. Komodo dragons and lizards have legs but no wings, so this is not a shared characteristic among all three."
+                    },
+                    {
+                        "text": "They all have the same number of vertebrae",
+                        "isCorrect": 0,
+                        "explanation": "These animals have different numbers of vertebrae. Eagles typically have fewer vertebrae than Komodo dragons and lizards."
+                    }
+                ],
+                "funFact": "The single occipital condyle is a distinctive feature that separates birds and reptiles from mammals, which have two occipital condyles. This skeletal characteristic provides evidence that modern birds like eagles and reptiles like lizards and Komodo dragons share a common evolutionary ancestry within Sauropsida, despite their many other differences."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question identifying the key skeletal similarities between eagles, Komodo dragons and lizards"
+        },
+        {
+            "question": {
+                "text": "In vertebrate embryos, pharyngeal slits develop early in life but have different fates in different organisms. What is the key difference in how pharyngeal slits develop in fish compared to humans?",
+                "options": [
+                    {
+                        "text": "In fish, pharyngeal slits develop into gills, while in humans they develop into parts of the middle ear, eustachian tubes, tonsils, thymus, and parathyroid glands",
+                        "isCorrect": 1,
+                        "explanation": "This shows how similar embryonic structures can develop into different anatomical features based on evolutionary adaptations for different environments."
+                    },
+                    {
+                        "text": "In fish, pharyngeal slits disappear completely, while in humans they remain throughout life",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fish retain their pharyngeal slits as gills, while in humans they transform into different structures."
+                    },
+                    {
+                        "text": "In fish, pharyngeal slits develop into lungs, while in humans they develop into gills",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the actual development. Fish develop gills from pharyngeal slits, not lungs, and humans never develop gills."
+                    },
+                    {
+                        "text": "In fish and humans, pharyngeal slits develop exactly the same way into similar structures",
+                        "isCorrect": 0,
+                        "explanation": "Despite starting similarly, pharyngeal slits develop differently in fish and humans, showing how evolution leads to different adaptations."
+                    }
+                ],
+                "funFact": "The presence of pharyngeal slits in human embryos is one of the strongest pieces of evidence for our evolutionary connection to fish ancestors. These structures appear in all vertebrate embryos, from fish to humans, showing our shared evolutionary history!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing understanding of pharyngeal slits and how they develop differently in fish versus humans"
+        },
+        {
+            "question": {
+                "text": "Which sequence correctly shows the early developmental stages that all multicellular animals share?",
+                "options": [
+                    {
+                        "text": "Single cell \u2192 Mass of cells \u2192 Formation of basic structures like tails and slits \u2192 Differentiation into specialized structures",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct sequence of early development shared by all multicellular animals, from a single cell through formation of common structures that may later differentiate or disappear."
+                    },
+                    {
+                        "text": "Mass of cells \u2192 Single cell \u2192 Differentiation into specialized structures \u2192 Formation of basic structures",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect because development always begins with a single cell that divides to form a mass of cells, not the other way around."
+                    },
+                    {
+                        "text": "Formation of basic structures \u2192 Single cell \u2192 Mass of cells \u2192 Differentiation into specialized structures",
+                        "isCorrect": 0,
+                        "explanation": "Basic structures cannot form before there is a single cell or mass of cells. The sequence must begin with a single cell."
+                    },
+                    {
+                        "text": "Single cell \u2192 Formation of basic structures \u2192 Mass of cells \u2192 Differentiation into specialized structures",
+                        "isCorrect": 0,
+                        "explanation": "Basic structures cannot form directly from a single cell - the cell must first divide multiple times to form a mass of cells."
+                    }
+                ],
+                "funFact": "Even though all multicellular animals share similar developmental patterns, the time it takes varies greatly. A fruit fly's embryonic development takes about 24 hours, while an elephant's embryonic development takes nearly 2 years!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about the sequence of embryonic development starting from a single cell to formation of common structures"
+        },
+        {
+            "question": {
+                "text": "Which type of fossil preservation would most likely maintain the most detailed and complete record of an ancient insect's structure and appearance?",
+                "options": [
+                    {
+                        "text": "Amber preservation",
+                        "isCorrect": 1,
+                        "explanation": "Amber preservation involves insects being trapped in tree resin that hardens over time, perfectly preserving the entire organism including delicate features like wings and antennae in three dimensions."
+                    },
+                    {
+                        "text": "Ice preservation",
+                        "isCorrect": 0,
+                        "explanation": "While ice can preserve organisms well, it typically works better for larger organisms and may not preserve the finest details of small insects as effectively as amber."
+                    },
+                    {
+                        "text": "Cast fossils",
+                        "isCorrect": 0,
+                        "explanation": "Casts form when minerals fill in a hollow space left by a decomposed organism, providing the basic shape but lacking the fine internal and external details that amber preservation would show."
+                    },
+                    {
+                        "text": "Imprint fossils",
+                        "isCorrect": 0,
+                        "explanation": "Imprints only preserve a two-dimensional impression of the organism's shape in rock, missing many of the three-dimensional details and internal structures."
+                    },
+                    {
+                        "text": "Mold fossils",
+                        "isCorrect": 0,
+                        "explanation": "Molds are hollow impressions left in sediment, showing only the external shape of the organism without preserving internal structures or finest details."
+                    }
+                ],
+                "funFact": "The oldest amber-preserved insects date back to about 230 million years ago! Amber can preserve insects with such incredible detail that scientists can study ancient structures like wing venation patterns, mouthparts, and even microscopic hairs. While Jurassic Park popularized the idea of extracting dinosaur DNA from amber-preserved mosquitoes, in reality, DNA degrades too quickly to survive for millions of years even in amber."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about different types of fossil preservation methods including ice, amber, casts, imprints and molds"
+        },
+        {
+            "question": {
+                "text": "When comparing the early embryological development of vertebrates like chickens, turtles, rabbits and humans, which structural feature provides the strongest evidence for their common evolutionary ancestry?",
+                "options": [
+                    {
+                        "text": "The presence of a temporary tail structure",
+                        "isCorrect": 0,
+                        "explanation": "While temporary tails do appear during embryonic development, this is just one of several shared features and not necessarily the strongest evidence for common ancestry."
+                    },
+                    {
+                        "text": "Similar pharyngeal slits in early development",
+                        "isCorrect": 1,
+                        "explanation": "Pharyngeal slits appearing in all vertebrate embryos strongly indicate common ancestry, as these structures later develop into different specialized features in each group while maintaining the same basic developmental pattern."
+                    },
+                    {
+                        "text": "Starting from a single cell",
+                        "isCorrect": 0,
+                        "explanation": "While all vertebrates start from a single cell, this is true for all living organisms, not just vertebrates, making it too general to be strong evidence for vertebrate common ancestry specifically."
+                    },
+                    {
+                        "text": "The final adult form",
+                        "isCorrect": 0,
+                        "explanation": "Adult forms show much greater variation than embryonic forms and are less reliable indicators of common ancestry since they've been modified by different selective pressures over time."
+                    }
+                ],
+                "funFact": "The discovery that all vertebrate embryos share similar developmental features was first documented by Karl Ernst von Baer in the 1820s, leading to one of the earliest pieces of evidence supporting evolutionary theory before Darwin published his work on natural selection."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze embryological development patterns across different vertebrate groups to identify which structural similarities best indicate common ancestry"
+        },
+        {
+            "question": {
+                "text": "Looking at the forelimb structures of different vertebrates - dolphins, bats, and humans - which feature most strongly suggests their common evolutionary ancestry?",
+                "options": [
+                    {
+                        "text": "They all have one large bone connected to two bones, followed by many small bones and finger-like structures",
+                        "isCorrect": 1,
+                        "explanation": "This common bone pattern in the forelimbs indicates shared ancestry, even though these structures are used for different purposes (swimming, flying, and grasping)"
+                    },
+                    {
+                        "text": "They all have the same number of bones in their limbs",
+                        "isCorrect": 0,
+                        "explanation": "The total number of bones can vary between species, even among closely related organisms"
+                    },
+                    {
+                        "text": "They all use their limbs for the same purpose",
+                        "isCorrect": 0,
+                        "explanation": "These organisms use their limbs for different purposes - dolphins for swimming, bats for flying, and humans for grasping and manipulation"
+                    },
+                    {
+                        "text": "They all have the same size limbs relative to their body",
+                        "isCorrect": 0,
+                        "explanation": "Limb size relative to body size varies significantly among these organisms due to their different lifestyles and adaptations"
+                    }
+                ],
+                "funFact": "Despite their very different appearances and uses, the wing of a bat, the flipper of a dolphin, and the arm of a human are all considered 'homologous structures' - structures that were inherited from a common ancestor but evolved to serve different functions."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given diagrams of limb structures from different vertebrates (e.g., bat wing, dolphin flipper, human arm), students should identify which characteristic best explains their common evolutionary ancestry"
+        },
+        {
+            "question": {
+                "text": "Looking at fossil evidence from whale skulls over millions of years, what evolutionary trend is shown by the position of the blowhole?",
+                "options": [
+                    {
+                        "text": "The blowhole gradually moved from the front of the skull toward the top",
+                        "isCorrect": 1,
+                        "explanation": "Fossil evidence shows the blowhole gradually shifted from a front position to the top of the skull over millions of years, allowing whales to breathe more efficiently while swimming"
+                    },
+                    {
+                        "text": "The blowhole remained in the same position throughout whale evolution",
+                        "isCorrect": 0,
+                        "explanation": "The fossil record clearly shows changes in blowhole position over time rather than remaining static"
+                    },
+                    {
+                        "text": "The blowhole gradually moved from the top of the skull toward the front",
+                        "isCorrect": 0,
+                        "explanation": "This is the opposite of what actually occurred - the blowhole moved from front to top, not top to front"
+                    },
+                    {
+                        "text": "The blowhole randomly changed positions with no clear pattern",
+                        "isCorrect": 0,
+                        "explanation": "The fossil record shows a clear directional trend in blowhole position rather than random changes"
+                    }
+                ],
+                "funFact": "Modern whales can hold their breath for an impressive amount of time - sperm whales can stay underwater for up to 90 minutes on a single breath! The position of their blowhole on top of their head allows them to breathe while keeping most of their body underwater."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a series of whale skull fossils showing the gradual movement of the blowhole position, students should determine what this pattern suggests about whale evolution"
+        },
+        {
+            "question": {
+                "text": "At which stage of embryonic development do vertebrates show the strongest evidence of their shared evolutionary ancestry?",
+                "options": [
+                    {
+                        "text": "When pharyngeal slits appear in early development",
+                        "isCorrect": 1,
+                        "explanation": "The presence of pharyngeal slits in all vertebrate embryos, even though they develop into different structures later, is strong evidence of shared ancestry since this common feature appears before divergent development."
+                    },
+                    {
+                        "text": "When limbs are fully formed",
+                        "isCorrect": 0,
+                        "explanation": "Fully formed limbs show greater divergence between species as they have adapted to different environments, making them less useful for showing common ancestry."
+                    },
+                    {
+                        "text": "When the adult body plan is complete",
+                        "isCorrect": 0,
+                        "explanation": "Adult body plans show the most divergence between species due to adaptations for different lifestyles, making them less useful for demonstrating common ancestry."
+                    },
+                    {
+                        "text": "When the embryo first becomes multicellular",
+                        "isCorrect": 0,
+                        "explanation": "While all embryos start as multicellular organisms, this very early stage is too basic to provide strong evidence of evolutionary relationships between vertebrates."
+                    }
+                ],
+                "funFact": "Even though human embryos develop pharyngeal slits similar to those that become gills in fish, these structures in humans develop into parts of the throat, ears, and facial structures - showing how evolution can repurpose ancient features for new functions!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare embryonic development stages of different vertebrates and identify which structural similarity provides strongest evidence for their evolutionary relationship"
+        },
+        {
+            "question": {
+                "text": "A scientist discovers fossils of an extinct creature called Archaeopteryx. The fossils show a skeleton with wings, feathers, and a beak, but also has claws, a long bony tail, and teeth. Based on these skeletal features, which modern animal group is most likely the closest living relative to Archaeopteryx?",
+                "options": [
+                    {
+                        "text": "Birds",
+                        "isCorrect": 1,
+                        "explanation": "Archaeopteryx shares key skeletal features with modern birds including wings, feathers, and a beak, suggesting they are closely related through evolution."
+                    },
+                    {
+                        "text": "Bats",
+                        "isCorrect": 0,
+                        "explanation": "While bats have wings, they lack other key features found in Archaeopteryx like feathers and a beak. Bat wings evolved independently and are structurally different."
+                    },
+                    {
+                        "text": "Lizards",
+                        "isCorrect": 0,
+                        "explanation": "Though Archaeopteryx had some reptilian features like a long tail, modern lizards lack wings, feathers, and beaks which are major features linking Archaeopteryx to birds."
+                    },
+                    {
+                        "text": "Flying insects",
+                        "isCorrect": 0,
+                        "explanation": "Flying insects have a completely different skeletal structure than Archaeopteryx. Their wings evolved independently and are not made of bones and feathers."
+                    }
+                ],
+                "funFact": "Archaeopteryx lived about 150 million years ago during the Late Jurassic period and is often called a 'transitional fossil' because it shows features of both dinosaurs and modern birds, helping scientists understand how birds evolved from dinosaur ancestors."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze skeletal structures of an extinct organism and several modern organisms to determine which modern species is most likely its closest living relative"
+        },
+        {
+            "question": {
+                "text": "How does the presence of pharyngeal slits in both fish and human embryos during early development support the theory of evolution?",
+                "options": [
+                    {
+                        "text": "It suggests that fish and humans share a common ancestor in their evolutionary past",
+                        "isCorrect": 1,
+                        "explanation": "The presence of similar structures during embryonic development indicates shared ancestry, even though these structures develop into different features in adults (gills in fish and throat/jaw regions in humans)"
+                    },
+                    {
+                        "text": "It proves that humans evolved directly from fish",
+                        "isCorrect": 0,
+                        "explanation": "While fish and humans share common ancestors, humans did not evolve directly from fish. Similar embryonic features only indicate a shared evolutionary history"
+                    },
+                    {
+                        "text": "It shows that fish embryos eventually develop into human embryos",
+                        "isCorrect": 0,
+                        "explanation": "Fish embryos develop into fish, not humans. The similar features during development are due to shared ancestry, not direct transformation"
+                    },
+                    {
+                        "text": "It demonstrates that human embryos can breathe underwater like fish",
+                        "isCorrect": 0,
+                        "explanation": "While both organisms have pharyngeal slits during development, human embryos cannot breathe underwater. These structures develop into different features in each organism"
+                    }
+                ],
+                "funFact": "Many vertebrate embryos show remarkable similarities in their early stages of development. This pattern was first noticed by Karl Ernst von Baer in the 19th century, leading to important insights about evolutionary relationships among different species."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given data about pharyngeal slits in fish and human embryos, students should explain how this similarity supports evidence of common ancestry"
+        },
+        {
+            "question": {
+                "text": "The fossil record shows that horse legs evolved significantly over millions of years. Which of the following best explains why these changes in leg structure occurred?",
+                "options": [
+                    {
+                        "text": "The horses' leg bones gradually lengthened and their toes reduced to help them run faster across grasslands",
+                        "isCorrect": 1,
+                        "explanation": "As grasslands expanded, horses evolved longer legs and fewer toes to become more efficient runners, helping them escape predators and travel longer distances for food"
+                    },
+                    {
+                        "text": "The horses decided to change their leg structure to become better runners",
+                        "isCorrect": 0,
+                        "explanation": "Evolution occurs through natural selection over many generations, not through individual organisms choosing to change"
+                    },
+                    {
+                        "text": "The leg bones suddenly transformed from short to long in a single generation",
+                        "isCorrect": 0,
+                        "explanation": "Evolutionary changes happen gradually over many generations through small variations, not suddenly in one generation"
+                    },
+                    {
+                        "text": "The horses copied the leg structure of other fast-running animals",
+                        "isCorrect": 0,
+                        "explanation": "Evolution occurs through inherited genetic variations, not by organisms copying features from other species"
+                    }
+                ],
+                "funFact": "Modern horses walk on the tip of what would be their middle finger or toe! Their hooves are actually modified toenails, and other toes have been reduced or lost through evolution."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine fossil evidence of horse evolution showing changes in leg structure and skull shape, students should interpret what this reveals about adaptation to environmental changes"
+        },
+        {
+            "question": {
+                "text": "Based on their anatomical structures, which two groups of vertebrates are most closely related?",
+                "options": [
+                    {
+                        "text": "Birds and reptiles",
+                        "isCorrect": 1,
+                        "explanation": "Birds and reptiles share many anatomical features including similar skull structures that connect directly to the spine, scales (birds have modified scales as feathers), and similar embryonic development patterns."
+                    },
+                    {
+                        "text": "Mammals and birds",
+                        "isCorrect": 0,
+                        "explanation": "While both are warm-blooded, mammals and birds have many distinct anatomical differences. Birds evolved from reptilian ancestors, while mammals evolved along a separate evolutionary line."
+                    },
+                    {
+                        "text": "Reptiles and mammals",
+                        "isCorrect": 0,
+                        "explanation": "Though reptiles and mammals both have four limbs, their skeletal structures, particularly in the skull and jaw, show significant differences indicating a more distant evolutionary relationship."
+                    },
+                    {
+                        "text": "Fish and reptiles",
+                        "isCorrect": 0,
+                        "explanation": "While fish and reptiles are both vertebrates, they show significant anatomical differences. Fish lack the advanced limb structure and amniotic development seen in reptiles."
+                    }
+                ],
+                "funFact": "Modern birds are actually living dinosaurs! They evolved from a group of dinosaurs called theropods, which includes the Tyrannosaurus rex. That's why birds share so many anatomical features with reptiles, including hollow bones and similar skull structures."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare anatomical features of reptiles, birds, and mammals to determine which two groups share the most recent common ancestor based on structural patterns"
+        },
+        {
+            "question": {
+                "text": "Which group of organisms would most likely be closely related based on their anatomical features?",
+                "options": [
+                    {
+                        "text": "A bat, a butterfly, and a bird - all having wings for flight",
+                        "isCorrect": 0,
+                        "explanation": "While these organisms all have wings, their wing structures are fundamentally different. Having similar functions doesn't necessarily indicate close evolutionary relationships."
+                    },
+                    {
+                        "text": "A dolphin, a bat, and a dog - all having similar arm bone patterns",
+                        "isCorrect": 1,
+                        "explanation": "These mammals share the same basic bone pattern in their limbs (one bone, two bones, many bones, digits), indicating a common ancestry despite their different habitats and lifestyles."
+                    },
+                    {
+                        "text": "A snake, a worm, and an eel - all having long, slender bodies",
+                        "isCorrect": 0,
+                        "explanation": "Though these animals have similar body shapes, this is an example of convergent evolution. Their internal structures and evolutionary histories are quite different."
+                    },
+                    {
+                        "text": "A penguin, a seal, and a shark - all adapted for swimming",
+                        "isCorrect": 0,
+                        "explanation": "While these animals are all adapted for aquatic life, their basic anatomical structures are very different, suggesting distant evolutionary relationships."
+                    }
+                ],
+                "funFact": "Even though whales and fish both live in water, whales' closest living relatives are actually hippopotamuses! This relationship was discovered through both anatomical and genetic evidence, showing that seemingly different animals can be closely related."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given descriptions of anatomical features in several modern organisms, students should identify which combination of shared characteristics best indicates close evolutionary relationships"
+        },
+        {
+            "question": {
+                "text": "Which skeletal feature provides the strongest evidence that modern birds evolved from dinosaurs?",
+                "options": [
+                    {
+                        "text": "Both have hollow bones that help in flight",
+                        "isCorrect": 0,
+                        "explanation": "While both have hollow bones, this adaptation evolved independently in many species and isn't the strongest evidence of their relationship."
+                    },
+                    {
+                        "text": "Both have a similar basic skull structure connecting to the spine",
+                        "isCorrect": 0,
+                        "explanation": "This is a feature shared by many vertebrates and isn't unique to birds and dinosaurs."
+                    },
+                    {
+                        "text": "Both have a similar three-fingered wing structure and fused collarbone",
+                        "isCorrect": 1,
+                        "explanation": "The detailed similarity in wing bone structure and fused collarbone (wishbone) is a specific anatomical pattern that strongly indicates common ancestry."
+                    },
+                    {
+                        "text": "Both have scaly feet and lay eggs",
+                        "isCorrect": 0,
+                        "explanation": "Many reptiles have scaly feet and lay eggs - this feature alone doesn't prove close evolutionary relationship."
+                    }
+                ],
+                "funFact": "The Archaeopteryx, discovered in 1861, was a crucial fossil that showed both dinosaur and bird features, including teeth, a bony tail, and feathers. It helped scientists understand the evolutionary link between dinosaurs and modern birds!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare skeletal structures of modern birds and fossil dinosaurs to determine which features provide the strongest evidence of their evolutionary relationship"
+        },
+        {
+            "question": {
+                "text": "Scientists discovered a series of whale fossils from different time periods. Which sequence correctly shows the evolution of the whale's blowhole position from oldest to most recent?",
+                "options": [
+                    {
+                        "text": "Front of snout \u2192 Middle of snout \u2192 Top of head \u2192 Side of head",
+                        "isCorrect": 0,
+                        "explanation": "This sequence does not accurately reflect the evolutionary changes in whale blowhole position. Fossil evidence shows a different pattern of movement."
+                    },
+                    {
+                        "text": "Side of head \u2192 Top of head \u2192 Middle of snout \u2192 Front of snout",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is the opposite of what fossil evidence shows. The blowhole actually moved backward, not forward, over time."
+                    },
+                    {
+                        "text": "Front of snout \u2192 Middle of snout \u2192 Top of head",
+                        "isCorrect": 1,
+                        "explanation": "This sequence correctly shows how the blowhole gradually moved from the front of the snout to the top of the head over millions of years, as supported by fossil evidence."
+                    },
+                    {
+                        "text": "Top of head \u2192 Side of head \u2192 Middle of snout \u2192 Front of snout",
+                        "isCorrect": 0,
+                        "explanation": "This sequence suggests evolution in reverse. Fossil evidence shows the blowhole started at the front and moved backward and upward, not the other way around."
+                    }
+                ],
+                "funFact": "Modern whales can hold their breath for impressive amounts of time - sperm whales can stay underwater for up to 90 minutes! The evolution of their blowhole position helped make this possible by allowing them to breathe while keeping most of their body underwater."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine a series of fossil specimens showing transitional features between two groups of organisms, students should determine the most likely sequence of evolutionary changes"
+        },
+        {
+            "question": {
+                "text": "Which pair of mammals shows the strongest evidence for evolutionary modification of forelimb bones to serve different functions while maintaining a similar bone structure?",
+                "options": [
+                    {
+                        "text": "Bat wing and whale flipper",
+                        "isCorrect": 1,
+                        "explanation": "Both bats and whales have the same basic bone pattern - one upper bone connected to two lower bones, connected to many small bones. These limbs serve completely different functions (flying vs. swimming) while maintaining the same fundamental structure, showing clear evolutionary modification."
+                    },
+                    {
+                        "text": "Horse leg and zebra leg",
+                        "isCorrect": 0,
+                        "explanation": "While horses and zebras have similar limb structures, they serve the same function (running) and show little modification from their common ancestor. This represents close evolutionary relationship but not significant functional modification."
+                    },
+                    {
+                        "text": "Bird wing and insect wing",
+                        "isCorrect": 0,
+                        "explanation": "Though both are used for flying, bird and insect wings have completely different bone structures and evolutionary origins. This represents convergent evolution rather than modification of a common structure."
+                    },
+                    {
+                        "text": "Dog leg and cat leg",
+                        "isCorrect": 0,
+                        "explanation": "Dogs and cats have similar limb structures that serve similar functions (walking/running). This shows their close evolutionary relationship but not significant modification for different functions."
+                    }
+                ],
+                "funFact": "Despite living in completely different environments and having very different lifestyles, a bat's wing bones and a whale's flipper bones can be matched up almost exactly - they both evolved from the same five-fingered limb of an ancient land-dwelling mammal ancestor!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze drawings of forelimb bone arrangements in different mammals (e.g., cat, whale, bat) to determine which adaptation best demonstrates evolutionary modification for different functions"
+        },
+        {
+            "question": {
+                "text": "When comparing the skeletal structures of modern whales and horses, what evidence suggests they share a common evolutionary ancestor?",
+                "options": [
+                    {
+                        "text": "Both have similar limb bone patterns with one large bone connected to two bones, followed by smaller bones",
+                        "isCorrect": 1,
+                        "explanation": "This shared skeletal pattern indicates common ancestry, as this basic bone structure has been preserved even as these mammals adapted to very different environments"
+                    },
+                    {
+                        "text": "Both have the same number of vertebrae in their spinal columns",
+                        "isCorrect": 0,
+                        "explanation": "The number of vertebrae varies between whales and horses - this is not evidence of their common ancestry"
+                    },
+                    {
+                        "text": "Both have identical skull shapes and teeth structures",
+                        "isCorrect": 0,
+                        "explanation": "Whale and horse skulls and teeth are quite different due to their different feeding habits and environments"
+                    },
+                    {
+                        "text": "Both have the same tail bone structure",
+                        "isCorrect": 0,
+                        "explanation": "Whale and horse tail structures are quite different due to their adaptations for swimming versus land movement"
+                    }
+                ],
+                "funFact": "While modern whales live in the ocean, their ancestors were land mammals that gradually adapted to life in water over millions of years. Early whale ancestors like Pakicetus walked on land and looked more similar to modern wolves or deer than today's whales!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare anatomical structures between a whale and a horse to analyze their likely evolutionary relationship based on skeletal similarities and differences"
+        },
+        {
+            "question": {
+                "text": "Looking at the fossil record of horses over millions of years, which sequence correctly shows the evolution of their leg bones from oldest to most recent?",
+                "options": [
+                    {
+                        "text": "Short, multiple-toed legs \u2192 Longer legs with fewer toes \u2192 Long legs with single hooves",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows how horse legs evolved from shorter legs with multiple toes to longer legs with single hooves, adapting for faster running on grasslands."
+                    },
+                    {
+                        "text": "Long legs with single hooves \u2192 Longer legs with fewer toes \u2192 Short, multiple-toed legs",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is reversed. The fossil record shows that horses evolved from having multiple toes to single hooves, not the other way around."
+                    },
+                    {
+                        "text": "Long legs with single hooves \u2192 Short, multiple-toed legs \u2192 Longer legs with fewer toes",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Horse evolution progressed from multiple toes to fewer toes, eventually leading to single hooves."
+                    },
+                    {
+                        "text": "Longer legs with fewer toes \u2192 Long legs with single hooves \u2192 Short, multiple-toed legs",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. The earliest horse fossils show short legs with multiple toes, not longer legs with fewer toes."
+                    }
+                ],
+                "funFact": "The earliest known horse ancestor, Eohippus, was only about the size of a fox and lived around 55 million years ago. Its feet had four toes on the front legs and three toes on the hind legs!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine horse fossil evidence over time periods to analyze changes in leg bone structure and determine evolutionary progression"
+        },
+        {
+            "question": {
+                "text": "During early stages of vertebrate embryonic development, all species show a tail-like extension. What does this common feature suggest about the evolutionary relationships between vertebrates?",
+                "options": [
+                    {
+                        "text": "All vertebrates share a common ancestor that possessed a tail during development",
+                        "isCorrect": 1,
+                        "explanation": "The presence of a tail in early embryonic development across vertebrates is evidence of their shared evolutionary history, indicating descent from a common ancestor"
+                    },
+                    {
+                        "text": "Tails randomly develop in all embryos regardless of evolutionary relationships",
+                        "isCorrect": 0,
+                        "explanation": "Embryonic development follows specific patterns inherited from ancestors - these similarities are not random but reflect evolutionary relationships"
+                    },
+                    {
+                        "text": "Each species independently evolved to have a tail during development",
+                        "isCorrect": 0,
+                        "explanation": "The consistent pattern across vertebrates suggests inheritance from a common ancestor rather than independent evolution in each species"
+                    },
+                    {
+                        "text": "The tail-like structure has no relationship to evolutionary history",
+                        "isCorrect": 0,
+                        "explanation": "Shared developmental patterns like the embryonic tail are key evidence of evolutionary relationships between species"
+                    }
+                ],
+                "funFact": "While human embryos develop a tail-like structure early on, it typically disappears by the eighth week of development as the embryo grows. In very rare cases, some humans are born with a vestigial tail, providing further evidence of our evolutionary history!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare embryonic tail development across different vertebrates to analyze evidence of common ancestry"
+        },
+        {
+            "question": {
+                "text": "Looking at whale skull fossils from 50 million years ago to modern times, what pattern of change is observed in the position of the blowhole?",
+                "options": [
+                    {
+                        "text": "The blowhole gradually moved from the front of the skull toward the top",
+                        "isCorrect": 1,
+                        "explanation": "Fossil evidence shows the blowhole's position shifted from the front tip of the skull to the top over millions of years, allowing whales to breathe more efficiently while swimming"
+                    },
+                    {
+                        "text": "The blowhole remained in the same position but got larger",
+                        "isCorrect": 0,
+                        "explanation": "While the size may have changed somewhat, the key evolutionary change was the position moving from front to top, not just size changes"
+                    },
+                    {
+                        "text": "The blowhole moved from the top of the skull toward the front",
+                        "isCorrect": 0,
+                        "explanation": "This is the opposite of what actually occurred - the fossil record shows the blowhole moved from front to top, not top to front"
+                    },
+                    {
+                        "text": "The blowhole appeared suddenly with no gradual changes",
+                        "isCorrect": 0,
+                        "explanation": "The fossil record shows a gradual repositioning over millions of years, not a sudden appearance in its modern position"
+                    }
+                ],
+                "funFact": "Modern whales can hold their breath for up to 2 hours underwater! The repositioning of their blowhole to the top of their head was a crucial adaptation that allowed them to breathe while keeping most of their body submerged, making them more efficient swimmers and hunters."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine fossil evidence of whale skull transformations over millions of years to determine the pattern of evolutionary change in blowhole position"
+        },
+        {
+            "question": {
+                "text": "Looking at the early stages of embryonic development, what evidence supports the idea that vertebrates share common ancestry?",
+                "options": [
+                    {
+                        "text": "Early vertebrate embryos show similar structures like pharyngeal slits and tails, suggesting shared evolutionary history",
+                        "isCorrect": 1,
+                        "explanation": "Early vertebrate embryos display remarkably similar features like pharyngeal slits and tails during development, indicating common ancestry even though adult forms may look very different"
+                    },
+                    {
+                        "text": "Adult vertebrates have similar diets and habitats, showing they evolved from the same ancestor",
+                        "isCorrect": 0,
+                        "explanation": "Similar diets and habitats don't necessarily indicate common ancestry - these can develop independently through convergent evolution"
+                    },
+                    {
+                        "text": "Vertebrate embryos look identical throughout their entire development",
+                        "isCorrect": 0,
+                        "explanation": "While early embryonic stages show similarities, vertebrate embryos become increasingly different as development progresses"
+                    },
+                    {
+                        "text": "Only mammal embryos share similar developmental features",
+                        "isCorrect": 0,
+                        "explanation": "The similar developmental features are seen across vertebrates including fish, amphibians, reptiles, birds and mammals, not just mammals"
+                    }
+                ],
+                "funFact": "Some human embryonic features that disappear during development, like a tail and pharyngeal slits (which become gills in fish), are called vestigial structures. These remnants provide fascinating evidence of our evolutionary past!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare embryonic development stages between different vertebrates to analyze evidence for evolutionary relationships"
+        },
+        {
+            "question": {
+                "text": "Pharyngeal slits appear during early embryonic development in both fish and humans. How do these similar structures develop differently in these organisms?",
+                "options": [
+                    {
+                        "text": "In fish they become gills, while in humans they develop into the throat and jaw region",
+                        "isCorrect": 1,
+                        "explanation": "This demonstrates how similar embryonic structures can evolve to serve different functions in different organisms based on their environmental needs."
+                    },
+                    {
+                        "text": "In fish they become fins, while in humans they develop into arms",
+                        "isCorrect": 0,
+                        "explanation": "While fins and arms are also examples of structures that show evolutionary relationships, pharyngeal slits specifically develop into gills in fish and throat/jaw structures in humans."
+                    },
+                    {
+                        "text": "In both organisms they disappear completely during development",
+                        "isCorrect": 0,
+                        "explanation": "Pharyngeal slits don't disappear - they develop into different functional structures in both organisms, showing how evolution can modify embryonic features."
+                    },
+                    {
+                        "text": "In fish they become scales, while in humans they become skin",
+                        "isCorrect": 0,
+                        "explanation": "Scales and skin develop from different embryonic tissues, not from pharyngeal slits. This shows a misunderstanding of how embryonic structures develop."
+                    }
+                ],
+                "funFact": "The presence of pharyngeal slits in human embryos is one of the strongest pieces of evidence for our evolutionary connection to fish ancestors! These structures first evolved over 500 million years ago in early vertebrates."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare pharyngeal slits across fish and human embryos to analyze how similar structures develop into different adult features"
+        },
+        {
+            "question": {
+                "text": "Which type of fossil evidence typically provides the most detailed and complete preservation of ancient organisms, allowing scientists to better understand evolutionary relationships?",
+                "options": [
+                    {
+                        "text": "Amber fossils",
+                        "isCorrect": 1,
+                        "explanation": "Amber fossils preserve organisms in exceptional detail, often maintaining soft tissues, colors, and even cellular structures, providing rich information about ancient life forms and their relationships to modern species."
+                    },
+                    {
+                        "text": "Rock imprints",
+                        "isCorrect": 0,
+                        "explanation": "While rock imprints can show the basic shape and external features of organisms, they typically don't preserve the detailed internal structures and soft tissues that amber fossils can preserve."
+                    },
+                    {
+                        "text": "Bone casts",
+                        "isCorrect": 0,
+                        "explanation": "Bone casts show the shape of bones but lack the preservation of soft tissues and detailed structures that would be visible in amber fossils."
+                    },
+                    {
+                        "text": "Mineralized molds",
+                        "isCorrect": 0,
+                        "explanation": "Mineralized molds mainly show the external shape of organisms but don't preserve internal structures or delicate features that would be visible in amber fossils."
+                    }
+                ],
+                "funFact": "The oldest amber fossils date back to about 320 million years ago! Scientists have discovered numerous prehistoric insects, small reptiles, and even feathers perfectly preserved in amber, some still showing their original colors and microscopic details."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine preserved specimens in amber versus rock fossils to analyze what different types of fossil evidence reveal about evolutionary relationships"
+        },
+        {
+            "question": {
+                "text": "Which observation about crocodile fossils from different time periods would provide the strongest evidence of evolutionary relationships between ancient crocodiles and modern ones?",
+                "options": [
+                    {
+                        "text": "Similar skull structures and jaw patterns across different time periods",
+                        "isCorrect": 1,
+                        "explanation": "Consistent anatomical features across time periods provide strong evidence of evolutionary relationships, showing how characteristics were preserved through generations."
+                    },
+                    {
+                        "text": "Different sizes of crocodile fossils found in the same location",
+                        "isCorrect": 0,
+                        "explanation": "Size variations alone, especially in the same location, may simply reflect different ages or environmental conditions rather than evolutionary relationships."
+                    },
+                    {
+                        "text": "Similar habitats where crocodile fossils were found",
+                        "isCorrect": 0,
+                        "explanation": "While habitat information is useful, it doesn't directly demonstrate evolutionary relationships like anatomical similarities do."
+                    },
+                    {
+                        "text": "The number of crocodile fossils found in each time period",
+                        "isCorrect": 0,
+                        "explanation": "The quantity of fossils found doesn't indicate evolutionary relationships - it may just reflect preservation conditions or collection efforts."
+                    }
+                ],
+                "funFact": "Crocodilians have remained remarkably similar in their basic body plan for over 200 million years, earning them the nickname 'living fossils.' However, ancient crocodilians showed much more diversity in size and lifestyle than today's species, with some being fully marine and others adapted for running on land!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare anatomical features between modern crocodiles and fossilized dinosaur specimens to analyze evidence of evolutionary connections"
+        },
+        {
+            "question": {
+                "text": "Looking at the bone structure patterns in limbs, which of these animals is most closely related to humans in terms of evolutionary history?",
+                "options": [
+                    {
+                        "text": "Elephant",
+                        "isCorrect": 1,
+                        "explanation": "Elephants are mammals like humans. They share key mammalian characteristics such as having hair, mammary glands, three middle ear bones, and a neocortex. Mammals share a more recent common ancestor with each other than with amphibians (frogs) or reptiles (turtles), making elephants more closely related to humans."
+                    },
+                    {
+                        "text": "Frog",
+                        "isCorrect": 0,
+                        "explanation": "While frogs have the basic pentadactyl limb structure like humans, they belong to the amphibian class. Amphibians diverged from the lineage leading to mammals much earlier in evolutionary history, making them more distantly related to humans than other mammals."
+                    },
+                    {
+                        "text": "Turtle",
+                        "isCorrect": 0,
+                        "explanation": "Turtles, as reptiles, share the basic pentadactyl limb structure with humans but diverged from the lineage leading to mammals earlier in evolutionary history than other mammals did. This makes them more distantly related to humans than elephants."
+                    }
+                ],
+                "funFact": "While humans, elephants, frogs, and turtles all share the basic pentadactyl limb structure (one bone, two bones, many bones pattern), mammals like humans and elephants share additional unique features not found in other groups, such as having three middle ear bones and mammary glands!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze the pattern of bone structures in the limbs of humans, elephants, turtles and frogs to determine evolutionary relationships"
+        },
+        {
+            "question": {
+                "text": "What evidence from skeletal structures suggests that modern birds evolved from ancient reptiles?",
+                "options": [
+                    {
+                        "text": "Birds have skeletal features like a wishbone (furcula), hollow bones, and similar wrist structures that are also found in theropod dinosaurs",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. These specific skeletal similarities between birds and theropod dinosaurs (a group of reptiles) provide strong evidence of their evolutionary relationship."
+                    },
+                    {
+                        "text": "Birds and reptiles both have scales covering their entire body",
+                        "isCorrect": 0,
+                        "explanation": "While some birds have scales on their feet, most of their body is covered in feathers. This is not strong evidence of their evolutionary relationship."
+                    },
+                    {
+                        "text": "Birds and reptiles both lay soft-shelled eggs",
+                        "isCorrect": 0,
+                        "explanation": "Birds lay hard-shelled eggs while some reptiles lay soft-shelled eggs. This difference does not provide strong evidence of their evolutionary relationship."
+                    },
+                    {
+                        "text": "Birds and reptiles both have cold-blooded metabolism",
+                        "isCorrect": 0,
+                        "explanation": "Birds are warm-blooded while reptiles are cold-blooded. This physiological difference does not support their evolutionary connection."
+                    }
+                ],
+                "funFact": "The closest living relatives to birds are crocodiles and alligators! This might seem surprising, but they share a common ancestor from about 240 million years ago, and both belong to a group called archosaurs."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze skeletal differences between reptiles and birds to determine evidence of evolutionary connections"
+        },
+        {
+            "question": {
+                "text": "When comparing the skeletal structures of the upper limbs, which group of mammals would be most closely related based on their anatomical similarities?",
+                "options": [
+                    {
+                        "text": "Bats, dolphins, and humans",
+                        "isCorrect": 1,
+                        "explanation": "These mammals share a very similar bone pattern in their upper limbs - one large bone connected to two bones, followed by many small bones and finger-like bones, indicating close evolutionary relationships despite their different habitats and modes of locomotion."
+                    },
+                    {
+                        "text": "Lions, birds, and seals",
+                        "isCorrect": 0,
+                        "explanation": "While lions and seals are mammals, birds belong to a different class of vertebrates. Their limb structures have evolved differently, making them less closely related."
+                    },
+                    {
+                        "text": "Horses, snakes, and whales",
+                        "isCorrect": 0,
+                        "explanation": "This group contains mixed classes of vertebrates. Snakes are reptiles, not mammals, and their complete lack of limbs makes comparison impossible. Additionally, horses and whales have evolved different limb structures, indicating more distant evolutionary relationships."
+                    },
+                    {
+                        "text": "Frogs, salamanders, and dogs",
+                        "isCorrect": 0,
+                        "explanation": "Frogs and salamanders are amphibians, not mammals, and have different limb structures than dogs, indicating more distant evolutionary relationships."
+                    }
+                ],
+                "funFact": "Despite living in completely different environments and having very different uses for their limbs (flying for bats, swimming for dolphins, and grasping for humans), these mammals all inherited their similar bone structure from a common ancestor that lived millions of years ago!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze skeletal structures in the upper limbs of different mammals to determine degree of evolutionary relatedness"
+        },
+        {
+            "question": {
+                "text": "Which pair of organisms is the best example of convergent evolution based on their wing structures?",
+                "options": [
+                    {
+                        "text": "Bats and birds",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Both bats and birds have wings with similar bone patterns - one main bone connected to two bones, connected to many smaller bones. However, they evolved these similar structures independently, as bats are mammals and birds are descendants of dinosaurs, making this a classic example of convergent evolution."
+                    },
+                    {
+                        "text": "Birds and insects",
+                        "isCorrect": 0,
+                        "explanation": "While both have independently evolved wings for flight (which is convergent evolution), their wing structures are very different. Bird wings have bones while insect wings are membranous without bones, making them less striking examples of convergent evolution than bats and birds."
+                    },
+                    {
+                        "text": "Bats and insects",
+                        "isCorrect": 0,
+                        "explanation": "Although both have wings used for flight, their wing structures are fundamentally different. Bat wings have bones and skin membranes while insect wings are membranous without bones. These significant structural differences make them a less compelling example of convergent evolution than bats and birds."
+                    }
+                ],
+                "funFact": "Despite their similar wing structures, bats are actually mammals while birds are descended from dinosaurs! This is a classic example of convergent evolution, where different groups of organisms independently evolved similar features to solve similar problems - in this case, powered flight."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze the bone patterns in bat wings, bird wings, and insect wings to determine which pair of organisms is most closely related evolutionarily"
+        }
+    ]
+}

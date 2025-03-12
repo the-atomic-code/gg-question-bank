@@ -1,0 +1,1171 @@
+{
+    "id": "lesson-127",
+    "title": "Engineering Design Process",
+    "standard": "MS-ETS1-4",
+    "n_recall": 15,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 39,
+    "questions": [
+        {
+            "question": {
+                "text": "Which statement best describes the engineering design process?",
+                "options": [
+                    {
+                        "text": "A series of steps that engineers follow in a strict linear order to solve problems",
+                        "isCorrect": 0,
+                        "explanation": "The engineering design process is not strictly linear - engineers often jump between steps and repeat phases as needed to improve their solutions."
+                    },
+                    {
+                        "text": "A creative process with three main phases where engineers define problems, develop ideas, and optimize solutions through testing and improvement",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes the iterative nature of the engineering design process and its three main phases of defining problems, developing solutions, and optimizing designs."
+                    },
+                    {
+                        "text": "A one-time process where engineers brainstorm ideas and pick the best solution immediately",
+                        "isCorrect": 0,
+                        "explanation": "The engineering design process involves multiple iterations of testing and improving solutions, not just picking one solution immediately."
+                    },
+                    {
+                        "text": "A process focused only on creating new inventions and technologies",
+                        "isCorrect": 0,
+                        "explanation": "The engineering design process is used to solve all types of problems, not just creating new inventions - it can be used to improve existing solutions or solve societal issues."
+                    }
+                ],
+                "funFact": "The number of steps in different versions of the engineering design process can vary from as few as 6 to as many as 19 steps! However, they all share the same core phases of defining problems, developing solutions, and optimizing designs through testing and improvement."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the definition of engineering design process as a series of steps used by engineers to guide problem-solving"
+        },
+        {
+            "question": {
+                "text": "What are the three main phases of the engineering design process in the correct order?",
+                "options": [
+                    {
+                        "text": "Define the problem, develop ideas, optimize the design solution",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct sequence of the three main phases that engineers follow to solve problems effectively. First they clearly define the problem and its requirements, then develop possible solutions through various methods, and finally optimize their design through testing and improvements."
+                    },
+                    {
+                        "text": "Research ideas, build a prototype, test the solution",
+                        "isCorrect": 0,
+                        "explanation": "While these are important steps in engineering, they are specific activities that happen within the main phases rather than the three primary phases themselves."
+                    },
+                    {
+                        "text": "Optimize the design solution, define the problem, develop ideas",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect because optimization comes last after defining the problem and developing possible solutions. You cannot optimize a solution before defining what problem you're trying to solve."
+                    },
+                    {
+                        "text": "Develop ideas, define the problem, optimize the design solution",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect because you need to define the problem first before you can develop ideas to solve it. The development of ideas always follows problem definition."
+                    }
+                ],
+                "funFact": "While these three main phases are universal in engineering design, different organizations and industries might use anywhere from 6 to 19 different detailed steps within these phases! This flexibility allows engineers to adapt the process to their specific needs while maintaining the core problem-solving structure."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about identifying the three main phases of the engineering design process: define problem, develop ideas, optimize solution"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of design criteria in the engineering design process?",
+                "options": [
+                    {
+                        "text": "To specify the requirements that must be met for a design solution to be considered successful",
+                        "isCorrect": 1,
+                        "explanation": "Design criteria define the specific requirements that determine if a solution is successful, helping engineers evaluate and improve their designs."
+                    },
+                    {
+                        "text": "To limit the materials and resources available for the project",
+                        "isCorrect": 0,
+                        "explanation": "This describes constraints, not criteria. Constraints are limitations on the design, while criteria are requirements for success."
+                    },
+                    {
+                        "text": "To determine the cost of the final product",
+                        "isCorrect": 0,
+                        "explanation": "While cost may be one constraint or criterion, it is not the primary purpose of design criteria, which encompass all requirements for success."
+                    },
+                    {
+                        "text": "To establish a timeline for project completion",
+                        "isCorrect": 0,
+                        "explanation": "Project timeline is typically a constraint, not a criterion. Criteria focus on what the design must accomplish to be successful."
+                    }
+                ],
+                "funFact": "The first formal engineering design process was developed during World War II to help standardize military equipment production. Today, various industries use modified versions of the process, but they all maintain the core focus on meeting specific design criteria for success."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the purpose of criteria in engineering design as requirements that need to be met for success"
+        },
+        {
+            "question": {
+                "text": "In designing a new prototype for a robotic arm, what is the primary purpose of design constraints?",
+                "options": [
+                    {
+                        "text": "To limit the creative possibilities and make the design process easier",
+                        "isCorrect": 0,
+                        "explanation": "While constraints do limit possibilities, their main purpose is not to make the process easier but to ensure the solution is practical and feasible."
+                    },
+                    {
+                        "text": "To establish practical boundaries for factors like cost, materials, and time",
+                        "isCorrect": 1,
+                        "explanation": "Constraints define the practical limitations that must be considered when developing a solution, ensuring the design is feasible and implementable."
+                    },
+                    {
+                        "text": "To test how well the prototype works",
+                        "isCorrect": 0,
+                        "explanation": "Testing is part of the optimization phase, not the purpose of constraints. Constraints are limitations set before testing begins."
+                    },
+                    {
+                        "text": "To determine if the design meets its goals",
+                        "isCorrect": 0,
+                        "explanation": "This describes criteria, which are requirements for success, not constraints, which are limitations on the design."
+                    }
+                ],
+                "funFact": "The world's most expensive robot, ASIMO by Honda, took over 20 years to develop and cost approximately $100 million to create, showing how real-world constraints like budget and development time can significantly impact even large-scale engineering projects."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the purpose of constraints as limitations placed on engineering design solutions"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of brainstorming in the engineering design process?",
+                "options": [
+                    {
+                        "text": "To evaluate and judge each design idea immediately",
+                        "isCorrect": 0,
+                        "explanation": "Brainstorming is specifically meant to generate ideas without judgment. Evaluating ideas comes later in the design process."
+                    },
+                    {
+                        "text": "To generate and document many possible ideas without judging them",
+                        "isCorrect": 1,
+                        "explanation": "Brainstorming is an informal, creative process where all ideas are documented without judgment to generate as many potential solutions as possible."
+                    },
+                    {
+                        "text": "To select the final design solution",
+                        "isCorrect": 0,
+                        "explanation": "Selecting the final design solution comes after brainstorming, research, and testing - not during the brainstorming phase."
+                    },
+                    {
+                        "text": "To build and test prototypes",
+                        "isCorrect": 0,
+                        "explanation": "Building and testing prototypes comes later in the design process, after ideas have been generated and evaluated."
+                    }
+                ],
+                "funFact": "The term 'brainstorming' was coined in 1948 by Alex Faickney Osborn, who was frustrated by his employees' inability to develop creative ideas for advertising campaigns. He developed the method to help people come up with more creative solutions by suspending judgment initially."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the role of brainstorming in developing possible design solutions"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of creating a prototype during the engineering design process?",
+                "options": [
+                    {
+                        "text": "To demonstrate and test how well a design solution functions",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. A prototype is built specifically to test and demonstrate the functionality of a design solution, allowing engineers to collect data and determine how well it meets the design criteria and constraints."
+                    },
+                    {
+                        "text": "To create a final product for immediate use",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. A prototype is a preliminary model used for testing, not the final product ready for use."
+                    },
+                    {
+                        "text": "To impress potential investors with a polished design",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While prototypes may be shown to stakeholders, their main purpose is functional testing rather than appearance or presentation."
+                    },
+                    {
+                        "text": "To document the brainstorming process",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Brainstorming occurs earlier in the design process, before prototype creation. Prototypes are physical models used to test ideas, not document them."
+                    }
+                ],
+                "funFact": "The word 'prototype' comes from the Greek words 'protos' meaning 'first' and 'typos' meaning 'impression' or 'mold.' Some famous prototypes that changed history include Thomas Edison's light bulb, which took over 1,000 attempts before achieving success!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the definition and purpose of a prototype in testing design solutions"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes how engineers can develop possible solutions during the design process?",
+                "options": [
+                    {
+                        "text": "Engineers must only use computer-aided design (CAD) software to develop solutions since it is the most modern approach",
+                        "isCorrect": 0,
+                        "explanation": "While CAD is useful, engineers use multiple methods. Limiting to just CAD would miss out on valuable approaches like sketching or physical prototypes."
+                    },
+                    {
+                        "text": "Engineers should develop possible solutions through sketching, modeling, testing materials, and using computer-aided design tools as needed",
+                        "isCorrect": 1,
+                        "explanation": "Engineers use multiple complementary methods to develop solutions, including both traditional approaches like sketching and modern tools like CAD software."
+                    },
+                    {
+                        "text": "Engineers should focus solely on building physical prototypes since they provide the most realistic testing environment",
+                        "isCorrect": 0,
+                        "explanation": "While prototypes are important, starting with sketches and models first helps engineers explore ideas more efficiently before investing in physical builds."
+                    },
+                    {
+                        "text": "Engineers should only use mathematical calculations to develop solutions since engineering is based on mathematics",
+                        "isCorrect": 0,
+                        "explanation": "While math is important in engineering, visual and physical development methods are also crucial for exploring and communicating design ideas."
+                    }
+                ],
+                "funFact": "The first computer-aided design (CAD) system, called Sketchpad, was developed in 1963 by Ivan Sutherland. Users could draw directly on a computer screen with a light pen, revolutionizing how engineers develop and visualize their designs."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the different ways engineers can develop possible solutions like sketching, modeling, and computer-aided design"
+        },
+        {
+            "question": {
+                "text": "Which statement best describes why the engineering design process is considered iterative rather than linear?",
+                "options": [
+                    {
+                        "text": "Engineers can move back and forth between different steps and repeat them as needed to improve their design solution",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because the engineering design process allows for flexibility in moving between steps and repeating them to optimize the solution, rather than following a strict linear sequence."
+                    },
+                    {
+                        "text": "Engineers must complete each step exactly once before moving to the next step",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the engineering design process does not require completing steps just once in a fixed order. Engineers often revisit and repeat steps."
+                    },
+                    {
+                        "text": "Engineers can skip any steps they don't think are necessary for their specific project",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because while the process is flexible, engineers shouldn't randomly skip important steps. Each phase serves a purpose in developing an effective solution."
+                    },
+                    {
+                        "text": "Engineers must start over from the beginning if any problems are found during testing",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because finding problems during testing doesn't require starting completely over. Engineers can return to specific relevant steps to make improvements."
+                    }
+                ],
+                "funFact": "The Wright brothers, who invented the first successful airplane, went through over 200 wing designs and numerous prototypes over several years - a perfect example of the iterative engineering process in action!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the iterative nature of the engineering design process and how steps can be repeated"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of conducting research during the engineering design process?",
+                "options": [
+                    {
+                        "text": "To identify potential improvements to initial design ideas and learn from existing solutions",
+                        "isCorrect": 1,
+                        "explanation": "Research helps engineers understand how their ideas can be enhanced and what solutions already exist, allowing them to build upon previous work and avoid reinventing existing solutions."
+                    },
+                    {
+                        "text": "To immediately start building prototypes",
+                        "isCorrect": 0,
+                        "explanation": "Building prototypes comes after research and brainstorming. Starting with prototypes without research can waste time and resources on potentially flawed designs."
+                    },
+                    {
+                        "text": "To prove that the first design idea is the best solution",
+                        "isCorrect": 0,
+                        "explanation": "Research is not about proving initial ideas are best, but rather about exploring multiple possibilities and learning from existing solutions to develop better designs."
+                    },
+                    {
+                        "text": "To document the final design solution",
+                        "isCorrect": 0,
+                        "explanation": "Documentation is important throughout the process, but research specifically focuses on gathering information to inform and improve design ideas early in the process."
+                    }
+                ],
+                "funFact": "The Wright brothers conducted extensive research before their successful flight, studying birds in flight and reading everything they could find about aerodynamics. This research was crucial to developing their revolutionary wing design that made powered flight possible."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the purpose of research in the engineering design process to enhance ideas and learn from existing solutions"
+        },
+        {
+            "question": {
+                "text": "An engineer is working on improving a new energy-efficient car design. Which approach best describes how they would optimize their design solution?",
+                "options": [
+                    {
+                        "text": "Test the design once, make all possible improvements, and finalize the product",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because optimization requires multiple iterations of testing and improvements, not just a single test followed by final changes."
+                    },
+                    {
+                        "text": "Repeatedly test the design, analyze results, and make improvements based on each test's data",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because optimization involves iterative testing and modifications based on test results to achieve the best possible solution."
+                    },
+                    {
+                        "text": "Create multiple different designs and choose the best one without testing",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because selecting a design without testing doesn't provide data about how well it actually performs or where improvements are needed."
+                    },
+                    {
+                        "text": "Wait until the final stages of development to test the design",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because waiting until the end to test the design doesn't allow for iterative improvements throughout the development process."
+                    }
+                ],
+                "funFact": "The development of the modern hybrid car took over 100 iterations of testing and improvements before the first successful commercial model was released. Engineers constantly tested different combinations of electric motors and gasoline engines to find the optimal balance between power and fuel efficiency."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about how engineers optimize design solutions through repeated testing and improvements"
+        },
+        {
+            "question": {
+                "text": "How do engineers use data collection and analysis to improve their design solutions?",
+                "options": [
+                    {
+                        "text": "They collect and analyze data from prototype testing to identify areas for improvement and make modifications to optimize the design",
+                        "isCorrect": 1,
+                        "explanation": "Engineers systematically collect data by testing prototypes, analyze the results to understand how well the design meets criteria and constraints, and use these insights to make targeted improvements."
+                    },
+                    {
+                        "text": "They only collect data at the very end of the design process to document the final solution",
+                        "isCorrect": 0,
+                        "explanation": "Data collection occurs throughout the iterative design process, not just at the end. Engineers need ongoing data to guide improvements."
+                    },
+                    {
+                        "text": "They use data from existing solutions and never need to collect new data",
+                        "isCorrect": 0,
+                        "explanation": "While existing data is useful for research, engineers must collect new data specific to their prototype tests to evaluate and improve their unique design solutions."
+                    },
+                    {
+                        "text": "They focus on collecting as much random data as possible without analyzing it",
+                        "isCorrect": 0,
+                        "explanation": "Engineers collect targeted data related to their design criteria and constraints, and carefully analyze it to make meaningful improvements."
+                    }
+                ],
+                "funFact": "The iterative engineering design process used today was inspired by the scientific method developed during the Scientific Revolution in the 16th and 17th centuries. Both approaches emphasize systematic testing and data-driven refinement of ideas."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the role of data collection and analysis in improving design solutions"
+        },
+        {
+            "question": {
+                "text": "Which type of model is most appropriate for testing how different parts of a mechanical system move and interact with each other before building a physical prototype?",
+                "options": [
+                    {
+                        "text": "Computer-aided design (CAD) model",
+                        "isCorrect": 1,
+                        "explanation": "CAD models are ideal for visualizing and testing how mechanical parts move and interact, allowing engineers to simulate the system's functionality before investing in physical prototypes."
+                    },
+                    {
+                        "text": "Simple sketch",
+                        "isCorrect": 0,
+                        "explanation": "While sketches are useful for initial brainstorming, they cannot demonstrate the dynamic movement and interaction between parts like a CAD model can."
+                    },
+                    {
+                        "text": "Written description",
+                        "isCorrect": 0,
+                        "explanation": "Written descriptions alone cannot effectively show how parts move and interact in a mechanical system, making it difficult to test the functionality."
+                    },
+                    {
+                        "text": "Materials list",
+                        "isCorrect": 0,
+                        "explanation": "A materials list only shows what components are needed but cannot demonstrate how these components will move and interact within the system."
+                    }
+                ],
+                "funFact": "Modern CAD software can not only show how parts move, but can also simulate real-world physics, stress analysis, and even predict potential failures before anything is physically built, saving companies millions in development costs!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the different types of models engineers use to test design solutions like sketches, diagrams and CAD"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a new solar-powered car. Which of the following best describes how criteria and constraints would be used to evaluate different design solutions?",
+                "options": [
+                    {
+                        "text": "Criteria and constraints are only used at the beginning of the design process to define the problem",
+                        "isCorrect": 0,
+                        "explanation": "While criteria and constraints are important for defining the problem initially, they are used throughout the design process, especially when evaluating and comparing different solutions."
+                    },
+                    {
+                        "text": "Criteria and constraints help determine which solution is most successful and aid in choosing between competing designs",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because criteria (requirements for success) and constraints (limitations) provide the framework for evaluating how well different solutions meet the project goals and help select the optimal design."
+                    },
+                    {
+                        "text": "Only criteria should be used to evaluate designs since constraints limit creativity",
+                        "isCorrect": 0,
+                        "explanation": "Both criteria and constraints are essential for evaluation - criteria ensure the solution meets requirements while constraints ensure the solution is feasible within real-world limitations."
+                    },
+                    {
+                        "text": "Criteria and constraints are only relevant after a final design has been selected",
+                        "isCorrect": 0,
+                        "explanation": "Criteria and constraints are used throughout the entire design process, not just at the end, to guide development and evaluate solutions during testing and optimization."
+                    }
+                ],
+                "funFact": "The world's fastest solar-powered car reached speeds of over 88 mph! Engineers had to carefully balance criteria like maximum speed with constraints like the limited power available from solar panels when designing these innovative vehicles."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about how criteria and constraints are used to evaluate competing design solutions"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of computer-aided design (CAD) in the engineering design process?",
+                "options": [
+                    {
+                        "text": "To create virtual 3D models that show how different parts interact and move together",
+                        "isCorrect": 1,
+                        "explanation": "CAD allows engineers to create detailed 3D models to visualize and test how components work together before building physical prototypes, making the design process more efficient."
+                    },
+                    {
+                        "text": "To automatically solve engineering problems without human input",
+                        "isCorrect": 0,
+                        "explanation": "CAD is a tool that assists engineers but does not independently solve problems - it requires human creativity and decision-making."
+                    },
+                    {
+                        "text": "To eliminate the need for physical prototypes entirely",
+                        "isCorrect": 0,
+                        "explanation": "While CAD reduces the need for multiple physical prototypes, it doesn't eliminate them entirely. Physical prototypes are still important for final testing and validation."
+                    },
+                    {
+                        "text": "To document the final design solution only",
+                        "isCorrect": 0,
+                        "explanation": "CAD is used throughout the design process for developing and testing ideas, not just documenting the final solution."
+                    }
+                ],
+                "funFact": "The first major CAD program was called Sketchpad, developed in 1963 by Ivan Sutherland at MIT. Users could draw directly on a computer screen with a light pen - revolutionary for its time when most computer input was through punched cards!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about the definition and role of computer-aided design (CAD) in developing engineering solutions"
+        },
+        {
+            "question": {
+                "text": "During a brainstorming session for designing a new eco-friendly water bottle, what is the most appropriate way for engineers to handle ideas that are shared?",
+                "options": [
+                    {
+                        "text": "Document all ideas without judging them, even if they seem impractical at first",
+                        "isCorrect": 1,
+                        "explanation": "During brainstorming, all ideas should be documented without judgment to encourage creativity and maximize potential solutions. Evaluation comes later in the design process."
+                    },
+                    {
+                        "text": "Only write down ideas that seem practical and feasible",
+                        "isCorrect": 0,
+                        "explanation": "Filtering ideas during brainstorming can limit creativity and potentially eliminate innovative solutions that might be viable with some modifications."
+                    },
+                    {
+                        "text": "Immediately evaluate each idea and only keep the best ones",
+                        "isCorrect": 0,
+                        "explanation": "Evaluating ideas during brainstorming can discourage participation and limit the number of creative solutions that might be proposed."
+                    },
+                    {
+                        "text": "Focus on improving existing solutions rather than documenting new ideas",
+                        "isCorrect": 0,
+                        "explanation": "Brainstorming should be open to all new ideas, not just improvements to existing solutions. This approach could limit innovation."
+                    }
+                ],
+                "funFact": "The term 'brainstorming' was coined in 1953 by Alex Osborn, an advertising executive. The original rules he created for brainstorming, including 'defer judgment' and 'quantity over quality,' are still widely used in engineering and creative fields today."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Blueprint about how engineers document and record ideas during the brainstorming phase without judgment"
+        },
+        {
+            "question": {
+                "text": "A student is designing a solar-powered toy car and wants to optimize its performance. Which sequence of steps would be most effective for improving the design?",
+                "options": [
+                    {
+                        "text": "Build multiple prototypes at once, test them all simultaneously, and choose the best performing one",
+                        "isCorrect": 0,
+                        "explanation": "While testing multiple designs can be useful, this approach skips the important iterative process of making improvements based on test results from each version"
+                    },
+                    {
+                        "text": "Build a prototype, test it, analyze the data, make improvements, and repeat this process until the design meets all requirements",
+                        "isCorrect": 1,
+                        "explanation": "This iterative approach allows for systematic testing and improvement based on data from each version, leading to an optimized final design"
+                    },
+                    {
+                        "text": "Research existing solar car designs, pick the best features from each, and build one final version",
+                        "isCorrect": 0,
+                        "explanation": "While research is important, simply combining existing features without testing and iterative improvement may not lead to an optimal design"
+                    },
+                    {
+                        "text": "Create a detailed computer model and use it to predict the best possible design without building prototypes",
+                        "isCorrect": 0,
+                        "explanation": "While computer modeling is valuable, physical prototypes and testing are essential for identifying real-world performance issues and making improvements"
+                    }
+                ],
+                "funFact": "The world's first practical solar-powered car race, the World Solar Challenge, has been held in Australia since 1987. Teams compete to design, build, and drive solar vehicles across 3,000 kilometers of Australian outback, constantly improving their designs each year based on performance data!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student wants to test and improve a prototype for a new solar-powered toy car design. Which sequence of steps would best help optimize the final design?"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a new plastic recycling machine. Which type of data would be most valuable to collect during prototype testing to improve the machine's performance?",
+                "options": [
+                    {
+                        "text": "The amount of plastic processed per hour and the quality of the recycled output",
+                        "isCorrect": 1,
+                        "explanation": "Processing rate and output quality are key performance metrics that directly indicate how well the machine meets its core function, allowing engineers to make targeted improvements."
+                    },
+                    {
+                        "text": "The color and brand of plastic containers being recycled",
+                        "isCorrect": 0,
+                        "explanation": "While this information might be interesting, it doesn't provide meaningful data about the machine's performance or help improve its design."
+                    },
+                    {
+                        "text": "The names of engineers working on different testing shifts",
+                        "isCorrect": 0,
+                        "explanation": "Personnel information is not relevant data for improving the machine's technical performance or design."
+                    },
+                    {
+                        "text": "The cost of electricity in different testing locations",
+                        "isCorrect": 0,
+                        "explanation": "While operating costs matter, this data doesn't directly help evaluate or improve the machine's core recycling functionality."
+                    }
+                ],
+                "funFact": "Modern recycling machines use advanced optical sensors and artificial intelligence to automatically sort different types of plastics by analyzing their chemical composition in milliseconds!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "An engineer is developing a new recycling machine. What type of data would be most useful to collect during prototype testing to improve the design?"
+        },
+        {
+            "question": {
+                "text": "A team of engineering students has developed several sketches for a wind turbine design to generate renewable energy. What would be the most effective next step to work towards finding the optimal solution?",
+                "options": [
+                    {
+                        "text": "Build a prototype and collect data through testing to identify areas for improvement",
+                        "isCorrect": 1,
+                        "explanation": "Building and testing a prototype allows engineers to gather concrete data about the design's performance and identify specific aspects that need improvement, which is essential for optimization"
+                    },
+                    {
+                        "text": "Create additional sketches to have more design options to choose from",
+                        "isCorrect": 0,
+                        "explanation": "While having multiple design options is useful, at this stage it's more important to test and evaluate existing designs rather than create more untested options"
+                    },
+                    {
+                        "text": "Select the best-looking sketch and proceed directly to final construction",
+                        "isCorrect": 0,
+                        "explanation": "Moving directly to final construction without testing skips the crucial optimization phase and risks creating a suboptimal solution"
+                    },
+                    {
+                        "text": "Ask other students to vote on which sketch looks the best",
+                        "isCorrect": 0,
+                        "explanation": "Subjective opinions about appearance don't provide the data needed to optimize the design's functional performance"
+                    }
+                ],
+                "funFact": "The world's largest wind turbine, developed by Chinese company MingYang Smart Energy, has blades longer than a football field and can power 20,000 homes! It took years of prototyping and testing to optimize its design."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A team of students has created multiple sketches for a wind turbine design. What would be the most effective next step to move from these initial ideas toward an optimal solution?"
+        },
+        {
+            "question": {
+                "text": "When testing a prototype for a new water filtration system, what is the main purpose of recording both successful and unsuccessful test results?",
+                "options": [
+                    {
+                        "text": "To generate data that can be analyzed to improve the design in future iterations",
+                        "isCorrect": 1,
+                        "explanation": "Recording both successful and unsuccessful results provides valuable data that helps engineers understand what works and what doesn't, allowing them to make informed improvements to the design."
+                    },
+                    {
+                        "text": "To prove that the first design attempt was successful",
+                        "isCorrect": 0,
+                        "explanation": "The engineering design process is iterative, and the first attempt rarely provides the optimal solution. The goal is improvement, not proving initial success."
+                    },
+                    {
+                        "text": "To document that testing was completed",
+                        "isCorrect": 0,
+                        "explanation": "Simply documenting that testing occurred doesn't provide useful information for improving the design. The actual results and their analysis are what matter."
+                    },
+                    {
+                        "text": "To show which tests to avoid in future attempts",
+                        "isCorrect": 0,
+                        "explanation": "Unsuccessful tests provide valuable learning opportunities and shouldn't be avoided. They help identify what needs improvement in the design."
+                    }
+                ],
+                "funFact": "The development of modern water filtration systems often takes hundreds or even thousands of test iterations. For example, the creation of the reverse osmosis membrane technology used in many water purification systems today took over 15 years of testing and improvements before becoming commercially viable."
+            },
+            "cognitive_level": "application",
+            "blueprint": "When testing a prototype for a new water filtration system, what is the main purpose of recording both successful and unsuccessful test results?"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is testing a new bridge design. During initial stability tests, they discover that the bridge model sways too much when weight is applied. Which part of the bridge design should they focus on modifying first to improve its stability?",
+                "options": [
+                    {
+                        "text": "The support structure at the base",
+                        "isCorrect": 1,
+                        "explanation": "The base support structure is fundamental to bridge stability. Modifying this first would have the most significant impact on reducing sway and improving overall structural integrity."
+                    },
+                    {
+                        "text": "The color of the bridge materials",
+                        "isCorrect": 0,
+                        "explanation": "The color of materials does not affect the structural stability of the bridge. This modification would not address the swaying issue."
+                    },
+                    {
+                        "text": "The decorative elements",
+                        "isCorrect": 0,
+                        "explanation": "Decorative elements are not crucial to the bridge's structural stability. Modifying these would not solve the fundamental stability problem."
+                    },
+                    {
+                        "text": "The surface texture of the roadway",
+                        "isCorrect": 0,
+                        "explanation": "While road surface texture is important for vehicle traction, it does not significantly impact the bridge's structural stability or swaying problem."
+                    }
+                ],
+                "funFact": "The Golden Gate Bridge in San Francisco is designed to sway up to 27.7 feet sideways in strong winds! This flexible design actually makes the bridge stronger by allowing it to move with natural forces rather than resist them."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A group of engineers has built a working model of a bridge design. What aspect of the model would be most important to modify first if the bridge fails initial stability tests?"
+        },
+        {
+            "question": {
+                "text": "A team of biomedical engineers is developing a new surgical tool for minimally invasive procedures. During testing, they have created several prototypes that meet different design requirements. How do the design constraints help determine the most promising prototype?",
+                "options": [
+                    {
+                        "text": "Constraints help identify which prototype best meets all the limitations while fulfilling the required functionality",
+                        "isCorrect": 1,
+                        "explanation": "Design constraints like size, cost, and safety requirements help evaluate and compare prototypes objectively to select the one that works within all given limitations"
+                    },
+                    {
+                        "text": "Constraints focus only on the cost of manufacturing the surgical tool",
+                        "isCorrect": 0,
+                        "explanation": "While cost is one constraint, there are multiple other important constraints like size, materials, safety standards, and sterilization requirements that must all be considered"
+                    },
+                    {
+                        "text": "Constraints are flexible guidelines that can be ignored if a prototype performs well",
+                        "isCorrect": 0,
+                        "explanation": "Constraints are firm limitations that cannot be ignored, even if a prototype performs well in other aspects. All constraints must be satisfied"
+                    },
+                    {
+                        "text": "Constraints only matter during the initial design phase, not during prototype testing",
+                        "isCorrect": 0,
+                        "explanation": "Constraints are important throughout the entire design process, including prototype testing, as they help evaluate and refine the design solution"
+                    }
+                ],
+                "funFact": "The first surgical robot, PUMA 560, was used in 1985 for a delicate neurosurgical biopsy. This breakthrough led to the development of many modern robotic surgical tools that must meet extremely precise design constraints for safety and accuracy."
+            },
+            "cognitive_level": "application",
+            "blueprint": "During the development of a new medical device, multiple prototypes are created and tested. How do the constraints of the design problem help determine which prototype is most promising?"
+        },
+        {
+            "question": {
+                "text": "A middle school student is designing a new cooling system for their school's computer lab that needs to be energy-efficient. Which type of model would be most effective for testing different component arrangements and predicting performance before building a physical prototype?",
+                "options": [
+                    {
+                        "text": "A computer-aided design (CAD) model",
+                        "isCorrect": 1,
+                        "explanation": "A CAD model allows testing different configurations virtually, simulating airflow and heat transfer, and making iterative improvements without the time and cost of physical prototypes."
+                    },
+                    {
+                        "text": "A physical scale model made of cardboard",
+                        "isCorrect": 0,
+                        "explanation": "While physical models can be useful, cardboard models cannot accurately simulate heat transfer or airflow patterns needed for testing a cooling system's performance."
+                    },
+                    {
+                        "text": "A written description with diagrams",
+                        "isCorrect": 0,
+                        "explanation": "Written descriptions and diagrams, while helpful for planning, cannot generate the quantitative data needed to test and optimize the cooling system's performance."
+                    },
+                    {
+                        "text": "A basic sketch on graph paper",
+                        "isCorrect": 0,
+                        "explanation": "Simple sketches are good for initial brainstorming but cannot provide the detailed analysis and testing capabilities needed for optimizing a cooling system design."
+                    }
+                ],
+                "funFact": "Modern CAD software can simulate not just the physical arrangement of components, but also complex phenomena like fluid dynamics and heat transfer. This capability has reduced product development time in many industries by up to 50% by catching design issues before physical prototypes are built."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student is designing an energy-efficient cooling system. What type of model would be most useful for testing different component configurations before building a physical prototype?"
+        },
+        {
+            "question": {
+                "text": "A robotics team is developing a robotic arm to assist in delicate surgical procedures. They have collected test data showing that their current prototype occasionally moves too quickly and overshoots its target position. How should they use this data to optimize their design?",
+                "options": [
+                    {
+                        "text": "Analyze the test data to modify the arm's motion control system and retest with progressively finer adjustments until the desired precision is achieved",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct approach as it uses iterative testing and data analysis to make systematic improvements to the design, leading to optimal performance"
+                    },
+                    {
+                        "text": "Completely redesign the robotic arm from scratch since the current design isn't perfect",
+                        "isCorrect": 0,
+                        "explanation": "Starting over is inefficient and wastes valuable test data that could guide improvements to the existing design"
+                    },
+                    {
+                        "text": "Keep testing the current design without making any changes until it works perfectly",
+                        "isCorrect": 0,
+                        "explanation": "Simply repeating tests without making modifications based on the data won't lead to design improvements"
+                    },
+                    {
+                        "text": "Make random adjustments to the design and hope for better results",
+                        "isCorrect": 0,
+                        "explanation": "Making arbitrary changes without using test data to guide modifications is unlikely to result in systematic improvement"
+                    }
+                ],
+                "funFact": "The first robotic surgery was performed in 1985 when the PUMA 560 robotic surgical arm was used in a delicate neurosurgical biopsy. This groundbreaking procedure demonstrated unprecedented precision and helped establish the field of robotic surgery."
+            },
+            "cognitive_level": "application",
+            "blueprint": "When optimizing the design of a robot arm, how should test data from each iteration be used to improve the next version?"
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a new bicycle gear shifting system and has developed three prototypes. Which set of criteria would be most appropriate to evaluate and optimize the design solutions?",
+                "options": [
+                    {
+                        "text": "Cost of materials, shifting speed, and durability during repeated use",
+                        "isCorrect": 1,
+                        "explanation": "These criteria cover both performance aspects (shifting speed and durability) and practical constraints (cost), allowing for comprehensive evaluation of the design solutions."
+                    },
+                    {
+                        "text": "Color of the gears, brand name recognition, and packaging design",
+                        "isCorrect": 0,
+                        "explanation": "These criteria focus on aesthetic and marketing aspects rather than the functional requirements and constraints of the gear system itself."
+                    },
+                    {
+                        "text": "Number of tools required for assembly, shipping weight, and manufacturing location",
+                        "isCorrect": 0,
+                        "explanation": "While these are relevant to production and distribution, they don't directly address the core functionality and performance requirements of the gear system."
+                    },
+                    {
+                        "text": "Customer reviews, market demand, and retail price",
+                        "isCorrect": 0,
+                        "explanation": "These criteria focus on business aspects rather than the technical performance and engineering requirements of the gear system."
+                    }
+                ],
+                "funFact": "The first bicycle gear shifting system was invented in 1869 by Jean Suriray of Paris. Modern bicycle derailleurs can now shift through up to 33 different gear combinations, allowing cyclists to optimize their pedaling efficiency across various terrains."
+            },
+            "cognitive_level": "application",
+            "blueprint": "An engineer has developed three different prototypes for a new bicycle gear system. What criteria should be used to evaluate which design solution is most optimal?"
+        },
+        {
+            "question": {
+                "text": "An agricultural engineer is testing a new automated seed planting tool. Initial tests show that seeds are being planted too close together, reducing crop yields. Which modification would most likely improve the tool's performance?",
+                "options": [
+                    {
+                        "text": "Adjusting the timing mechanism that controls seed spacing",
+                        "isCorrect": 1,
+                        "explanation": "Modifying the timing mechanism would directly address the spacing issue by allowing better control over when seeds are released, leading to optimal distance between plants."
+                    },
+                    {
+                        "text": "Changing the color of the tool's exterior",
+                        "isCorrect": 0,
+                        "explanation": "The exterior color has no impact on the tool's functionality or seed spacing performance."
+                    },
+                    {
+                        "text": "Making the tool lighter in weight",
+                        "isCorrect": 0,
+                        "explanation": "While weight might affect ease of use, it would not solve the fundamental issue of seed spacing."
+                    },
+                    {
+                        "text": "Using a different brand of seeds",
+                        "isCorrect": 0,
+                        "explanation": "The seed brand is not related to the spacing problem, which is a mechanical issue with the tool itself."
+                    }
+                ],
+                "funFact": "Modern automated seed planters can plant over 40,000 seeds per hour while maintaining precise spacing and depth, revolutionizing agricultural efficiency compared to traditional manual planting methods."
+            },
+            "cognitive_level": "application",
+            "blueprint": "During the testing phase of a new agricultural tool, what type of modifications would most likely lead to an improved design based on performance data?"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a smart irrigation system to reduce water waste in homes. They want to use computer modeling to test and improve their design before building physical prototypes. Which approach would be most effective for optimizing their design through computer modeling?",
+                "options": [
+                    {
+                        "text": "Create a single detailed computer model and use it to test the complete system at once",
+                        "isCorrect": 0,
+                        "explanation": "Testing the entire system at once makes it difficult to identify specific problems and improvements needed. An iterative approach testing individual components would be more effective."
+                    },
+                    {
+                        "text": "Build multiple physical prototypes first and then create computer models based on the best prototype",
+                        "isCorrect": 0,
+                        "explanation": "Building physical prototypes first defeats the purpose of computer modeling, which is to test and refine designs before investing in physical construction."
+                    },
+                    {
+                        "text": "Develop computer models to test individual components, collect data, make improvements, and repeat the process",
+                        "isCorrect": 1,
+                        "explanation": "This iterative approach allows engineers to systematically test components, analyze data, and make targeted improvements to optimize the design before physical construction."
+                    },
+                    {
+                        "text": "Use computer modeling only to visualize the final design after all calculations are done manually",
+                        "isCorrect": 0,
+                        "explanation": "Using computer modeling only for visualization misses its key benefit of generating data through testing to guide design improvements."
+                    }
+                ],
+                "funFact": "Modern computer-aided design (CAD) software can simulate real-world physics, allowing engineers to test how their designs would perform under different weather conditions, water pressures, and usage patterns - all without using a single drop of actual water!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A team is developing a new water conservation system for homes. How should they use computer modeling to test different design iterations before physical construction?"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a new automated recycling sorter that can separate different types of materials. Which aspect of the prototype should they systematically modify to optimize its performance?",
+                "options": [
+                    {
+                        "text": "Make random changes to multiple components simultaneously and test the results",
+                        "isCorrect": 0,
+                        "explanation": "Making random changes to multiple components at once makes it difficult to determine which specific modification led to improved performance."
+                    },
+                    {
+                        "text": "Change one variable at a time while keeping other components constant and collect data",
+                        "isCorrect": 1,
+                        "explanation": "This systematic approach allows engineers to clearly identify which modifications improve performance by isolating the effect of each change."
+                    },
+                    {
+                        "text": "Build entirely new prototypes each time without using data from previous versions",
+                        "isCorrect": 0,
+                        "explanation": "Starting from scratch each time ignores valuable data from previous iterations that could guide improvements."
+                    },
+                    {
+                        "text": "Focus only on aesthetic changes without testing functionality",
+                        "isCorrect": 0,
+                        "explanation": "Optimizing performance requires testing and modifying functional aspects, not just aesthetic ones."
+                    }
+                ],
+                "funFact": "Modern recycling facilities use advanced optical sorters that can process up to 10 tons of mixed recyclables per hour using specialized sensors and artificial intelligence to identify different materials!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "When creating multiple versions of a prototype for a new recycling sorter, what aspects of the design should be systematically modified to optimize performance?"
+        },
+        {
+            "question": {
+                "text": "Two teams of engineers have designed different solar-powered cars for a high school competition. Team A's car costs $2000 to build and reaches a top speed of 25 mph with 80% energy efficiency. Team B's car costs $1500 to build and reaches a top speed of 20 mph with 85% energy efficiency. The competition criteria require the car to: 1) cost less than $2500, 2) reach at least 15 mph, and 3) have minimum 75% energy efficiency. The team with better overall performance considering all criteria will win. Which team has the better design solution?",
+                "options": [
+                    {
+                        "text": "Team B has the better design solution since it meets all criteria while being more cost-effective and energy efficient",
+                        "isCorrect": 1,
+                        "explanation": "While both designs meet all criteria, Team B's solution is more optimized overall. It achieves the required speed while being $500 cheaper and 5% more energy efficient than Team A's design."
+                    },
+                    {
+                        "text": "Team A has the better design solution since it achieves a higher top speed",
+                        "isCorrect": 0,
+                        "explanation": "While Team A's car is faster, the extra speed beyond the required 15 mph doesn't justify the higher cost and lower efficiency compared to Team B's design."
+                    },
+                    {
+                        "text": "Both designs are equally good since they both meet all the minimum criteria",
+                        "isCorrect": 0,
+                        "explanation": "Just meeting the minimum criteria isn't enough - when comparing solutions, we need to consider how well each design optimizes all criteria and constraints together."
+                    }
+                ],
+                "funFact": "The world's fastest solar-powered car reached a speed of 88.8 mph in 2014! This record-breaking vehicle, the Sunswift eVe, was designed by engineering students at the University of New South Wales in Australia."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare two engineering design solutions to determine which better meets the criteria and constraints, given data showing test results for factors like speed, efficiency, and cost"
+        },
+        {
+            "question": {
+                "text": "A team of engineers developed a prototype of a solar-powered water purification system. During initial testing, they found that while the system successfully removed contaminants, it processed only 2 liters of water per hour instead of the required 5 liters per hour. What would be the most logical next step in the engineering design process?",
+                "options": [
+                    {
+                        "text": "Start over with a completely new design that uses wind power instead of solar power",
+                        "isCorrect": 0,
+                        "explanation": "Completely abandoning the current design is premature, especially since the basic functionality works. The iterative design process involves improving existing solutions rather than starting over when minor modifications could solve the problem."
+                    },
+                    {
+                        "text": "Analyze the test data to identify bottlenecks in the system and modify those components",
+                        "isCorrect": 1,
+                        "explanation": "This represents the optimal approach in the engineering design process - using test data to identify specific areas for improvement and making targeted modifications to optimize performance."
+                    },
+                    {
+                        "text": "Declare the prototype a partial success and move forward with production",
+                        "isCorrect": 0,
+                        "explanation": "Moving to production when the design doesn't meet key performance criteria (water processing rate) goes against the engineering design process, which requires meeting all critical requirements before finalizing a design."
+                    },
+                    {
+                        "text": "Redefine the original requirements to match the current performance",
+                        "isCorrect": 0,
+                        "explanation": "Changing the requirements to match underperforming results rather than improving the design to meet the original requirements is not a proper engineering solution."
+                    }
+                ],
+                "funFact": "Modern water purification systems often use multiple optimization cycles before reaching production. The development of the first practical reverse osmosis water purification system took over 20 iterations of testing and refinement before achieving its target performance metrics!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a scenario where an engineering prototype failed initial testing and identify the most logical next steps to optimize the design based on the test data"
+        },
+        {
+            "question": {
+                "text": "An engineering team is designing a new electric car motor using CAD software. They have created several iterations of their design, making modifications to improve efficiency. Which of the following changes would most likely lead to the optimal design solution?",
+                "options": [
+                    {
+                        "text": "Making random modifications to the motor design without testing each change",
+                        "isCorrect": 0,
+                        "explanation": "Random modifications without testing do not follow the engineering design process and cannot effectively lead to optimization."
+                    },
+                    {
+                        "text": "Collecting performance data from each design iteration and using it to guide subsequent modifications",
+                        "isCorrect": 1,
+                        "explanation": "Using data from testing each iteration to inform modifications is the most effective way to optimize a design solution."
+                    },
+                    {
+                        "text": "Selecting the first design that meets the minimum performance requirements",
+                        "isCorrect": 0,
+                        "explanation": "Stopping at the first acceptable design prevents finding the optimal solution through iterative improvements."
+                    },
+                    {
+                        "text": "Creating multiple designs simultaneously without testing any of them",
+                        "isCorrect": 0,
+                        "explanation": "Creating multiple untested designs does not provide the necessary data to determine which changes improve performance."
+                    }
+                ],
+                "funFact": "Modern CAD software can simulate real-world conditions and predict performance outcomes, allowing engineers to test hundreds of design iterations virtually before building physical prototypes, saving both time and resources."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate multiple iterations of CAD models for a product design and determine which modifications were most effective in improving the design's performance"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a new automated sorting system for a recycling facility. They need to test different aspects of their design solution. Which modeling approach would be most effective for evaluating the system's speed and accuracy of sorting different types of materials?",
+                "options": [
+                    {
+                        "text": "A physical prototype with actual materials",
+                        "isCorrect": 1,
+                        "explanation": "A physical prototype would be best for testing speed and accuracy since it allows real-time observation of how different materials move through the system and whether they are sorted correctly under actual conditions."
+                    },
+                    {
+                        "text": "A CAD model showing the system design",
+                        "isCorrect": 0,
+                        "explanation": "While CAD models are excellent for visualizing the system layout and checking component fit, they cannot effectively simulate the dynamic behavior of different materials being sorted in real-world conditions."
+                    },
+                    {
+                        "text": "A written description of the system",
+                        "isCorrect": 0,
+                        "explanation": "A written description alone cannot demonstrate the actual performance characteristics like speed and accuracy that need to be tested in a sorting system."
+                    },
+                    {
+                        "text": "A mathematical equation of the sorting process",
+                        "isCorrect": 0,
+                        "explanation": "Mathematical equations can help calculate theoretical performance but cannot adequately test real-world variables like material behavior that affect sorting speed and accuracy."
+                    }
+                ],
+                "funFact": "Modern recycling facilities use advanced optical sorting systems that can process up to 10 tons of materials per hour with accuracy rates over 95%. These systems use sophisticated sensors and artificial intelligence to identify and sort different types of materials at high speeds."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the effectiveness of different modeling approaches (physical prototype vs CAD) for testing specific aspects of an engineering design solution"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a new skateboard design. They created three prototypes using different materials for the deck (the flat board part): Prototype A used maple wood, Prototype B used carbon fiber, and Prototype C used bamboo. After testing, they found that Prototype A was durable but heavy, Prototype B was extremely light and strong but expensive, and Prototype C was lightweight and eco-friendly but less durable. The team's main criteria are durability and affordability, with sustainability as a bonus. Which prototype would you recommend they iterate upon further?",
+                "options": [
+                    {
+                        "text": "Prototype A (maple wood)",
+                        "isCorrect": 1,
+                        "explanation": "Maple wood offers the best balance of the key criteria - it's highly durable and relatively affordable. While it's heavier, this can be optimized in future iterations while maintaining the core requirements."
+                    },
+                    {
+                        "text": "Prototype B (carbon fiber)",
+                        "isCorrect": 0,
+                        "explanation": "While carbon fiber offers excellent durability and lightweight properties, its high cost violates one of the key criteria of affordability, making it a less suitable choice for further development."
+                    },
+                    {
+                        "text": "Prototype C (bamboo)",
+                        "isCorrect": 0,
+                        "explanation": "Although bamboo is eco-friendly and lightweight, its lower durability fails to meet one of the primary criteria. Sustainability is only a bonus feature and shouldn't override the main requirements."
+                    }
+                ],
+                "funFact": "The first skateboards in the 1950s were actually made from wooden planks taken from old roller skates! The evolution of skateboard materials has come a long way, with modern boards using everything from Canadian maple to aerospace-grade composites."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how changes in material choices across different prototype iterations affected the design solution's ability to meet specific criteria"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a new energy-efficient car engine. They have tested three different design modifications and collected the following data:\n\nDesign A: Fuel efficiency improved by 10%, but engine weight increased by 15%\nDesign B: Fuel efficiency improved by 15%, but production cost increased by 25%\nDesign C: Fuel efficiency improved by 8%, with no significant changes in weight or cost\n\nIf the main criteria are maximizing fuel efficiency while keeping weight and cost increases under 10%, which design modification would be most successful for optimization?",
+                "options": [
+                    {
+                        "text": "Design A",
+                        "isCorrect": 0,
+                        "explanation": "While Design A shows good fuel efficiency improvement (10%), the 15% weight increase exceeds the constraint of keeping changes under 10%."
+                    },
+                    {
+                        "text": "Design B",
+                        "isCorrect": 0,
+                        "explanation": "Although Design B has the highest fuel efficiency improvement (15%), the 25% cost increase significantly exceeds the 10% constraint."
+                    },
+                    {
+                        "text": "Design C",
+                        "isCorrect": 1,
+                        "explanation": "Design C provides a reasonable fuel efficiency improvement (8%) while staying within the constraints for weight and cost changes, making it the most optimal solution."
+                    },
+                    {
+                        "text": "None of the designs",
+                        "isCorrect": 0,
+                        "explanation": "Design C meets all criteria and constraints, so it's not correct that none of the designs would work for optimization."
+                    }
+                ],
+                "funFact": "In real-world automotive engineering, even small improvements in fuel efficiency can have huge impacts. A 5% increase in fuel efficiency across all cars in the United States could save billions of gallons of fuel annually!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate test data from multiple phases of the design process to determine which optimization strategies were most successful"
+        },
+        {
+            "question": {
+                "text": "An engineering team is brainstorming solutions for designing a more energy-efficient school bus. During the brainstorming phase, they generated several initial ideas. Which of the following ideas would be most promising to pursue based on both the design criteria of reducing fuel consumption and the constraint of staying within a $50,000 budget?",
+                "options": [
+                    {
+                        "text": "Installing a completely new electric engine system costing $80,000",
+                        "isCorrect": 0,
+                        "explanation": "While this would significantly reduce fuel consumption, it exceeds the budget constraint of $50,000"
+                    },
+                    {
+                        "text": "Adding aerodynamic panels and a hybrid engine system costing $45,000",
+                        "isCorrect": 1,
+                        "explanation": "This solution meets both criteria by reducing fuel consumption through improved aerodynamics and hybrid technology while staying within the budget constraint"
+                    },
+                    {
+                        "text": "Installing lightweight racing seats costing $20,000",
+                        "isCorrect": 0,
+                        "explanation": "While within budget, this solution would have minimal impact on fuel consumption compared to other options"
+                    },
+                    {
+                        "text": "Adding a decorative paint job with streamlined stripes costing $5,000",
+                        "isCorrect": 0,
+                        "explanation": "Though well within budget, this aesthetic change would not meaningfully impact fuel consumption"
+                    }
+                ],
+                "funFact": "Aerodynamic improvements on vehicles can reduce fuel consumption by up to 15-20% at highway speeds, which is why modern vehicles undergo extensive wind tunnel testing during their design phase."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze documentation from the brainstorming phase to determine which initial ideas had the greatest potential for meeting both criteria and constraints"
+        },
+        {
+            "question": {
+                "text": "A team of student engineers is working on designing a solar-powered toy car. They decide to try two different approaches for generating design ideas: first working individually, then working as a group. After both sessions, they collected the following data:\n\nIndividual Brainstorming (3 students working separately for 30 minutes each):\n- Total unique design ideas: 12\n- Viable ideas meeting all criteria: 4\n- Average complexity of ideas: Medium\n\nGroup Brainstorming (same 3 students working together for 30 minutes):\n- Total unique design ideas: 8\n- Viable ideas meeting all criteria: 6\n- Average complexity of ideas: High\n\nBased on this data, which conclusion is best supported?",
+                "options": [
+                    {
+                        "text": "Group brainstorming was more effective because it produced more viable solutions that met the criteria, even though it generated fewer total ideas",
+                        "isCorrect": 1,
+                        "explanation": "The data shows that while group brainstorming produced fewer total ideas (8 vs 12), it resulted in more viable solutions (6 vs 4) and higher complexity ideas, making it more effective for this design challenge"
+                    },
+                    {
+                        "text": "Individual brainstorming was more effective because it produced more total unique ideas",
+                        "isCorrect": 0,
+                        "explanation": "While individual brainstorming produced more total ideas, quantity alone doesn't determine effectiveness - the quality and viability of solutions is more important for the engineering design process"
+                    },
+                    {
+                        "text": "Both approaches were equally effective since they each had advantages",
+                        "isCorrect": 0,
+                        "explanation": "While both approaches had some benefits, the data shows group brainstorming produced better results in terms of viable solutions and idea complexity, making it more effective overall"
+                    },
+                    {
+                        "text": "The data is insufficient to draw any conclusion about effectiveness",
+                        "isCorrect": 0,
+                        "explanation": "The data provides clear metrics about quantity of ideas, viable solutions, and complexity - sufficient information to evaluate and compare the effectiveness of each approach"
+                    }
+                ],
+                "funFact": "Research has shown that while individuals working alone typically generate more total ideas, groups tend to build upon each other's ideas through a process called 'cognitive stimulation,' often leading to more refined and practical solutions. This is why many companies use a combination of both individual and group brainstorming in their design processes."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare data from individual and group brainstorming sessions to identify which approach generated more viable design solutions"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a solar-powered car for a competition. They have tested several prototypes and collected the following data:\n\nPrototype A: Speed = 45 mph, Battery life = 4 hours, Cost = $15,000\nPrototype B: Speed = 60 mph, Battery life = 3 hours, Cost = $20,000\nPrototype C: Speed = 50 mph, Battery life = 5 hours, Cost = $18,000\n\nThe competition criteria require:\n- Minimum speed of 55 mph\n- Minimum battery life of 4 hours\n- Maximum cost of $19,000\n\nWhich factor should the team prioritize in their next iteration of testing to optimize their design?",
+                "options": [
+                    {
+                        "text": "Improving Prototype A's speed",
+                        "isCorrect": 0,
+                        "explanation": "While Prototype A meets the cost and battery life requirements, it falls 10 mph short of the speed requirement. This represents a larger design change than improving Prototype C, which only needs a 5 mph increase."
+                    },
+                    {
+                        "text": "Extending Prototype B's battery life",
+                        "isCorrect": 0,
+                        "explanation": "While Prototype B's battery life needs improvement, it already exceeds the speed requirement and fails the cost constraint, making it a less optimal starting point."
+                    },
+                    {
+                        "text": "Reducing Prototype B's cost",
+                        "isCorrect": 0,
+                        "explanation": "Although Prototype B's cost needs to be reduced, optimizing a design that already fails multiple criteria (battery life and cost) is less efficient."
+                    },
+                    {
+                        "text": "Increasing Prototype C's speed",
+                        "isCorrect": 1,
+                        "explanation": "Prototype C is the optimal choice to modify because it already meets the battery life and cost requirements and only needs a small 5 mph speed increase (from 50 to 55 mph). This represents the smallest change needed among all prototypes to meet all competition requirements."
+                    }
+                ],
+                "funFact": "The world's fastest solar-powered car reached a speed of 88.8 mph during the 2019 World Solar Challenge in Australia. This event has been driving innovation in solar vehicle technology since 1987."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine a set of design criteria and constraints to determine which factors should be prioritized in the next iteration of testing"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is designing a new solar-powered car for a competition. The car needs to be as fast as possible while staying within a strict budget of $10,000. Initial testing shows that using high-efficiency solar panels would make the car 30% faster, but these panels would cost $12,000, exceeding the budget. What would be the most appropriate approach for the engineering team?",
+                "options": [
+                    {
+                        "text": "Ignore the budget constraint and use the high-efficiency panels to achieve maximum speed",
+                        "isCorrect": 0,
+                        "explanation": "Ignoring design constraints violates the engineering design process. A successful solution must meet all criteria and constraints."
+                    },
+                    {
+                        "text": "Use standard solar panels and optimize other components like aerodynamics and weight reduction to improve speed",
+                        "isCorrect": 1,
+                        "explanation": "This approach balances performance with constraints by finding alternative ways to improve speed while staying within budget."
+                    },
+                    {
+                        "text": "Abandon the project since the optimal speed cannot be achieved within budget",
+                        "isCorrect": 0,
+                        "explanation": "Engineers don't give up when faced with constraints. They find creative solutions through iterative testing and optimization."
+                    },
+                    {
+                        "text": "Focus only on reducing the cost and ignore the speed requirement",
+                        "isCorrect": 0,
+                        "explanation": "Ignoring performance criteria while meeting constraints does not lead to a successful design solution."
+                    }
+                ],
+                "funFact": "The Nuna Phoenix, a solar-powered car developed by the Dutch Brunel Solar Team, set a solar car speed record of over 130 km/h (81 mph). Solar car engineering continues to advance with teams like Australia's Sunswift achieving remarkable efficiency through optimized aerodynamics and solar technology."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine a case where design constraints conflicted with optimal performance and determine the best approach to balance these competing factors"
+        },
+        {
+            "question": {
+                "text": "An engineering team is developing a new type of electric car battery. They tested multiple design iterations and collected data on battery life (in hours) for each version:\n\nVersion 1: 3.5 hours\nVersion 2: 4.2 hours\nVersion 3: 4.0 hours\nVersion 4: 4.8 hours\nVersion 5: 4.6 hours\n\nWhich pattern in the modifications appears to have led to the most successful improvement in battery performance?",
+                "options": [
+                    {
+                        "text": "The modifications between Version 1 and Version 2 showed the largest performance gain, suggesting those changes were most effective",
+                        "isCorrect": 0,
+                        "explanation": "The increase from 3.5 to 4.2 hours represents a 0.7 hour improvement, which is significant but not the largest improvement across all iterations"
+                    },
+                    {
+                        "text": "The modifications between Version 3 and Version 4 were most effective since they produced the largest performance improvement",
+                        "isCorrect": 1,
+                        "explanation": "The increase from 4.0 to 4.8 hours represents a 0.8 hour improvement, which is the largest single improvement across all iterations. Version 4 also achieved the highest overall performance"
+                    },
+                    {
+                        "text": "The modifications between Version 4 and Version 5 were most effective since they came later in the design process",
+                        "isCorrect": 0,
+                        "explanation": "Later iterations don't automatically mean better improvements. In fact, performance decreased from Version 4 to 5"
+                    },
+                    {
+                        "text": "The modifications were equally effective across all versions since the battery life generally increased",
+                        "isCorrect": 0,
+                        "explanation": "The improvements were not equal - some modifications led to larger improvements while others resulted in decreased performance"
+                    }
+                ],
+                "funFact": "Modern electric vehicle batteries have come a long way - while early electric cars in the 1990s had ranges of just 50-60 miles, today's advanced lithium-ion batteries can power cars for over 300 miles on a single charge!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze testing data from multiple design iterations to determine patterns in how certain modifications affected the overall performance of the solution"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is developing a new solar-powered backpack for hikers. They have tested four different prototypes and collected data on their performance. The test results show:\n\nPrototype A: Used flexible solar panels, achieved 80% charging efficiency, weighed 3.5 lbs\nPrototype B: Used rigid solar panels, achieved 95% charging efficiency, weighed 4.2 lbs\nPrototype C: Used flexible solar panels, achieved 85% charging efficiency, weighed 2.8 lbs\nPrototype D: Used rigid solar panels, achieved 90% charging efficiency, weighed 3.0 lbs\n\nIf the main design criterion is maximum charging efficiency, which design element appears to have contributed most significantly to meeting this criterion?",
+                "options": [
+                    {
+                        "text": "The type of solar panel (flexible vs rigid)",
+                        "isCorrect": 1,
+                        "explanation": "The data shows that rigid panels consistently achieved higher charging efficiency (90-95%) compared to flexible panels (80-85%), making this the most influential design element for maximizing charging efficiency."
+                    },
+                    {
+                        "text": "The weight of the backpack frame",
+                        "isCorrect": 0,
+                        "explanation": "While weight varies between prototypes, it doesn't show a clear correlation with charging efficiency, suggesting it's not the most significant factor in meeting the criterion."
+                    },
+                    {
+                        "text": "The size of the solar panels",
+                        "isCorrect": 0,
+                        "explanation": "The size of the solar panels is not explicitly mentioned in the test results, so we cannot determine its impact on meeting the design criterion."
+                    },
+                    {
+                        "text": "The charging circuitry",
+                        "isCorrect": 0,
+                        "explanation": "While charging circuitry is important for solar backpacks, the test results don't provide specific data about its contribution to meeting the design criterion."
+                    }
+                ],
+                "funFact": "Solar backpacks were first developed in the early 2000s and have since become increasingly popular among outdoor enthusiasts. Modern solar panels can now convert up to 23% of sunlight into electrical energy, making them much more efficient than early models which only achieved about 10% efficiency."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given a set of test results from different prototypes, identify which specific design elements contributed most significantly to meeting the engineering criteria"
+        }
+    ]
+}

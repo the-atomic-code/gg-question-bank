@@ -1,0 +1,1086 @@
+{
+    "id": "lesson-135",
+    "title": "Gravitational Forces Between Objects",
+    "standard": "MS-PS2-4",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "Which planet would exert a stronger gravitational pull on a spacecraft passing nearby?",
+                "options": [
+                    {
+                        "text": "Jupiter, which has a mass about 318 times that of Earth",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Jupiter's much larger mass means it exerts a stronger gravitational force on nearby objects. The strength of gravitational force increases with the mass of the objects involved."
+                    },
+                    {
+                        "text": "Mars, which has a mass about 0.1 times that of Earth",
+                        "isCorrect": 0,
+                        "explanation": "Mars has a smaller mass than Earth and Jupiter, so it would exert a weaker gravitational force on the spacecraft."
+                    },
+                    {
+                        "text": "Both planets would exert the same gravitational force regardless of mass",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force depends on the masses of the interacting objects. Objects with larger mass exert stronger gravitational forces."
+                    },
+                    {
+                        "text": "Neither planet would exert any gravitational force in space",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational forces exist between all objects with mass, even in space. The force is always attractive and becomes stronger with larger masses."
+                    }
+                ],
+                "funFact": "Jupiter's enormous mass not only affects spacecraft, but also helps protect Earth from comets and asteroids! Its strong gravitational pull can deflect or capture potentially dangerous objects, earning it the nickname 'cosmic vacuum cleaner' among astronomers."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint assessing student understanding that planets with larger mass exert stronger gravitational forces compared to planets with smaller mass"
+        },
+        {
+            "question": {
+                "text": "Two identical balls are placed 10 meters apart. If these balls are moved so they are only 5 meters apart, how will this change affect the gravitational force between them?",
+                "options": [
+                    {
+                        "text": "The gravitational force between the balls will become stronger",
+                        "isCorrect": 1,
+                        "explanation": "When objects are moved closer together, the gravitational force between them increases. The force is inversely proportional to the square of the distance between the objects."
+                    },
+                    {
+                        "text": "The gravitational force between the balls will become weaker",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gravitational force becomes stronger, not weaker, when objects are moved closer together."
+                    },
+                    {
+                        "text": "The gravitational force between the balls will remain the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The gravitational force changes when the distance between objects changes, it doesn't stay constant."
+                    },
+                    {
+                        "text": "There will be no gravitational force between the balls because they are too small",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All objects with mass have gravitational force between them, regardless of their size, though it may be very small for small objects."
+                    }
+                ],
+                "funFact": "The gravitational force between everyday objects is actually incredibly tiny! For example, two 1-kilogram balls placed 1 meter apart only attract each other with a force of about 0.0000000000667 Newtons. This is why we only notice gravity from really massive objects like planets and stars."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint testing knowledge that gravitational force between two objects becomes stronger when they are closer together and weaker when they are farther apart"
+        },
+        {
+            "question": {
+                "text": "An astronaut carries a 10 kg iron ball from Earth to the Moon. Which statement is correct about the mass and weight of the iron ball on the Moon compared to Earth?",
+                "options": [
+                    {
+                        "text": "The mass remains 10 kg while the weight decreases",
+                        "isCorrect": 1,
+                        "explanation": "Mass is the amount of matter in an object and remains constant regardless of location, while weight depends on the gravitational force which is less on the Moon"
+                    },
+                    {
+                        "text": "Both mass and weight remain the same",
+                        "isCorrect": 0,
+                        "explanation": "While mass remains constant, weight changes because the Moon's gravitational force is different from Earth's"
+                    },
+                    {
+                        "text": "Both mass and weight decrease",
+                        "isCorrect": 0,
+                        "explanation": "Mass is independent of location and gravitational force - only weight changes with location"
+                    },
+                    {
+                        "text": "The mass decreases while the weight remains the same",
+                        "isCorrect": 0,
+                        "explanation": "Mass cannot change with location - it's an intrinsic property of matter. Weight changes due to different gravitational forces"
+                    }
+                ],
+                "funFact": "An object that weighs 100 pounds on Earth would weigh only about 16.5 pounds on the Moon due to the Moon's weaker gravitational field, which is about one-sixth of Earth's gravity!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint evaluating understanding that mass remains constant regardless of location while weight changes based on gravitational force"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the nature of gravitational forces between objects?",
+                "options": [
+                    {
+                        "text": "Gravitational forces between objects are always attractive, pulling objects toward each other",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Gravitational forces are always attractive in nature, causing objects with mass to pull toward each other."
+                    },
+                    {
+                        "text": "Gravitational forces between objects can be either attractive or repulsive depending on their masses",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Unlike magnetic or electrical forces, gravitational forces are always attractive, never repulsive."
+                    },
+                    {
+                        "text": "Gravitational forces only exist between Earth and other objects, not between other objects in space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gravitational forces exist between any objects that have mass, not just between Earth and other objects."
+                    },
+                    {
+                        "text": "Gravitational forces push objects away from each other in space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gravitational forces pull objects together, they never push objects apart."
+                    }
+                ],
+                "funFact": "The gravitational force between two people standing a meter apart is so tiny it's about 0.000000002 Newtons! We only notice gravity's effects day-to-day because Earth is so massive."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint assessing knowledge that gravitational forces between objects are always attractive (pulling) rather than repulsive"
+        },
+        {
+            "question": {
+                "text": "Two identical umbrellas are dropped from the same height at the same time. One umbrella is opened while the other remains closed. Which statement correctly describes what will happen?",
+                "options": [
+                    {
+                        "text": "The opened umbrella will fall faster due to its larger surface area",
+                        "isCorrect": 0,
+                        "explanation": "Larger surface area actually increases air resistance, which slows down falling objects"
+                    },
+                    {
+                        "text": "The closed umbrella will hit the ground first because it experiences less air resistance",
+                        "isCorrect": 1,
+                        "explanation": "The closed umbrella has less surface area exposed to air, creating less air resistance and allowing it to fall faster"
+                    },
+                    {
+                        "text": "Both umbrellas will hit the ground at exactly the same time",
+                        "isCorrect": 0,
+                        "explanation": "Different amounts of air resistance due to different surface areas will cause different falling speeds"
+                    },
+                    {
+                        "text": "The opened umbrella will hit the ground first because it weighs more when open",
+                        "isCorrect": 0,
+                        "explanation": "Opening an umbrella doesn't change its mass - it only changes the surface area exposed to air resistance"
+                    }
+                ],
+                "funFact": "Skydivers use this principle of air resistance to control their descent. By changing their body position to create more or less surface area, they can speed up or slow down their fall through the air!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint evaluating comprehension of how air resistance affects the falling speed of objects with the same mass but different surface areas"
+        },
+        {
+            "question": {
+                "text": "A student places a book on a table. What gives the book its weight?",
+                "options": [
+                    {
+                        "text": "The gravitational force pulling the book toward Earth's center",
+                        "isCorrect": 1,
+                        "explanation": "Gravity pulls all objects toward Earth's center, and this force gives objects their weight. The more mass an object has, the stronger this gravitational pull will be."
+                    },
+                    {
+                        "text": "The pressure of air pushing down on the book",
+                        "isCorrect": 0,
+                        "explanation": "While air does exert pressure on objects, it is not what gives objects their weight. Air pressure acts in all directions, not just downward."
+                    },
+                    {
+                        "text": "The mass of the book itself",
+                        "isCorrect": 0,
+                        "explanation": "While mass and weight are related, mass is the amount of matter in an object and stays constant. Weight is the force of gravity acting on that mass."
+                    },
+                    {
+                        "text": "The table pushing up on the book",
+                        "isCorrect": 0,
+                        "explanation": "The table provides a normal force that prevents the book from falling, but this opposing force is not what gives the book its weight."
+                    }
+                ],
+                "funFact": "If you could somehow stand at Earth's exact center, you would feel weightless! This is because the gravitational pull from all directions would cancel out perfectly, resulting in zero net gravitational force."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint checking knowledge that gravity pulls objects toward Earth's center, giving them their weight"
+        },
+        {
+            "question": {
+                "text": "Two stars of equal mass are drifting through space far from other objects. What best describes the gravitational forces between them?",
+                "options": [
+                    {
+                        "text": "The stars will exert equal attractive gravitational forces on each other",
+                        "isCorrect": 1,
+                        "explanation": "Since the stars have equal mass and gravity is always attractive, they will exert equal gravitational forces pulling toward each other"
+                    },
+                    {
+                        "text": "The stars will exert equal repulsive gravitational forces on each other",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational forces are always attractive, never repulsive. Objects with mass pull toward each other, they don't push away"
+                    },
+                    {
+                        "text": "The stars will not exert any gravitational forces since they are in space",
+                        "isCorrect": 0,
+                        "explanation": "All objects with mass exert gravitational forces on each other, even in space. Being in space doesn't eliminate gravity"
+                    },
+                    {
+                        "text": "Only the larger star will exert a gravitational force on the smaller one",
+                        "isCorrect": 0,
+                        "explanation": "The stars have equal mass, and even if they didn't, gravitational forces are mutual - both objects exert forces on each other"
+                    }
+                ],
+                "funFact": "The gravitational force between two objects actually extends infinitely through space, though it becomes extremely weak at large distances. This is why astronomers can detect invisible planets by observing their gravitational effects on other celestial objects!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint assessing understanding that all objects with mass exert gravitational forces on each other, though the force may be very small"
+        },
+        {
+            "question": {
+                "text": "A mountain climber is carrying a backpack that weighs 20 pounds at sea level. What will happen to the weight of the backpack when the climber reaches the top of a very tall mountain?",
+                "options": [
+                    {
+                        "text": "The backpack will weigh less at the top of the mountain",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The force of gravity decreases as you move farther from Earth's center. At higher altitudes, the gravitational pull is slightly weaker, so objects weigh less."
+                    },
+                    {
+                        "text": "The backpack will weigh more at the top of the mountain",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. Gravitational force actually decreases with distance from Earth's center, so objects weigh less at higher altitudes, not more."
+                    },
+                    {
+                        "text": "The backpack's weight will stay exactly the same",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. While the backpack's mass remains constant, its weight changes with altitude because gravitational force varies with distance from Earth's center."
+                    },
+                    {
+                        "text": "The backpack's weight will become zero at the top",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. While weight decreases at higher altitudes, it doesn't become zero. You would need to be much farther from Earth, in space, for the gravitational effect to become negligible."
+                    }
+                ],
+                "funFact": "At the summit of Mount Everest (29,029 feet), objects weigh approximately 0.3% less than they do at sea level due to reduced gravitational force and the slightly increased distance from Earth's center!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint testing comprehension that an object's weight changes at different altitudes due to changes in gravitational force"
+        },
+        {
+            "question": {
+                "text": "What do astronomers primarily study when observing the gravitational interactions between celestial bodies?",
+                "options": [
+                    {
+                        "text": "How gravitational forces between objects with larger masses create stronger attractions",
+                        "isCorrect": 1,
+                        "explanation": "Astronomers focus on how larger masses like stars and planets create stronger gravitational forces, which explains orbital patterns and celestial movements."
+                    },
+                    {
+                        "text": "How gravitational forces sometimes repel objects in space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational forces are always attractive, never repulsive. They pull objects together rather than push them apart."
+                    },
+                    {
+                        "text": "How gravity only affects objects on Earth's surface",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravity exists between all objects with mass throughout the universe, not just on Earth's surface."
+                    },
+                    {
+                        "text": "How smaller objects create stronger gravitational pulls",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because larger masses create stronger gravitational forces, not smaller ones. This is why massive objects like stars have such strong gravitational effects."
+                    }
+                ],
+                "funFact": "The gravitational force between the Sun and Earth is so strong that if the Sun were suddenly replaced by an equally massive black hole, Earth would continue orbiting in exactly the same pattern - though life on Earth would cease to exist without the Sun's light and heat!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint evaluating knowledge that astronomers study gravitational interactions between celestial bodies like stars, planets, and moons"
+        },
+        {
+            "question": {
+                "text": "Scientists are studying two planets in a distant solar system. Planet A has a mass of 2x10^24 kg and Planet B has a mass of 4x10^24 kg. If all other factors remain constant, how would the gravitational force between these planets change if Planet B's mass doubled to 8x10^24 kg?",
+                "options": [
+                    {
+                        "text": "The gravitational force would double",
+                        "isCorrect": 1,
+                        "explanation": "The gravitational force is directly proportional to the masses of the objects. When one mass doubles, the gravitational force also doubles."
+                    },
+                    {
+                        "text": "The gravitational force would quadruple",
+                        "isCorrect": 0,
+                        "explanation": "While the gravitational force depends on both masses, doubling only one mass results in doubling the force, not quadrupling it."
+                    },
+                    {
+                        "text": "The gravitational force would remain the same",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force depends on the masses of both objects. Changing the mass of one object will change the gravitational force."
+                    },
+                    {
+                        "text": "The gravitational force would decrease by half",
+                        "isCorrect": 0,
+                        "explanation": "Increasing mass increases gravitational force, not decreases it. The force would become stronger, not weaker."
+                    }
+                ],
+                "funFact": "The gravitational force between Jupiter and the Sun is so strong that it actually causes the Sun to wobble slightly as Jupiter orbits around it. This wobble is one way astronomers detect large planets around other stars!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint checking understanding that mathematical models can be used to predict gravitational forces between objects based on their masses"
+        },
+        {
+            "question": {
+                "text": "Why does Earth maintain its orbit around the Sun instead of floating away into space?",
+                "options": [
+                    {
+                        "text": "The strong gravitational attraction between the large masses of the Sun and Earth keeps Earth in orbit",
+                        "isCorrect": 1,
+                        "explanation": "The Sun's enormous mass creates a strong gravitational force that attracts Earth, keeping it in a stable orbit. This gravitational interaction between their masses prevents Earth from flying off into space."
+                    },
+                    {
+                        "text": "Earth's atmosphere creates a barrier that keeps it locked in its orbital path",
+                        "isCorrect": 0,
+                        "explanation": "Earth's atmosphere doesn't affect its orbit around the Sun. The orbital motion is controlled by gravitational forces, not atmospheric effects."
+                    },
+                    {
+                        "text": "Earth's rotation on its axis generates enough force to stay in orbit",
+                        "isCorrect": 0,
+                        "explanation": "Earth's rotation on its axis is separate from its orbital motion around the Sun. The rotation doesn't create the force needed to maintain orbit."
+                    },
+                    {
+                        "text": "The Moon's gravity pulls Earth along its orbital path",
+                        "isCorrect": 0,
+                        "explanation": "While the Moon does have gravitational effects on Earth, it's the Sun's gravity that is primarily responsible for keeping Earth in its orbital path."
+                    }
+                ],
+                "funFact": "The Sun's gravity is so strong that it can bend light! This phenomenon, called gravitational lensing, was first observed during a solar eclipse in 1919 and helped confirm Einstein's theory of general relativity."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint testing understanding that Earth stays in orbit around the Sun due to the gravitational force between their masses"
+        },
+        {
+            "question": {
+                "text": "What causes high tides in Earth's oceans?",
+                "options": [
+                    {
+                        "text": "The Moon's gravitational pull on Earth",
+                        "isCorrect": 1,
+                        "explanation": "The Moon's gravitational pull creates differential forces across Earth's diameter, causing bulges of water (high tides) on both the side facing the Moon and the opposite side. This tidal force occurs because the gravitational attraction varies with distance from the Moon."
+                    },
+                    {
+                        "text": "The Sun heating the ocean water",
+                        "isCorrect": 0,
+                        "explanation": "While the Sun does affect ocean temperatures, high tides are caused by gravitational forces, not by temperature changes."
+                    },
+                    {
+                        "text": "Strong winds pushing ocean water",
+                        "isCorrect": 0,
+                        "explanation": "While winds can affect ocean waves, they are not responsible for the regular pattern of high tides, which are caused by gravitational forces."
+                    },
+                    {
+                        "text": "Earth's rotation pushing water outward",
+                        "isCorrect": 0,
+                        "explanation": "Although Earth's rotation affects ocean currents, it is not the primary cause of high tides. The Moon's gravitational pull is responsible for this phenomenon."
+                    }
+                ],
+                "funFact": "The Earth actually experiences two high tides and two low tides every day! This occurs because the Moon's gravitational force creates a bulge of water on both the side of Earth facing the Moon and the side facing away from it."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint checking comprehension that the Moon's gravitational pull causes Earth's ocean tides, with high tides occurring during strongest pull"
+        },
+        {
+            "question": {
+                "text": "If the masses of two planets are both doubled, how will the gravitational force between them change?",
+                "options": [
+                    {
+                        "text": "The gravitational force will become 4 times stronger",
+                        "isCorrect": 1,
+                        "explanation": "When both masses are doubled, the gravitational force increases by a factor of 4 because gravitational force is proportional to the product of the masses"
+                    },
+                    {
+                        "text": "The gravitational force will become 2 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational force is not directly proportional to the sum of masses, but rather to their product"
+                    },
+                    {
+                        "text": "The gravitational force will become 8 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "This overestimates the increase - doubling both masses results in a factor of 4 increase, not 8"
+                    },
+                    {
+                        "text": "The gravitational force will remain the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational force depends on mass, so changing the masses will change the force"
+                    }
+                ],
+                "funFact": "The same principle that makes the gravitational force 4 times stronger when masses are doubled applies to black holes too! When two black holes merge, their combined gravitational pull becomes much more intense due to their increased mass."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question exploring how the gravitational force between two planets changes when their masses are doubled, with options comparing different proportional relationships"
+        },
+        {
+            "question": {
+                "text": "A space agency is planning to launch a new satellite to orbit Earth. If they double the mass of the satellite while keeping all other factors the same, how will the gravitational force between Earth and the satellite change?",
+                "options": [
+                    {
+                        "text": "The gravitational force will double",
+                        "isCorrect": 1,
+                        "explanation": "The gravitational force is directly proportional to the masses of both objects. When one mass doubles, the force doubles."
+                    },
+                    {
+                        "text": "The gravitational force will stay the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational force depends on the masses of both objects. Changing the mass will change the force."
+                    },
+                    {
+                        "text": "The gravitational force will become zero",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force is always attractive and never becomes zero between objects with mass, though it may become very small."
+                    },
+                    {
+                        "text": "The gravitational force will quadruple",
+                        "isCorrect": 0,
+                        "explanation": "While gravitational force depends on mass, doubling one mass only doubles the force, not quadruples it. This would happen if both masses were doubled."
+                    }
+                ],
+                "funFact": "Satellites in geostationary orbit around Earth stay above the same point on Earth's surface because their orbital period exactly matches Earth's rotation period of 24 hours. This is possible because of the precise balance between gravitational force and the satellite's motion."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question about how the gravitational interaction between Earth and a satellite would change if the satellite's mass was increased, focusing on the attractive nature of gravity"
+        },
+        {
+            "question": {
+                "text": "Consider three pairs of objects in space at equal distances from each other:\nPair 1: A small asteroid and a small moon\nPair 2: Two massive planets\nPair 3: A small planet and a large planet\n\nWhich pair would experience the strongest gravitational force between them?",
+                "options": [
+                    {
+                        "text": "Pair 1: A small asteroid and a small moon",
+                        "isCorrect": 0,
+                        "explanation": "Since both objects have relatively small masses, the gravitational force between them would be weak compared to the other pairs."
+                    },
+                    {
+                        "text": "Pair 2: Two massive planets",
+                        "isCorrect": 1,
+                        "explanation": "Since both objects have large masses and gravitational force increases with mass, this pair would experience the strongest gravitational attraction."
+                    },
+                    {
+                        "text": "Pair 3: A small planet and a large planet",
+                        "isCorrect": 0,
+                        "explanation": "While one planet is large, the smaller mass of the other planet means the gravitational force would be less than between two massive planets."
+                    },
+                    {
+                        "text": "All pairs would experience equal gravitational force",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force depends on the masses of both objects - larger masses create stronger gravitational forces when distance is held constant."
+                    }
+                ],
+                "funFact": "The gravitational force between Jupiter and Saturn, the two most massive planets in our solar system, is so strong that it actually affects their orbits around the Sun, causing slight variations in their paths known as orbital perturbations."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario comparing the gravitational pull between different pairs of celestial objects at equal distances, testing understanding of mass dependence of gravitational force"
+        },
+        {
+            "question": {
+                "text": "Two identical spheres each with a mass of 1 kg are initially placed 2 meters apart. If they are moved so they are 1 meter apart, how does the gravitational force between them change?",
+                "options": [
+                    {
+                        "text": "The gravitational force becomes 4 times stronger",
+                        "isCorrect": 1,
+                        "explanation": "According to Newton's law of gravitation, the force is inversely proportional to the square of the distance. When distance is halved, the force becomes 4 times stronger."
+                    },
+                    {
+                        "text": "The gravitational force becomes 2 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational force follows an inverse square relationship, not a simple inverse relationship with distance."
+                    },
+                    {
+                        "text": "The gravitational force becomes 8 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "While the force does increase when distance decreases, it only becomes 4 times stronger when distance is halved, not 8 times stronger."
+                    },
+                    {
+                        "text": "The gravitational force remains the same",
+                        "isCorrect": 0,
+                        "explanation": "The gravitational force changes with distance. It is not constant when the distance between objects changes."
+                    }
+                ],
+                "funFact": "The same inverse square relationship that governs gravitational force also applies to other phenomena in nature, like the intensity of light from a source and the strength of electric forces between charged particles!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario examining how the gravitational force between two objects changes as they move closer or farther apart, with mathematical relationships"
+        },
+        {
+            "question": {
+                "text": "Why does Earth consistently orbit around the Sun rather than floating away into space or crashing into it?",
+                "options": [
+                    {
+                        "text": "The Sun's large mass creates a strong gravitational force that keeps Earth in a stable orbit",
+                        "isCorrect": 1,
+                        "explanation": "The Sun's enormous mass creates a gravitational force strong enough to keep Earth and other planets in orbit. This force is perfectly balanced with Earth's motion to maintain a stable orbit."
+                    },
+                    {
+                        "text": "Earth's atmosphere prevents it from moving away from the Sun",
+                        "isCorrect": 0,
+                        "explanation": "Earth's atmosphere has no significant role in keeping Earth in orbit around the Sun. The gravitational interaction between the masses of the Sun and Earth is responsible for this."
+                    },
+                    {
+                        "text": "The Moon's gravity helps pull Earth toward the Sun",
+                        "isCorrect": 0,
+                        "explanation": "While the Moon does have gravitational effects on Earth (like causing tides), it does not help keep Earth in orbit around the Sun. The Sun-Earth gravitational interaction is the key factor."
+                    },
+                    {
+                        "text": "Earth's rotation keeps it moving around the Sun",
+                        "isCorrect": 0,
+                        "explanation": "Earth's rotation on its axis is different from its orbital motion around the Sun. The orbital motion is maintained by the gravitational attraction between the Sun and Earth."
+                    }
+                ],
+                "funFact": "The gravitational force between the Sun and Earth is so strong that if you tried to break Earth's orbit by pulling it with a steel cable, you would need a cable strong enough to support the weight of 13 trillion trillion elephants!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario analyzing why smaller objects in the solar system orbit larger ones, focusing on mass-dependent gravitational interactions"
+        },
+        {
+            "question": {
+                "text": "A mountain climber weighs 70 kg at sea level. What would happen to their weight as they climb to the top of Mount Everest?",
+                "options": [
+                    {
+                        "text": "Their weight would decrease because they are farther from Earth's center",
+                        "isCorrect": 1,
+                        "explanation": "As altitude increases, the distance from Earth's center increases, which decreases the gravitational force and therefore reduces weight"
+                    },
+                    {
+                        "text": "Their weight would increase because they are closer to space",
+                        "isCorrect": 0,
+                        "explanation": "Being closer to space doesn't increase weight. Gravitational force actually decreases with distance from Earth's center"
+                    },
+                    {
+                        "text": "Their weight would stay exactly the same",
+                        "isCorrect": 0,
+                        "explanation": "Weight changes with altitude because gravitational force depends on distance from Earth's center"
+                    },
+                    {
+                        "text": "Their mass would decrease, causing lower weight",
+                        "isCorrect": 0,
+                        "explanation": "Mass remains constant regardless of location. Only weight changes due to varying gravitational force"
+                    }
+                ],
+                "funFact": "At the summit of Mount Everest (8,848 meters), a person weighs approximately 0.3% less than they would at sea level due to decreased gravitational force and Earth's equatorial bulge!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question exploring how the weight of an object would change at different altitudes on Earth, testing understanding of gravitational force variation with distance"
+        },
+        {
+            "question": {
+                "text": "Consider two planets in our solar system: Planet A has a mass of 1,000 units and its moon has a mass of 10 units, while Planet B has a mass of 10,000 units and its moon has a mass of 10 units. How would the gravitational force between Planet B and its moon compare to the gravitational force between Planet A and its moon (assuming the distances between each planet and its moon are the same)?",
+                "options": [
+                    {
+                        "text": "The gravitational force between Planet B and its moon would be 10 times stronger",
+                        "isCorrect": 1,
+                        "explanation": "Since Planet B has 10 times more mass than Planet A, and the moon masses and distances are the same, the gravitational force would be 10 times stronger due to the direct relationship between mass and gravitational force."
+                    },
+                    {
+                        "text": "The gravitational force would be the same in both cases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational force depends on the masses of both objects. Since Planet B has more mass, it will exert a stronger gravitational force."
+                    },
+                    {
+                        "text": "The gravitational force between Planet B and its moon would be 100 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "This overestimates the increase in gravitational force. Since only one mass changed by a factor of 10, the force only increases by a factor of 10, not 100."
+                    },
+                    {
+                        "text": "The gravitational force between Planet B and its moon would be weaker",
+                        "isCorrect": 0,
+                        "explanation": "This contradicts the fundamental principle that larger masses create stronger gravitational forces. A larger planetary mass would increase, not decrease, the gravitational force."
+                    }
+                ],
+                "funFact": "Jupiter, the largest planet in our solar system, has such strong gravitational force that it actually helps protect Earth from asteroids and comets by pulling many of these objects toward itself with its enormous gravitational field, earning it the nickname 'cosmic vacuum cleaner'!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario comparing the gravitational pull between planets of different sizes and their moons, emphasizing the relationship between mass and gravitational force"
+        },
+        {
+            "question": {
+                "text": "When a hammer and a feather are dropped in a vacuum chamber, they will hit the bottom at the same time. This happens because:",
+                "options": [
+                    {
+                        "text": "Gravity accelerates all objects at the same rate regardless of their mass",
+                        "isCorrect": 1,
+                        "explanation": "In a vacuum (no air resistance), all objects fall at the same acceleration of about 9.8 m/s\u00b2 due to gravity, regardless of their mass. This is because the increased gravitational force on heavier objects is exactly balanced by their greater mass."
+                    },
+                    {
+                        "text": "Lighter objects fall faster in a vacuum",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The absence of air resistance in a vacuum means mass does not affect falling speed - all objects fall at the same rate."
+                    },
+                    {
+                        "text": "The vacuum pulls both objects down equally",
+                        "isCorrect": 0,
+                        "explanation": "A vacuum is the absence of matter - it does not pull objects. The equal acceleration is due to gravity, not the vacuum itself."
+                    },
+                    {
+                        "text": "The hammer pushes the feather down with its gravitational field",
+                        "isCorrect": 0,
+                        "explanation": "While objects do exert gravitational forces on each other, these forces are extremely small between objects of this size and are not responsible for their equal acceleration."
+                    }
+                ],
+                "funFact": "In 1971, Apollo 15 astronaut David Scott performed this exact experiment on the Moon, dropping a hammer and a feather simultaneously. Without air resistance, both objects hit the lunar surface at the same time, demonstrating Galileo's principles about gravity!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question examining why all objects fall at the same rate in a vacuum despite having different masses, focusing on gravitational acceleration"
+        },
+        {
+            "question": {
+                "text": "Two identical metal spheres are dropped from the same height - one sphere is solid and the other is hollow. Both spheres have exactly the same mass and outer dimensions. Which statement correctly describes how they will fall through the air?",
+                "options": [
+                    {
+                        "text": "The solid sphere will fall faster because it is more dense",
+                        "isCorrect": 0,
+                        "explanation": "Since both spheres have the same mass and outer dimensions, they will experience identical gravitational force and air resistance, regardless of density."
+                    },
+                    {
+                        "text": "The hollow sphere will fall faster because it has more surface area inside",
+                        "isCorrect": 0,
+                        "explanation": "The internal surface area does not affect the air resistance or gravitational force. Only the outer dimensions and mass matter for the falling motion."
+                    },
+                    {
+                        "text": "Both spheres will fall at exactly the same rate",
+                        "isCorrect": 1,
+                        "explanation": "Since both spheres have identical mass and outer dimensions, they will experience the same gravitational force and air resistance, causing them to fall at the same rate."
+                    },
+                    {
+                        "text": "The spheres will fall at different rates depending on their internal temperature",
+                        "isCorrect": 0,
+                        "explanation": "Internal temperature does not affect the gravitational force or air resistance experienced by objects of the same mass and outer dimensions."
+                    }
+                ],
+                "funFact": "Galileo's famous experiment at the Leaning Tower of Pisa demonstrated that objects fall at the same rate regardless of their mass. In a perfect vacuum with no air resistance, even a feather and a bowling ball would fall at exactly the same rate!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question analyzing how resistance affects the apparent gravitational pull on objects of equal mass but different shapes falling through the atmosphere"
+        },
+        {
+            "question": {
+                "text": "Consider two star systems: Star System A has a star twice as massive as our Sun with three planets, while Star System B has a star four times as massive as our Sun with two planets. How would the gravitational force that Star B exerts on its planets compare to the gravitational force that Star A exerts on its planets (assuming the planets are at the same distance from their respective stars)?",
+                "options": [
+                    {
+                        "text": "Star B exerts half the gravitational force of Star A",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect because it suggests that a more massive star would exert less gravitational force. According to Newton's law of universal gravitation, the gravitational force is directly proportional to mass, so a star with greater mass would exert a stronger gravitational force, not weaker."
+                    },
+                    {
+                        "text": "Star B exerts four times the gravitational force of Star A",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly equates the mass ratio directly with the gravitational force ratio."
+                    },
+                    {
+                        "text": "Star B exerts the same gravitational force as Star A",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly suggests that the mass of the star doesn't affect its gravitational force."
+                    },
+                    {
+                        "text": "Star B exerts two times more gravitational force than Star A",
+                        "isCorrect": 1,
+                        "explanation": "When comparing the stars' masses (4x vs 2x Sun's mass), Star B has twice the mass of Star A. Since gravitational force is directly proportional to mass, Star B exerts twice the gravitational force of Star A."
+                    }
+                ],
+                "funFact": "The most massive known star, R136a1, is about 265 times the mass of our Sun! The gravitational force it exerts is so strong that if it replaced our Sun, it would completely disrupt the orbits of all planets in our solar system."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario comparing the gravitational force between stars of different masses and their planetary systems, testing understanding of large-scale gravitational interactions"
+        },
+        {
+            "question": {
+                "text": "When does the Moon's gravitational effect on Earth's oceans result in the highest tides?",
+                "options": [
+                    {
+                        "text": "When the Sun, Moon, and Earth align during new and full moons",
+                        "isCorrect": 1,
+                        "explanation": "The highest tides, called spring tides, occur when the gravitational forces of the Sun and Moon combine during alignments at new and full moons. These can be further amplified when the Moon is at perigee (closest to Earth)."
+                    },
+                    {
+                        "text": "When the Moon is farthest from Earth",
+                        "isCorrect": 0,
+                        "explanation": "When the Moon is farther from Earth, its gravitational pull is actually weaker, resulting in lower, not higher tides."
+                    },
+                    {
+                        "text": "When Earth's rotation is fastest",
+                        "isCorrect": 0,
+                        "explanation": "Earth's rotation speed does not directly determine the height of tides. Tides are primarily influenced by the gravitational pull of the Moon and Sun."
+                    },
+                    {
+                        "text": "When Earth is closest to the Sun",
+                        "isCorrect": 0,
+                        "explanation": "While the Sun does have some effect on tides, Earth's distance from the Sun is not the main factor in determining tide heights. The alignment of the Sun, Moon, and Earth has a much greater impact."
+                    }
+                ],
+                "funFact": "During a 'supermoon,' when the Moon is at its closest point to Earth in its orbit (perigee), tides can be about 3-5% higher than normal spring tides because the Moon's gravitational pull is stronger at this shorter distance!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question comparing the gravitational effects of the Moon on Earth's oceans at different positions, testing understanding of gravitational force variations"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the gravitational forces between the Sun and a small asteroid in our solar system?",
+                "options": [
+                    {
+                        "text": "The Sun exerts a gravitational pull on the asteroid, but the asteroid is too small to exert any gravitational force on the Sun",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Even small objects exert gravitational forces - they're just weaker due to their smaller mass. Both objects exert gravitational forces on each other."
+                    },
+                    {
+                        "text": "The Sun and asteroid repel each other gravitationally because they are different sizes",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gravitational forces are always attractive, never repulsive, regardless of object sizes."
+                    },
+                    {
+                        "text": "The Sun and asteroid both exert equal attractive gravitational forces on each other, but the asteroid experiences a much greater acceleration due to its smaller mass",
+                        "isCorrect": 1,
+                        "explanation": "Correct! According to Newton's Third Law, the gravitational forces between the Sun and asteroid are equal in magnitude but opposite in direction. However, the acceleration experienced by each body differs dramatically due to their mass differences (F=ma). The asteroid's much smaller mass means it experiences a much greater acceleration."
+                    },
+                    {
+                        "text": "The gravitational forces between the Sun and asteroid are equal in strength because gravity is the same everywhere in space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The gravitational forces between the Sun and asteroid are actually equal in magnitude (Newton's Third Law). However, the acceleration caused by these forces differs dramatically due to mass differences. The option is wrong because it incorrectly states gravity is the same everywhere in space, when gravitational force actually depends on mass and distance."
+                    }
+                ],
+                "funFact": "The Sun contains 99.86% of all the mass in our solar system! This is why its gravitational influence is so dominant that it keeps all planets, asteroids, and comets in orbit around it."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question analyzing the direction of gravitational forces between multiple objects in space, emphasizing the attractive nature of gravity regardless of object size"
+        },
+        {
+            "question": {
+                "text": "If Planet A has a mass of 2x1024 kg and Planet B has a mass of 4x1024 kg, how would the gravitational force between them change if Planet B's mass were doubled to 8x1024 kg?",
+                "options": [
+                    {
+                        "text": "The gravitational force would double",
+                        "isCorrect": 1,
+                        "explanation": "The gravitational force is directly proportional to the masses of both objects. When one mass doubles, the gravitational force doubles."
+                    },
+                    {
+                        "text": "The gravitational force would quadruple",
+                        "isCorrect": 0,
+                        "explanation": "While gravitational force increases with mass, doubling one mass only doubles the force, not quadruples it. This would happen if both masses were doubled."
+                    },
+                    {
+                        "text": "The gravitational force would remain the same",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force changes when masses change. It cannot remain the same when one of the masses doubles."
+                    },
+                    {
+                        "text": "The gravitational force would decrease by half",
+                        "isCorrect": 0,
+                        "explanation": "Increasing mass increases gravitational force, not decreases it. The force would get stronger, not weaker."
+                    }
+                ],
+                "funFact": "Jupiter's enormous mass means its gravitational pull is so strong that it actually helps protect Earth from asteroids and comets by pulling many of these objects toward itself, earning it the nickname 'cosmic vacuum cleaner'!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how changes in mass affect the gravitational force between two planets, focusing on the relationship between larger masses and stronger gravitational attraction"
+        },
+        {
+            "question": {
+                "text": "Two planets of equal size are orbiting a star. Planet A orbits at a distance of 1 million kilometers from the star, while Planet B orbits at a distance of 2 million kilometers. How does the gravitational force experienced by Planet B compare to the gravitational force experienced by Planet A?",
+                "options": [
+                    {
+                        "text": "The gravitational force on Planet B is 1/4 the force on Planet A",
+                        "isCorrect": 1,
+                        "explanation": "Gravitational force decreases with the square of the distance. Since Planet B is twice as far, it experiences 1/4 (1/2\u00b2) of the gravitational force."
+                    },
+                    {
+                        "text": "The gravitational force on Planet B is 1/2 the force on Planet A",
+                        "isCorrect": 0,
+                        "explanation": "This would be true if gravitational force decreased linearly with distance, but it actually decreases with the square of the distance."
+                    },
+                    {
+                        "text": "The gravitational force on Planet B is equal to the force on Planet A",
+                        "isCorrect": 0,
+                        "explanation": "Though the planets have equal mass, their different distances from the star mean they experience different gravitational forces."
+                    },
+                    {
+                        "text": "The gravitational force on Planet B is 2 times the force on Planet A",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational force actually decreases with greater distance, rather than increases."
+                    }
+                ],
+                "funFact": "This relationship between gravitational force and distance, known as the inverse square law, was first described by Sir Isaac Newton and explains why planets farther from the Sun move more slowly in their orbits than closer planets."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate a scenario showing different distances between celestial objects to determine how gravitational force changes with distance, considering the relative strength of attraction"
+        },
+        {
+            "question": {
+                "text": "A scientist measures the weight of a 10 kg rock at sea level and then carries it to the top of Mount Everest. What best explains why the rock weighs less on Mount Everest even though its mass remains exactly 10 kg?",
+                "options": [
+                    {
+                        "text": "The gravitational field strength is weaker at higher altitudes because you are farther from Earth's center",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Gravitational force decreases with distance from Earth's center, so objects weigh less at higher altitudes while their mass stays constant."
+                    },
+                    {
+                        "text": "The rock loses some of its mass at higher altitudes due to lower air pressure",
+                        "isCorrect": 0,
+                        "explanation": "Mass is a measure of the amount of matter in an object and does not change with altitude or air pressure."
+                    },
+                    {
+                        "text": "There is less atmosphere pushing down on the rock at higher altitudes",
+                        "isCorrect": 0,
+                        "explanation": "While atmospheric pressure does decrease with altitude, it doesn't significantly affect an object's weight. Weight changes are due to variations in gravitational force."
+                    },
+                    {
+                        "text": "The cold temperature at high altitudes makes the rock contract and weigh less",
+                        "isCorrect": 0,
+                        "explanation": "Temperature changes may cause slight thermal contraction but don't significantly affect an object's mass or weight."
+                    }
+                ],
+                "funFact": "At the International Space Station's orbit (about 400 km above Earth), objects still experience about 90% of Earth's surface gravity. The astronauts appear weightless mainly because they are in constant free fall around Earth!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze why an object's mass remains constant but its weight changes when moved from Earth's surface to a mountain top, focusing on gravitational field strength variations"
+        },
+        {
+            "question": {
+                "text": "A bowling ball and a feather are dropped from the same height on Earth. Initially, both objects experience the same gravitational force pulling them downward. However, they reach the ground at different times. Which statement best explains this observation?",
+                "options": [
+                    {
+                        "text": "The bowling ball has more mass, so gravity pulls it down with more force than the feather",
+                        "isCorrect": 0,
+                        "explanation": "While the bowling ball has more mass, gravitational acceleration is the same for all objects. The difference in fall times is due to air resistance, not gravitational force."
+                    },
+                    {
+                        "text": "Air resistance has a greater effect on the feather relative to its mass, causing it to fall more slowly",
+                        "isCorrect": 1,
+                        "explanation": "The feather experiences more air resistance relative to its mass, which opposes the gravitational force and causes it to fall more slowly than the bowling ball."
+                    },
+                    {
+                        "text": "The feather weighs less, so gravity affects it less strongly",
+                        "isCorrect": 0,
+                        "explanation": "All objects experience the same gravitational acceleration regardless of their mass. The difference in fall time is due to air resistance."
+                    },
+                    {
+                        "text": "The bowling ball creates its own gravitational field that pulls it down faster",
+                        "isCorrect": 0,
+                        "explanation": "While all objects have a gravitational field, the bowling ball's field is too weak to significantly affect its fall. The difference in fall times is due to air resistance."
+                    }
+                ],
+                "funFact": "In a vacuum chamber where there is no air resistance, a feather and bowling ball dropped at the same time would hit the bottom simultaneously! This was famously demonstrated on the Moon during the Apollo 15 mission with a hammer and a feather."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a scenario involving two objects of different masses falling through the atmosphere, considering the effects of both gravitational force and air resistance"
+        },
+        {
+            "question": {
+                "text": "Consider three celestial bodies: a small asteroid (mass = 1 unit), a moon (mass = 100 units), and a planet (mass = 10,000 units). If these objects are at equal distances from each other, which pair will experience the strongest gravitational attraction?",
+                "options": [
+                    {
+                        "text": "The asteroid and the moon",
+                        "isCorrect": 0,
+                        "explanation": "While this pair has significant mass difference, their combined masses are much smaller than other pairs, resulting in weaker gravitational attraction."
+                    },
+                    {
+                        "text": "The asteroid and the planet",
+                        "isCorrect": 0,
+                        "explanation": "Although the planet has the largest mass, this pair's gravitational attraction is not the strongest because the asteroid's mass is very small."
+                    },
+                    {
+                        "text": "The moon and the planet",
+                        "isCorrect": 1,
+                        "explanation": "This pair experiences the strongest gravitational attraction because it combines the two largest masses, and gravitational force increases with the mass of both objects involved."
+                    }
+                ],
+                "funFact": "Jupiter's enormous mass creates such strong gravitational forces that it actually helps protect Earth from asteroid impacts by pulling many dangerous space objects into its own orbit, earning it the nickname 'cosmic vacuum cleaner' among astronomers!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare gravitational interactions between different pairs of celestial objects to determine how mass influences the strength of gravitational attraction"
+        },
+        {
+            "question": {
+                "text": "Why does Earth maintain its orbit around the Sun even though the Moon's gravitational pull feels stronger in causing ocean tides on Earth?",
+                "options": [
+                    {
+                        "text": "The Sun's much larger mass creates a stronger overall gravitational force that keeps Earth in orbit, while the Moon's closer proximity creates more noticeable tidal effects",
+                        "isCorrect": 1,
+                        "explanation": "The Sun's enormous mass creates a gravitational force strong enough to maintain Earth's orbit, even though we notice the Moon's tidal effects more due to its closer distance to Earth"
+                    },
+                    {
+                        "text": "The Moon's gravitational force is actually stronger than the Sun's gravitational force on Earth",
+                        "isCorrect": 0,
+                        "explanation": "While the Moon's effects are more noticeable in tides, its gravitational pull is actually much weaker than the Sun's due to the Sun's vastly greater mass"
+                    },
+                    {
+                        "text": "Earth's atmosphere blocks most of the Sun's gravitational force, making the Moon's effect appear stronger",
+                        "isCorrect": 0,
+                        "explanation": "Gravity is not blocked by Earth's atmosphere - it passes through all matter and depends only on mass and distance"
+                    },
+                    {
+                        "text": "Earth's rotation cancels out the Sun's gravitational pull but not the Moon's",
+                        "isCorrect": 0,
+                        "explanation": "Earth's rotation doesn't cancel gravitational forces from either the Sun or Moon - these forces exist independently of Earth's rotation"
+                    }
+                ],
+                "funFact": "The Sun's gravitational pull on Earth is actually about 178 times stronger than the Moon's gravitational pull. However, the Moon creates more noticeable tides because tidal force depends more strongly on distance than the overall gravitational force does."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate the relative gravitational forces between Earth-Moon and Earth-Sun systems, analyzing why Earth maintains its orbit despite the difference in masses"
+        },
+        {
+            "question": {
+                "text": "A scientist measures the weight of a 5-kilogram rock at sea level and then takes it to the top of Mount Everest for another measurement. Which statement correctly describes what happens to the rock's mass and weight at the higher altitude?",
+                "options": [
+                    {
+                        "text": "The mass stays the same but the weight decreases slightly",
+                        "isCorrect": 1,
+                        "explanation": "Mass is a measure of the amount of matter and remains constant regardless of location, while weight depends on gravitational force which decreases with altitude"
+                    },
+                    {
+                        "text": "Both mass and weight remain exactly the same",
+                        "isCorrect": 0,
+                        "explanation": "While mass remains constant, weight changes with gravitational field strength, which decreases as you move farther from Earth's center"
+                    },
+                    {
+                        "text": "Both mass and weight decrease slightly",
+                        "isCorrect": 0,
+                        "explanation": "Mass is an intrinsic property that doesn't change with location. Only weight changes due to variations in gravitational force"
+                    },
+                    {
+                        "text": "The mass decreases but the weight stays the same",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship - mass is constant while weight varies with gravitational field strength"
+                    }
+                ],
+                "funFact": "Objects at the International Space Station still have the same mass as on Earth, but they appear weightless because they are in constant free fall around Earth, experiencing what we call microgravity!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how changes in altitude affect the weight measurements of an object while its mass remains constant, focusing on gravitational field strength"
+        },
+        {
+            "question": {
+                "text": "Jupiter is approximately 318 times more massive than Earth. How would this difference in mass affect Jupiter's gravitational pull on a nearby asteroid compared to Earth's gravitational pull on the same asteroid (assuming the asteroid is at the same distance from both planets)?",
+                "options": [
+                    {
+                        "text": "Jupiter would exert approximately 318 times stronger gravitational force on the asteroid",
+                        "isCorrect": 1,
+                        "explanation": "The gravitational force is directly proportional to the mass of the objects. Since Jupiter's mass is 318 times greater, its gravitational pull would be 318 times stronger at the same distance."
+                    },
+                    {
+                        "text": "Jupiter would exert the same gravitational force as Earth",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational force depends on mass. Objects with greater mass exert stronger gravitational forces."
+                    },
+                    {
+                        "text": "Jupiter would exert less gravitational force because it is farther from the Sun",
+                        "isCorrect": 0,
+                        "explanation": "The distance from the Sun does not affect how Jupiter's gravity would pull on a nearby asteroid. The gravitational force depends on the masses of the interacting objects and their distance from each other."
+                    },
+                    {
+                        "text": "Jupiter's gravitational force would be weaker because it is a gas giant",
+                        "isCorrect": 0,
+                        "explanation": "Being a gas giant doesn't reduce Jupiter's gravitational force. What matters is the total mass, not whether the planet is rocky or gaseous."
+                    }
+                ],
+                "funFact": "Jupiter's enormous mass and gravitational pull are so significant that it acts as a cosmic shield for Earth, attracting many asteroids and comets that might otherwise head toward the inner solar system. Scientists often refer to Jupiter as Earth's protective big brother!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine the relationship between planetary masses and their gravitational effects on nearby objects, analyzing how larger masses create stronger gravitational fields"
+        },
+        {
+            "question": {
+                "text": "Two objects in space exert gravitational forces on each other. Which statement correctly describes the direction and nature of these gravitational forces?",
+                "options": [
+                    {
+                        "text": "The objects attract each other with equal gravitational forces",
+                        "isCorrect": 1,
+                        "explanation": "Gravitational forces are always attractive, and according to Newton's third law, the forces between the two objects are equal in magnitude but opposite in direction, pulling them toward each other."
+                    },
+                    {
+                        "text": "The larger object attracts while the smaller object repels",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational forces are always attractive, never repulsive. Both objects attract each other regardless of their size."
+                    },
+                    {
+                        "text": "The objects repel each other with equal gravitational forces",
+                        "isCorrect": 0,
+                        "explanation": "Gravitational forces are never repulsive. Unlike magnetic or electric forces which can be both attractive and repulsive, gravity only pulls objects together."
+                    },
+                    {
+                        "text": "Only the larger object exerts a gravitational force on the smaller object",
+                        "isCorrect": 0,
+                        "explanation": "Both objects, regardless of their size, exert gravitational forces on each other. The magnitude of the force depends on both masses, but both objects participate in the interaction."
+                    }
+                ],
+                "funFact": "The gravitational force between two 1-kilogram masses separated by 1 meter is incredibly tiny - about 6.67 \u00d7 10^-11 Newtons! This is why we typically only notice gravitational effects of very massive objects like planets and stars."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare different scenarios of gravitational interaction to determine why gravitational forces are always attractive rather than repulsive"
+        },
+        {
+            "question": {
+                "text": "If you triple the mass of a planet, how would this change affect the strength of its gravitational field?",
+                "options": [
+                    {
+                        "text": "The gravitational field becomes 3 times stronger",
+                        "isCorrect": 1,
+                        "explanation": "The gravitational field strength is directly proportional to the mass of the object. When mass triples, the gravitational field strength also triples."
+                    },
+                    {
+                        "text": "The gravitational field becomes 9 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "While gravitational force between two objects depends on both masses multiplied, when considering just the field of one object, the relationship is directly proportional to mass."
+                    },
+                    {
+                        "text": "The gravitational field becomes 6 times stronger",
+                        "isCorrect": 0,
+                        "explanation": "This assumes an incorrect relationship between mass and gravitational field strength. The relationship is directly proportional, not doubled."
+                    },
+                    {
+                        "text": "The gravitational field strength doesn't change",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because gravitational field strength depends on mass. Changing the mass will change the field strength proportionally."
+                    }
+                ],
+                "funFact": "Jupiter's mass is 318 times that of Earth, which is why its gravitational field is so strong that it can capture passing asteroids and comets, creating its own family of satellites!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze data showing the relationship between an object's mass and the strength of its gravitational field, focusing on proportional relationships"
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes the relationship between a planet's mass, distance from the Sun, and its orbital period?",
+                "options": [
+                    {
+                        "text": "Planets with larger masses and closer distances to the Sun have longer orbital periods",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Planets closer to the Sun actually have shorter orbital periods due to stronger gravitational forces, regardless of their mass."
+                    },
+                    {
+                        "text": "Planets closer to the Sun have shorter orbital periods due to stronger gravitational forces",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The stronger gravitational force closer to the Sun results in faster orbital velocities and shorter orbital periods."
+                    },
+                    {
+                        "text": "A planet's orbital period is only determined by its mass, not its distance from the Sun",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. According to Kepler's third law, the orbital period is primarily determined by the distance from the Sun (specifically the semi-major axis of the orbit), with the planet's mass having a relatively minor effect."
+                    },
+                    {
+                        "text": "All planets have the same orbital period regardless of their mass or distance from the Sun",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Orbital periods vary significantly based on distance from the Sun, with more distant planets taking longer to complete their orbits."
+                    }
+                ],
+                "funFact": "Mercury, the closest planet to the Sun, completes one orbit in just 88 Earth days, while Neptune, the farthest planet, takes about 165 Earth years to complete a single orbit around the Sun!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine data showing the orbital periods of different planets around the Sun to determine the relationship between mass, distance, and gravitational force"
+        },
+        {
+            "question": {
+                "text": "A coastal city experiences tides of varying strengths throughout the month, with some high tides being notably higher than others. What primarily causes these variations in tidal strength?",
+                "options": [
+                    {
+                        "text": "The Moon's gravitational pull varies depending on its position relative to Earth and the Sun",
+                        "isCorrect": 1,
+                        "explanation": "The Moon's gravitational pull creates tidal bulges on opposite sides of Earth. As Earth rotates, coastal locations pass through these bulges (high tides) and the areas between them (low tides). The variation in tidal strength occurs monthly with spring tides (stronger) when the Sun, Moon, and Earth align, and neap tides (weaker) when they form a right angle."
+                    },
+                    {
+                        "text": "Earth's rotation speed changes throughout the month",
+                        "isCorrect": 0,
+                        "explanation": "Earth's rotation speed remains relatively constant and does not cause the monthly pattern of tidal strength variations"
+                    },
+                    {
+                        "text": "Ocean water temperature differences cause tidal strength changes",
+                        "isCorrect": 0,
+                        "explanation": "While temperature affects water, it does not cause the regular pattern of tidal strength variations - gravitational forces from the Moon and Sun do"
+                    },
+                    {
+                        "text": "Wind patterns push water towards and away from the shore",
+                        "isCorrect": 0,
+                        "explanation": "While wind can affect water levels, the regular pattern of tidal strength variations is caused by gravitational forces, not wind"
+                    }
+                ],
+                "funFact": "The Mediterranean Sea experiences very small tides compared to most oceans because it is nearly enclosed and has a smaller water volume for the Moon's gravity to affect."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the gravitational effects of the Moon on ocean tides at different coastal locations, analyzing why tidal forces vary in strength"
+        }
+    ]
+}

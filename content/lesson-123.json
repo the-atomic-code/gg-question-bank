@@ -1,0 +1,1091 @@
+{
+    "id": "lesson-123",
+    "title": "Patterns in the Sky",
+    "standard": "1-ESS1-1",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "Which statement correctly describes the pattern of the sun's daily movement across the sky?",
+                "options": [
+                    {
+                        "text": "The sun rises in the east and sets in the west every day",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The sun follows a predictable pattern, rising in the east and setting in the west each day."
+                    },
+                    {
+                        "text": "The sun rises in the west and sets in the east every day",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The sun's pattern is the opposite - it rises in the east and sets in the west."
+                    },
+                    {
+                        "text": "The sun stays in the same position all day long",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The sun appears to move across the sky throughout the day rather than staying in one place."
+                    },
+                    {
+                        "text": "The sun moves randomly across the sky each day",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The sun's movement follows a regular, predictable pattern rather than moving randomly."
+                    }
+                ],
+                "funFact": "While it appears that the sun moves across our sky, it's actually Earth's rotation that creates this apparent motion. Earth spins counterclockwise on its axis, making it look like the sun is traveling from east to west!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Test student understanding of the daily pattern of the sun rising in the east and setting in the west"
+        },
+        {
+            "question": {
+                "text": "If someone asks you 'Does the sun stop shining at night?', what is the most accurate answer?",
+                "options": [
+                    {
+                        "text": "The sun continues to shine all the time, but we can't see it at night because Earth has rotated away from it",
+                        "isCorrect": 1,
+                        "explanation": "This is correct - the sun never stops shining. During nighttime, we just can't see it because our part of Earth has rotated away from facing the sun."
+                    },
+                    {
+                        "text": "The sun stops shining at night and starts again in the morning",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The sun doesn't actually stop and start shining - it shines continuously, we just can't see it at night from our location."
+                    },
+                    {
+                        "text": "The sun moves behind the moon at night which blocks its light",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Night happens because Earth rotates, not because the moon blocks the sun. The moon only blocks the sun during a solar eclipse."
+                    },
+                    {
+                        "text": "The sun turns off at night to save energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The sun is constantly undergoing nuclear fusion reactions that produce light and heat - it doesn't turn on and off."
+                    }
+                ],
+                "funFact": "While we experience day and night on Earth, astronauts in the International Space Station see 16 sunrises and sunsets every day because they orbit Earth about every 90 minutes!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Assess knowledge that the sun is always shining even during nighttime when we cannot see it from Earth"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the motion pattern of the moon across the sky?",
+                "options": [
+                    {
+                        "text": "The moon rises in the east and sets in the west, just like the sun",
+                        "isCorrect": 1,
+                        "explanation": "The moon follows the same pattern as the sun, rising in the east and setting in the west each day. This is the correct daily motion pattern of the moon across the sky."
+                    },
+                    {
+                        "text": "The moon rises in the west and sets in the east, opposite to the sun",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon does not move in the opposite direction to the sun. Both the moon and sun rise in the east and set in the west."
+                    },
+                    {
+                        "text": "The moon stays fixed in one position throughout the day and night",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon does not remain stationary in the sky. It moves across the sky from east to west, just like the sun."
+                    },
+                    {
+                        "text": "The moon moves randomly across the sky with no particular pattern",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon's motion is not random. It follows a predictable pattern, moving from east to west across the sky each day."
+                    }
+                ],
+                "funFact": "Even though the moon appears to move across our sky, it's actually the Earth's rotation that causes this apparent motion. The moon is moving too - it orbits around the Earth once every 27.3 days!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Check comprehension that the moon follows the same east-to-west pattern across the sky as the sun"
+        },
+        {
+            "question": {
+                "text": "When can the moon be seen in the sky?",
+                "options": [
+                    {
+                        "text": "Only during the night",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon is not limited to nighttime visibility - it can be seen during both day and night."
+                    },
+                    {
+                        "text": "Only during the day",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon is not limited to daytime visibility - it can be seen during both day and night."
+                    },
+                    {
+                        "text": "During both day and night",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The moon can be visible in the sky during both daytime and nighttime hours, following its regular pattern of rising in the east and setting in the west."
+                    },
+                    {
+                        "text": "Only during sunrise and sunset",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon's visibility is not limited to sunrise and sunset - it can be seen at various times throughout both day and night."
+                    }
+                ],
+                "funFact": "Even though the moon is about 400 times smaller than the sun, it appears about the same size in our sky because it is also about 400 times closer to Earth than the sun!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Verify understanding that the moon can be visible both during day and night"
+        },
+        {
+            "question": {
+                "text": "Why can we see stars at night but not during the day?",
+                "options": [
+                    {
+                        "text": "Stars only shine at night and turn off during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars actually shine all the time, not just at night. They don't turn on and off."
+                    },
+                    {
+                        "text": "Stars move to the other side of Earth during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars don't move to the other side of Earth during the day. They remain in their positions."
+                    },
+                    {
+                        "text": "The sun's bright light makes it impossible to see the stars during the day",
+                        "isCorrect": 1,
+                        "explanation": "The sun's brightness during the day overpowers the light from other stars, making them invisible to our eyes even though they're still there."
+                    },
+                    {
+                        "text": "Stars only exist at night",
+                        "isCorrect": 0,
+                        "explanation": "Stars exist all the time, both day and night. They don't disappear during the day."
+                    }
+                ],
+                "funFact": "If you were on the moon during the day, you could see stars because the moon has no atmosphere to scatter sunlight. That's why astronauts can see stars even during their lunar daytime!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Test knowledge that stars are always present but can only be seen at night due to the sun's brightness during day"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes how stars appear to move across the night sky?",
+                "options": [
+                    {
+                        "text": "Stars appear to rise in the east and set in the west, following the same pattern as the sun and moon",
+                        "isCorrect": 1,
+                        "explanation": "Stars follow the same apparent motion pattern as the sun and moon, rising in the east and setting in the west due to Earth's rotation"
+                    },
+                    {
+                        "text": "Stars appear to rise in the west and set in the east, opposite to the sun and moon",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - stars follow the same pattern as the sun and moon, rising in the east and setting in the west"
+                    },
+                    {
+                        "text": "Stars stay fixed in the same position throughout the night",
+                        "isCorrect": 0,
+                        "explanation": "Stars appear to move across the sky throughout the night rather than staying in fixed positions"
+                    },
+                    {
+                        "text": "Stars move randomly across the sky with no predictable pattern",
+                        "isCorrect": 0,
+                        "explanation": "Stars follow a predictable pattern rather than moving randomly across the sky"
+                    }
+                ],
+                "funFact": "While stars appear to move across our sky, it's actually Earth's rotation that creates this illusion. If you were to take a long-exposure photograph of the night sky, you would see stars create circular trails around the North Star, which appears to remain nearly stationary!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Assess understanding that stars appear to move across the sky in the same pattern as the sun and moon"
+        },
+        {
+            "question": {
+                "text": "When observing objects in the night sky, why does the moon appear so much larger than the stars?",
+                "options": [
+                    {
+                        "text": "Because the moon is much closer to Earth than the stars",
+                        "isCorrect": 1,
+                        "explanation": "Objects that are closer to Earth appear larger than objects that are far away. The moon is much closer to Earth compared to stars, making it appear larger in our sky."
+                    },
+                    {
+                        "text": "Because the moon is much bigger than the stars",
+                        "isCorrect": 0,
+                        "explanation": "Actually, most stars are much larger than the moon. They only appear smaller because they are extremely far away from Earth."
+                    },
+                    {
+                        "text": "Because the moon produces more light than stars",
+                        "isCorrect": 0,
+                        "explanation": "The amount of light an object produces doesn't determine its apparent size. Stars produce their own light while the moon reflects sunlight, but this doesn't affect how large they appear."
+                    },
+                    {
+                        "text": "Because the moon moves faster across the sky than stars",
+                        "isCorrect": 0,
+                        "explanation": "The speed at which an object moves across the sky doesn't affect its apparent size. Both the moon and stars follow similar patterns of movement across the sky."
+                    }
+                ],
+                "funFact": "Even though the moon looks huge compared to stars in our night sky, our Sun (which is a star) is actually about 400 times wider than the moon! The moon just appears large because it's much closer to us - only about 239,000 miles away, while the next closest star to Earth (after our Sun) is over 4 light-years away."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Check comprehension that objects closer to Earth (like the moon) appear larger than objects far away (like stars)"
+        },
+        {
+            "question": {
+                "text": "Amara is playing outside at different times during the day. At which time will her shadow be shortest?",
+                "options": [
+                    {
+                        "text": "At noon when the sun is directly overhead",
+                        "isCorrect": 1,
+                        "explanation": "When the sun is highest in the sky (around noon), shadows are shortest because the sun's rays are hitting objects most directly from above."
+                    },
+                    {
+                        "text": "In the early morning when the sun is rising",
+                        "isCorrect": 0,
+                        "explanation": "During early morning, the sun is low in the eastern sky, causing long shadows to form extending towards the west."
+                    },
+                    {
+                        "text": "In the late afternoon when the sun is setting",
+                        "isCorrect": 0,
+                        "explanation": "During late afternoon, the sun is low in the western sky, causing long shadows to form extending towards the east."
+                    },
+                    {
+                        "text": "The shadow length stays the same all day",
+                        "isCorrect": 0,
+                        "explanation": "Shadows change in length throughout the day as the sun moves across the sky, they don't remain constant."
+                    }
+                ],
+                "funFact": "If you were standing at the Earth's equator at noon during either the spring or fall equinox, you would cast almost no shadow at all because the sun would be directly overhead!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Test understanding that shadows change position, length and shape as the sun moves across the sky"
+        },
+        {
+            "question": {
+                "text": "Why do stars appear as tiny dots of light in the night sky even though they are actually huge balls of burning gas?",
+                "options": [
+                    {
+                        "text": "Because they are very far away from Earth",
+                        "isCorrect": 1,
+                        "explanation": "Stars appear small because they are located at immense distances from Earth. Even though they are massive objects, their great distance makes them appear as tiny points of light to our eyes."
+                    },
+                    {
+                        "text": "Because stars are naturally very small objects",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Stars are actually enormous objects - many are much larger than our Sun. They only appear small due to their great distance from Earth."
+                    },
+                    {
+                        "text": "Because Earth's atmosphere makes them look smaller",
+                        "isCorrect": 0,
+                        "explanation": "While Earth's atmosphere can affect how we see stars, it is not the main reason they appear so small. Their tiny appearance is primarily due to their vast distance from Earth."
+                    },
+                    {
+                        "text": "Because stars shrink at night",
+                        "isCorrect": 0,
+                        "explanation": "Stars do not change their size between day and night. They maintain their actual size and only appear small because they are very far away from Earth."
+                    }
+                ],
+                "funFact": "If our Sun was placed at the distance of the next nearest star (Proxima Centauri), it would appear just as a tiny point of light in our night sky, even though we know how large it looks from Earth!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Test understanding that stars appear as small dots of light because they are very far away despite being large objects"
+        },
+        {
+            "question": {
+                "text": "What happens every day with the Sun to create a predictable pattern of day and night?",
+                "options": [
+                    {
+                        "text": "The Sun rises in the east, moves across the sky, and sets in the west",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct daily pattern we observe. While it appears the Sun follows this predictable path each day, this is actually due to Earth's rotation. This apparent motion of the Sun creates our cycle of day and night."
+                    },
+                    {
+                        "text": "The Sun turns on during the day and off at night",
+                        "isCorrect": 0,
+                        "explanation": "The Sun doesn't turn on and off - it's always shining. We just can't see it at night because Earth has rotated away from it."
+                    },
+                    {
+                        "text": "The Sun stops shining at night and starts again in the morning",
+                        "isCorrect": 0,
+                        "explanation": "The Sun never stops shining. It appears to disappear at night because our part of Earth has turned away from it."
+                    },
+                    {
+                        "text": "The Sun moves randomly across the sky each day",
+                        "isCorrect": 0,
+                        "explanation": "The Sun's movement is not random - it follows the same predictable pattern from east to west every day."
+                    }
+                ],
+                "funFact": "While it looks like the Sun is moving across our sky, it's actually Earth that's rotating! Earth spins once every 24 hours, making it appear as if the Sun is moving across our sky when we're really the ones doing the moving."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Check comprehension of day and night pattern as a repeating cycle based on sun's visibility"
+        },
+        {
+            "question": {
+                "text": "Why does observing the daily pattern of the moon's movement in the sky help us predict where it will be tomorrow?",
+                "options": [
+                    {
+                        "text": "Because the moon follows a predictable pattern, allowing us to calculate its future positions",
+                        "isCorrect": 1,
+                        "explanation": "The moon's movement follows a predictable pattern - it generally rises in the east and sets in the west due to Earth's rotation, but its position shifts slightly each day due to its orbit around Earth. This predictable change allows us to calculate where it will appear."
+                    },
+                    {
+                        "text": "Because the moon stays in the same spot all day and night",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - the moon moves across the sky rather than staying in one place"
+                    },
+                    {
+                        "text": "Because the moon only comes out at night",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - the moon can be visible during both day and night"
+                    },
+                    {
+                        "text": "Because the moon moves randomly across the sky each day",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - the moon's movement follows a predictable pattern, not random movement"
+                    }
+                ],
+                "funFact": "While we see the moon move across our sky each day, what we're actually seeing is the Earth's rotation! The moon orbits around Earth once every 27.3 days, but Earth's daily rotation makes it appear to cross our sky every 24 hours."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Assess knowledge that observing patterns in the sky helps predict future positions of celestial objects"
+        },
+        {
+            "question": {
+                "text": "What is the primary purpose of using a telescope when observing the sky?",
+                "options": [
+                    {
+                        "text": "To magnify distant objects like stars and planets so we can see them better",
+                        "isCorrect": 1,
+                        "explanation": "Telescopes are designed to magnify distant objects, making them appear larger and clearer to our eyes. This is especially important for observing stars and planets that appear very small from Earth due to their great distance."
+                    },
+                    {
+                        "text": "To make the stars shine brighter in the night sky",
+                        "isCorrect": 0,
+                        "explanation": "While stars may appear brighter through a telescope, the primary purpose is not to increase their brightness but to magnify their appearance."
+                    },
+                    {
+                        "text": "To help predict weather patterns",
+                        "isCorrect": 0,
+                        "explanation": "Telescopes are not primarily used for weather prediction. Weather forecasting uses different tools like weather satellites and radar systems."
+                    },
+                    {
+                        "text": "To make the moon appear during the day",
+                        "isCorrect": 0,
+                        "explanation": "The moon is sometimes visible during the day naturally without a telescope. Telescopes are used to observe details of celestial objects, not to make them appear at different times."
+                    }
+                ],
+                "funFact": "The Gran Telescopio Canarias in Spain has one of the largest single primary mirrors of any optical telescope currently in use, measuring 10.4 meters (34 feet) across! This enormous mirror helps astronomers see objects billions of light-years away."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Verify knowledge that telescopes are tools used to magnify and observe distant objects like stars"
+        },
+        {
+            "question": {
+                "text": "If you observe the sun rising in the eastern part of the sky at 6:00 AM, where would you expect to see it at sunset?",
+                "options": [
+                    {
+                        "text": "In the western part of the sky",
+                        "isCorrect": 1,
+                        "explanation": "The sun follows a predictable daily pattern, rising in the east and setting in the west as it appears to move across the sky."
+                    },
+                    {
+                        "text": "In the eastern part of the sky",
+                        "isCorrect": 0,
+                        "explanation": "The sun does not remain in the east - it moves across the sky throughout the day from east to west."
+                    },
+                    {
+                        "text": "Directly overhead",
+                        "isCorrect": 0,
+                        "explanation": "While the sun appears overhead around noon, by sunset it will have moved to the western horizon."
+                    },
+                    {
+                        "text": "In the northern part of the sky",
+                        "isCorrect": 0,
+                        "explanation": "The sun's daily motion is from east to west, not toward the north."
+                    }
+                ],
+                "funFact": "While it appears that the sun moves across our sky, it's actually Earth's rotation that creates this pattern. Earth spins counterclockwise when viewed from above the North Pole, making the sun appear to move from east to west from our perspective on Earth's surface."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Ask students to predict the position of the sun at sunset given its observed position in the morning, testing understanding of daily celestial movement patterns"
+        },
+        {
+            "question": {
+                "text": "Sarah went outside on a sunny afternoon and wondered why she couldn't see any stars in the sky. She knew the stars were still there, but why couldn't she see them?",
+                "options": [
+                    {
+                        "text": "The stars only exist at night and disappear during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars are always present in space, they don't disappear during the day. They are constantly shining, but we just can't see them during daylight."
+                    },
+                    {
+                        "text": "The bright sunlight makes it impossible to see the much dimmer stars",
+                        "isCorrect": 1,
+                        "explanation": "The sun's bright light overwhelms the much fainter light from distant stars, making them invisible to our eyes during the day, even though they're still there."
+                    },
+                    {
+                        "text": "The stars move to the other side of Earth during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars don't actually move to the other side of Earth during the day. They remain in their positions, but we can't see them due to the sun's brightness."
+                    },
+                    {
+                        "text": "Clouds always cover the stars during daytime",
+                        "isCorrect": 0,
+                        "explanation": "Clouds are not the reason we can't see stars during the day. Even on a completely clear day, stars are not visible due to the sun's bright light."
+                    }
+                ],
+                "funFact": "If you were on the moon during the day, you could see stars in the sky! This is because the moon has no atmosphere to scatter sunlight, so the sky appears black even when the sun is shining."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present a scenario about a student observing stars during daytime and ask why they cannot be seen despite still being present in the sky"
+        },
+        {
+            "question": {
+                "text": "Sam noticed that at 8:00 AM his shadow was very long and pointed to the west. When do you think his shadow will be shortest during the day?",
+                "options": [
+                    {
+                        "text": "12:00 PM (noon)",
+                        "isCorrect": 1,
+                        "explanation": "At noon, the sun is at its highest point in the sky, making shadows the shortest of the day since the light is coming from almost directly overhead."
+                    },
+                    {
+                        "text": "9:00 AM",
+                        "isCorrect": 0,
+                        "explanation": "At 9:00 AM, the sun is still relatively low in the eastern sky, creating longer shadows that point westward."
+                    },
+                    {
+                        "text": "3:00 PM",
+                        "isCorrect": 0,
+                        "explanation": "By 3:00 PM, the sun has moved past its highest point, creating longer shadows that point eastward."
+                    },
+                    {
+                        "text": "6:00 PM",
+                        "isCorrect": 0,
+                        "explanation": "At 6:00 PM, the sun is low in the western sky, creating very long shadows that point eastward."
+                    }
+                ],
+                "funFact": "On the first day of summer in the Northern Hemisphere (usually June 21), shadows at noon are at their shortest for the entire year because the sun reaches its highest point in the sky on this day!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe different shadow lengths and positions during a day and ask students to determine the approximate time based on the sun's predictable pattern"
+        },
+        {
+            "question": {
+                "text": "Maria notices the moon in the sky during recess at 2:00 PM. She is confused because she thought the moon only comes out at night. Which of the following best explains what Maria observed?",
+                "options": [
+                    {
+                        "text": "The moon is visible during both day and night because it follows its own pattern of rising in the east and setting in the west",
+                        "isCorrect": 1,
+                        "explanation": "The moon can be seen during both daytime and nighttime as it follows its regular pattern across the sky, regardless of whether the sun is visible"
+                    },
+                    {
+                        "text": "Maria must be mistaken because the moon is only visible at night when the sun sets",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - the moon doesn't only appear at night. It follows its own pattern and can be visible during daylight hours"
+                    },
+                    {
+                        "text": "The moon appears during the day only when it's a full moon",
+                        "isCorrect": 0,
+                        "explanation": "The moon's visibility during the day is not limited to full moons. It can be seen during the day in any of its phases"
+                    },
+                    {
+                        "text": "Something unusual must have happened because the moon and sun cannot be in the sky at the same time",
+                        "isCorrect": 0,
+                        "explanation": "It's perfectly normal for both the moon and sun to be visible in the sky at the same time during certain parts of the day"
+                    }
+                ],
+                "funFact": "While we typically associate the moon with nighttime, it spends about equal time in the day and night sky. The moon is actually visible during daylight hours almost every day, though it may be harder to spot due to the bright sunlight!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present observations of the moon visible during daytime and ask students to explain this phenomenon in relation to typical day/night patterns"
+        },
+        {
+            "question": {
+                "text": "Which of the following objects in the sky consistently follows the pattern of rising in the east and setting in the west each day?",
+                "options": [
+                    {
+                        "text": "The Sun, Moon, and stars",
+                        "isCorrect": 1,
+                        "explanation": "The Sun, Moon, and stars all follow the same predictable pattern of rising in the east and setting in the west as they move across the sky each day."
+                    },
+                    {
+                        "text": "Only the Sun",
+                        "isCorrect": 0,
+                        "explanation": "While the Sun does follow this pattern, it's not the only celestial object that does so. The Moon and stars follow the same east-to-west pattern."
+                    },
+                    {
+                        "text": "The Sun and Moon, but not the stars",
+                        "isCorrect": 0,
+                        "explanation": "Stars also follow the same east-to-west pattern as the Sun and Moon, even though we can only see most stars at night."
+                    },
+                    {
+                        "text": "Only objects visible during the day",
+                        "isCorrect": 0,
+                        "explanation": "Both daytime and nighttime objects follow this pattern. The time when we can see an object doesn't affect its movement pattern across the sky."
+                    }
+                ],
+                "funFact": "This apparent movement of celestial objects across our sky is actually caused by Earth's rotation on its axis. While it looks like these objects are moving across our sky, it's really Earth that's spinning!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Show different celestial objects and ask students to identify which ones follow the east-to-west movement pattern across the sky"
+        },
+        {
+            "question": {
+                "text": "During a school field trip on a sunny day, a student claims she can see stars in the sky at noon. How would you explain why this is most likely not possible?",
+                "options": [
+                    {
+                        "text": "Stars are visible in the sky during the day, but they appear dimmer than at night",
+                        "isCorrect": 0,
+                        "explanation": "Stars are not visible during the day, even though they are still there, because the sun's bright light drowns out their faint light"
+                    },
+                    {
+                        "text": "Stars are only visible at night because they move to the other side of Earth during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars don't actually move to the other side of Earth - they are always in space, but we can't see them during the day due to the sun's brightness"
+                    },
+                    {
+                        "text": "Stars are not visible during the day because the sun's brightness makes them impossible to see from Earth",
+                        "isCorrect": 1,
+                        "explanation": "The sun's intense brightness during the day makes it impossible to see the much fainter light from distant stars, even though the stars are still there"
+                    },
+                    {
+                        "text": "Stars disappear during the day because they only shine at night",
+                        "isCorrect": 0,
+                        "explanation": "Stars are always shining - they don't turn off during the day. We just can't see them because of the sun's bright light"
+                    }
+                ],
+                "funFact": "While we can't normally see stars during the day, they can sometimes be visible during a total solar eclipse when the moon completely blocks the sun's bright light. Astronomers can also use special telescopes to observe some stars during daylight hours!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Provide a situation where someone claims they can see stars at noon, asking students to evaluate this claim based on their knowledge of sky patterns"
+        },
+        {
+            "question": {
+                "text": "A student observes the night sky from her backyard at 8:00 PM, 9:00 PM, and 10:00 PM. Which of the following best describes what she would see?",
+                "options": [
+                    {
+                        "text": "The stars appear in different parts of the sky at each time, showing a pattern of movement across the sky",
+                        "isCorrect": 1,
+                        "explanation": "Stars follow a predictable pattern, moving across the night sky from east to west, just like the sun and moon"
+                    },
+                    {
+                        "text": "The stars remain fixed in exactly the same positions throughout the night",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because stars appear to move across the sky due to Earth's rotation"
+                    },
+                    {
+                        "text": "The stars randomly change their positions with no pattern",
+                        "isCorrect": 0,
+                        "explanation": "Star movement follows a regular, predictable pattern and is not random"
+                    },
+                    {
+                        "text": "Some stars disappear while new stars suddenly appear in different locations",
+                        "isCorrect": 0,
+                        "explanation": "The same stars remain visible throughout the night, moving in a pattern rather than disappearing and reappearing"
+                    }
+                ],
+                "funFact": "While stars appear to move across our sky, they're actually staying still - it's Earth's rotation that creates this apparent motion. Ancient sailors and travelers used this predictable star movement to navigate at night!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Show multiple observations of the night sky and ask students to determine which observation represents the correct pattern of star visibility"
+        },
+        {
+            "question": {
+                "text": "Looking up at the night sky, you notice that the Moon appears much bigger than any star you can see. However, most stars are actually much larger than the Moon. Why does the Moon appear bigger to us on Earth?",
+                "options": [
+                    {
+                        "text": "The Moon is much closer to Earth than the stars",
+                        "isCorrect": 1,
+                        "explanation": "Objects that are closer to us appear larger than objects that are far away, even if they are actually smaller. The Moon is only about 240,000 miles from Earth, while the nearest star (besides the Sun) is over 4 light-years away."
+                    },
+                    {
+                        "text": "The Moon produces more light than stars",
+                        "isCorrect": 0,
+                        "explanation": "The amount of light an object produces doesn't determine how large it appears. The Moon actually doesn't produce its own light - it reflects sunlight."
+                    },
+                    {
+                        "text": "The Moon is the largest object in space",
+                        "isCorrect": 0,
+                        "explanation": "The Moon is actually quite small compared to most stars. Many stars are hundreds or thousands of times larger than our Moon."
+                    },
+                    {
+                        "text": "The Moon's bright color makes it look bigger",
+                        "isCorrect": 0,
+                        "explanation": "An object's brightness or color doesn't affect its apparent size. The Moon appears larger simply because it's much closer to Earth."
+                    }
+                ],
+                "funFact": "If our Sun was placed at the same distance as the nearest star system (Alpha Centauri), it would appear as just another tiny point of light in our night sky, despite being about 400,000 times larger than the Moon!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present scenarios about the apparent size of celestial objects and ask students to explain why some appear larger than others despite their actual sizes"
+        },
+        {
+            "question": {
+                "text": "Alex observed the sky for three days and made the following notes about what objects were visible. Which set of observations shows the correct pattern that repeats each day?\n\nA) Day 1: Sun visible during day, stars visible at night\nDay 2: Moon visible during day, stars visible at night\nDay 3: Sun and moon both visible during day, no stars at night\n\nB) Day 1: Sun visible during day, stars visible at night\nDay 2: Sun visible during day, stars visible at night\nDay 3: Sun visible during day, stars visible at night\n\nC) Day 1: Stars visible during day and night\nDay 2: Stars visible during day and night\nDay 3: Stars visible during day and night\n\nD) Day 1: Sun and stars visible during day, moon visible at night\nDay 2: Sun and stars visible during day, moon visible at night\nDay 3: Sun and stars visible during day, moon visible at night",
+                "options": [
+                    {
+                        "text": "A) Day 1: Sun visible during day, stars visible at night\nDay 2: Moon visible during day, stars visible at night\nDay 3: Sun and moon both visible during day, no stars at night",
+                        "isCorrect": 0,
+                        "explanation": "This pattern is incorrect because it shows different observations each day rather than a repeating pattern. The sun should be visible every day, and stars should be visible every night, while the moon's visibility varies with its phases."
+                    },
+                    {
+                        "text": "B) Day 1: Sun visible during day, stars visible at night\nDay 2: Sun visible during day, stars visible at night\nDay 3: Sun visible during day, stars visible at night",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct repeating pattern. The sun is visible during the day, and stars are visible at night. This pattern repeats each day. The moon is not mentioned in this option because its visibility varies with its phases - sometimes visible during day, sometimes at night, and sometimes not visible at all."
+                    },
+                    {
+                        "text": "C) Day 1: Stars visible during day and night\nDay 2: Stars visible during day and night\nDay 3: Stars visible during day and night",
+                        "isCorrect": 0,
+                        "explanation": "This pattern is incorrect because stars are not visible during the day due to the brightness of the sun. They are only visible at night."
+                    },
+                    {
+                        "text": "D) Day 1: Sun and stars visible during day, moon visible at night\nDay 2: Sun and stars visible during day, moon visible at night\nDay 3: Sun and stars visible during day, moon visible at night",
+                        "isCorrect": 0,
+                        "explanation": "This pattern is incorrect because stars are not visible during the day due to the brightness of the sun. Additionally, the moon's visibility varies with its phases - it can be visible during the day or night, and sometimes not visible at all depending on its position relative to Earth and the Sun."
+                    }
+                ],
+                "funFact": "While we can't see stars during the day, they are actually still there! The bright light from the sun overwhelms the much fainter light from the stars, making them invisible to our eyes during daylight hours. Even with special equipment like telescopes, seeing stars during daylight from Earth remains extremely difficult due to the scattering of sunlight in our atmosphere."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Describe multiple day/night observations and ask students to identify which represents the correct repeating pattern of celestial object visibility"
+        },
+        {
+            "question": {
+                "text": "If you are standing outside at noon in a tropical region when the sun is directly overhead, where would your shadow appear?",
+                "options": [
+                    {
+                        "text": "You would have a very short shadow near your feet",
+                        "isCorrect": 1,
+                        "explanation": "When the sun is directly overhead, shadows are shortest because light rays are falling straight down, creating a small shadow close to your feet."
+                    },
+                    {
+                        "text": "Your shadow would point towards the east",
+                        "isCorrect": 0,
+                        "explanation": "Shadows point away from the sun. At noon when the sun is overhead, the shadow would not point east but would be directly beneath you."
+                    },
+                    {
+                        "text": "Your shadow would point towards the west",
+                        "isCorrect": 0,
+                        "explanation": "Shadows point away from the sun. At noon when the sun is overhead, the shadow would not point west but would be directly beneath you."
+                    },
+                    {
+                        "text": "You would not have a shadow at all",
+                        "isCorrect": 0,
+                        "explanation": "As long as there is light falling on an opaque object, it will create a shadow. Even when the sun is directly overhead, you still cast a small shadow."
+                    }
+                ],
+                "funFact": "Ancient civilizations used shadows from tall structures like obelisks to tell time! These structures, called sundials, were some of the earliest timekeeping devices, and they worked by tracking how shadows moved and changed length throughout the day."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Give various positions of the sun and ask students to predict how shadows would appear at each position, testing understanding of sun-shadow relationships"
+        },
+        {
+            "question": {
+                "text": "An astronomer records observations of Jupiter through a telescope at midnight for several weeks. Based on Jupiter's pattern of movement, which statement best predicts when Jupiter will be visible in the sky?",
+                "options": [
+                    {
+                        "text": "Jupiter will only be visible during the day",
+                        "isCorrect": 0,
+                        "explanation": "Like other celestial objects, Jupiter follows a predictable pattern across the sky and can be seen at night, not during the day."
+                    },
+                    {
+                        "text": "Jupiter will be visible at midnight, following a slow, predictable path against the background stars",
+                        "isCorrect": 1,
+                        "explanation": "Celestial objects follow predictable patterns. Jupiter will be visible at similar times each night, but its position gradually shifts against the background stars due to Earth's and Jupiter's orbital motions."
+                    },
+                    {
+                        "text": "Jupiter will only be visible during a full moon",
+                        "isCorrect": 0,
+                        "explanation": "Jupiter's visibility is not dependent on the moon's phases. It follows its own predictable pattern across the night sky."
+                    },
+                    {
+                        "text": "Jupiter will appear randomly in different parts of the sky each night",
+                        "isCorrect": 0,
+                        "explanation": "Celestial objects don't appear randomly - they follow regular, predictable patterns in their movement across the sky."
+                    }
+                ],
+                "funFact": "Jupiter appears to move across our night sky in two ways: daily motion (caused by Earth's rotation) and a gradual shift against the background stars over weeks and months (caused by Earth's and Jupiter's orbital motions). Jupiter takes about 12 Earth years to complete one orbit around the Sun!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Present telescope observations at different times and ask students to explain why certain celestial objects appear or disappear based on predictable patterns"
+        },
+        {
+            "question": {
+                "text": "While watching the moon on a clear night at 8:00 PM, you see it in the eastern part of the sky. By 11:00 PM, the moon has moved to be directly overhead. If this pattern continues, where would you expect to see the moon at 2:00 AM?",
+                "options": [
+                    {
+                        "text": "In the western part of the sky",
+                        "isCorrect": 1,
+                        "explanation": "The moon follows a predictable pattern, moving from east to west across the sky. After being overhead, it will continue westward."
+                    },
+                    {
+                        "text": "Back in the eastern part of the sky",
+                        "isCorrect": 0,
+                        "explanation": "The moon moves in one direction across the sky from east to west. It doesn't move back to the east during the same night."
+                    },
+                    {
+                        "text": "Still directly overhead",
+                        "isCorrect": 0,
+                        "explanation": "The moon doesn't stay in one position but continues its movement across the sky throughout the night."
+                    },
+                    {
+                        "text": "Below the horizon",
+                        "isCorrect": 0,
+                        "explanation": "While the moon will eventually set below the western horizon, at 2:00 AM it would still be visible in the western part of the sky based on its earlier positions."
+                    }
+                ],
+                "funFact": "The moon appears to move across our sky at a rate of about 15 degrees per hour. Since the moon's apparent diameter is about 0.5 degrees, it takes the moon only about 2 minutes to move a distance equal to its own diameter as we see it from Earth!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Give a sequence of moon positions throughout a night and ask students to predict its next position based on the established pattern"
+        },
+        {
+            "question": {
+                "text": "You observe the sun at 8:00 AM in the eastern part of the sky. At 12:00 PM, you see it high overhead. Based on this pattern, where would you expect to see the sun at 4:00 PM?",
+                "options": [
+                    {
+                        "text": "In the western part of the sky",
+                        "isCorrect": 1,
+                        "explanation": "The sun follows a predictable pattern each day, moving from east to west across the sky. After being overhead at noon, it continues westward."
+                    },
+                    {
+                        "text": "In the eastern part of the sky",
+                        "isCorrect": 0,
+                        "explanation": "The sun rises in the east but does not return there during the same day. It continues its path westward."
+                    },
+                    {
+                        "text": "Directly overhead",
+                        "isCorrect": 0,
+                        "explanation": "The sun is typically overhead around noon. By 4:00 PM, it will have moved further west in its daily pattern."
+                    },
+                    {
+                        "text": "Below the horizon",
+                        "isCorrect": 0,
+                        "explanation": "While the sun does eventually set below the horizon, at 4:00 PM it is typically still visible in the western sky."
+                    }
+                ],
+                "funFact": "While it appears that the sun moves across our sky, it's actually Earth's rotation that creates this pattern. Earth spins counterclockwise when viewed from above the North Pole, making the sun appear to move from east to west!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Present students with a scenario showing the sun at different positions throughout the day and ask them to predict its next position based on the observed pattern of movement"
+        },
+        {
+            "question": {
+                "text": "Looking at the moon in the sky at 7:00 PM, you notice it is in the eastern part of the sky. Based on the moon's regular pattern of movement across the sky, where would you expect to see the moon at 1:00 AM?",
+                "options": [
+                    {
+                        "text": "High in the middle of the sky",
+                        "isCorrect": 1,
+                        "explanation": "The moon moves from east to west across the sky over about 12 hours. After 6 hours, it would be approximately in the middle of its journey across the sky."
+                    },
+                    {
+                        "text": "Still in the eastern sky",
+                        "isCorrect": 0,
+                        "explanation": "The moon doesn't stay in one place - it moves steadily across the sky from east to west. After 6 hours, it would have moved significantly from its eastern position."
+                    },
+                    {
+                        "text": "In the western sky",
+                        "isCorrect": 0,
+                        "explanation": "While the moon does move westward, it takes about 12 hours to travel from east to west. After only 6 hours, it wouldn't have reached the western sky yet."
+                    },
+                    {
+                        "text": "Below the horizon",
+                        "isCorrect": 0,
+                        "explanation": "Since the moon started in the east at 7:00 PM, it would still be visible above the horizon at 1:00 AM, not yet having completed its journey across the sky."
+                    }
+                ],
+                "funFact": "While we see the moon moving across our sky, it's actually Earth's rotation that creates this apparent motion. The moon orbits Earth much more slowly, taking about 27.3 days to complete one orbit around our planet!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Show a sequence of moon positions in the sky and ask students to determine the next likely position based on its movement pattern"
+        },
+        {
+            "question": {
+                "text": "Sam observed his shadow at different times during a sunny day. Which statement correctly describes how his shadow changed throughout the day?",
+                "options": [
+                    {
+                        "text": "His shadow was longest at noon and shortest in the early morning and late afternoon",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Shadows are actually shortest at noon when the sun is highest in the sky, and longest in early morning and late afternoon when the sun is low on the horizon."
+                    },
+                    {
+                        "text": "His shadow was shortest at noon and longest in the early morning and late afternoon",
+                        "isCorrect": 1,
+                        "explanation": "This is correct! When the sun is highest in the sky around noon, shadows are shortest. In early morning and late afternoon when the sun is low in the sky, shadows are longest."
+                    },
+                    {
+                        "text": "His shadow stayed the same length all day but changed direction",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Shadows change both in length and direction throughout the day as the sun moves across the sky."
+                    },
+                    {
+                        "text": "His shadow disappeared completely at noon when the sun was directly overhead",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While shadows are shortest at noon, they don't disappear completely in most places on Earth because the sun is rarely directly overhead."
+                    }
+                ],
+                "funFact": "At the Earth's equator during the spring and fall equinoxes, the sun passes directly overhead at noon, causing objects to cast virtually no shadow! This happens because the sun's rays hit the Earth at a perfect 90-degree angle."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Present a diagram showing shadow lengths at different times of day and ask students to analyze the relationship between sun position and shadow changes"
+        },
+        {
+            "question": {
+                "text": "Looking at the moon over several days, which statement best describes when the moon is visible?",
+                "options": [
+                    {
+                        "text": "The moon can only be seen at night",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon is not limited to nighttime visibility. It can be seen during both day and night."
+                    },
+                    {
+                        "text": "The moon can be seen during both day and night",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Unlike stars which are only visible at night, the moon can be observed during both daytime and nighttime hours."
+                    },
+                    {
+                        "text": "The moon is only visible during sunrise and sunset",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The moon's visibility is not limited to sunrise and sunset - it can be seen at various times throughout both day and night."
+                    },
+                    {
+                        "text": "The moon follows the same visibility pattern as stars",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Stars are only visible at night, while the moon follows a different pattern and can be seen during both day and night."
+                    }
+                ],
+                "funFact": "Even though the Moon appears to shine brightly, it doesn't produce its own light! What we see is actually sunlight reflecting off the Moon's surface, which is why we can sometimes see it during daylight hours."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Display data about moon visibility during both day and night times and ask students to analyze the pattern of when the moon can be observed"
+        },
+        {
+            "question": {
+                "text": "How are the patterns of movement different between the sun and stars in the sky?",
+                "options": [
+                    {
+                        "text": "The sun is visible during the day and appears to move east to west, while stars are visible at night and appear to move west to east",
+                        "isCorrect": 0,
+                        "explanation": "While the sun is indeed visible during the day, both the sun and stars appear to move from east to west across the sky"
+                    },
+                    {
+                        "text": "The sun moves across the sky during the day while stars stay fixed in one position at night",
+                        "isCorrect": 0,
+                        "explanation": "Both the sun and stars appear to move across the sky - stars don't stay fixed in one position"
+                    },
+                    {
+                        "text": "The sun is visible during the day and appears to move east to west, while stars are visible at night and follow the same east to west pattern",
+                        "isCorrect": 1,
+                        "explanation": "Both the sun and stars follow the same apparent motion pattern from east to west, but are visible at different times - sun during day, stars at night"
+                    },
+                    {
+                        "text": "The sun moves randomly across the day sky while stars follow a set pattern at night",
+                        "isCorrect": 0,
+                        "explanation": "The sun's movement is not random - it follows a predictable pattern from east to west just like the stars"
+                    }
+                ],
+                "funFact": "Even though we see the sun and stars appearing to move across our sky, it's actually Earth's rotation that creates this apparent motion. As Earth spins on its axis from west to east, celestial objects appear to move in the opposite direction - from east to west!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given observations of celestial objects' apparent movement across the sky, ask students to compare and contrast the patterns of the sun, moon, and stars"
+        },
+        {
+            "question": {
+                "text": "A student uses a telescope to observe stars at night and notices they appear as tiny points of light. Why do stars look so small through the telescope even though they are actually enormous balls of burning gas?",
+                "options": [
+                    {
+                        "text": "Stars appear small because they are very far away from Earth, even when viewed through a telescope",
+                        "isCorrect": 1,
+                        "explanation": "Due to the vast distances between Earth and stars, even powerful telescopes can only magnify them to appear as bright points of light. The immense distance makes it impossible to see their true size from Earth."
+                    },
+                    {
+                        "text": "Stars are actually very tiny objects that only look like giant balls of gas up close",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Stars are enormous objects - many are much larger than our Sun. They only appear small due to their great distance from Earth."
+                    },
+                    {
+                        "text": "The telescope is not powerful enough to show stars at their real size",
+                        "isCorrect": 0,
+                        "explanation": "Even the most powerful telescopes on Earth cannot show stars at their true size because of their extreme distance, not because of limitations in telescope technology."
+                    },
+                    {
+                        "text": "Stars shrink in size during the night which is why they look like dots",
+                        "isCorrect": 0,
+                        "explanation": "Stars do not change their actual size. They are constant in size but appear small because they are extremely far away from Earth."
+                    }
+                ],
+                "funFact": "Our closest star neighbor, Proxima Centauri, is so far away that its light takes about 4.2 years to reach Earth, even though light travels at an amazing speed of 186,000 miles per second!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Present a scenario about an observer using a telescope to view stars and ask students to analyze why the stars appear as tiny dots despite being large objects"
+        },
+        {
+            "question": {
+                "text": "A student records the time of sunrise for 5 consecutive days in July:\nDay 1: 5:45 AM\nDay 2: 5:46 AM\nDay 3: 5:47 AM\nDay 4: 5:48 AM\nDay 5: 5:49 AM\n\nBased on this pattern, what is the most likely time of sunrise on Day 6?",
+                "options": [
+                    {
+                        "text": "5:50 AM",
+                        "isCorrect": 1,
+                        "explanation": "The sunrise time is getting 1 minute later each day, following a regular pattern. Adding 1 minute to Day 5's time of 5:49 AM gives 5:50 AM for Day 6."
+                    },
+                    {
+                        "text": "5:45 AM",
+                        "isCorrect": 0,
+                        "explanation": "This was the sunrise time on Day 1. The pattern shows the time getting later each day, not repeating."
+                    },
+                    {
+                        "text": "5:54 AM",
+                        "isCorrect": 0,
+                        "explanation": "This adds 5 minutes to Day 5's time instead of 1 minute. The pattern shows a 1-minute increase each day."
+                    },
+                    {
+                        "text": "5:49 AM",
+                        "isCorrect": 0,
+                        "explanation": "This is the same time as Day 5. The pattern shows the time should increase by 1 minute each day."
+                    }
+                ],
+                "funFact": "The time of sunrise changes throughout the year due to Earth's tilt and orbit around the Sun. The change is most rapid around the equinoxes (March and September) when sunrise times can change by 2-3 minutes per day!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Show data about the timing of sunrise and sunset over several days and ask students to analyze the pattern to make predictions about future sunrise/sunset times"
+        },
+        {
+            "question": {
+                "text": "Why does the Moon appear much larger in the sky than stars, even though stars are actually much bigger than the Moon?",
+                "options": [
+                    {
+                        "text": "The Moon is much closer to Earth than the stars",
+                        "isCorrect": 1,
+                        "explanation": "The Moon appears larger because it is much closer to Earth (about 240,000 miles away) compared to stars which are trillions of miles away. Objects appear smaller the further away they are."
+                    },
+                    {
+                        "text": "The Moon is actually bigger than most stars",
+                        "isCorrect": 0,
+                        "explanation": "Most stars are actually much larger than the Moon. The Moon just appears bigger because it is much closer to Earth."
+                    },
+                    {
+                        "text": "The Moon reflects more light than stars",
+                        "isCorrect": 0,
+                        "explanation": "The amount of light something reflects doesn't determine how large it appears. Stars produce their own light and are much brighter than the Moon, which only reflects sunlight."
+                    },
+                    {
+                        "text": "The Moon is in Earth's atmosphere",
+                        "isCorrect": 0,
+                        "explanation": "The Moon is not in Earth's atmosphere - it orbits far beyond our atmosphere in space. It appears large simply because it is relatively close to Earth."
+                    }
+                ],
+                "funFact": "If our Sun was placed at the same distance as the nearest star system (Alpha Centauri), it would appear as just another tiny point of light in our night sky, even though it's an enormous ball of gas about 109 times wider than Earth!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Display information about the apparent size of celestial objects and ask students to analyze why closer objects like the moon appear larger than distant stars"
+        },
+        {
+            "question": {
+                "text": "A student observes the sky at different times throughout a full day. Which sequence correctly shows what the student would see?",
+                "options": [
+                    {
+                        "text": "Morning: Sun rises in east, Moon visible\nNoon: Sun overhead, Stars visible\nEvening: Sun sets in west, Stars appear",
+                        "isCorrect": 0,
+                        "explanation": "Stars are not visible during daytime due to the Sun's brightness, and the Moon's visibility varies."
+                    },
+                    {
+                        "text": "Morning: Sun rises in east\nNoon: Sun overhead\nEvening: Sun sets in west, Stars become visible",
+                        "isCorrect": 1,
+                        "explanation": "This correctly shows the Sun's daily pattern and that stars become visible after sunset."
+                    },
+                    {
+                        "text": "Morning: Stars visible, Sun rises in west\nNoon: Sun overhead\nEvening: Sun sets in east, Stars appear",
+                        "isCorrect": 0,
+                        "explanation": "The Sun rises in the east and sets in the west, not the opposite direction."
+                    },
+                    {
+                        "text": "Morning: Sun rises in east\nNoon: Stars visible overhead\nEvening: Sun and stars visible together",
+                        "isCorrect": 0,
+                        "explanation": "Stars are not visible during daylight hours, and we don't see the Sun and stars together."
+                    }
+                ],
+                "funFact": "While we can't see stars during the day, they are actually still there! The Sun's brightness overwhelms the light from other stars, making them invisible to our eyes during daylight hours. If you were on the Moon, where there's no atmosphere, you could see stars even when the Sun is up!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Present a sequence showing day/night cycle patterns and ask students to analyze how the visibility of different celestial objects changes throughout the cycle"
+        },
+        {
+            "question": {
+                "text": "A student observes the Moon in the sky at 9:00 AM from her backyard. If she wants to see where the Moon will be at 3:00 PM on the same day, in which direction should she look?",
+                "options": [
+                    {
+                        "text": "Further west in the sky",
+                        "isCorrect": 1,
+                        "explanation": "Like the Sun, the Moon appears to move from east to west across the sky during the day. After 6 hours, it will have moved westward from its morning position."
+                    },
+                    {
+                        "text": "Further east in the sky",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The Moon moves from east to west, not west to east. It follows the same pattern as the Sun."
+                    },
+                    {
+                        "text": "In exactly the same position",
+                        "isCorrect": 0,
+                        "explanation": "The Moon does not stay in one position but moves across the sky throughout the day, following a predictable pattern."
+                    },
+                    {
+                        "text": "The Moon cannot be seen during daytime",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. The Moon is often visible during daylight hours, even though it may be less noticeable than at night."
+                    }
+                ],
+                "funFact": "While it takes about 24 hours for the Moon to appear to move across our sky once, the Moon actually takes about 27.3 days to complete one full orbit around Earth. This longer period is called a sidereal month."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given data about the position of celestial objects at different times, ask students to analyze how their appearance from Earth changes based on their relative positions"
+        },
+        {
+            "question": {
+                "text": "When observing the night sky for several nights, you notice that the Moon appears in different positions at the same time each night. Based on your knowledge of patterns in the sky, what can you predict about where the Moon will be visible tomorrow night?",
+                "options": [
+                    {
+                        "text": "The Moon will be in the exact same position as tonight",
+                        "isCorrect": 0,
+                        "explanation": "While the Moon follows a regular pattern, it does not appear in the same position at the same time each night. Its position changes gradually each night."
+                    },
+                    {
+                        "text": "The Moon will appear about 13 degrees further east in its orbit compared to tonight",
+                        "isCorrect": 1,
+                        "explanation": "The Moon moves eastward in its orbit around Earth by about 13 degrees each day. This means at the same time each night, the Moon will appear further east in the sky, and will rise about 50 minutes later each night."
+                    },
+                    {
+                        "text": "The Moon will only be visible during the day tomorrow",
+                        "isCorrect": 0,
+                        "explanation": "While the Moon can sometimes be seen during the day, it's not correct that it will only be visible during daytime. The Moon's visibility is not restricted to day or night."
+                    },
+                    {
+                        "text": "The Moon will stay fixed in one spot all night",
+                        "isCorrect": 0,
+                        "explanation": "The Moon does not remain stationary in the sky. Like the Sun and stars, it appears to move across the sky throughout the night."
+                    }
+                ],
+                "funFact": "The Moon takes approximately 27.3 days to complete one orbit around Earth. This is why we see the Moon in slightly different positions at the same time each night, moving about 13 degrees eastward against the stars every day!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Show observations of repeated celestial patterns and ask students to analyze how these patterns help in making predictions about future astronomical events"
+        },
+        {
+            "question": {
+                "text": "Why can we see stars at night but not during the day, even though they are always present in the sky?",
+                "options": [
+                    {
+                        "text": "Stars only shine at night and turn off during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars are always shining, they don't turn on and off. They are giant balls of burning gas that shine continuously."
+                    },
+                    {
+                        "text": "The bright sunlight makes it impossible to see the dimmer light from stars during the day",
+                        "isCorrect": 1,
+                        "explanation": "The sun's bright light drowns out the much fainter light from distant stars during the day, making them invisible to our eyes. At night, without the sun's brightness, we can see the stars."
+                    },
+                    {
+                        "text": "Stars move to the other side of Earth during the day",
+                        "isCorrect": 0,
+                        "explanation": "Stars don't move to the other side of Earth during the day. They appear to move across the sky due to Earth's rotation, but they are always present."
+                    },
+                    {
+                        "text": "Clouds block all stars during the day",
+                        "isCorrect": 0,
+                        "explanation": "Clouds can block our view of stars, but they are not the reason we can't see stars during the day. Even on clear, cloudless days, stars are not visible."
+                    }
+                ],
+                "funFact": "Despite the Moon having no atmosphere to scatter light, Apollo astronauts generally reported difficulty seeing stars during lunar daytime due to the extreme brightness contrast. However, stars are more easily visible from space when astronauts are in Earth's shadow or when they use special viewing techniques to block direct sunlight."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given an illustration of star visibility during day and night, ask students to analyze why stars are visible at night but not during daytime despite being present all the time"
+        }
+    ]
+}

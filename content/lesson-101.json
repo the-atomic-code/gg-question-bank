@@ -1,0 +1,1326 @@
+{
+    "id": "lesson-101",
+    "title": "Electromagnetic Spectrum",
+    "standard": "MS-PS4-2",
+    "n_recall": 15,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 39,
+    "questions": [
+        {
+            "question": {
+                "text": "Which type of wave can travel through space without requiring a medium?",
+                "options": [
+                    {
+                        "text": "Electromagnetic waves",
+                        "isCorrect": 1,
+                        "explanation": "Electromagnetic waves, including radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays, can travel through empty space (vacuum) without requiring a medium for propagation."
+                    },
+                    {
+                        "text": "Sound waves",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves are mechanical waves that require a medium (like air, water, or solids) to travel through. They cannot propagate through empty space."
+                    },
+                    {
+                        "text": "Water waves",
+                        "isCorrect": 0,
+                        "explanation": "Water waves are mechanical waves that require water as a medium to propagate. They cannot travel through empty space."
+                    },
+                    {
+                        "text": "Seismic waves",
+                        "isCorrect": 0,
+                        "explanation": "Seismic waves are mechanical waves that travel through Earth's layers. They require a medium like rock or soil to propagate and cannot travel through empty space."
+                    }
+                ],
+                "funFact": "Light from the Sun takes approximately 8 minutes and 20 seconds to reach Earth, traveling through the vacuum of space at 299,792,458 meters per second (the speed of light). If space was filled with a medium like air, light couldn't travel at this speed, and the universe as we know it would be vastly different!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify which type of wave transfers energy without transferring matter"
+        },
+        {
+            "question": {
+                "text": "What is the relationship between wavelength and frequency in the electromagnetic spectrum?",
+                "options": [
+                    {
+                        "text": "As wavelength increases, frequency increases.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency have an inverse relationship, not a direct relationship."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency decreases.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When wavelength decreases, frequency actually increases, not decreases."
+                    },
+                    {
+                        "text": "As wavelength increases, frequency decreases.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Wavelength and frequency have an inverse relationship. Longer wavelengths have lower frequencies, while shorter wavelengths have higher frequencies."
+                    },
+                    {
+                        "text": "Wavelength and frequency are not related to each other.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency are directly related through an inverse relationship."
+                    },
+                    {
+                        "text": "Wavelength and frequency are the same for all waves in the electromagnetic spectrum.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Different types of electromagnetic waves have different wavelengths and frequencies, ranging from long-wavelength, low-frequency radio waves to short-wavelength, high-frequency gamma rays."
+                    }
+                ],
+                "funFact": "All electromagnetic waves travel at the same speed in a vacuum\u2014the speed of light, which is approximately 300,000,000 meters per second. Since speed equals wavelength times frequency, when wavelength increases, frequency must decrease to maintain this constant speed!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify the relationship between wavelength and frequency in the electromagnetic spectrum"
+        },
+        {
+            "question": {
+                "text": "Which color of visible light has the highest energy and the shortest wavelength?",
+                "options": [
+                    {
+                        "text": "Red",
+                        "isCorrect": 0,
+                        "explanation": "Red light has the longest wavelength and therefore the lowest energy in the visible light spectrum."
+                    },
+                    {
+                        "text": "Green",
+                        "isCorrect": 0,
+                        "explanation": "Green light has a medium wavelength and energy level in the visible light spectrum, between red and violet."
+                    },
+                    {
+                        "text": "Blue",
+                        "isCorrect": 0,
+                        "explanation": "Blue light has a shorter wavelength and higher energy than green and red, but not as short as violet."
+                    },
+                    {
+                        "text": "Violet",
+                        "isCorrect": 1,
+                        "explanation": "Violet light has the shortest wavelength and therefore the highest energy in the visible light spectrum."
+                    },
+                    {
+                        "text": "Orange",
+                        "isCorrect": 0,
+                        "explanation": "Orange light has a wavelength between red and yellow, making it the second lowest energy in the visible spectrum."
+                    }
+                ],
+                "funFact": "Just beyond violet light on the electromagnetic spectrum is ultraviolet (UV) light, which has even higher energy and shorter wavelengths. This is why UV light can damage skin cells and cause sunburn, while visible light generally cannot!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify which color of visible light has the highest energy and shortest wavelength"
+        },
+        {
+            "question": {
+                "text": "Which type of electromagnetic wave is used in thermal imaging cameras to detect heat signatures?",
+                "options": [
+                    {
+                        "text": "Infrared waves",
+                        "isCorrect": 1,
+                        "explanation": "Infrared waves are used in thermal imaging cameras because they detect the heat (infrared radiation) emitted by objects above absolute zero temperature. These waves have wavelengths about 1,000 times smaller than a millimeter."
+                    },
+                    {
+                        "text": "Radio waves",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves have long wavelengths (ruler length or longer) and are used for communication signals like WiFi, phone calls, and radio, not for detecting heat."
+                    },
+                    {
+                        "text": "X-rays",
+                        "isCorrect": 0,
+                        "explanation": "X-rays have much shorter wavelengths than infrared and are used to create images of bones and internal body structures because they pass through soft tissue but are absorbed by denser materials like bone."
+                    },
+                    {
+                        "text": "Visible light",
+                        "isCorrect": 0,
+                        "explanation": "Visible light has wavelengths between 400-700 nanometers and allows us to see colors, but cannot detect heat signatures the way infrared waves can."
+                    },
+                    {
+                        "text": "Ultraviolet waves",
+                        "isCorrect": 0,
+                        "explanation": "Ultraviolet waves have shorter wavelengths than visible light and can cause materials to glow, but they are not used in thermal imaging cameras to detect heat."
+                    }
+                ],
+                "funFact": "Thermal imaging was originally developed for military use during the Korean War, but today it has many applications including building inspection, firefighting, autonomous vehicle sensors, and even monitoring volcanic activity from space!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify which type of electromagnetic wave is used in thermal imaging cameras"
+        },
+        {
+            "question": {
+                "text": "Why are X-rays useful for creating images of bones within the human body?",
+                "options": [
+                    {
+                        "text": "X-rays are absorbed by bones but pass through soft tissues.",
+                        "isCorrect": 1,
+                        "explanation": "X-rays have high energy and short wavelengths that can pass through soft tissues but are absorbed by the denser calcium in bones, creating a contrast that allows us to see bone structures clearly on an image."
+                    },
+                    {
+                        "text": "X-rays are completely reflected by bones.",
+                        "isCorrect": 0,
+                        "explanation": "X-rays are not reflected by bones; they are absorbed. If they were reflected, the image would show bones as bright areas rather than as shadows."
+                    },
+                    {
+                        "text": "X-rays have such long wavelengths that they can wrap around bones.",
+                        "isCorrect": 0,
+                        "explanation": "X-rays actually have very short wavelengths, not long ones. They don't wrap around bones; their interaction with different tissues creates the contrast in medical images."
+                    },
+                    {
+                        "text": "X-rays change color when they encounter bones.",
+                        "isCorrect": 0,
+                        "explanation": "X-rays don't change color (frequency) when they interact with matter. The contrast in X-ray images comes from different levels of absorption, not color changes."
+                    },
+                    {
+                        "text": "X-rays cause bones to emit visible light that can be photographed.",
+                        "isCorrect": 0,
+                        "explanation": "Bones don't emit visible light when exposed to X-rays. The X-ray image is created because some X-rays are absorbed by bones while others pass through soft tissue to create a shadow image on a detector."
+                    }
+                ],
+                "funFact": "Medical X-rays were discovered accidentally in 1895 by Wilhelm R\u00f6ntgen. While experimenting with cathode rays, he noticed a fluorescent screen across the room was glowing. When he placed his hand between the tube and screen, he saw the shadowy outline of his bones - the first X-ray image of a human body part!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify what property allows X-rays to create images of bones"
+        },
+        {
+            "question": {
+                "text": "Which type of wave requires a medium to travel through?",
+                "options": [
+                    {
+                        "text": "Radio waves",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves are a type of electromagnetic wave that can travel through empty space (vacuum) without requiring a medium."
+                    },
+                    {
+                        "text": "Sound waves",
+                        "isCorrect": 1,
+                        "explanation": "Sound waves are mechanical waves that require a medium (like air, water, or solids) to travel through. They cannot propagate through a vacuum."
+                    },
+                    {
+                        "text": "X-rays",
+                        "isCorrect": 0,
+                        "explanation": "X-rays are a type of electromagnetic wave that can travel through empty space (vacuum) without requiring a medium."
+                    },
+                    {
+                        "text": "Ultraviolet light",
+                        "isCorrect": 0,
+                        "explanation": "Ultraviolet light is a type of electromagnetic wave that can travel through empty space (vacuum) without requiring a medium."
+                    },
+                    {
+                        "text": "Gamma rays",
+                        "isCorrect": 0,
+                        "explanation": "Gamma rays are a type of electromagnetic wave that can travel through empty space (vacuum) without requiring a medium."
+                    }
+                ],
+                "funFact": "In the vacuum of space, astronauts cannot hear each other even if they're floating right next to one another outside their spacecraft. Since sound needs a medium to travel through, they must use radio communications in their spacesuits to talk to each other!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify which type of wave requires a medium to travel through"
+        },
+        {
+            "question": {
+                "text": "Which type of electromagnetic wave has the longest wavelength?",
+                "options": [
+                    {
+                        "text": "Radio waves",
+                        "isCorrect": 1,
+                        "explanation": "Radio waves have the longest wavelength in the electromagnetic spectrum, ranging from about a few millimeters to several kilometers long. They are used for broadcasting radio signals, WiFi, and cell phone communications."
+                    },
+                    {
+                        "text": "Microwaves",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves have the second longest wavelength in the electromagnetic spectrum, ranging from about 1 millimeter to 1 meter. They have shorter wavelengths than radio waves but longer wavelengths than infrared waves."
+                    },
+                    {
+                        "text": "Infrared waves",
+                        "isCorrect": 0,
+                        "explanation": "Infrared waves have shorter wavelengths than both radio waves and microwaves. Their wavelengths are approximately 1,000 times smaller than a millimeter, making them too small to be the answer to this question."
+                    },
+                    {
+                        "text": "Visible light",
+                        "isCorrect": 0,
+                        "explanation": "Visible light has wavelengths between about 400-700 nanometers, which is much shorter than radio waves, microwaves, and infrared waves."
+                    },
+                    {
+                        "text": "Gamma rays",
+                        "isCorrect": 0,
+                        "explanation": "Gamma rays have the shortest wavelengths in the electromagnetic spectrum, making them the opposite of what the question is asking for. They have very high energy and frequency but extremely short wavelengths."
+                    }
+                ],
+                "funFact": "The longest radio waves can be several kilometers in length! These extremely low frequency radio waves can penetrate seawater and are used by military forces to communicate with submarines deep beneath the ocean's surface."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify which electromagnetic wave has the longest wavelength"
+        },
+        {
+            "question": {
+                "text": "What happens when white light passes through a prism?",
+                "options": [
+                    {
+                        "text": "White light is separated into different colors because different colors of light have different wavelengths and are bent at different angles when passing from air to glass.",
+                        "isCorrect": 1,
+                        "explanation": "White light is made up of all the colors of the visible spectrum. When it passes through a prism, each color bends (refracts) at a slightly different angle because of their different wavelengths, causing the colors to separate."
+                    },
+                    {
+                        "text": "White light is separated because the prism absorbs all colors except for the rainbow colors.",
+                        "isCorrect": 0,
+                        "explanation": "Prisms don't work by absorbing colors. Instead, they bend (refract) different wavelengths of light by different amounts, which causes the separation of colors."
+                    },
+                    {
+                        "text": "The prism adds colors to the white light as it passes through.",
+                        "isCorrect": 0,
+                        "explanation": "Prisms don't add colors to white light. The colors are already present in white light, and the prism simply separates them based on their different wavelengths."
+                    },
+                    {
+                        "text": "White light bounces off the prism and separates into different colors.",
+                        "isCorrect": 0,
+                        "explanation": "This describes reflection, not what happens in a prism. While some light may reflect off a prism's surface, the color separation happens as light passes through (transmits through) the prism."
+                    },
+                    {
+                        "text": "The prism changes white light's frequency to create different colors.",
+                        "isCorrect": 0,
+                        "explanation": "Prisms don't change the frequency of light. They separate the already-present frequencies (colors) in white light by bending each wavelength at a slightly different angle."
+                    }
+                ],
+                "funFact": "The phenomenon of white light separating into colors through a prism is called dispersion. This same effect causes rainbows to form in the sky when sunlight passes through water droplets - each droplet acts like a tiny prism!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify what happens when white light passes through a prism"
+        },
+        {
+            "question": {
+                "text": "Which type of electromagnetic wave would require the thickest shielding to block it completely?",
+                "options": [
+                    {
+                        "text": "Radio waves",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves have the longest wavelength and lowest energy of all electromagnetic waves, making them relatively easy to block with thin conductive materials like metal screens or foil."
+                    },
+                    {
+                        "text": "Microwaves",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves have more energy than radio waves but less than infrared waves. They can be blocked by metal mesh (like in microwave oven doors) or thin metal sheets."
+                    },
+                    {
+                        "text": "Infrared waves",
+                        "isCorrect": 0,
+                        "explanation": "Infrared waves have more energy than microwaves but less than visible light. They can be blocked by opaque materials and specialized films."
+                    },
+                    {
+                        "text": "X-rays",
+                        "isCorrect": 0,
+                        "explanation": "X-rays have high energy and can penetrate many materials, requiring specialized shielding like lead, but gamma rays have even higher energy."
+                    },
+                    {
+                        "text": "Gamma rays",
+                        "isCorrect": 1,
+                        "explanation": "Gamma rays have the shortest wavelength and highest energy of all electromagnetic waves. They can penetrate most materials, requiring very thick shielding made of dense materials like lead to be completely blocked."
+                    }
+                ],
+                "funFact": "To protect astronauts from harmful cosmic radiation that includes gamma rays, NASA is researching shields made of materials containing hydrogen atoms, like polyethylene plastic, which can be more effective than lead while being much lighter - an important consideration for spacecraft!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify which type of electromagnetic wave requires the thickest shielding to block"
+        },
+        {
+            "question": {
+                "text": "Why are microwaves particularly effective at heating food?",
+                "options": [
+                    {
+                        "text": "They have the highest energy of all electromagnetic waves",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves do not have the highest energy in the electromagnetic spectrum. Gamma rays have the highest energy, followed by X-rays, ultraviolet light, then visible light. Microwaves have less energy than all of these."
+                    },
+                    {
+                        "text": "They cause water molecules in food to vibrate faster",
+                        "isCorrect": 1,
+                        "explanation": "Microwaves at a specific frequency cause water molecules in food to vibrate faster, which generates heat. This is why foods with high water content heat up quickly in a microwave oven."
+                    },
+                    {
+                        "text": "They have the longest wavelength of all electromagnetic waves",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves have longer wavelengths than microwaves. The electromagnetic spectrum ranges from radio waves (longest wavelength) to gamma rays (shortest wavelength), with microwaves being the second type after radio waves."
+                    },
+                    {
+                        "text": "They can pass through all materials equally well",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves do not pass through all materials equally well. They pass through some materials like plastic and glass, but are blocked or absorbed by others like metals and water-containing substances."
+                    },
+                    {
+                        "text": "They transfer more energy than other electromagnetic waves",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves do not transfer more energy than all other electromagnetic waves. Higher frequency waves like ultraviolet light, X-rays, and gamma rays transfer more energy than microwaves."
+                    }
+                ],
+                "funFact": "Microwave ovens were invented by accident in 1945 when engineer Percy Spencer noticed that a chocolate bar in his pocket melted while he was working with a magnetron, which produces microwaves. This discovery led to the development of the first microwave oven, which was about 6 feet tall and weighed around 750 pounds!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify what property of microwaves makes them effective for heating food"
+        },
+        {
+            "question": {
+                "text": "Which statement best explains how radio waves interact with walls in a building?",
+                "options": [
+                    {
+                        "text": "Radio waves are completely blocked by walls because they cannot pass through solid materials.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Radio waves can actually pass through many solid materials, including walls. This is why you can receive radio signals and use your cell phone inside buildings."
+                    },
+                    {
+                        "text": "Radio waves can pass through walls but lose some energy in the process.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Radio waves can penetrate many building materials such as wood, drywall, and glass, though they lose some energy (are partially absorbed) as they pass through. This property allows wireless communications to work inside buildings."
+                    },
+                    {
+                        "text": "Radio waves bounce completely off walls and cannot enter buildings at all.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While some reflection does occur at wall surfaces, radio waves do not completely bounce off walls. If they did, wireless communications would not work inside buildings."
+                    },
+                    {
+                        "text": "Radio waves pass through walls with no loss of energy because of their long wavelength.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While radio waves' long wavelength does help them pass through walls, they still lose some energy in the process. No wave passes through a material without some interaction or energy loss."
+                    },
+                    {
+                        "text": "Radio waves transform into heat energy when they encounter walls.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While some radio wave energy can be absorbed by walls and converted to a tiny amount of heat, they don't completely transform into heat. Most of the wave energy is either transmitted through the wall or reflected."
+                    }
+                ],
+                "funFact": "Faraday cages, named after scientist Michael Faraday, are special metal enclosures that can completely block radio waves. Some secure facilities use this technology to prevent wireless communications, and you might notice your cell phone losing signal in elevators with metal walls or in certain parts of large buildings with metal structural elements."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify how radio waves interact with materials like walls"
+        },
+        {
+            "question": {
+                "text": "What happens to electromagnetic waves as their wavelength decreases across the spectrum?",
+                "options": [
+                    {
+                        "text": "They transfer less energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. As wavelength decreases, the frequency and energy of electromagnetic waves actually increase, not decrease."
+                    },
+                    {
+                        "text": "They transfer more energy",
+                        "isCorrect": 1,
+                        "explanation": "Correct! As wavelength decreases from radio waves to gamma rays, the frequency increases and the waves transfer more energy. This is why gamma rays (shortest wavelength) are more dangerous than radio waves (longest wavelength)."
+                    },
+                    {
+                        "text": "Their speed increases",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All electromagnetic waves travel at the same speed (the speed of light) in a vacuum, regardless of their wavelength or frequency."
+                    },
+                    {
+                        "text": "They require a medium to travel through",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All electromagnetic waves can travel through a vacuum and do not require a medium. This is different from mechanical waves like sound, which do require a medium."
+                    },
+                    {
+                        "text": "They become less able to penetrate materials",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The ability to penetrate materials varies across the spectrum, but doesn't simply decrease with wavelength. For example, X-rays and gamma rays (short wavelengths) can penetrate many materials that block visible light."
+                    }
+                ],
+                "funFact": "The relationship between a wave's wavelength, frequency, and energy is known as Planck's equation (E=hf, where E is energy, h is Planck's constant, and f is frequency). This equation explains why gamma rays, with the shortest wavelengths in the electromagnetic spectrum, carry enough energy to damage living cells and DNA, which is why we need protection from them."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify what happens to electromagnetic waves as wavelength decreases across the spectrum"
+        },
+        {
+            "question": {
+                "text": "Why is applying sunscreen important for skin protection?",
+                "options": [
+                    {
+                        "text": "It protects skin from potentially harmful ultraviolet radiation",
+                        "isCorrect": 1,
+                        "explanation": "Sunscreen contains compounds that absorb UV radiation before it can damage DNA in skin cells, preventing potential harm from this high-energy form of electromagnetic radiation."
+                    },
+                    {
+                        "text": "It blocks visible light which can burn the skin",
+                        "isCorrect": 0,
+                        "explanation": "Visible light doesn't cause sunburn or DNA damage. Sunburns are caused by ultraviolet radiation, which has shorter wavelengths and higher energy than visible light."
+                    },
+                    {
+                        "text": "It shields against infrared waves that heat up the skin",
+                        "isCorrect": 0,
+                        "explanation": "While infrared radiation does transfer heat to the skin, it doesn't cause DNA damage like UV radiation does. Sunscreen primarily protects against UV radiation, not infrared."
+                    },
+                    {
+                        "text": "It prevents radio waves from cellular devices from affecting skin cells",
+                        "isCorrect": 0,
+                        "explanation": "Radio waves have very long wavelengths and low energy compared to other forms of electromagnetic radiation. They don't damage skin cells or DNA, and sunscreen doesn't protect against them."
+                    },
+                    {
+                        "text": "It stops X-rays from penetrating the skin surface",
+                        "isCorrect": 0,
+                        "explanation": "X-rays have much shorter wavelengths and higher energy than UV radiation. Sunscreen isn't designed to block X-rays, which would require much denser materials like lead for protection."
+                    }
+                ],
+                "funFact": "The ultraviolet spectrum is further divided into UVA, UVB, and UVC rays. UVB rays cause sunburn, while UVA rays penetrate deeper into the skin causing premature aging. Most sunscreens protect against UVA and UVB, while UVC is mostly blocked by the Earth's atmosphere."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify why sunscreen is important for protection against certain electromagnetic waves"
+        },
+        {
+            "question": {
+                "text": "Which device is most effective for detecting and measuring gamma rays, the highest energy waves in the electromagnetic spectrum?",
+                "options": [
+                    {
+                        "text": "Prism",
+                        "isCorrect": 0,
+                        "explanation": "A prism is used to separate white light into its component colors (the visible spectrum). It cannot detect gamma rays."
+                    },
+                    {
+                        "text": "Thermal imaging camera",
+                        "isCorrect": 0,
+                        "explanation": "Thermal imaging cameras detect infrared waves, not gamma rays. They show heat signatures by converting infrared radiation into visible images."
+                    },
+                    {
+                        "text": "Geiger counter",
+                        "isCorrect": 0,
+                        "explanation": "A Geiger counter can detect gamma rays along with other forms of ionizing radiation, though it's more efficient at detecting alpha and beta particles. For precise gamma ray detection, other instruments are preferred."
+                    },
+                    {
+                        "text": "Scintillation detector",
+                        "isCorrect": 1,
+                        "explanation": "Scintillation detectors are specifically designed for detecting and measuring gamma rays. They contain materials that produce flashes of light when struck by gamma radiation, which are then converted into electrical signals for measurement."
+                    },
+                    {
+                        "text": "Microwave oven",
+                        "isCorrect": 0,
+                        "explanation": "Microwave ovens generate and use microwaves to heat food, not to detect gamma rays."
+                    }
+                ],
+                "funFact": "Gamma rays are so penetrating that they can pass through several inches of lead. Astronauts in space use special instruments to study gamma ray bursts from distant galaxies, which are among the most energetic explosions in the universe since the Big Bang!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify what device is used to detect gamma rays"
+        },
+        {
+            "question": {
+                "text": "What does the amplitude of a wave measure?",
+                "options": [
+                    {
+                        "text": "The height of the wave from its resting point",
+                        "isCorrect": 1,
+                        "explanation": "Amplitude is defined as the height of a wave from its resting point, representing the maximum displacement of the wave."
+                    },
+                    {
+                        "text": "The distance between one wave peak and the next",
+                        "isCorrect": 0,
+                        "explanation": "This describes wavelength, not amplitude. Wavelength is the distance from one peak of a wave to the next peak."
+                    },
+                    {
+                        "text": "The number of waves that pass a point in one second",
+                        "isCorrect": 0,
+                        "explanation": "This describes frequency, not amplitude. Frequency measures how many complete waves pass a given point in one second."
+                    },
+                    {
+                        "text": "The amount of energy carried by the wave",
+                        "isCorrect": 0,
+                        "explanation": "While amplitude is related to energy (waves with larger amplitude transfer more energy), the energy itself is not what determines amplitude. Rather, amplitude affects energy."
+                    }
+                ],
+                "funFact": "Waves with larger amplitude not only transfer more energy but also appear more intense to our senses. For example, a high-amplitude sound wave sounds louder to our ears, and a high-amplitude light wave appears brighter to our eyes!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question asking students to identify what characteristic of a wave determines its amplitude"
+        },
+        {
+            "question": {
+                "text": "In a disaster scenario, emergency responders need to locate survivors in a building filled with thick smoke. Which type of electromagnetic wave would be most effective for seeing through the smoke to find people?",
+                "options": [
+                    {
+                        "text": "Radio waves",
+                        "isCorrect": 0,
+                        "explanation": "While radio waves can penetrate smoke, they don't provide the detailed imaging needed to locate people effectively in this scenario."
+                    },
+                    {
+                        "text": "Infrared waves",
+                        "isCorrect": 1,
+                        "explanation": "Infrared waves can detect heat signatures from human bodies and can penetrate smoke, making them ideal for thermal imaging cameras used by firefighters to locate people in smoke-filled environments."
+                    },
+                    {
+                        "text": "Visible light",
+                        "isCorrect": 0,
+                        "explanation": "Visible light is easily scattered and absorbed by smoke particles, making it difficult to see through thick smoke."
+                    },
+                    {
+                        "text": "Ultraviolet waves",
+                        "isCorrect": 0,
+                        "explanation": "Ultraviolet waves are easily scattered by smoke particles and don't penetrate smoke effectively for locating people."
+                    }
+                ],
+                "funFact": "Thermal imaging cameras that detect infrared radiation can work in complete darkness and through smoke because they don't rely on visible light but instead detect the heat that all objects above absolute zero temperature emit. This technology was originally developed for military use but has become essential equipment for firefighters worldwide."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question asking students to identify which type of electromagnetic wave would best penetrate a smoke-filled room, with options including radio waves, infrared waves, visible light, and X-rays."
+        },
+        {
+            "question": {
+                "text": "A scientist shines white light through a prism and observes the colors of the visible light spectrum being separated. Which statement correctly describes the relationship between wavelength, frequency, and energy of the colors in the visible spectrum?",
+                "options": [
+                    {
+                        "text": "Red light has the longest wavelength, lowest frequency, and lowest energy.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. In the visible spectrum, red light has the longest wavelength, which corresponds to the lowest frequency. Since energy is directly proportional to frequency, red light also has the lowest energy among visible light colors."
+                    },
+                    {
+                        "text": "Violet light has the longest wavelength, highest frequency, and highest energy.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Violet light has the shortest wavelength in the visible spectrum, not the longest. It does have the highest frequency and energy among visible light colors."
+                    },
+                    {
+                        "text": "Red light has the shortest wavelength, highest frequency, and highest energy.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Red light has the longest wavelength in the visible spectrum, not the shortest. It has the lowest frequency and energy among visible light colors."
+                    },
+                    {
+                        "text": "All colors of visible light have the same energy but different wavelengths.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The different colors of visible light have different energies. Energy is directly proportional to frequency, and since the colors have different frequencies, they must have different energies."
+                    },
+                    {
+                        "text": "Wavelength and frequency are directly proportional, so red light has both the longest wavelength and highest frequency.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength and frequency are inversely proportional, not directly proportional. As wavelength increases, frequency decreases. Red light has the longest wavelength but the lowest frequency in the visible spectrum."
+                    }
+                ],
+                "funFact": "Beyond the visible spectrum, infrared radiation (which means 'below red') has even longer wavelengths than red light, while ultraviolet radiation (which means 'beyond violet') has even shorter wavelengths than violet light. This naming convention helps scientists remember the order of wavelengths in the electromagnetic spectrum!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question presenting a scenario about a prism separating white light into colors, asking students to explain the relationship between wavelength, frequency, and energy across the visible spectrum."
+        },
+        {
+            "question": {
+                "text": "When X-rays are used in a medical setting, they interact differently with various body tissues and materials. Which of the following materials would be most effective at blocking X-rays, and why?",
+                "options": [
+                    {
+                        "text": "Air, because it has the lowest density",
+                        "isCorrect": 0,
+                        "explanation": "Air has very low density, which means X-rays pass through it with minimal interaction. This is why X-rays easily travel through air with almost no absorption or blocking."
+                    },
+                    {
+                        "text": "Soft tissue, because it contains water that absorbs X-rays",
+                        "isCorrect": 0,
+                        "explanation": "Soft tissue does absorb some X-rays, but not enough to effectively block them. This is why soft tissues appear as darker gray areas on X-ray images - they allow most X-rays to pass through."
+                    },
+                    {
+                        "text": "Bones, because they contain calcium that reflects X-rays",
+                        "isCorrect": 0,
+                        "explanation": "Bones don't primarily reflect X-rays - they absorb them due to their calcium content and density. While bones do block X-rays better than soft tissue, they don't reflect X-rays and aren't the most effective blocking material listed."
+                    },
+                    {
+                        "text": "Lead, because its high density and atomic number absorb and scatter X-rays",
+                        "isCorrect": 1,
+                        "explanation": "Lead is highly effective at blocking X-rays because of its high density and high atomic number. These properties cause lead to absorb and scatter X-ray photons, preventing them from passing through. This is why lead aprons and shields are used in medical and dental settings to protect patients and staff."
+                    },
+                    {
+                        "text": "Aluminum, because its metallic structure reflects X-rays",
+                        "isCorrect": 0,
+                        "explanation": "While aluminum is a metal, it's not particularly effective at blocking X-rays compared to denser metals like lead. Aluminum doesn't primarily reflect X-rays, and its lower density means X-rays can still penetrate it relatively easily."
+                    }
+                ],
+                "funFact": "The ability of different materials to block X-rays is measured by 'half-value layer' (HVL) - the thickness of material needed to reduce X-ray intensity by half. For lead, the HVL is only about 0.25mm for diagnostic X-rays, while for aluminum it's around 9mm, demonstrating lead's superior shielding properties."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question asking students to predict what would happen when X-rays encounter different materials (bone, muscle tissue, lead shield, and air) and which would be most effective at blocking them."
+        },
+        {
+            "question": {
+                "text": "Why can microwave ovens heat water-containing foods quickly but barely warm up ceramic or plastic dishes?",
+                "options": [
+                    {
+                        "text": "Microwaves are specifically designed to only affect food and not dishware",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Microwaves don't distinguish between food and dishware; they interact with materials based on their molecular properties."
+                    },
+                    {
+                        "text": "Microwaves cause water molecules to vibrate rapidly, generating heat, while ceramic and plastic have little water content",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Microwaves at a specific frequency cause water molecules to vibrate faster, generating heat through this absorption of energy. Ceramic and plastic dishes contain very little water, so they don't warm up significantly."
+                    },
+                    {
+                        "text": "Ceramic and plastic reflect microwaves completely, preventing them from being heated",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Ceramic and plastic neither completely reflect nor strongly absorb microwaves - they mostly transmit them. They don't heat up much because they don't contain water molecules that would absorb the microwave energy."
+                    },
+                    {
+                        "text": "All waves heat materials equally, but ceramic and plastic naturally cool down faster",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Different materials interact differently with various types of waves. The minimal heating of ceramic and plastic in microwaves is due to their low absorption of microwave energy, not because they cool down faster."
+                    }
+                ],
+                "funFact": "The specific frequency used in most microwave ovens (2.45 GHz) was chosen because it's highly absorbed by water but passes through many common materials, allowing the waves to penetrate food and heat it throughout rather than just on the surface like conventional cooking."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question about why microwave ovens efficiently heat water-containing foods but not ceramic or plastic dishes, focusing on absorption properties of different materials."
+        },
+        {
+            "question": {
+                "text": "Which of the following correctly compares radio waves and gamma rays?",
+                "options": [
+                    {
+                        "text": "Radio waves have longer wavelengths and lower energy than gamma rays.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. On the electromagnetic spectrum, radio waves have the longest wavelengths and lowest frequencies, giving them lower energy, while gamma rays have the shortest wavelengths and highest frequencies, giving them the highest energy."
+                    },
+                    {
+                        "text": "Radio waves have shorter wavelengths and higher energy than gamma rays.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The relationship is actually reversed: radio waves have longer wavelengths and lower energy than gamma rays."
+                    },
+                    {
+                        "text": "Radio waves and gamma rays have similar wavelengths but different energy levels.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Radio waves and gamma rays are at opposite ends of the electromagnetic spectrum with very different wavelengths and energy levels."
+                    },
+                    {
+                        "text": "Radio waves require a medium to travel through, while gamma rays can travel through space.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both radio waves and gamma rays are forms of electromagnetic radiation and can travel through empty space without requiring a medium."
+                    },
+                    {
+                        "text": "Radio waves can penetrate most materials more easily than gamma rays.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Gamma rays, with their higher energy, can penetrate many materials that would block radio waves. This is why lead shielding is needed to block gamma rays, while radio waves can be blocked by simpler materials."
+                    }
+                ],
+                "funFact": "Despite their differences in energy, both radio waves and gamma rays travel at the same speed\u2014the speed of light (approximately 300,000,000 meters per second). The energy difference comes from frequency, not speed!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question requiring students to compare radio waves and gamma rays in terms of wavelength, frequency, energy level, and ability to penetrate materials."
+        },
+        {
+            "question": {
+                "text": "Why are thermal imaging cameras effective for firefighters to see through smoke when regular cameras cannot?",
+                "options": [
+                    {
+                        "text": "Thermal imaging cameras detect radio waves that easily penetrate smoke.",
+                        "isCorrect": 0,
+                        "explanation": "Thermal imaging cameras detect infrared waves, not radio waves. While radio waves can penetrate smoke, they don't provide thermal information about objects."
+                    },
+                    {
+                        "text": "Thermal imaging cameras detect infrared radiation emitted by objects based on their temperature.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. All objects above absolute zero emit infrared radiation based on their temperature. Thermal imaging cameras detect these infrared waves, which can pass through smoke more easily than visible light."
+                    },
+                    {
+                        "text": "Thermal imaging cameras use X-rays to see through smoke like medical X-rays see through skin.",
+                        "isCorrect": 0,
+                        "explanation": "Thermal imaging cameras use infrared detection, not X-rays. X-rays would be dangerous to use in rescue situations and don't provide the temperature-based information needed."
+                    },
+                    {
+                        "text": "Thermal imaging cameras amplify the small amount of visible light that gets through smoke.",
+                        "isCorrect": 0,
+                        "explanation": "Thermal imaging cameras don't rely on visible light at all. They detect infrared radiation, which is outside the visible spectrum and can penetrate smoke when visible light cannot."
+                    },
+                    {
+                        "text": "Thermal imaging cameras use ultraviolet light to illuminate the smoke particles.",
+                        "isCorrect": 0,
+                        "explanation": "Thermal imaging cameras detect infrared radiation, not ultraviolet. Ultraviolet light would be scattered by smoke particles similar to visible light, making it ineffective for seeing through smoke."
+                    }
+                ],
+                "funFact": "Firefighters' thermal imaging cameras can detect temperature differences as small as 0.1\u00b0C! This sensitivity allows them to not only find people in smoke-filled rooms but also locate hotspots in walls where fire might be hidden, potentially preventing fires from reigniting after they appear to be extinguished."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question describing thermal imaging technology and asking students to explain how infrared waves allow firefighters to see through smoke when visible light cannot."
+        },
+        {
+            "question": {
+                "text": "How does light travel through fiber optic cables to transmit data over long distances?",
+                "options": [
+                    {
+                        "text": "Light travels through the core of the fiber by continuously reflecting off the outer cladding due to total internal reflection.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Fiber optic cables work on the principle of total internal reflection, where light bounces off the boundary between the core and cladding because the core has a higher refractive index than the cladding. This allows light to travel long distances with minimal loss of signal."
+                    },
+                    {
+                        "text": "Light travels in a straight line through the center of the fiber cable without any reflection or refraction.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light doesn't travel straight through fiber optic cables. If it did, the light would escape at any bend in the cable. Instead, light reflects off the boundary between the core and cladding."
+                    },
+                    {
+                        "text": "Light travels through the fiber by being absorbed and re-emitted by atoms in the glass material.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fiber optic transmission doesn't involve absorption and re-emission of light. If it did, significant energy would be lost during transmission, and the signal would degrade quickly over distance."
+                    },
+                    {
+                        "text": "Light travels through fiber optic cables by converting to a different form of electromagnetic wave that can bend around corners.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light doesn't change into a different type of electromagnetic wave when traveling through fiber optics. It remains as light but follows a path determined by reflection at the boundary between materials with different refractive indices."
+                    },
+                    {
+                        "text": "Light is transmitted through the cable as radio waves, which are converted back to light at the receiving end.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Fiber optic communication uses light throughout the transmission process, not radio waves. No conversion between different parts of the electromagnetic spectrum occurs during transmission."
+                    }
+                ],
+                "funFact": "Modern fiber optic cables are so efficient that light signals can travel more than 60 miles (100 kilometers) before needing amplification, and some undersea fiber optic cables stretch for thousands of miles across ocean floors, connecting continents and enabling global internet communication."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question about fiber optic technology that asks students to explain how light travels through the fiber using principles of reflection, refraction, and transmission."
+        },
+        {
+            "question": {
+                "text": "A Faraday cage is a structure made of conductive material that blocks electromagnetic waves of certain frequencies. Why can radio waves with long wavelengths be blocked by a Faraday cage, while gamma rays with very short wavelengths might pass through?",
+                "options": [
+                    {
+                        "text": "Wavelength determines how waves interact with materials - longer wavelength radio waves are reflected by the conductive mesh, while shorter wavelength gamma rays are small enough to pass through the spaces in the cage.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The wavelength of the electromagnetic wave determines how it interacts with materials. Radio waves have wavelengths ranging from centimeters to meters long, making them too large to pass through the conductive mesh of a Faraday cage. Gamma rays have extremely short wavelengths (smaller than an atom), allowing them to pass through the spaces in the mesh."
+                    },
+                    {
+                        "text": "Frequency determines wave interaction - lower frequency radio waves are naturally blocked by all metal objects, while higher frequency gamma rays can penetrate all materials.",
+                        "isCorrect": 0,
+                        "explanation": "While frequency is related to wavelength, this answer oversimplifies the interaction. Not all metal objects block radio waves, and gamma rays cannot penetrate all materials (lead shields are used to block gamma rays). The interaction depends on the specific properties of the material and the wave."
+                    },
+                    {
+                        "text": "Radio waves carry more energy than gamma rays, making them easier to block with conductive materials.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The relationship is actually reversed - gamma rays carry much more energy than radio waves. The electromagnetic spectrum shows that as wavelength decreases from radio waves to gamma rays, the energy increases."
+                    },
+                    {
+                        "text": "Faraday cages are specifically designed to block only radio frequencies and have no effect on any other electromagnetic waves.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Faraday cages block electromagnetic waves based on their physical properties in relation to the cage's structure, not because they're designed for specific frequencies. They can block many types of electromagnetic radiation depending on the cage design, including some infrared and visible light wavelengths."
+                    }
+                ],
+                "funFact": "Faraday cages are used in everyday life more than you might realize! Microwave ovens contain a Faraday cage that works in reverse - it keeps microwaves inside the oven rather than letting them escape. The metal mesh you can see through the microwave door has holes small enough to block microwaves (which have wavelengths of about 12 cm) while allowing visible light (with much smaller wavelengths) to pass through so you can see your food cooking."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question describing a Faraday cage blocking radio waves, asking students to identify which wave property allows certain electromagnetic waves to pass through while others are blocked."
+        },
+        {
+            "question": {
+                "text": "Why do astronomers use different parts of the electromagnetic spectrum such as radio waves, infrared waves, and X-rays to observe celestial objects?",
+                "options": [
+                    {
+                        "text": "Because each type of wave can be transmitted through different materials in space, allowing astronomers to observe objects that might be obscured when using only visible light",
+                        "isCorrect": 1,
+                        "explanation": "Different wavelengths interact differently with matter in space. For example, radio waves can pass through dust clouds that block visible light, allowing astronomers to see objects hidden behind them."
+                    },
+                    {
+                        "text": "Because different types of waves travel at different speeds, allowing astronomers to receive information from distant objects more quickly",
+                        "isCorrect": 0,
+                        "explanation": "All electromagnetic waves travel at the same speed (the speed of light) in a vacuum like space, regardless of their wavelength or frequency."
+                    },
+                    {
+                        "text": "Because telescopes that detect non-visible wavelengths are less expensive to build and maintain than visible light telescopes",
+                        "isCorrect": 0,
+                        "explanation": "Specialized telescopes for detecting non-visible wavelengths are often more expensive than optical telescopes. Astronomers use them because of the unique information they provide, not because of cost savings."
+                    },
+                    {
+                        "text": "Because the Sun only produces visible light, so other parts of the spectrum must be used to observe celestial objects at night",
+                        "isCorrect": 0,
+                        "explanation": "The Sun produces all types of electromagnetic radiation across the spectrum, not just visible light. The choice of wavelength for observation depends on what information astronomers want to gather, not the time of day."
+                    },
+                    {
+                        "text": "Because different wavelengths are used purely to create more colorful and visually appealing images of space for the public",
+                        "isCorrect": 0,
+                        "explanation": "While false-color images from different wavelengths can be visually striking, astronomers primarily use different parts of the spectrum to gather specific scientific data about temperature, composition, and structure of celestial objects."
+                    }
+                ],
+                "funFact": "The Hubble Space Telescope can observe in ultraviolet, visible, and near-infrared wavelengths, while the James Webb Space Telescope is specialized for infrared observations. This allows Webb to see through cosmic dust clouds and observe the earliest galaxies that formed after the Big Bang, which are invisible to Hubble because their light has been stretched into infrared wavelengths by the expansion of the universe."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question about why astronomers use different parts of the electromagnetic spectrum (radio, infrared, visible, etc.) to observe celestial objects, focusing on how different waves interact with space dust and gases."
+        },
+        {
+            "question": {
+                "text": "A white shirt appears red under white light. What is happening to the light waves that interact with the shirt?",
+                "options": [
+                    {
+                        "text": "The shirt is absorbing red wavelengths and reflecting all other colors.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. If the shirt absorbed red wavelengths, it would appear green-blue (the complementary color to red), not red."
+                    },
+                    {
+                        "text": "The shirt is reflecting red wavelengths and absorbing all other colors.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The shirt appears red because it reflects the red wavelengths of the white light while absorbing all other wavelengths of the visible spectrum."
+                    },
+                    {
+                        "text": "The shirt is transmitting red wavelengths and reflecting all other colors.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. If the shirt transmitted red wavelengths (allowing them to pass through) and reflected other colors, it would appear cyan, not red."
+                    },
+                    {
+                        "text": "The shirt is converting all wavelengths into red wavelengths.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Materials cannot convert light from one wavelength to another through simple reflection. They can only reflect, absorb, or transmit the wavelengths that are already present in the incident light."
+                    },
+                    {
+                        "text": "The shirt is equally reflecting all wavelengths, but our eyes are more sensitive to red.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. If the shirt reflected all wavelengths equally, it would appear white, not red. Our eyes do have different sensitivities to different colors, but this doesn't explain why an object appears red."
+                    }
+                ],
+                "funFact": "Many animals see colors differently than humans do. For example, bees can see ultraviolet light that's invisible to humans, allowing them to see patterns on flowers that guide them to nectar. These patterns are called 'nectar guides' and are invisible to the human eye!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question presenting a model showing an object appearing red under white light, asking students to explain which wavelengths are being absorbed versus reflected."
+        },
+        {
+            "question": {
+                "text": "How do sound waves and light waves differ in terms of how they travel through different environments?",
+                "options": [
+                    {
+                        "text": "Light waves can travel through a vacuum while sound waves cannot.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Light waves are electromagnetic waves that do not require a medium to propagate, allowing them to travel through space (vacuum). Sound waves are mechanical waves that require particles of a medium (solid, liquid, or gas) to vibrate and transfer energy."
+                    },
+                    {
+                        "text": "Sound waves travel faster than light waves in all materials.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light waves travel much faster than sound waves. In fact, light travels at approximately 300,000 kilometers per second in vacuum, while sound travels at only about 343 meters per second in air at room temperature."
+                    },
+                    {
+                        "text": "Both sound and light waves require a medium to travel through.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While sound waves do require a medium (like air, water, or solids) to propagate, light waves do not. Light can travel through empty space, which is why we can see stars that are light-years away."
+                    },
+                    {
+                        "text": "Sound waves have higher frequencies than light waves.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light waves typically have much higher frequencies than sound waves. The audible sound frequency range for humans is about 20 Hz to 20,000 Hz, while visible light frequencies are around 4 \u00d7 10^14 Hz to 8 \u00d7 10^14 Hz, which is much higher."
+                    }
+                ],
+                "funFact": "While both sound and light exhibit wave properties, they interact differently with materials. Materials that appear opaque to visible light might be transparent to other electromagnetic waves\u2014for example, radio waves can pass through walls that block visible light, which is why your cell phone can receive signals inside a building!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question comparing sound waves and light waves, asking students to identify key differences in how they propagate through various media, including vacuum."
+        },
+        {
+            "question": {
+                "text": "When you apply sunscreen to protect your skin from the Sun's harmful rays, how does it work to protect your skin cells?",
+                "options": [
+                    {
+                        "text": "Sunscreen either absorbs UV radiation or reflects/scatters it, preventing it from reaching and damaging DNA in skin cells.",
+                        "isCorrect": 1,
+                        "explanation": "Sunscreen works in two main ways: chemical sunscreens contain compounds that absorb ultraviolet radiation, while physical sunscreens (like zinc oxide) reflect and scatter UV rays. Both mechanisms prevent UV radiation from reaching and potentially damaging the DNA in your skin cells."
+                    },
+                    {
+                        "text": "Sunscreen converts UV radiation into visible light that we can see as a glow on our skin.",
+                        "isCorrect": 0,
+                        "explanation": "While some materials can convert UV to visible light (fluorescence), sunscreen primarily works by absorbing UV radiation, not by converting it to visible light. Sunscreen does not cause your skin to glow."
+                    },
+                    {
+                        "text": "Sunscreen creates a mechanical barrier that completely blocks all electromagnetic waves from reaching the skin.",
+                        "isCorrect": 0,
+                        "explanation": "Sunscreen doesn't block all electromagnetic waves - it specifically targets UV radiation. Other types of electromagnetic radiation, like visible light and infrared waves, still reach your skin even with sunscreen applied."
+                    },
+                    {
+                        "text": "Sunscreen lowers the frequency of UV radiation, turning it into safer radio waves.",
+                        "isCorrect": 0,
+                        "explanation": "Sunscreen doesn't change the frequency of UV radiation. It absorbs the UV energy rather than transforming UV waves into a different type of electromagnetic radiation."
+                    }
+                ],
+                "funFact": "Sunscreens can contain either chemical compounds that absorb UV radiation or physical blockers like zinc oxide that reflect and scatter UV rays away from the skin. Many modern sunscreens use a combination of both approaches for maximum protection!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question presenting a model of UV radiation interacting with skin and sunscreen, asking students to identify how sunscreen protects skin cells by absorbing or reflecting the radiation."
+        },
+        {
+            "question": {
+                "text": "Why can radio waves pass through walls but X-rays are blocked by bones?",
+                "options": [
+                    {
+                        "text": "Radio waves have longer wavelengths that can interact with and pass through the large spaces between atoms in walls, while X-rays have shorter wavelengths that are absorbed by the dense calcium in bones.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Radio waves have long wavelengths (meters to kilometers) that allow them to pass through many materials. X-rays have much shorter wavelengths and higher energy, which causes them to interact with dense materials like bone calcium, getting absorbed rather than passing through."
+                    },
+                    {
+                        "text": "Radio waves travel faster than X-rays, allowing them to move through walls before they can be absorbed.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All electromagnetic waves, including radio waves and X-rays, travel at the same speed (the speed of light) in a vacuum. The difference in their ability to pass through materials is related to their wavelength and energy, not their speed."
+                    },
+                    {
+                        "text": "Radio waves have more energy than X-rays, allowing them to penetrate solid materials more effectively.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. X-rays actually have much more energy than radio waves. Along the electromagnetic spectrum, energy increases as wavelength decreases, with radio waves having the longest wavelength and lowest energy, while X-rays have shorter wavelengths and higher energy."
+                    },
+                    {
+                        "text": "Walls are specifically designed to block X-rays while allowing radio waves to pass through for communication purposes.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Walls aren't specifically designed with electromagnetic wave transmission properties in mind. The difference in transmission is due to the inherent properties of the waves and the materials they interact with, not intentional design choices in construction."
+                    }
+                ],
+                "funFact": "The medical field makes use of the different transmission properties of electromagnetic waves. While X-rays are used to image bones because they're absorbed by dense tissue, MRI machines use radio waves because they can pass through the body and interact with hydrogen atoms under a magnetic field, allowing us to see soft tissues that X-rays would pass through!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question asking students to analyze why radio waves can pass through walls but X-rays cannot pass through bones, requiring understanding of how different electromagnetic waves interact with different materials."
+        },
+        {
+            "question": {
+                "text": "Which of the following correctly describes the relationship between wavelength, frequency, and energy across the electromagnetic spectrum?",
+                "options": [
+                    {
+                        "text": "As wavelength increases, frequency and energy increase.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. There's an inverse relationship between wavelength and frequency. As wavelength increases, frequency decreases, and so does energy."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency and energy decrease.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. There's an inverse relationship between wavelength and frequency. As wavelength decreases, frequency increases, and so does energy."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency and energy increase.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! As you move from radio waves to gamma rays on the electromagnetic spectrum, wavelength decreases while frequency and energy increase. This is why gamma rays, with their extremely short wavelengths, have much higher energy than radio waves with their long wavelengths."
+                    },
+                    {
+                        "text": "Wavelength, frequency, and energy all remain constant across the electromagnetic spectrum.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wavelength, frequency, and energy vary significantly across the electromagnetic spectrum. They are not constant."
+                    },
+                    {
+                        "text": "As wavelength decreases, frequency increases but energy decreases.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While it's true that wavelength and frequency have an inverse relationship, energy is directly proportional to frequency. So as frequency increases, energy also increases."
+                    }
+                ],
+                "funFact": "All electromagnetic waves, from radio waves to gamma rays, travel at the same speed in a vacuum - about 300,000 kilometers per second (the speed of light). What changes across the spectrum is how many wave crests pass a point each second (frequency) and the distance between those crests (wavelength)."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing the relationship between wavelength, frequency, and energy across the electromagnetic spectrum, with multiple options representing different relationships."
+        },
+        {
+            "question": {
+                "text": "When a light beam travels from air into water, what happens to its path?",
+                "options": [
+                    {
+                        "text": "The light beam continues in a straight line without changing direction.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When light passes from one medium to another with different densities (like air to water), its path bends at the interface due to the change in speed of light in different materials."
+                    },
+                    {
+                        "text": "The light beam bends toward the normal (perpendicular line to the surface).",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When light passes from a less dense medium (air) to a more dense medium (water), it slows down and bends toward the normal. This phenomenon is called refraction."
+                    },
+                    {
+                        "text": "The light beam bends away from the normal.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light bends away from the normal only when passing from a more dense to a less dense medium (like water to air), not from air to water."
+                    },
+                    {
+                        "text": "The light beam is completely reflected back into the air.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While some light may be reflected at the air-water interface, most light will pass through and be refracted, not completely reflected back."
+                    },
+                    {
+                        "text": "The light beam splits into all the colors of the rainbow.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While white light can separate into different colors through dispersion, a single light beam passing from air to water primarily experiences refraction, not immediate separation into a rainbow."
+                    }
+                ],
+                "funFact": "The bending of light as it passes from one medium to another is what makes objects appear displaced when partially submerged in water. This is why a straight stick appears bent when placed in water, and why fish in a pond are not actually where they appear to be!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question presenting a scenario where light passes from air into water, asking students to predict and explain how the path of light changes and why this occurs."
+        },
+        {
+            "question": {
+                "text": "Why are thermal imaging cameras able to show the heat pattern of objects in darkness?",
+                "options": [
+                    {
+                        "text": "They detect visible light that is naturally emitted by all objects",
+                        "isCorrect": 0,
+                        "explanation": "Objects do not naturally emit visible light unless they are extremely hot (like the Sun or a flame). Most everyday objects emit infrared radiation, not visible light."
+                    },
+                    {
+                        "text": "They detect infrared waves that are naturally emitted by objects above absolute zero",
+                        "isCorrect": 1,
+                        "explanation": "Any object with a temperature above absolute zero emits infrared radiation. Thermal imaging cameras detect these infrared waves and convert them into visible patterns that show temperature differences."
+                    },
+                    {
+                        "text": "They project radio waves that bounce off objects and return to the camera",
+                        "isCorrect": 0,
+                        "explanation": "This describes how radar works, not thermal imaging. Thermal cameras passively detect radiation emitted by objects rather than sending out and receiving bounced waves."
+                    },
+                    {
+                        "text": "They enhance the tiny amounts of visible light present in all environments",
+                        "isCorrect": 0,
+                        "explanation": "This describes night vision technology, which amplifies small amounts of available light. Thermal imaging works differently by detecting infrared radiation, which is why it can work in complete darkness."
+                    }
+                ],
+                "funFact": "Thermal imaging technology was first developed for military use in the 1950s, but now has many civilian applications including building inspection, search and rescue operations, and medical diagnostics. Some snakes, like pit vipers, have natural thermal imaging ability through specialized heat-sensing organs that allow them to detect prey in complete darkness!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question about thermal imaging cameras that detect infrared radiation, requiring analysis of how objects above absolute zero emit electromagnetic radiation and how this can be visualized."
+        },
+        {
+            "question": {
+                "text": "Why does a blue t-shirt appear blue when viewed under white light?",
+                "options": [
+                    {
+                        "text": "The blue t-shirt absorbs all colors of light and converts them to blue light.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Objects don't convert absorbed wavelengths into other colors - they either absorb, reflect, or transmit specific wavelengths."
+                    },
+                    {
+                        "text": "The blue t-shirt reflects blue wavelengths of light and absorbs most other wavelengths.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When white light (which contains all visible wavelengths) hits a blue object, the material reflects primarily blue wavelengths while absorbing other colors. The reflected blue light is what reaches our eyes, giving the t-shirt its blue appearance."
+                    },
+                    {
+                        "text": "The blue t-shirt transmits all colors except blue, which is reflected back to our eyes.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. If an object transmitted all colors except blue, it would appear as the complementary color to blue (yellowish). The blue t-shirt appears blue because it reflects blue wavelengths, not because it transmits other colors."
+                    },
+                    {
+                        "text": "The blue t-shirt generates blue light when illuminated with any light source.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The t-shirt doesn't generate or produce light - it can only reflect, absorb, or transmit existing light from the source. The blue appearance comes from selectively reflecting blue wavelengths from the white light."
+                    },
+                    {
+                        "text": "The blue t-shirt blocks all light except blue light, which passes through the shirt.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The blue color we see is reflected from the surface of the shirt, not transmitted through it. If light were passing through the shirt, we would be describing transparency, which is different from reflection."
+                    }
+                ],
+                "funFact": "The color we perceive an object to be is actually the color that object is NOT absorbing! A tomato appears red because it's absorbing all the other colors in white light and only reflecting the red wavelengths back to our eyes. Similarly, plants appear green because chlorophyll absorbs red and blue light for photosynthesis while reflecting green light."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing why certain materials appear colored under white light, requiring understanding of reflection, absorption, and transmission of different wavelengths of visible light."
+        },
+        {
+            "question": {
+                "text": "Why is sunscreen important for protecting our skin from UV radiation but not necessary for protection against visible light?",
+                "options": [
+                    {
+                        "text": "UV radiation has higher energy than visible light and can damage DNA in skin cells.",
+                        "isCorrect": 1,
+                        "explanation": "UV radiation has shorter wavelengths and higher frequencies than visible light, giving it more energy. This high-energy radiation can penetrate skin cells and damage DNA, potentially causing skin cancer."
+                    },
+                    {
+                        "text": "Visible light can pass through the skin without being absorbed.",
+                        "isCorrect": 0,
+                        "explanation": "While some visible light does pass through the skin (which is why if you shine a flashlight through your fingers you can see a red glow), much is also absorbed or reflected. The key difference is that visible light lacks the energy to damage DNA."
+                    },
+                    {
+                        "text": "Sunscreen blocks all electromagnetic radiation, but we only need protection from UV.",
+                        "isCorrect": 0,
+                        "explanation": "Sunscreen doesn't block all electromagnetic radiation. It's specifically designed to absorb or reflect UV radiation while allowing visible light to pass through, which is why most sunscreens appear transparent after application."
+                    },
+                    {
+                        "text": "UV radiation is hotter than visible light, causing sunburns.",
+                        "isCorrect": 0,
+                        "explanation": "UV radiation doesn't cause damage because it's 'hotter.' Temperature relates to the average kinetic energy of particles, not the energy of electromagnetic waves. UV causes damage because of its higher energy per photon, which can break chemical bonds in skin cells."
+                    },
+                    {
+                        "text": "The skin naturally has protection against visible light but not against UV radiation.",
+                        "isCorrect": 0,
+                        "explanation": "While the skin does have some natural protection against both types of radiation (melanin provides some defense), this protection is limited for UV. The key distinction is that visible light lacks the energy to cause significant cellular damage, not that we have special protection against it."
+                    }
+                ],
+                "funFact": "Some animals, like reindeer, can see ultraviolet light! This ability helps them spot predators, food, and urine trails in the snow, which appear dark against UV-reflective snow. Humans can't see UV light because our eye lenses block it - which actually protects our retinas from the same damage UV can cause to our skin."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question about why sunscreen is important for protection against UV radiation but not against visible light, focusing on the different energy levels and their effects on biological tissues."
+        },
+        {
+            "question": {
+                "text": "When white light passes through a prism, it separates into different colors of the visible spectrum. Why does this separation occur?",
+                "options": [
+                    {
+                        "text": "The prism absorbs some colors of light while reflecting others.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. A prism doesn't selectively absorb or reflect different colors - it transmits all colors but bends them by different amounts."
+                    },
+                    {
+                        "text": "Different wavelengths of light bend by different amounts when passing through the prism.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When light enters a prism, each wavelength (color) bends at a slightly different angle because the refractive index of the material is different for each wavelength. This is called dispersion. Red light (longer wavelength) bends less than violet light (shorter wavelength)."
+                    },
+                    {
+                        "text": "The prism creates new colors by combining the wavelengths of white light.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The prism doesn't create new colors - it separates the colors that are already present in white light."
+                    },
+                    {
+                        "text": "The colors in white light travel at different speeds, causing them to exit the prism at different times.",
+                        "isCorrect": 0,
+                        "explanation": "While light does travel at different speeds through materials based on wavelength, the separation of colors is due to different angles of refraction, not different exit times."
+                    },
+                    {
+                        "text": "The heat from light energy causes the prism to emit different colors.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The separation of light in a prism is a physical phenomenon based on refraction, not a result of the prism emitting new light due to heat energy."
+                    }
+                ],
+                "funFact": "The same principle that makes prisms separate light into a rainbow also explains why rainbows appear in the sky! Water droplets in the atmosphere act like tiny prisms, refracting and reflecting sunlight to create the colorful arc we see. Isaac Newton was the first to demonstrate in 1672 that white light contains all the colors of the visible spectrum by using a prism in his famous experiments."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze why a prism separates white light into different colors, focusing on how different wavelengths of light bend differently when passing through materials."
+        },
+        {
+            "question": {
+                "text": "Why do medical professionals use lead shields when taking X-rays of patients?",
+                "options": [
+                    {
+                        "text": "Because lead absorbs X-rays effectively, preventing them from passing through to the patient's vital organs",
+                        "isCorrect": 1,
+                        "explanation": "Lead is an excellent absorber of X-rays due to its high density and atomic number. This property makes it ideal for shielding areas of the body not being examined from unnecessary radiation exposure."
+                    },
+                    {
+                        "text": "Because lead reflects X-rays back toward the source, protecting the patient",
+                        "isCorrect": 0,
+                        "explanation": "Lead primarily absorbs X-rays rather than reflecting them. Reflection would actually increase radiation exposure by redirecting the X-rays rather than blocking them."
+                    },
+                    {
+                        "text": "Because lead converts X-rays into visible light, making the images clearer",
+                        "isCorrect": 0,
+                        "explanation": "Lead doesn't convert X-rays into visible light. X-ray images are created when X-rays pass through the body and strike a detector, with dense structures like bones absorbing more radiation than soft tissues."
+                    },
+                    {
+                        "text": "Because lead changes the wavelength of X-rays to make them less harmful",
+                        "isCorrect": 0,
+                        "explanation": "Lead doesn't change the wavelength of X-rays. It absorbs them, preventing them from passing through to tissues that don't need to be imaged."
+                    },
+                    {
+                        "text": "Because lead shields are lightweight and comfortable for patients to wear during long procedures",
+                        "isCorrect": 0,
+                        "explanation": "Lead shields are actually quite heavy due to lead's high density. They're used despite their weight because of lead's excellent radiation-absorbing properties, not for comfort."
+                    }
+                ],
+                "funFact": "The ability of materials to block different types of electromagnetic radiation varies tremendously. For example, while a thin sheet of aluminum can block most infrared radiation, it would take about 1.5 inches of lead to reduce X-ray intensity by half, and several feet of concrete to significantly shield against gamma rays!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question about why doctors use lead shields when taking X-rays, requiring analysis of different materials' abilities to block various types of electromagnetic radiation."
+        },
+        {
+            "question": {
+                "text": "Why are radio telescopes typically much larger than optical telescopes?",
+                "options": [
+                    {
+                        "text": "Radio waves have shorter wavelengths than visible light and therefore require smaller equipment.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Radio waves actually have much longer wavelengths than visible light, not shorter. Longer wavelengths require larger equipment to detect effectively."
+                    },
+                    {
+                        "text": "Radio waves have longer wavelengths than visible light and therefore require larger equipment to detect effectively.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Radio waves have wavelengths that can be meters or even kilometers long, while visible light wavelengths are only hundreds of nanometers. To effectively capture and focus these long radio wavelengths, the collecting dish must be very large."
+                    },
+                    {
+                        "text": "Radio waves are less energetic than visible light, so larger equipment is needed to amplify the signal.",
+                        "isCorrect": 0,
+                        "explanation": "While radio waves are indeed less energetic than visible light, this is not the primary reason for the size difference. The size difference is primarily due to the wavelength, not the energy level."
+                    },
+                    {
+                        "text": "Radio telescopes are large because they need to physically capture radio waves, while optical telescopes only need to detect photons.",
+                        "isCorrect": 0,
+                        "explanation": "This explanation is incorrect. Both radio telescopes and optical telescopes detect waves/photons\u2014they just operate on different parts of the electromagnetic spectrum. The size difference relates to the wavelength being detected, not a fundamental difference in how they capture radiation."
+                    }
+                ],
+                "funFact": "The largest single-dish radio telescope in the world was the Arecibo Observatory in Puerto Rico, with a diameter of 305 meters (1,000 feet)\u2014about the size of 18 football fields! Sadly, it collapsed in 2020, but astronomers continue to use arrays of smaller radio telescopes working together to achieve even greater resolution."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing why radio telescopes are enormous while optical telescopes can be relatively smaller, focusing on the relationship between wavelength and the equipment needed to detect different electromagnetic waves."
+        },
+        {
+            "question": {
+                "text": "Why are gamma rays considered more dangerous to living tissue than radio waves?",
+                "options": [
+                    {
+                        "text": "Gamma rays have shorter wavelengths and higher frequencies, carrying more energy that can damage cell DNA",
+                        "isCorrect": 1,
+                        "explanation": "Gamma rays have the shortest wavelengths and highest frequencies on the electromagnetic spectrum, giving them more energy to penetrate tissues and damage DNA in cells."
+                    },
+                    {
+                        "text": "Gamma rays are blocked by the atmosphere while radio waves can reach the Earth's surface",
+                        "isCorrect": 0,
+                        "explanation": "While the atmosphere does block some radiation, this isn't the reason for the danger difference. Some gamma rays do reach Earth's surface, and their danger comes from their high energy, not their availability."
+                    },
+                    {
+                        "text": "Gamma rays travel faster than radio waves, allowing them to cause more damage",
+                        "isCorrect": 0,
+                        "explanation": "All electromagnetic waves, including both gamma rays and radio waves, travel at the same speed in a vacuum (the speed of light). The danger comes from energy differences, not speed differences."
+                    },
+                    {
+                        "text": "Gamma rays have longer wavelengths, allowing them to penetrate deeper into tissue",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - gamma rays actually have the shortest wavelengths on the electromagnetic spectrum. Their danger comes from their high energy due to high frequency, not from having longer wavelengths."
+                    },
+                    {
+                        "text": "Radio waves have higher amplitude than gamma rays, making them less dangerous",
+                        "isCorrect": 0,
+                        "explanation": "The danger of electromagnetic waves is primarily related to their frequency and energy, not their amplitude. Gamma rays are more dangerous because of their high frequency and energy, regardless of amplitude."
+                    }
+                ],
+                "funFact": "A thick sheet of lead is needed to block gamma rays, while radio waves can be blocked by a simple metal cage called a Faraday cage. Astronauts in space receive special shielding against cosmic gamma radiation, which is one of the major health hazards of space travel."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring students to analyze why gamma rays are more dangerous to living tissue than radio waves, focusing on the relationship between energy and wavelength/frequency."
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes the key difference between sound waves and light waves when they travel through different materials?",
+                "options": [
+                    {
+                        "text": "Sound waves can travel through a vacuum, but light waves cannot.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light waves can travel through a vacuum (like space), but sound waves cannot because they are mechanical waves that require a medium to propagate."
+                    },
+                    {
+                        "text": "Light waves can travel through a vacuum, but sound waves cannot.",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Light waves are electromagnetic waves that do not require a medium to propagate, so they can travel through a vacuum. Sound waves are mechanical waves that require particles of a medium (solid, liquid, or gas) to transfer energy, so they cannot travel through a vacuum."
+                    },
+                    {
+                        "text": "Both sound waves and light waves require a medium to travel.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While sound waves do require a medium to travel (as they are mechanical waves), light waves are electromagnetic waves that can travel through a vacuum without a medium."
+                    },
+                    {
+                        "text": "Neither sound waves nor light waves can travel through a vacuum.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light waves can travel through a vacuum, which is why sunlight can reach Earth through the vacuum of space. Sound waves, however, cannot travel through a vacuum."
+                    },
+                    {
+                        "text": "Sound waves travel faster than light waves in all materials.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Light waves travel much faster than sound waves in all materials. The speed of light in a vacuum is approximately 300,000,000 meters per second, while the speed of sound in air is only about 343 meters per second."
+                    }
+                ],
+                "funFact": "The fact that light can travel through a vacuum but sound cannot explains why we see lightning before we hear thunder during a storm. The light from the lightning reaches our eyes almost instantaneously (traveling at approximately 186,000 miles per second), while the sound waves (thunder) take longer to reach our ears, traveling at approximately 1 mile every 5 seconds."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question comparing the transmission of sound waves through various media (solid, liquid, gas, vacuum) versus the transmission of light waves through the same media, focusing on the difference between mechanical and electromagnetic waves."
+        },
+        {
+            "question": {
+                "text": "Why do microwaves heat water-containing foods effectively while plastic containers remain relatively cool?",
+                "options": [
+                    {
+                        "text": "Microwaves have a specific wavelength that interacts with water molecules but not with plastic molecules.",
+                        "isCorrect": 1,
+                        "explanation": "Microwaves at a specific frequency cause water molecules to rotate rapidly due to their polar nature, generating heat through molecular friction. Most plastics consist of non-polar molecules that don't respond to the microwave field in the same way, so they absorb very little of the energy."
+                    },
+                    {
+                        "text": "Plastic reflects all electromagnetic waves while water absorbs them.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Plastics don't reflect all electromagnetic waves - they're actually transparent to microwaves while selectively absorbing or transmitting other wavelengths."
+                    },
+                    {
+                        "text": "Microwaves have such high energy that they break down water molecules but not plastic.",
+                        "isCorrect": 0,
+                        "explanation": "Microwaves don't have enough energy to break molecular bonds. They merely cause water molecules to rotate rapidly, creating friction and heat."
+                    },
+                    {
+                        "text": "Plastic has a higher heat capacity than water, so it appears to stay cooler.",
+                        "isCorrect": 0,
+                        "explanation": "This explanation focuses on heat capacity (how much energy is needed to raise temperature) rather than the actual mechanism of microwave absorption. Most plastics actually have lower heat capacity than water."
+                    },
+                    {
+                        "text": "All waves heat materials equally, but plastic naturally cools itself.",
+                        "isCorrect": 0,
+                        "explanation": "Different materials interact differently with various wavelengths of electromagnetic radiation. Plastics don't have any special cooling properties; they simply don't absorb microwave energy efficiently."
+                    }
+                ],
+                "funFact": "The specific frequency used in microwave ovens (about 2.45 GHz) was chosen because it's strongly absorbed by water but passes through many common materials like glass, paper, and most plastics. This selective absorption is an example of how different electromagnetic waves interact uniquely with various materials - a principle also used in technologies like radio astronomy and medical imaging."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question about why microwaves heat food efficiently but plastic containers remain relatively cool, focusing on the absorption properties of different materials for specific wavelengths."
+        }
+    ]
+}

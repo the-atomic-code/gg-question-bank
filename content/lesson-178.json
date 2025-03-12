@@ -1,0 +1,1171 @@
+{
+    "id": "lesson-178",
+    "title": "Wave Properties",
+    "standard": "4-PS3-2",
+    "n_recall": 15,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 39,
+    "questions": [
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes how waves transfer energy?",
+                "options": [
+                    {
+                        "text": "Waves transfer energy from place to place without transferring matter",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Waves are patterns of motion that transfer energy between locations without moving the matter itself. For example, when ocean waves move, the water molecules only move up and down while the energy moves forward."
+                    },
+                    {
+                        "text": "Waves transfer both energy and matter from place to place",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While waves transfer energy, they do not transfer matter. The particles in the medium only vibrate back and forth or up and down while staying in roughly the same location."
+                    },
+                    {
+                        "text": "Waves transfer matter but not energy from place to place",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Waves transfer energy, not matter. The particles in the medium stay in roughly the same location while the energy moves through them."
+                    },
+                    {
+                        "text": "Waves neither transfer energy nor matter from place to place",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While waves do not transfer matter, they do transfer energy from one location to another through the vibration of particles."
+                    }
+                ],
+                "funFact": "The energy transfer by waves is crucial for life on Earth! For instance, the Sun's light waves travel 93 million miles through space to bring energy to Earth, while sound waves from a whale's call can travel hundreds of miles through the ocean to communicate with other whales."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the definition of waves as patterns of motion that transfer energy without transferring matter"
+        },
+        {
+            "question": {
+                "text": "Which of the following is an example of a transverse wave?",
+                "options": [
+                    {
+                        "text": "Water waves in the ocean",
+                        "isCorrect": 1,
+                        "explanation": "Ocean waves are transverse waves because the water moves up and down perpendicular to the direction the wave travels."
+                    },
+                    {
+                        "text": "Sound waves from a speaker",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves are longitudinal waves, not transverse waves, because they vibrate in the same direction that the wave travels."
+                    },
+                    {
+                        "text": "A compressed spring bouncing back",
+                        "isCorrect": 0,
+                        "explanation": "A compressed spring creates longitudinal waves as the compression travels along the length of the spring."
+                    },
+                    {
+                        "text": "Air molecules carrying your voice",
+                        "isCorrect": 0,
+                        "explanation": "Voice transmission through air creates longitudinal waves as air particles vibrate back and forth in the same direction as the wave travels."
+                    }
+                ],
+                "funFact": "The Mexican Wave seen at sports stadiums is actually a human-made transverse wave! When people stand up and sit down in sequence, they create a wave that moves horizontally around the stadium while the people move vertically - just like ocean waves!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question identifying examples of transverse waves from given options (like ocean waves, 'the wave' at sporting events)"
+        },
+        {
+            "question": {
+                "text": "Which of the following are examples of longitudinal waves?",
+                "options": [
+                    {
+                        "text": "Sound waves traveling through air and compression waves in a spring toy",
+                        "isCorrect": 1,
+                        "explanation": "Sound waves and spring toy compressions are longitudinal waves because they vibrate in the same direction as the wave travels, creating compressions and expansions along their path."
+                    },
+                    {
+                        "text": "Ocean waves and ripples in a pond",
+                        "isCorrect": 0,
+                        "explanation": "Ocean waves and ripples in a pond are transverse waves because they move up and down (perpendicular) to the direction the wave travels."
+                    },
+                    {
+                        "text": "A crowd doing 'the wave' at a sports event",
+                        "isCorrect": 0,
+                        "explanation": "The wave at a sports event is a transverse wave because people move up and down perpendicular to the direction the wave travels around the stadium."
+                    }
+                ],
+                "funFact": "Seismic P-waves (Primary waves) that travel through the Earth during earthquakes are also longitudinal waves. These waves can travel through both solid rock and liquid layers of the Earth's core, helping scientists understand our planet's internal structure!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question identifying examples of longitudinal waves from given options (like sound waves, spring toy compressions)"
+        },
+        {
+            "question": {
+                "text": "When a sound wave has a higher amplitude, what happens to its energy and how does this affect what we hear?",
+                "options": [
+                    {
+                        "text": "Higher amplitude means more energy, making the sound louder",
+                        "isCorrect": 1,
+                        "explanation": "Amplitude measures the wave's height and indicates energy - the higher the amplitude, the more energy in the wave, which we hear as louder sound"
+                    },
+                    {
+                        "text": "Higher amplitude means less energy, making the sound softer",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - higher amplitude actually means more energy, not less, resulting in louder sound"
+                    },
+                    {
+                        "text": "Amplitude has no effect on the wave's energy or loudness",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - amplitude directly relates to a wave's energy and affects how loud we perceive the sound"
+                    },
+                    {
+                        "text": "Higher amplitude only changes the pitch, not the loudness",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - amplitude affects loudness, while frequency (not amplitude) determines pitch"
+                    }
+                ],
+                "funFact": "The loudest sound ever recorded was the 1883 eruption of Krakatoa volcano, which had such high-amplitude sound waves that they circled the Earth multiple times and were heard 3,000 miles away!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between amplitude and wave energy (higher amplitude means more energy)"
+        },
+        {
+            "question": {
+                "text": "What property of a sound wave determines how loud or soft the sound is?",
+                "options": [
+                    {
+                        "text": "Amplitude",
+                        "isCorrect": 1,
+                        "explanation": "Amplitude is the height of a sound wave and determines its loudness. Higher amplitude means louder sound, while lower amplitude means softer sound."
+                    },
+                    {
+                        "text": "Wavelength",
+                        "isCorrect": 0,
+                        "explanation": "Wavelength is the distance between wave peaks and determines the pitch of the sound, not its loudness."
+                    },
+                    {
+                        "text": "Speed",
+                        "isCorrect": 0,
+                        "explanation": "The speed of sound waves determines how quickly sound travels through a medium, not how loud the sound is."
+                    },
+                    {
+                        "text": "Direction",
+                        "isCorrect": 0,
+                        "explanation": "The direction of sound waves determines where the sound travels, not its loudness."
+                    }
+                ],
+                "funFact": "When you turn up the volume on your music player, you're actually increasing the amplitude of the sound waves by making the speaker vibrate with more energy. This is why speakers sometimes visibly shake when playing loud music!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about what amplitude determines in sound waves (loudness of sound)"
+        },
+        {
+            "question": {
+                "text": "What happens to the wave peaks when the wavelength of a wave increases?",
+                "options": [
+                    {
+                        "text": "The wave peaks get farther apart from each other",
+                        "isCorrect": 1,
+                        "explanation": "When wavelength increases, the distance between consecutive wave peaks increases, making them farther apart from each other."
+                    },
+                    {
+                        "text": "The wave peaks get closer to each other",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When wavelength increases, the wave peaks actually get farther apart, not closer together."
+                    },
+                    {
+                        "text": "The wave peaks become taller",
+                        "isCorrect": 0,
+                        "explanation": "The height of wave peaks is related to amplitude, not wavelength. Changes in wavelength only affect the distance between peaks."
+                    },
+                    {
+                        "text": "The wave peaks disappear completely",
+                        "isCorrect": 0,
+                        "explanation": "Wave peaks don't disappear when wavelength changes. They just become more spaced out when wavelength increases."
+                    }
+                ],
+                "funFact": "The longest wavelengths in the electromagnetic spectrum are radio waves, which can be as long as several kilometers! On the other hand, gamma rays have wavelengths smaller than the size of an atom."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between wavelength and wave peaks (distance between consecutive wave peaks)"
+        },
+        {
+            "question": {
+                "text": "Through which of the following materials can sound waves NOT travel?",
+                "options": [
+                    {
+                        "text": "Vacuum",
+                        "isCorrect": 1,
+                        "explanation": "Sound waves require particles of matter to transfer energy. In a vacuum, there are no particles for the sound waves to travel through, so sound cannot propagate."
+                    },
+                    {
+                        "text": "Metal",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves can travel through metal because it contains closely packed particles that can transfer energy. In fact, metal is a very good conductor of sound."
+                    },
+                    {
+                        "text": "Water",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves can travel through water because water contains particles that can transfer energy. Many marine animals use sound waves to communicate underwater."
+                    },
+                    {
+                        "text": "Air",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves can travel through air because air contains particles that can transfer energy. Most sounds we hear in daily life travel through air."
+                    }
+                ],
+                "funFact": "During the Apollo missions, astronauts on the Moon had to communicate through radio waves because sound couldn't travel through the vacuum of space between them. Even if an explosion occurred right next to them in space (but not touching their spacesuits), they wouldn't hear it!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about how sound waves travel through different mediums (air, solids, liquids)"
+        },
+        {
+            "question": {
+                "text": "Why can't astronauts hear explosions in outer space?",
+                "options": [
+                    {
+                        "text": "Because sound waves need particles of matter to travel through",
+                        "isCorrect": 1,
+                        "explanation": "Sound waves are vibrations that need particles (like air molecules) to transfer energy from one place to another. In space, there are no particles for sound waves to travel through."
+                    },
+                    {
+                        "text": "Because sound waves travel too slowly in space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The issue isn't about speed - sound waves cannot travel at all in space because there are no particles to carry the waves."
+                    },
+                    {
+                        "text": "Because human ears don't work in space",
+                        "isCorrect": 0,
+                        "explanation": "Human ears work normally in space. The reason we can't hear explosions in space is that sound waves cannot travel through the vacuum of space."
+                    },
+                    {
+                        "text": "Because explosions don't produce sound in space",
+                        "isCorrect": 0,
+                        "explanation": "Explosions do create vibrations that would produce sound, but these vibrations cannot travel through space because there are no particles to carry the sound waves."
+                    }
+                ],
+                "funFact": "While we can't hear sounds in space, astronauts inside the International Space Station can communicate by talking because the station is filled with air, allowing sound waves to travel between them!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about why sound cannot travel in space (no particles/matter for waves to travel through)"
+        },
+        {
+            "question": {
+                "text": "How do speakers produce sound waves?",
+                "options": [
+                    {
+                        "text": "The speaker vibrates, creating longitudinal waves that travel through air particles",
+                        "isCorrect": 1,
+                        "explanation": "When a speaker vibrates, it creates compressions and rarefactions in air particles, producing longitudinal sound waves that travel in all directions"
+                    },
+                    {
+                        "text": "The speaker releases stored sound particles into the air",
+                        "isCorrect": 0,
+                        "explanation": "Sound is not made of particles that are stored and released. Sound waves are created by vibrations that travel through existing air particles"
+                    },
+                    {
+                        "text": "The speaker produces transverse waves that move up and down through the air",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves are longitudinal waves, not transverse waves. Sound waves create compressions in the direction of wave travel, not up and down motion"
+                    },
+                    {
+                        "text": "The speaker generates electrical waves that we hear as sound",
+                        "isCorrect": 0,
+                        "explanation": "While speakers use electricity, the sound we hear comes from mechanical vibrations in air particles, not from electrical waves"
+                    }
+                ],
+                "funFact": "The world's loudest speaker system was built for the Space Shuttle program! NASA used a 176-decibel speaker system to test if spacecraft could withstand the intense sound vibrations during launch."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the relationship between a speaker's vibrations and sound wave production (vibrations create longitudinal waves)"
+        },
+        {
+            "question": {
+                "text": "How do dolphins use sound waves underwater to help them survive?",
+                "options": [
+                    {
+                        "text": "Sound waves bounce off objects and return to the dolphins, helping them locate food and navigate",
+                        "isCorrect": 1,
+                        "explanation": "This is called echolocation - dolphins emit sound waves that bounce off objects and return to them, helping them create a mental map of their surroundings, find food, and navigate safely."
+                    },
+                    {
+                        "text": "Sound waves heat up the water around them to detect warm-blooded prey",
+                        "isCorrect": 0,
+                        "explanation": "While sound waves can transfer energy, dolphins don't use them to detect temperature differences. They rely on the echoes of sound waves bouncing off objects."
+                    },
+                    {
+                        "text": "Sound waves create light patterns underwater that dolphins can see",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves underwater don't create visible light patterns. Dolphins use the echoes of sound waves, not light, to detect objects."
+                    },
+                    {
+                        "text": "Sound waves push water particles aside to create paths for swimming",
+                        "isCorrect": 0,
+                        "explanation": "While sound waves travel through water, they don't create physical paths. Dolphins use the echoes of sound waves to navigate, not to move water particles."
+                    }
+                ],
+                "funFact": "Dolphins can produce up to 1,000 clicking sounds per second during echolocation, and they can detect objects up to 500 feet away - that's longer than one and a half football fields!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about how dolphins use sound waves underwater (echolocation for navigation and communication)"
+        },
+        {
+            "question": {
+                "text": "How do earthquakes demonstrate the transfer of energy through waves?",
+                "options": [
+                    {
+                        "text": "Seismic waves carry energy that can cause buildings to shake and collapse",
+                        "isCorrect": 1,
+                        "explanation": "Earthquakes transfer destructive energy through seismic waves. When these waves travel through the Earth, they can cause buildings and structures to vibrate violently, potentially leading to collapse."
+                    },
+                    {
+                        "text": "Earthquakes only transfer matter from one place to another",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Earthquakes transfer energy, not matter, through wave motion. The ground material moves back and forth but doesn't travel with the wave."
+                    },
+                    {
+                        "text": "Earthquake waves only affect the surface of the Earth",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Earthquake waves travel through the Earth in all directions, affecting both surface and underground structures, not just the surface."
+                    },
+                    {
+                        "text": "Earthquakes create energy but don't transfer it",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Earthquakes don't create energy - they transfer existing energy from one place to another through wave motion."
+                    }
+                ],
+                "funFact": "The largest earthquake ever recorded was a magnitude 9.5 in Chile in 1960. Its seismic waves traveled around the Earth multiple times and even caused tsunamis as far away as Hawaii and Japan, demonstrating how effectively waves can transfer energy across vast distances!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about how earthquakes demonstrate energy transfer through waves (waves carrying destructive energy)"
+        },
+        {
+            "question": {
+                "text": "When a sound wave travels through air, what happens to the air particles?",
+                "options": [
+                    {
+                        "text": "The air particles vibrate back and forth but stay in the same general location",
+                        "isCorrect": 1,
+                        "explanation": "Air particles vibrate in place when sound waves pass through them. They don't travel with the wave - they just oscillate back and forth to transfer the energy."
+                    },
+                    {
+                        "text": "The air particles travel along with the sound wave from the source to the destination",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The particles don't travel with the wave. If they did, you would feel a constant wind whenever you heard a sound."
+                    },
+                    {
+                        "text": "The air particles are pushed away permanently by the sound wave",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves don't permanently displace air particles. The particles return to their original positions after the wave passes through."
+                    },
+                    {
+                        "text": "The air particles remain completely still while the sound wave passes through them",
+                        "isCorrect": 0,
+                        "explanation": "Air particles must vibrate to transmit sound waves. If they remained still, sound could not travel through air."
+                    }
+                ],
+                "funFact": "The speed at which sound waves travel through air is about 343 meters per second (767 mph) at room temperature. However, sound travels much faster through solids - in steel, it moves at about 5,120 meters per second (11,453 mph)!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question identifying the role of particles in wave transmission (particles vibrate but don't travel with the wave)"
+        },
+        {
+            "question": {
+                "text": "Which statement best describes the pattern observed in longitudinal waves?",
+                "options": [
+                    {
+                        "text": "A repeating pattern of compression and expansion along the direction of wave travel",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes longitudinal waves, where particles compress and expand in the same direction that the wave travels."
+                    },
+                    {
+                        "text": "A repeating pattern of peaks and troughs moving up and down",
+                        "isCorrect": 0,
+                        "explanation": "This describes transverse waves, not longitudinal waves. Transverse waves show up and down motion perpendicular to wave direction."
+                    },
+                    {
+                        "text": "A circular motion of particles that creates a spiral pattern",
+                        "isCorrect": 0,
+                        "explanation": "Longitudinal waves don't involve circular or spiral motion - they involve back and forth compression and expansion."
+                    },
+                    {
+                        "text": "A random movement of particles with no specific pattern",
+                        "isCorrect": 0,
+                        "explanation": "Longitudinal waves have a very specific repeating pattern of compression and expansion, not random movement."
+                    }
+                ],
+                "funFact": "Sound waves in air are longitudinal waves that we can't see, but we can actually see longitudinal waves in action using a slinky toy! When you compress and release one end of a stretched slinky, you can watch the compression pattern travel along its length."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the pattern of longitudinal waves (repeating compression and expansion)"
+        },
+        {
+            "question": {
+                "text": "What pattern is characteristic of a transverse wave?",
+                "options": [
+                    {
+                        "text": "A repeating pattern where particles move perpendicular to the wave's direction of travel",
+                        "isCorrect": 1,
+                        "explanation": "In transverse waves, the particles of the medium oscillate perpendicular to the direction of wave propagation, creating peaks and troughs. The wave energy travels horizontally while the particles move vertically."
+                    },
+                    {
+                        "text": "A continuous forward motion of particles",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because particles in a wave do not travel forward with the wave - they only move up and down in transverse waves."
+                    },
+                    {
+                        "text": "A series of compressions and expansions moving forward",
+                        "isCorrect": 0,
+                        "explanation": "This describes longitudinal waves like sound waves, not transverse waves which have peaks and troughs."
+                    },
+                    {
+                        "text": "Random vibrations in all directions",
+                        "isCorrect": 0,
+                        "explanation": "Transverse waves have an organized pattern of up and down motion, not random vibrations in all directions."
+                    }
+                ],
+                "funFact": "Light waves, including all visible light and other electromagnetic radiation, are transverse waves that can travel through the vacuum of space without requiring a medium."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about the pattern of transverse waves (repeating peaks and troughs)"
+        },
+        {
+            "question": {
+                "text": "In an electric guitar setup, how does an amplifier increase the volume of the sound?",
+                "options": [
+                    {
+                        "text": "By converting electrical energy to make the speakers vibrate with greater amplitude",
+                        "isCorrect": 1,
+                        "explanation": "Amplifiers use electrical energy to increase the amplitude of sound waves by making speakers vibrate more strongly, resulting in louder sound"
+                    },
+                    {
+                        "text": "By making the sound waves travel faster through the air",
+                        "isCorrect": 0,
+                        "explanation": "The speed of sound waves in air remains constant - it's the amplitude (height) of the waves that changes to make sounds louder or softer"
+                    },
+                    {
+                        "text": "By increasing the wavelength between sound peaks",
+                        "isCorrect": 0,
+                        "explanation": "Wavelength affects the pitch (frequency) of the sound, not its volume. Volume is controlled by the amplitude of the waves"
+                    },
+                    {
+                        "text": "By adding more air particles between the speaker and listener",
+                        "isCorrect": 0,
+                        "explanation": "The amount of air particles remains constant - sound volume depends on how strongly these particles vibrate (the amplitude), not how many particles there are"
+                    }
+                ],
+                "funFact": "Concert sound levels can be extremely loud - many rock concerts exceed 120 decibels (dB). For comparison, a normal conversation is around 60 dB, and any sound above 85 dB can cause hearing damage with prolonged exposure!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Question about how amplifiers affect sound waves (increase amplitude through electrical energy)"
+        },
+        {
+            "question": {
+                "text": "A scientist is testing how well sound travels through different materials. She plays a musical note and measures how clearly it can be heard through each material. Which material would allow the sound to travel best and why?",
+                "options": [
+                    {
+                        "text": "A vacuum, because there is no resistance to slow down the sound waves",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves need particles to travel through. A vacuum has no particles, so sound cannot travel through it at all."
+                    },
+                    {
+                        "text": "Air, because the particles are spaced far apart allowing sound to move freely",
+                        "isCorrect": 0,
+                        "explanation": "While sound does travel through air, the widely spaced particles actually make it less effective than denser materials for sound transmission."
+                    },
+                    {
+                        "text": "Metal, because the particles are close together and can pass vibrations efficiently",
+                        "isCorrect": 1,
+                        "explanation": "Metal's tightly packed particles can transfer vibrations (sound waves) very efficiently from one particle to the next, making it an excellent conductor of sound."
+                    },
+                    {
+                        "text": "Foam, because it has lots of particles to carry the sound",
+                        "isCorrect": 0,
+                        "explanation": "While foam has many particles, its structure actually absorbs and dampens sound waves rather than transmitting them efficiently."
+                    }
+                ],
+                "funFact": "The speed of sound through steel is about 5,120 meters per second, which is more than 15 times faster than through air (where sound travels at about 343 meters per second)!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student needs to determine how sound waves travel through different mediums. The scenario presents experimental results showing sound transmission through air, water, metal, and a vacuum. The student must analyze which medium allows the best sound transmission and explain why based on particle behavior."
+        },
+        {
+            "question": {
+                "text": "A musician is playing an electric guitar at two different volume levels. When played at a higher volume, the guitar speaker produces sound waves with greater amplitude compared to when played at a lower volume. What best explains the relationship between the amplitude and energy of these sound waves?",
+                "options": [
+                    {
+                        "text": "The higher amplitude sound waves carry more energy, resulting in louder sound that can be heard from farther away",
+                        "isCorrect": 1,
+                        "explanation": "Sound waves with greater amplitude have more energy, which creates louder sounds that can travel greater distances through the air particles"
+                    },
+                    {
+                        "text": "The higher amplitude sound waves travel faster through the air, making them seem louder",
+                        "isCorrect": 0,
+                        "explanation": "The speed of sound waves does not change with amplitude - all sound waves travel at the same speed through a given medium"
+                    },
+                    {
+                        "text": "The higher amplitude sound waves have longer wavelengths, which creates louder sounds",
+                        "isCorrect": 0,
+                        "explanation": "Amplitude and wavelength are independent properties - the wavelength does not determine the loudness of sound"
+                    },
+                    {
+                        "text": "The higher amplitude sound waves bounce off more air particles, making them seem louder",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves interact with the same air particles regardless of amplitude - the greater loudness comes from transferring more energy to those particles"
+                    }
+                ],
+                "funFact": "The loudest sound ever recorded was the 1883 eruption of Krakatoa volcano, which produced sound waves with such high amplitude that they circled the Earth multiple times and were heard 3,000 miles away!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario describes two waves with different amplitudes being produced by a speaker. The student must analyze how the amplitude difference affects the loudness of the sound and explain the energy transfer involved."
+        },
+        {
+            "question": {
+                "text": "A student is conducting an experiment with a speaker and salt particles placed on its surface. If the student increases the volume of the music playing through the speaker, what will happen to the movement of the salt particles?",
+                "options": [
+                    {
+                        "text": "The salt particles will bounce higher due to greater energy transfer from stronger sound waves",
+                        "isCorrect": 1,
+                        "explanation": "Higher volume means sound waves with greater amplitude, transferring more energy to the salt particles and causing them to bounce higher"
+                    },
+                    {
+                        "text": "The salt particles will remain still because sound waves don't transfer energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because sound waves do transfer energy through vibrating particles, causing the salt to move"
+                    },
+                    {
+                        "text": "The salt particles will move sideways instead of up and down",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves from speakers primarily cause up and down vibrations, not sideways movement of particles"
+                    },
+                    {
+                        "text": "The salt particles will stop moving completely",
+                        "isCorrect": 0,
+                        "explanation": "Increasing volume increases energy transfer, so the particles would move more, not stop moving"
+                    }
+                ],
+                "funFact": "The same principle that makes salt particles dance on a speaker is used by some animals like elephants to detect distant sounds! They can feel vibrations through their feet from sounds too low for human ears to hear, helping them communicate over long distances."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A setup shows salt particles on a speaker membrane with different volume settings. The student must predict and explain how changing the speaker volume affects the salt particle movement based on energy transfer principles."
+        },
+        {
+            "question": {
+                "text": "An astronaut on the International Space Station witnesses an explosion from a nearby satellite. Why can the astronaut see the explosion but not hear it?",
+                "options": [
+                    {
+                        "text": "Sound waves need particles (matter) to travel through, while light waves can travel through the vacuum of space",
+                        "isCorrect": 1,
+                        "explanation": "Sound waves are mechanical waves that require a medium like air particles to transfer energy. In space's vacuum, there are no particles for sound to travel through, but light waves can travel without a medium."
+                    },
+                    {
+                        "text": "Sound waves travel slower than light waves, so the sound hasn't reached the astronaut yet",
+                        "isCorrect": 0,
+                        "explanation": "While sound does travel slower than light, the absence of sound in space is not due to speed - it's because sound needs a medium to travel through, which isn't present in space's vacuum."
+                    },
+                    {
+                        "text": "The explosion wasn't powerful enough to create sound waves",
+                        "isCorrect": 0,
+                        "explanation": "The power of the explosion doesn't determine whether sound can travel through space. Even the most powerful explosions cannot create sound in space due to the lack of a medium for sound waves."
+                    },
+                    {
+                        "text": "The space station's walls block all sound waves from outside",
+                        "isCorrect": 0,
+                        "explanation": "While spacecraft walls can block some sound, the main reason the explosion cannot be heard is that sound waves cannot travel through the vacuum of space in the first place."
+                    }
+                ],
+                "funFact": "While space is often portrayed in movies with explosive sound effects, the reality is that space battles would be eerily silent! However, if astronauts touch their helmets together, they can hear each other speak through the vibrations transmitted through their suit material."
+            },
+            "cognitive_level": "application",
+            "blueprint": "An experiment demonstrates light and sound transmission in space versus on Earth. The student must analyze why sound cannot be heard in space while light can still be seen, based on energy transfer mechanisms."
+        },
+        {
+            "question": {
+                "text": "During an earthquake, waves travel through the Earth's crust causing buildings to shake and potentially collapse. What best explains how energy is transferred during an earthquake to cause structural damage?",
+                "options": [
+                    {
+                        "text": "Seismic waves transfer energy through the ground in a pattern of compression and expansion, causing structures to vibrate and potentially fail",
+                        "isCorrect": 1,
+                        "explanation": "Earthquakes create waves that transfer energy through the ground. Like sound waves, these longitudinal waves create patterns of compression and expansion that can shake buildings and cause structural damage."
+                    },
+                    {
+                        "text": "The Earth's plates directly push buildings over when they collide, without any wave motion involved",
+                        "isCorrect": 0,
+                        "explanation": "While plate movements trigger earthquakes, the damage is caused by wave energy transfer through the ground, not direct pushing of plates against buildings."
+                    },
+                    {
+                        "text": "Heat from the Earth's core rises up and melts building foundations",
+                        "isCorrect": 0,
+                        "explanation": "Earthquake damage is not caused by heat from Earth's core, but rather by energy transferred through seismic waves that shake structures."
+                    },
+                    {
+                        "text": "Electric currents in the ground during earthquakes electrocute buildings causing them to fall",
+                        "isCorrect": 0,
+                        "explanation": "Earthquakes do not generate electrical currents that damage buildings. The destruction comes from mechanical wave energy transfer that causes shaking."
+                    }
+                ],
+                "funFact": "Scientists use special instruments called seismographs to measure earthquake waves. By studying these wave patterns, they can determine both the location and strength of an earthquake, helping communities prepare for and respond to these natural events."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A diagram shows earthquake waves traveling through the Earth. The student must identify the type of wave pattern and explain how energy is transferred during an earthquake to cause structural damage."
+        },
+        {
+            "question": {
+                "text": "How do transverse and longitudinal waves differ in the way they transfer energy, and which everyday examples demonstrate these wave types?",
+                "options": [
+                    {
+                        "text": "In transverse waves, particles move up and down while the wave moves horizontally (like ocean waves), and in longitudinal waves, particles move back and forth in the same direction as the wave (like sound waves).",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how particles move in both wave types and provides accurate examples. Ocean waves show transverse motion with up-down movement, while sound waves demonstrate longitudinal compression and expansion."
+                    },
+                    {
+                        "text": "In both types of waves, particles travel along with the wave from the source to the destination.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. In both wave types, particles only oscillate around a fixed position - they don't travel with the wave. Only energy is transferred, not matter."
+                    },
+                    {
+                        "text": "Transverse waves require a solid medium while longitudinal waves can only travel through air.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both wave types can travel through various media. Sound (longitudinal) waves can travel through solids and liquids, while transverse waves can occur in different media too."
+                    },
+                    {
+                        "text": "Transverse and longitudinal waves transfer energy in the same way, just in different directions.",
+                        "isCorrect": 0,
+                        "explanation": "While both waves transfer energy, they do so through fundamentally different particle movements - perpendicular to wave motion for transverse waves and parallel for longitudinal waves."
+                    }
+                ],
+                "funFact": "The speed of sound waves (longitudinal waves) varies greatly in different materials. They travel about 4 times faster in water than in air, and even faster in steel - about 15 times faster than in air! This is why you might hear a train coming by putting your ear to the rail before you can hear it through the air."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Two springs demonstrate transverse and longitudinal wave patterns. The student must compare how energy travels differently in these wave types and identify real-world examples of each."
+        },
+        {
+            "question": {
+                "text": "When sound waves increase in amplitude while keeping the same wavelength, what happens to the energy and loudness of the sound?",
+                "options": [
+                    {
+                        "text": "The energy increases and the sound becomes louder",
+                        "isCorrect": 1,
+                        "explanation": "Higher amplitude means more energy in the wave, resulting in a louder sound while maintaining the same pitch since wavelength stays constant."
+                    },
+                    {
+                        "text": "The energy decreases and the sound becomes softer",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - increasing amplitude actually increases energy and loudness, not decreases it."
+                    },
+                    {
+                        "text": "The energy stays the same but the sound becomes louder",
+                        "isCorrect": 0,
+                        "explanation": "Wave amplitude is directly related to energy - if amplitude increases, energy must increase too, not stay the same."
+                    },
+                    {
+                        "text": "The energy increases but the loudness stays the same",
+                        "isCorrect": 0,
+                        "explanation": "Amplitude is directly related to both energy and loudness - if amplitude increases, both energy and loudness must increase."
+                    }
+                ],
+                "funFact": "The loudest sound ever recorded was the 1883 eruption of Krakatoa volcano, which reached an estimated 310 decibels and was heard 3,000 miles away! The sound waves were so powerful they circled the Earth multiple times."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A series of wave diagrams shows different amplitude and wavelength combinations. The student must analyze how changes in these properties affect the amount of energy being transferred."
+        },
+        {
+            "question": {
+                "text": "How do dolphins use sound waves to find prey underwater?",
+                "options": [
+                    {
+                        "text": "Sound waves travel through water, bounce off objects, and return to the dolphin, providing information about the location and size of prey",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Sound waves transfer energy through water particles. When these waves hit objects, they bounce back (echo) to the dolphin, carrying information about what they encountered."
+                    },
+                    {
+                        "text": "Sound waves illuminate objects underwater so dolphins can see them better",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves don't create light or help with vision. They transfer energy through vibrations in water particles, not through light."
+                    },
+                    {
+                        "text": "Sound waves heat up nearby objects, helping dolphins detect warm-blooded prey",
+                        "isCorrect": 0,
+                        "explanation": "While sound waves do transfer energy, they don't significantly heat up objects underwater. Dolphins detect prey through the echoes of sound waves, not through temperature detection."
+                    },
+                    {
+                        "text": "Sound waves stop when they hit objects, telling dolphins where obstacles are located",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves don't simply stop at objects - they bounce back (reflect) from objects. This reflection is what allows dolphins to gather information about their surroundings."
+                    }
+                ],
+                "funFact": "Dolphins can produce up to 1,000 clicking sounds per second during echolocation, and they can detect objects the size of a small coin from more than 70 meters away!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Dolphins use echolocation for navigation and hunting. The student must explain how energy transfers allow sound waves to travel underwater and return information about objects to the dolphin."
+        },
+        {
+            "question": {
+                "text": "In a science experiment, students are testing how sound travels through different materials by tapping a metal spoon against each material and listening at the other end. They observe that sound travels better through a metal rod compared to a foam block. What best explains this difference in sound transmission?",
+                "options": [
+                    {
+                        "text": "The particles in metal are more tightly packed and can transfer vibrations more efficiently between them",
+                        "isCorrect": 1,
+                        "explanation": "Metal has particles arranged close together in an ordered structure, allowing sound vibrations to pass efficiently from one particle to the next with minimal energy loss"
+                    },
+                    {
+                        "text": "Metal creates new sound waves while foam absorbs them",
+                        "isCorrect": 0,
+                        "explanation": "Materials don't create new sound waves - they simply transmit the existing vibrations. The difference is in how well they can transfer these vibrations"
+                    },
+                    {
+                        "text": "Sound waves prefer to travel through shiny surfaces",
+                        "isCorrect": 0,
+                        "explanation": "The shininess of a surface has no effect on sound transmission. The arrangement of particles in the material is what matters"
+                    },
+                    {
+                        "text": "Foam has more particles than metal which blocks the sound",
+                        "isCorrect": 0,
+                        "explanation": "It's not about the number of particles, but how they're arranged. Foam has air spaces between particles which makes it harder for sound to travel through"
+                    }
+                ],
+                "funFact": "The speed of sound through steel is about 5,120 meters per second, which is more than 15 times faster than through air! This is why people in the 19th century would put their ears to railroad tracks to detect approaching trains long before they could be heard through the air."
+            },
+            "cognitive_level": "application",
+            "blueprint": "An experiment demonstrates sound transmission through different solid materials like metal, wood, and foam. The student must explain why some materials transmit sound better than others based on particle arrangement."
+        },
+        {
+            "question": {
+                "text": "In a circuit containing a light bulb and a speaker connected to a battery, what sequence of energy transformations occurs when both devices are operating?",
+                "options": [
+                    {
+                        "text": "Electrical energy transforms into light energy in the bulb and sound energy in the speaker",
+                        "isCorrect": 1,
+                        "explanation": "Electrical current flowing through the circuit transforms into both light and heat energy at the bulb (with traditional incandescent bulbs converting most energy to heat), and into sound energy at the speaker through vibration of the speaker cone."
+                    },
+                    {
+                        "text": "Light energy from the bulb transforms into electrical energy and then into sound energy",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the actual flow of energy. The electrical energy from the battery is the initial form that transforms into both light and sound, not the other way around."
+                    },
+                    {
+                        "text": "Sound energy from the speaker transforms into electrical energy and then into light energy",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly suggests that sound is the initial energy form. The electrical energy from the battery transforms into both sound and light simultaneously."
+                    },
+                    {
+                        "text": "The energy stays as electrical energy and no transformation occurs",
+                        "isCorrect": 0,
+                        "explanation": "Energy must transform from electrical to other forms to produce light and sound. If no transformation occurred, we would not see light or hear sound."
+                    }
+                ],
+                "funFact": "Thomas Edison's first successful light bulb test in 1879 lasted 13.5 hours, transforming electrical energy into both light and heat energy. Modern LED bulbs are much more efficient, converting most of the electrical energy into light rather than heat!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "An electric circuit powers a light bulb and a speaker simultaneously. The student must trace the energy transformations occurring from electrical current to light and sound outputs."
+        },
+        {
+            "question": {
+                "text": "Two waves are traveling through water. Wave A has peaks that are 2 meters apart, while Wave B has peaks that are 1 meter apart. Both waves have the same amplitude. Which statement correctly compares the energy of these waves?",
+                "options": [
+                    {
+                        "text": "Wave B has more energy because it has a shorter wavelength",
+                        "isCorrect": 1,
+                        "explanation": "When two water waves have the same amplitude, the wave with the shorter wavelength carries more energy. In this case, Wave B has a wavelength of 1 meter, which is shorter than Wave A's 2-meter wavelength"
+                    },
+                    {
+                        "text": "Wave A has more energy because it has a longer wavelength",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - for water waves with the same amplitude, waves with longer wavelengths actually carry less energy than waves with shorter wavelengths"
+                    },
+                    {
+                        "text": "Both waves have the same energy since they are traveling through the same medium",
+                        "isCorrect": 0,
+                        "explanation": "The medium alone doesn't determine wave energy - with equal amplitudes, wavelength is a key factor in determining how much energy a water wave carries"
+                    },
+                    {
+                        "text": "It's impossible to compare their energy without knowing their frequencies",
+                        "isCorrect": 0,
+                        "explanation": "Since wavelength and frequency are inversely related (and we know the wavelengths), we don't need additional frequency information. For water waves with equal amplitudes, we can determine that the shorter wavelength carries more energy"
+                    }
+                ],
+                "funFact": "The relationship between wavelength and energy is used in many real-world applications. For example, microwave ovens use very short wavelengths to heat food, while radio waves with much longer wavelengths carry less energy and safely pass through our bodies without causing harm!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Two different wavelength patterns are shown in a diagram. The student must compare the energy levels of the waves and explain how wavelength relates to the amount of energy being transferred."
+        },
+        {
+            "question": {
+                "text": "In a wave tank demonstration, a ping pong ball is floating on water as waves move from one end to the other. Why does the ball mostly move up and down without traveling across the tank?",
+                "options": [
+                    {
+                        "text": "Water waves transfer only energy, not matter, so the ball moves in a circular or elliptical path with the wave motion but with no significant horizontal displacement",
+                        "isCorrect": 1,
+                        "explanation": "Waves transfer energy without transferring matter. The water particles and the floating ball actually move in circular or elliptical paths, primarily up and down, with minimal net horizontal movement."
+                    },
+                    {
+                        "text": "The ball is too light to be pushed across the tank by the waves",
+                        "isCorrect": 0,
+                        "explanation": "The ball's weight is not the reason - even heavier objects would show the same motion because waves transfer energy, not matter."
+                    },
+                    {
+                        "text": "Water waves only move vertically, never horizontally",
+                        "isCorrect": 0,
+                        "explanation": "While the particles move in circular or elliptical paths, the wave itself travels horizontally across the tank. Waves can propagate in horizontal directions."
+                    },
+                    {
+                        "text": "The ball is being blocked by the water pressure",
+                        "isCorrect": 0,
+                        "explanation": "Water pressure is not what keeps the ball from moving across. The motion of the ball follows the circular or elliptical path of water particles as waves transfer energy but not matter."
+                    }
+                ],
+                "funFact": "This same principle of waves transferring energy but not matter is why surfers must paddle to stay with moving ocean waves - they can't simply let the waves carry them to shore!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A demonstration shows a ping pong ball floating on water waves in a tank. The student must determine the type of wave motion and explain why the ball moves up and down but does not travel across the tank."
+        },
+        {
+            "question": {
+                "text": "When two water waves with different amplitudes collide in a pond, what happens to the energy of the waves?",
+                "options": [
+                    {
+                        "text": "The waves combine and the resulting wave has more total energy than the sum of the original waves",
+                        "isCorrect": 0,
+                        "explanation": "This violates the law of conservation of energy. Energy cannot be created or destroyed during wave interactions."
+                    },
+                    {
+                        "text": "The wave with higher amplitude transfers all its energy to the wave with lower amplitude",
+                        "isCorrect": 0,
+                        "explanation": "Waves don't transfer all their energy to each other during collision. They interact and continue moving with modified properties."
+                    },
+                    {
+                        "text": "The waves pass through each other while maintaining their individual energies",
+                        "isCorrect": 1,
+                        "explanation": "Waves can pass through each other without permanently transferring energy. Each wave continues with its original amplitude and energy after the interaction."
+                    },
+                    {
+                        "text": "Both waves lose their energy and stop moving immediately after collision",
+                        "isCorrect": 0,
+                        "explanation": "Waves don't lose all their energy during collision. They continue to propagate after interacting with each other."
+                    }
+                ],
+                "funFact": "This phenomenon of waves passing through each other without permanent energy transfer is called wave superposition. During the brief moment of interaction, the waves combine to form a temporary pattern, but then continue on their original paths unchanged - a principle that helps explain how we can hear multiple sounds simultaneously!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing how energy is transferred when two waves with different amplitudes interact in water, requiring understanding of wave properties and energy transfer patterns"
+        },
+        {
+            "question": {
+                "text": "A scientist is investigating how sound waves travel through different mediums. She observes that a sound made with the same intensity has different characteristics in air, water, and a steel beam. What explains the difference in sound transmission through these mediums?",
+                "options": [
+                    {
+                        "text": "The particles in each medium are spaced differently, affecting how well they can transfer sound wave energy",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The spacing and bonding between particles in different mediums affects how efficiently they can transfer sound wave energy. Solids like steel have tightly packed particles that transfer sound waves very efficiently, while gases like air have more loosely spaced particles."
+                    },
+                    {
+                        "text": "Sound waves can only travel through air and cannot actually move through water or solids",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. Sound waves can travel through any medium that has particles, including liquids and solids. In fact, many solids conduct sound better than air does."
+                    },
+                    {
+                        "text": "The speed of sound is the same in all mediums, but some mediums block part of the sound",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. The speed of sound varies significantly between different mediums. Sound actually travels faster through water than air, and even faster through solids like steel."
+                    },
+                    {
+                        "text": "Only longitudinal waves can travel through air, while only transverse waves can travel through solids",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. Sound waves are longitudinal waves in all mediums - whether traveling through gases, liquids, or solids. The type of wave doesn't change with the medium."
+                    }
+                ],
+                "funFact": "Sound travels about 4 times faster in water than in air, and about 15 times faster in steel than in air! This is why whales can communicate over vast distances underwater, and why you can hear a train coming by putting your ear to the steel rail long before you can hear it through the air."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for comparing the behavior of sound waves in different mediums (air, water, solid) and analyzing why sound transmission varies in each case"
+        },
+        {
+            "question": {
+                "text": "When observing ocean waves, a scientist notices that waves with shorter wavelengths have higher energy than waves with longer wavelengths. Which of the following statements best explains this relationship between wavelength and energy in ocean waves?",
+                "options": [
+                    {
+                        "text": "When ocean waves have shorter wavelengths, their peaks are closer together, indicating they carry more energy",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Waves with shorter wavelengths have peaks that are closer together, which indicates they carry more energy. This is a fundamental property of waves."
+                    },
+                    {
+                        "text": "Ocean waves with shorter wavelengths move more slowly, allowing them to build up more energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The speed of waves is not directly related to their wavelength in this way. Shorter wavelengths don't mean slower movement or more energy buildup."
+                    },
+                    {
+                        "text": "Ocean waves with shorter wavelengths are always taller, which is why they have more energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The height (amplitude) of a wave is independent of its wavelength. Shorter wavelengths don't necessarily mean taller waves."
+                    },
+                    {
+                        "text": "Ocean waves transfer more matter when they have shorter wavelengths, resulting in more energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Waves transfer energy, not matter. The amount of energy transferred is related to wavelength, but not to matter transfer."
+                    }
+                ],
+                "funFact": "The most powerful waves in the ocean, called tsunami waves, can travel across entire oceans at speeds up to 500 miles per hour while in deep water, yet ships in the open ocean might not even notice them passing underneath because of their extremely long wavelengths!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing the relationship between wavelength and energy in ocean waves, focusing on how changes in wavelength affect the wave's energy transfer"
+        },
+        {
+            "question": {
+                "text": "When an electric current flows through a speaker, it causes the speaker to produce sound. What is the correct sequence of energy transformations that occurs in this process?",
+                "options": [
+                    {
+                        "text": "Electrical energy \u2192 Mechanical energy (vibrations) \u2192 Sound energy",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The electrical current first causes the speaker to vibrate (mechanical energy), and these vibrations then create sound waves that carry sound energy through the air."
+                    },
+                    {
+                        "text": "Sound energy \u2192 Electrical energy \u2192 Mechanical energy",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. The process begins with electrical energy, not sound energy. Sound is actually the final form of energy in this transformation."
+                    },
+                    {
+                        "text": "Mechanical energy \u2192 Sound energy \u2192 Electrical energy",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. Electrical energy from the current is the initial form of energy, not mechanical energy."
+                    },
+                    {
+                        "text": "Electrical energy \u2192 Sound energy \u2192 Mechanical energy",
+                        "isCorrect": 0,
+                        "explanation": "This sequence is incorrect. While the process starts with electrical energy, the mechanical vibrations must occur before sound energy can be produced."
+                    }
+                ],
+                "funFact": "The speakers in your headphones contain tiny magnets that interact with electrical currents to create vibrations thousands of times per second, producing the music you hear. This same principle is used in microphones, but in reverse - they convert sound waves into electrical signals!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing how energy transforms when a speaker produces sound waves, tracing the path of energy from electrical current to mechanical vibration to sound"
+        },
+        {
+            "question": {
+                "text": "Why can dolphins communicate with each other underwater through sound waves, but astronauts cannot hear explosions in space?",
+                "options": [
+                    {
+                        "text": "Sound waves need matter (particles) to travel through, which is present in water but absent in space",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Sound waves are vibrations that transfer energy through matter. Water contains particles that can vibrate and transfer sound, while space lacks particles for sound to travel through."
+                    },
+                    {
+                        "text": "Sound waves can only travel through liquids, not gases or empty space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Sound waves can travel through solids, liquids, and gases - any medium containing particles. They just cannot travel through a vacuum (empty space)."
+                    },
+                    {
+                        "text": "The temperature in space is too cold for sound waves to travel",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Temperature does not determine whether sound waves can travel. The presence of matter (particles) is what allows sound waves to transfer energy."
+                    },
+                    {
+                        "text": "Water amplifies sound waves while space dampens them",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The issue is not about amplification or dampening - it's about the fundamental need for matter to transmit sound waves. Space lacks the particles needed for sound transmission."
+                    }
+                ],
+                "funFact": "While humans can hear sounds in air between about 20 Hz to 20,000 Hz, dolphins can hear frequencies up to 150,000 Hz underwater! This allows them to use echolocation to detect objects as small as a ping pong ball from more than 50 feet away."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing why sound cannot travel in space but can travel underwater, focusing on the role of matter in wave energy transfer"
+        },
+        {
+            "question": {
+                "text": "When an earthquake occurs, seismic waves transfer energy through the Earth. Which statement best explains how this energy transfer can affect buildings and structures?",
+                "options": [
+                    {
+                        "text": "Seismic waves transfer energy by moving matter from the earthquake's origin to distant locations",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Waves transfer energy without transferring matter. During an earthquake, the ground particles vibrate in place while the energy moves through them."
+                    },
+                    {
+                        "text": "Seismic waves transfer energy through vibrations in Earth's materials, which can cause buildings to shake and potentially collapse",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Seismic waves transfer energy through vibrations in Earth's materials. When these waves reach buildings, they transfer their energy to the structures, causing them to shake and potentially sustain damage."
+                    },
+                    {
+                        "text": "Seismic waves only affect buildings directly above the earthquake's origin point",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Seismic waves can travel great distances through Earth's materials, affecting buildings far from the earthquake's origin point."
+                    },
+                    {
+                        "text": "Seismic waves transfer energy only through air, similar to sound waves",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Unlike sound waves that primarily travel through air, seismic waves transfer energy mainly through solid materials like rock and soil."
+                    }
+                ],
+                "funFact": "The largest earthquake ever recorded was the 1960 Valdivia earthquake in Chile, which released energy equivalent to about 178,000 atomic bombs! Scientists use special instruments called seismographs to measure the energy transferred by seismic waves during earthquakes."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for examining how earthquake waves transfer energy through different materials and analyzing their destructive potential"
+        },
+        {
+            "question": {
+                "text": "A student noticed that when she turns up the volume on a speaker playing music, the sound can be heard from farther away. Which statement best explains why this happens?",
+                "options": [
+                    {
+                        "text": "Increasing the volume increases the amplitude of sound waves, transferring more energy through the air",
+                        "isCorrect": 1,
+                        "explanation": "When volume increases, the sound waves have greater amplitude, meaning they carry more energy and can travel farther through the air before becoming too weak to hear"
+                    },
+                    {
+                        "text": "Increasing the volume makes the sound waves travel faster through the air",
+                        "isCorrect": 0,
+                        "explanation": "The speed of sound waves depends on the medium they travel through, not the volume. Changing volume affects amplitude, not speed"
+                    },
+                    {
+                        "text": "Increasing the volume creates more air particles for the sound to travel through",
+                        "isCorrect": 0,
+                        "explanation": "The amount of air particles remains the same regardless of volume. Sound waves simply cause these existing particles to vibrate with greater amplitude at higher volumes"
+                    },
+                    {
+                        "text": "Increasing the volume makes the sound waves bounce off more surfaces",
+                        "isCorrect": 0,
+                        "explanation": "While sound waves can bounce off surfaces, this reflection is not related to volume. The greater distance traveled is due to increased energy from larger amplitude waves"
+                    }
+                ],
+                "funFact": "The loudest natural sound ever recorded was the 1883 eruption of Krakatoa volcano, which produced sound waves that circled Earth multiple times and were heard 3,000 miles away - demonstrating the incredible distances that high-amplitude sound waves can travel!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing the relationship between wave amplitude and energy transfer in sound waves, connecting speaker volume to wave properties"
+        },
+        {
+            "question": {
+                "text": "When comparing a stadium wave (where fans stand up and sit down in sequence) to waves in a stretched spring toy, what is the key difference in how energy moves through these two types of waves?",
+                "options": [
+                    {
+                        "text": "Energy moves up and down in stadium waves but back and forth in spring toy waves",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Stadium waves are transverse waves where energy moves perpendicular (up/down) to the wave direction, while spring toy waves are longitudinal where energy moves parallel (back/forth) to the wave direction."
+                    },
+                    {
+                        "text": "Stadium waves transfer matter while spring toy waves only transfer energy",
+                        "isCorrect": 0,
+                        "explanation": "Neither type of wave transfers matter - only energy. The people in a stadium wave and the coils in a spring toy stay in their relative positions while energy passes through."
+                    },
+                    {
+                        "text": "Spring toy waves cannot transfer energy but stadium waves can",
+                        "isCorrect": 0,
+                        "explanation": "Both types of waves transfer energy. The difference is in the direction of energy movement relative to the wave direction, not whether they can transfer energy."
+                    },
+                    {
+                        "text": "Stadium waves move slower than spring toy waves",
+                        "isCorrect": 0,
+                        "explanation": "The speed of the wave is not the key difference between these wave types. The difference is in how the energy moves relative to the wave's direction of travel."
+                    }
+                ],
+                "funFact": "The same wave patterns we see in stadium waves and spring toys appear in nature at the microscopic level - light waves are transverse like stadium waves, while sound waves are longitudinal like spring toy waves!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for comparing energy transfer patterns in stadium waves (transverse) versus spring toy demonstrations (longitudinal), analyzing the movement of energy versus matter"
+        },
+        {
+            "question": {
+                "text": "A scientist wants to understand how sound waves travel through different environments. She places a ringing alarm clock in a sealed glass container and gradually removes the air using a vacuum pump. What will happen to the sound of the alarm clock as more air is removed from the container?",
+                "options": [
+                    {
+                        "text": "The sound will become louder because there are fewer particles to block the sound waves",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Sound waves need particles to transfer energy. Fewer particles actually means the sound will become quieter, not louder."
+                    },
+                    {
+                        "text": "The sound will gradually become quieter until it cannot be heard at all",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Sound waves require particles to transfer energy. As air is removed, there are fewer particles available to transfer the sound energy, making the sound quieter until it becomes inaudible in a complete vacuum."
+                    },
+                    {
+                        "text": "The sound will stay the same because sound waves don't need particles to travel",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Sound waves are mechanical waves that require particles (matter) to transfer energy. They cannot travel through a vacuum."
+                    },
+                    {
+                        "text": "The sound will change to a higher pitch but maintain the same volume",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Removing air affects the amplitude (volume) of the sound because there are fewer particles to transfer energy. It does not change the pitch of the sound."
+                    }
+                ],
+                "funFact": "The reason you can't hear explosions in space movies (if they were scientifically accurate) is that space is a near-perfect vacuum! Without air particles to transfer sound energy, even the biggest explosion would be completely silent."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing how changing the vacuum conditions affects sound wave transmission, focusing on the relationship between particles and energy transfer"
+        },
+        {
+            "question": {
+                "text": "A dolphin uses sound waves to locate prey in the ocean. How does this echolocation process demonstrate energy transfer?",
+                "options": [
+                    {
+                        "text": "Sound waves transfer energy through water, bounce off prey, and return to the dolphin as echoes",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how dolphins use echolocation - sound energy travels through water, reflects off objects, and returns as echo signals"
+                    },
+                    {
+                        "text": "Sound waves directly push the prey towards the dolphin",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves don't physically push objects - they transfer energy through vibrations in the water molecules"
+                    },
+                    {
+                        "text": "Sound waves heat up the water to detect warm-blooded prey",
+                        "isCorrect": 0,
+                        "explanation": "While sound can produce some heat, dolphins don't use temperature detection for echolocation - they use reflected sound waves"
+                    },
+                    {
+                        "text": "Sound waves travel through empty spaces in the water without any medium",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves require a medium like water to travel - they cannot travel through empty space"
+                    }
+                ],
+                "funFact": "Dolphins can produce up to 200 clicks per second during echolocation! These clicks can travel at speeds of about 1.5 kilometers per second in water, which is nearly 5 times faster than sound travels in air."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for examining how dolphins use sound waves for echolocation, analyzing the energy transformations and transfer patterns in underwater sound transmission"
+        },
+        {
+            "question": {
+                "text": "A team of scientists is investigating how different materials affect sound wave transmission. They test three different materials by placing each between a speaker playing music and a sound detector: a metal sheet, a foam panel, and a glass panel. Which material would most likely allow the most sound energy to pass through?",
+                "options": [
+                    {
+                        "text": "Metal sheet",
+                        "isCorrect": 0,
+                        "explanation": "While metal is an excellent conductor of sound within the material itself, it tends to reflect most sound waves at its surface rather than allowing them to pass through. The high density and acoustic impedance of metal create a significant impedance mismatch with air, causing more reflection than transmission."
+                    },
+                    {
+                        "text": "Foam panel",
+                        "isCorrect": 0,
+                        "explanation": "Foam contains many air pockets that absorb and scatter sound waves, making it a poor transmitter of sound. This is why foam is often used for soundproofing."
+                    },
+                    {
+                        "text": "Glass panel",
+                        "isCorrect": 1,
+                        "explanation": "Glass allows more sound energy to pass through than metal or foam. While some sound reflects off glass surfaces, its acoustic properties permit a greater portion of sound waves to be transmitted through the material, which is why you can hear sounds through windows."
+                    }
+                ],
+                "funFact": "The speed of sound through different materials varies greatly! Sound travels through steel at about 5,120 meters per second, while it only travels through air at about 343 meters per second at room temperature. This is why you can hear a train coming by putting your ear to the railroad track long before you can hear it through the air!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for analyzing how different materials affect sound wave transmission, comparing materials that amplify versus dampen sound energy transfer"
+        },
+        {
+            "question": {
+                "text": "How do transverse and longitudinal waves differ in the way they transfer energy and how their particles move?",
+                "options": [
+                    {
+                        "text": "In transverse waves, particles move up and down perpendicular to wave direction, while in longitudinal waves, particles compress and expand parallel to wave direction",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes both wave types. Transverse waves like ocean waves show perpendicular particle motion, while longitudinal waves like sound waves show parallel compression and expansion."
+                    },
+                    {
+                        "text": "In both types of waves, particles travel along with the wave from the starting point to the ending point",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. In neither type of wave do particles travel with the wave - they only oscillate in place while energy transfers through the medium."
+                    },
+                    {
+                        "text": "Transverse waves require a medium but longitudinal waves can travel through empty space",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both mechanical transverse and longitudinal waves require a medium to transfer energy. However, electromagnetic waves, which are transverse, can travel through a vacuum. The option incorrectly states that longitudinal waves can travel through empty space."
+                    },
+                    {
+                        "text": "Longitudinal waves move up and down while transverse waves move back and forth",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the correct motion patterns. Transverse waves move up and down (perpendicular), while longitudinal waves move back and forth (parallel)."
+                    }
+                ],
+                "funFact": "The speed of sound (a longitudinal wave) varies significantly in different materials. It travels about 4 times faster in water than in air, and about 15 times faster in steel than in air. This is why you can hear an approaching train by putting your ear to the steel rail before you can hear it through the air!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A blueprint for examining the differences between transverse and longitudinal waves in terms of energy transfer patterns and particle movement"
+        }
+    ]
+}

@@ -1,0 +1,1151 @@
+{
+    "id": "lesson-148",
+    "title": "What is Engineering?",
+    "standard": "2-PS1-3",
+    "n_recall": 14,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 38,
+    "questions": [
+        {
+            "question": {
+                "text": "What is the main purpose of engineering?",
+                "options": [
+                    {
+                        "text": "To create solutions that solve problems",
+                        "isCorrect": 1,
+                        "explanation": "This is correct! Engineering is fundamentally about creating solutions to solve problems by applying science and math knowledge creatively."
+                    },
+                    {
+                        "text": "To build complex machines",
+                        "isCorrect": 0,
+                        "explanation": "While engineers may build machines, this is just one example of what they do. Their main purpose is broader - solving problems through various solutions."
+                    },
+                    {
+                        "text": "To do scientific experiments",
+                        "isCorrect": 0,
+                        "explanation": "While engineers use scientific knowledge and may conduct tests, their primary purpose is to solve problems by creating solutions, not just doing experiments."
+                    },
+                    {
+                        "text": "To make mathematical calculations",
+                        "isCorrect": 0,
+                        "explanation": "Although engineers use math in their work, it's just one of their tools. Their main purpose is to solve problems by creating solutions."
+                    }
+                ],
+                "funFact": "The word 'engineer' comes from the Latin words 'ingeniare' and 'ingenium,' which mean to design or devise, and cleverness. This reflects how engineers use their creativity and cleverness to design solutions!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about the basic definition of engineering as the process of creating solutions to solve problems"
+        },
+        {
+            "question": {
+                "text": "What do engineers primarily rely on to solve problems and create solutions?",
+                "options": [
+                    {
+                        "text": "Imagination and knowledge of math and science",
+                        "isCorrect": 1,
+                        "explanation": "Engineers combine their creative imagination with their understanding of math and science principles to develop innovative solutions to problems."
+                    },
+                    {
+                        "text": "Trial and error only",
+                        "isCorrect": 0,
+                        "explanation": "While testing and improving designs is important, engineers need more than just trial and error - they rely on scientific knowledge and creative thinking to develop initial solutions."
+                    },
+                    {
+                        "text": "Following existing instructions",
+                        "isCorrect": 0,
+                        "explanation": "Engineers create new solutions rather than just following existing instructions. They need to think creatively and apply scientific principles."
+                    },
+                    {
+                        "text": "Building skills alone",
+                        "isCorrect": 0,
+                        "explanation": "While building skills are useful, engineers need both creative thinking and scientific knowledge to design solutions before building them."
+                    }
+                ],
+                "funFact": "The word 'engineer' comes from the Latin word 'ingenium' meaning cleverness and 'ingeniare' meaning to devise. This reflects how engineering combines creative thinking with technical knowledge!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking to identify what engineers primarily use (imagination, math and science knowledge) to solve problems"
+        },
+        {
+            "question": {
+                "text": "Why is it important for engineers to make drawings or sketches before building their solutions?",
+                "options": [
+                    {
+                        "text": "To help think through the design steps and generate new ideas",
+                        "isCorrect": 1,
+                        "explanation": "Drawing helps engineers visualize their design, think about the necessary steps, and often leads to new ideas before starting construction."
+                    },
+                    {
+                        "text": "To make the solution look pretty",
+                        "isCorrect": 0,
+                        "explanation": "The main purpose of engineering sketches is not about appearance, but rather planning and problem-solving."
+                    },
+                    {
+                        "text": "Because all engineers must be good artists",
+                        "isCorrect": 0,
+                        "explanation": "Engineering sketches don't need to be artistic - they just need to communicate the design ideas clearly."
+                    },
+                    {
+                        "text": "To spend more time on the project",
+                        "isCorrect": 0,
+                        "explanation": "Sketching actually helps save time by planning ahead and identifying potential problems before building begins."
+                    }
+                ],
+                "funFact": "Leonardo da Vinci, who was both an artist and engineer, made detailed sketches of flying machines and other inventions 500 years ago. Many of his engineering drawings are still studied today!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint about the importance of sketching/drawing plans before building an engineering solution"
+        },
+        {
+            "question": {
+                "text": "Why is it important for engineers to test their designs and solutions?",
+                "options": [
+                    {
+                        "text": "To find ways to improve the design and make it work better",
+                        "isCorrect": 1,
+                        "explanation": "Testing helps engineers identify problems and make improvements to their designs, leading to better solutions."
+                    },
+                    {
+                        "text": "To prove that their first design is perfect",
+                        "isCorrect": 0,
+                        "explanation": "Engineering is an iterative process - the first design is rarely perfect and usually needs improvements based on testing."
+                    },
+                    {
+                        "text": "To show that they never make mistakes",
+                        "isCorrect": 0,
+                        "explanation": "Making mistakes and learning from them through testing is a normal and valuable part of engineering."
+                    },
+                    {
+                        "text": "To finish the project quickly without changes",
+                        "isCorrect": 0,
+                        "explanation": "Good engineering takes time and usually requires multiple changes based on testing results to create the best solution."
+                    }
+                ],
+                "funFact": "The Wright brothers conducted over 1000 test flights before achieving their successful airplane design in 1903. Each test helped them learn and improve their flying machine, showing how important testing is in engineering."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about the purpose of testing engineering solutions and designs"
+        },
+        {
+            "question": {
+                "text": "When engineers find that their first design attempt doesn't work as expected, what should they do next?",
+                "options": [
+                    {
+                        "text": "Try to improve the design based on what they learned from the failure",
+                        "isCorrect": 1,
+                        "explanation": "Engineers view failures as learning opportunities that help them understand how to make their designs better. Each attempt brings them closer to a successful solution."
+                    },
+                    {
+                        "text": "Give up and start a completely new project",
+                        "isCorrect": 0,
+                        "explanation": "Engineers don't give up when faced with failure. Instead, they use what they learned to make improvements to their existing design."
+                    },
+                    {
+                        "text": "Keep using the same design without any changes",
+                        "isCorrect": 0,
+                        "explanation": "Continuing with a design that didn't work without making improvements won't solve the problem. Engineers need to modify their designs based on test results."
+                    },
+                    {
+                        "text": "Feel discouraged and stop working on the problem",
+                        "isCorrect": 0,
+                        "explanation": "Engineers understand that failure is a normal part of the design process. They stay positive and use failures to guide improvements."
+                    }
+                ],
+                "funFact": "Thomas Edison made over 1,000 unsuccessful attempts before successfully inventing the light bulb. He famously said, 'I have not failed 1,000 times. I have successfully discovered 1,000 ways to NOT make a light bulb.'"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking to identify what engineers do when their initial design fails"
+        },
+        {
+            "question": {
+                "text": "Why do engineers continue to work on a design even after it fails?",
+                "options": [
+                    {
+                        "text": "Each failure helps them learn how to improve the design",
+                        "isCorrect": 1,
+                        "explanation": "Engineers learn valuable lessons from failures that help them make their designs better with each attempt"
+                    },
+                    {
+                        "text": "They want to prove they never make mistakes",
+                        "isCorrect": 0,
+                        "explanation": "Engineers understand that making mistakes is a normal part of the design process, not something to avoid"
+                    },
+                    {
+                        "text": "They get paid more for multiple attempts",
+                        "isCorrect": 0,
+                        "explanation": "Engineers continue working on designs to solve problems better, not for additional payment"
+                    },
+                    {
+                        "text": "They enjoy seeing things fail",
+                        "isCorrect": 0,
+                        "explanation": "Engineers don't work on failed designs because they enjoy failure, but because it helps them improve solutions"
+                    }
+                ],
+                "funFact": "Thomas Edison made over 1,000 unsuccessful attempts before successfully inventing the light bulb. When a reporter asked him how it felt to fail 1,000 times, Edison replied, 'I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps.'"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about how engineers improve their designs through multiple attempts"
+        },
+        {
+            "question": {
+                "text": "What is the correct order of steps that engineers follow when solving a problem?",
+                "options": [
+                    {
+                        "text": "Plan, build, test, improve",
+                        "isCorrect": 1,
+                        "explanation": "This is the correct sequence engineers follow - first sketching a plan, then building their solution, testing it to see how it works, and finally making improvements based on test results."
+                    },
+                    {
+                        "text": "Test, plan, build, improve",
+                        "isCorrect": 0,
+                        "explanation": "Testing cannot come first since there needs to be a plan and something built to test. Planning should always be the first step."
+                    },
+                    {
+                        "text": "Build, test, plan, improve",
+                        "isCorrect": 0,
+                        "explanation": "Building without a plan first can waste time and resources. Engineers always start with planning to organize their ideas."
+                    },
+                    {
+                        "text": "Plan, test, improve, build",
+                        "isCorrect": 0,
+                        "explanation": "Testing cannot happen before building since there needs to be something built to test. Building should come after planning but before testing."
+                    }
+                ],
+                "funFact": "The engineering design process is actually cyclical - after improving their design, engineers often go back to planning and repeat the steps multiple times until they find the best solution!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about the steps engineers follow when solving a problem (plan, build, test, improve)"
+        },
+        {
+            "question": {
+                "text": "An engineer has a set of building blocks that can be used to create different structures. She first builds a small bridge using all the blocks. Later, she takes apart the bridge and uses the same blocks to build a tower. Which statement best explains what happened in this process?",
+                "options": [
+                    {
+                        "text": "The same set of blocks can be rearranged to create different objects with different characteristics",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because the blocks can be disassembled and reassembled in different ways to create new objects with different properties and uses."
+                    },
+                    {
+                        "text": "New blocks must have been added to create a completely different structure",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the same set of blocks was used - no new blocks were needed to create the different structure."
+                    },
+                    {
+                        "text": "The bridge and tower must be exactly the same size and shape",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the same pieces can be arranged differently to create objects with different sizes and shapes."
+                    },
+                    {
+                        "text": "Once blocks are used to build something, they can't be used to make anything else",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because blocks can be taken apart and reused to create many different objects."
+                    }
+                ],
+                "funFact": "The famous LEGO company makes over 60 billion blocks each year, and these identical pieces can be combined in billions of different ways - demonstrating how a small set of pieces can create endless possibilities!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint about how small pieces can be taken apart and reassembled to create different objects"
+        },
+        {
+            "question": {
+                "text": "An engineer is building a bridge using wooden blocks. She first makes a straight bridge, but then takes it apart and uses the same blocks to make a curved bridge. What does this demonstration show about using the same pieces to build different objects?",
+                "options": [
+                    {
+                        "text": "The same set of pieces can be used to create objects with different characteristics",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because the same wooden blocks can be rearranged to create bridges with different shapes and features, showing how versatile a single set of pieces can be."
+                    },
+                    {
+                        "text": "Using the same pieces will always create identical objects",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the same pieces can be arranged in different ways to create objects with different characteristics, as shown by the straight and curved bridges."
+                    },
+                    {
+                        "text": "New pieces must be added to create different objects",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because different objects can be created by simply rearranging the same set of pieces, without adding new ones."
+                    },
+                    {
+                        "text": "Once pieces are used to build something, they can't be used again",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because pieces can be taken apart and reused to build new objects, as demonstrated by dismantling the straight bridge to build the curved one."
+                    }
+                ],
+                "funFact": "The ancient Romans used the same basic building blocks - stones and concrete - to create different types of bridges, from straight beam bridges to curved arch bridges. Their arch bridges were so well designed that many are still standing and in use today, over 2000 years later!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about how the same set of pieces can be used to build different objects with different characteristics"
+        },
+        {
+            "question": {
+                "text": "A team of student engineers built a bridge out of popsicle sticks. They designed it on paper and thought it would hold a lot of weight. Why is it important for them to actually test their bridge design?",
+                "options": [
+                    {
+                        "text": "Testing helps determine if the design works as expected in real conditions",
+                        "isCorrect": 1,
+                        "explanation": "Testing reveals how a design performs in actual conditions, which may be different from what was planned on paper. This allows engineers to identify problems and make improvements."
+                    },
+                    {
+                        "text": "Testing is only needed if the design looks complicated",
+                        "isCorrect": 0,
+                        "explanation": "All designs need testing, regardless of how simple or complex they appear. Even simple-looking designs can have unexpected issues that only testing will reveal."
+                    },
+                    {
+                        "text": "Testing is just to show others that the design works",
+                        "isCorrect": 0,
+                        "explanation": "The main purpose of testing isn't to demonstrate to others - it's to verify if the design actually solves the problem and to find ways to improve it."
+                    },
+                    {
+                        "text": "Testing isn't important if the design looks good on paper",
+                        "isCorrect": 0,
+                        "explanation": "Even if a design looks perfect on paper, real-world conditions can affect how it actually performs. Paper designs can't predict all possible issues."
+                    }
+                ],
+                "funFact": "The famous Tacoma Narrows Bridge collapsed in 1940 because engineers didn't fully test how it would respond to wind. This led to major changes in how bridges are tested, including using wind tunnel tests on small-scale models before building full-size bridges."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about why testing is necessary to figure out if a solution works in real life"
+        },
+        {
+            "question": {
+                "text": "An engineer is designing a new toy bridge that needs to hold small toy cars. Which property of the building material would be most important for this purpose?",
+                "options": [
+                    {
+                        "text": "The material's strength",
+                        "isCorrect": 1,
+                        "explanation": "The strength of the material is crucial for a bridge that needs to support weight. This property ensures the bridge won't collapse under the load of the toy cars."
+                    },
+                    {
+                        "text": "The material's color",
+                        "isCorrect": 0,
+                        "explanation": "While color might make the bridge look nice, it doesn't affect the bridge's ability to hold toy cars. Color is an aesthetic property rather than a functional one."
+                    },
+                    {
+                        "text": "The material's smell",
+                        "isCorrect": 0,
+                        "explanation": "The smell of a material doesn't affect its ability to function as a bridge. This property isn't relevant for supporting weight."
+                    },
+                    {
+                        "text": "The material's smoothness",
+                        "isCorrect": 0,
+                        "explanation": "While smoothness might affect how the bridge feels, it's not the most important property for ensuring the bridge can hold toy cars."
+                    }
+                ],
+                "funFact": "The Golden Gate Bridge in San Francisco uses special steel that can flex and bend in high winds and during earthquakes while still maintaining its strength. Engineers carefully chose this material based on its properties!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about how the properties of materials determine their use in engineering solutions"
+        },
+        {
+            "question": {
+                "text": "What is the main purpose of an engineer's work?",
+                "options": [
+                    {
+                        "text": "To solve problems by creating and improving solutions",
+                        "isCorrect": 1,
+                        "explanation": "Engineers primarily focus on finding solutions to problems through creative design, building, and continuous improvement of their solutions."
+                    },
+                    {
+                        "text": "To draw beautiful sketches of machines",
+                        "isCorrect": 0,
+                        "explanation": "While sketching is a tool engineers use to plan their designs, it's not their main purpose. Sketching helps them visualize solutions but is just one step in the problem-solving process."
+                    },
+                    {
+                        "text": "To work only with computers",
+                        "isCorrect": 0,
+                        "explanation": "Engineers use many tools including computers, but their main purpose is solving problems. Computers are just one of many tools they might use."
+                    },
+                    {
+                        "text": "To make things fail and break",
+                        "isCorrect": 0,
+                        "explanation": "While testing often involves failures, engineers don't aim to make things fail. They learn from failures to improve their designs and create better solutions."
+                    }
+                ],
+                "funFact": "The word 'engineer' comes from the Latin word 'ingenium' meaning cleverness and 'ingeniare' meaning to design or devise. This reflects how engineers use their creativity and cleverness to solve problems!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking to identify the main goal of engineers (solving problems through creating and building things)"
+        },
+        {
+            "question": {
+                "text": "How do engineers use observations to improve their designs when testing a solution?",
+                "options": [
+                    {
+                        "text": "They observe how their design works and make changes based on what they learn",
+                        "isCorrect": 1,
+                        "explanation": "Engineers carefully observe their designs during testing to identify problems and areas for improvement, which helps them make better solutions."
+                    },
+                    {
+                        "text": "They only observe successful tests and ignore failed attempts",
+                        "isCorrect": 0,
+                        "explanation": "Engineers learn valuable information from both successful and failed tests - failures often provide the most important insights for improvement."
+                    },
+                    {
+                        "text": "They make observations but never change their original design",
+                        "isCorrect": 0,
+                        "explanation": "Making changes and improvements based on observations is a key part of engineering - the original design is rarely the final version."
+                    },
+                    {
+                        "text": "They observe others' designs and copy them exactly",
+                        "isCorrect": 0,
+                        "explanation": "While engineers may learn from others' work, they use their own observations and creativity to develop unique solutions rather than just copying."
+                    }
+                ],
+                "funFact": "The Wright brothers made over 1000 test flights and observations while developing their first successful airplane, making small improvements each time until they achieved powered flight in 1903."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking about how engineers use observation to improve their designs"
+        },
+        {
+            "question": {
+                "text": "Which of the following engineers would most likely work on designing a robotic arm for a manufacturing plant?",
+                "options": [
+                    {
+                        "text": "Mechanical engineer",
+                        "isCorrect": 1,
+                        "explanation": "Mechanical engineers specialize in designing the structural components, motion systems, and mechanical aspects of robots, making them the most qualified to work on robotic arms for manufacturing."
+                    },
+                    {
+                        "text": "Biomedical engineer",
+                        "isCorrect": 0,
+                        "explanation": "Biomedical engineers focus on medical equipment and solutions for healthcare, not industrial robotics."
+                    },
+                    {
+                        "text": "Aerospace engineer",
+                        "isCorrect": 0,
+                        "explanation": "Aerospace engineers primarily work on aircraft and spacecraft design, not manufacturing robots."
+                    },
+                    {
+                        "text": "Chemical engineer",
+                        "isCorrect": 0,
+                        "explanation": "Chemical engineers work with chemicals and chemical processes, not robotics or automation systems."
+                    },
+                    {
+                        "text": "Electrical engineer",
+                        "isCorrect": 0,
+                        "explanation": "While electrical engineers contribute to robotic systems, particularly with electronics, circuits, and control systems, the overall mechanical design of a robotic arm would typically be led by mechanical engineers."
+                    }
+                ],
+                "funFact": "The first industrial robot, called Unimate, was installed in a General Motors plant in 1961. It was used for die casting handling and spot welding, revolutionizing manufacturing automation!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint asking to identify different types of engineers and what they work on (robots, medicine, aerospace)"
+        },
+        {
+            "question": {
+                "text": "A student builds a tower using building blocks. If they want to use the same blocks to create a bridge, which of the following approaches would be most appropriate?",
+                "options": [
+                    {
+                        "text": "First draw a sketch of the bridge design, then carefully disassemble the tower and use the blocks to build the bridge according to the plan",
+                        "isCorrect": 1,
+                        "explanation": "Planning before building helps ensure successful construction and efficient use of materials. This systematic approach follows good engineering practices."
+                    },
+                    {
+                        "text": "Leave the tower as is and get new blocks to build the bridge",
+                        "isCorrect": 0,
+                        "explanation": "This approach misses the point that the same set of pieces can be reused to create different objects. It's not necessary to use new materials."
+                    },
+                    {
+                        "text": "Quickly knock down the tower and immediately start building the bridge",
+                        "isCorrect": 0,
+                        "explanation": "Building without a plan can lead to inefficient use of materials and multiple attempts. It's better to have a clear design in mind first."
+                    },
+                    {
+                        "text": "Build the bridge around the existing tower",
+                        "isCorrect": 0,
+                        "explanation": "This doesn't make use of the existing blocks effectively. The goal is to repurpose the same pieces into a completely new structure."
+                    }
+                ],
+                "funFact": "The ancient Romans were masters at reusing building materials. When they needed to build something new, they often carefully dismantled older structures and repurposed the stones and materials, a practice called 'spolia' that helped them build efficiently and sustainably."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student has a set of wooden blocks arranged as a bridge. Describe how these same blocks could be rearranged to create a different structure while maintaining all the original pieces."
+        },
+        {
+            "question": {
+                "text": "A student uses the same set of building blocks to create two different structures: a tower and a bridge. How can these structures have different properties even though they are made from identical pieces?",
+                "options": [
+                    {
+                        "text": "The arrangement of the blocks determines the properties of the final structure, like stability and shape",
+                        "isCorrect": 1,
+                        "explanation": "The way blocks are arranged affects the final structure's properties. Different arrangements of the same pieces can create structures with very different characteristics."
+                    },
+                    {
+                        "text": "The blocks change their individual properties when used in different structures",
+                        "isCorrect": 0,
+                        "explanation": "Building blocks maintain their individual properties. It's their arrangement, not their properties, that changes in different structures."
+                    },
+                    {
+                        "text": "The structures must have exactly the same properties because they use identical pieces",
+                        "isCorrect": 0,
+                        "explanation": "Different structures can have different properties even when made from identical pieces, depending on how those pieces are arranged and connected."
+                    },
+                    {
+                        "text": "New blocks are automatically created when building different structures",
+                        "isCorrect": 0,
+                        "explanation": "No new blocks are created during construction. The same set of blocks is simply rearranged to create different structures."
+                    }
+                ],
+                "funFact": "Ancient Roman engineers used the same basic building blocks - stones and concrete - to create vastly different structures like aqueducts, bridges, and domes. The Pantheon in Rome, built around 126 AD, remains the world's largest unreinforced concrete dome, demonstrating how arrangement of materials can create remarkable properties!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare two different toy structures made from identical building pieces. Explain how the properties of the final structures differ despite using the same components."
+        },
+        {
+            "question": {
+                "text": "A student has built a bridge using uncooked spaghetti noodles. The bridge is sagging in the middle and cannot support much weight. Which change would most likely make the bridge structure stronger?",
+                "options": [
+                    {
+                        "text": "Rearranging the noodles to create triangular shapes throughout the bridge",
+                        "isCorrect": 1,
+                        "explanation": "Triangular shapes in structures provide greater stability and distribute forces more evenly, making the bridge stronger."
+                    },
+                    {
+                        "text": "Using the same number of noodles but laying them all parallel to each other",
+                        "isCorrect": 0,
+                        "explanation": "Parallel noodles without cross-supports would make the bridge weaker as there is no distribution of forces across the structure."
+                    },
+                    {
+                        "text": "Stacking all the noodles vertically in the middle of the bridge",
+                        "isCorrect": 0,
+                        "explanation": "Concentrating all noodles in the middle would leave the ends unsupported and wouldn't improve the bridge's overall strength."
+                    },
+                    {
+                        "text": "Breaking the noodles into smaller pieces and spreading them evenly",
+                        "isCorrect": 0,
+                        "explanation": "Shorter pieces would create more weak points in the structure and reduce the bridge's overall strength."
+                    }
+                ],
+                "funFact": "The triangular shape is so strong that it's used in many real bridges and buildings worldwide. The Eiffel Tower, for example, is essentially made up of thousands of triangles working together to create one of the world's most famous and sturdy structures!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a pasta bridge design, analyze how the same pasta pieces could be reconfigured to create a stronger structure."
+        },
+        {
+            "question": {
+                "text": "A student used building blocks to create a model house. The house was 6 blocks tall and had a square base. Later, the student took apart the house and used the same blocks to build a bridge. Which property of the structure changed when the blocks were rearranged from a house to a bridge?",
+                "options": [
+                    {
+                        "text": "The color of the blocks",
+                        "isCorrect": 0,
+                        "explanation": "The color of the blocks remains the same when they are rearranged into a new structure since the same blocks are being used."
+                    },
+                    {
+                        "text": "The shape of the structure",
+                        "isCorrect": 1,
+                        "explanation": "When blocks are rearranged from one structure to another, the overall shape changes even though the same pieces are used."
+                    },
+                    {
+                        "text": "The material of the blocks",
+                        "isCorrect": 0,
+                        "explanation": "The material of the blocks stays the same since the original blocks are being reused to make the new structure."
+                    },
+                    {
+                        "text": "The size of individual blocks",
+                        "isCorrect": 0,
+                        "explanation": "Individual blocks maintain their size when they are used to build different structures."
+                    }
+                ],
+                "funFact": "The world's largest LEGO tower was built in Milan, Italy in 2015. It used over half a million LEGO bricks and stood 35.05 meters (about 115 feet) tall, demonstrating how simple blocks can be used to create incredibly different structures!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine before and after pictures of a construction project using building blocks. Determine which properties changed when the blocks were reassembled into a new structure."
+        },
+        {
+            "question": {
+                "text": "A student has a toy car made of 20 small plastic building blocks. If the student takes apart all the pieces of the car, which of the following objects could they potentially build using all 20 pieces?",
+                "options": [
+                    {
+                        "text": "A small boat",
+                        "isCorrect": 1,
+                        "explanation": "The same set of building blocks can be rearranged to create different objects. A boat could be constructed using all 20 pieces by arranging them in a new way."
+                    },
+                    {
+                        "text": "A skyscraper using 40 blocks",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because you cannot build something with 40 blocks when you only have 20 blocks available from the original car."
+                    },
+                    {
+                        "text": "Only another car exactly like the original",
+                        "isCorrect": 0,
+                        "explanation": "The same set of pieces can be used to build many different objects, not just the original design."
+                    },
+                    {
+                        "text": "Nothing else because the pieces only fit one way",
+                        "isCorrect": 0,
+                        "explanation": "Building blocks are designed to be versatile and can be connected in many different ways to create various objects."
+                    }
+                ],
+                "funFact": "The LEGO Group, famous for their building blocks, started in 1932 making wooden toys. Their plastic bricks weren't invented until 1949. Now, there are so many LEGO pieces in the world that each person on Earth could have 86 LEGO bricks!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student disassembles a toy car made of small plastic pieces. Describe potential new objects that could be created using all the same pieces."
+        },
+        {
+            "question": {
+                "text": "A student builds two towers using identical wooden blocks. Tower A has blocks stacked directly on top of each other in a straight line. Tower B has blocks arranged in a staggered pattern where each block partially overlaps the blocks below it. Which tower is likely to be more stable?",
+                "options": [
+                    {
+                        "text": "Tower B with staggered blocks",
+                        "isCorrect": 1,
+                        "explanation": "The staggered arrangement distributes weight more evenly and provides better support, making Tower B more stable. Each block helps lock the others in place."
+                    },
+                    {
+                        "text": "Both towers are equally stable",
+                        "isCorrect": 0,
+                        "explanation": "The arrangement of blocks significantly affects stability. A straight stack is less stable than a staggered pattern because it has a narrower base of support."
+                    },
+                    {
+                        "text": "Tower A with straight stacked blocks",
+                        "isCorrect": 0,
+                        "explanation": "A straight stack of blocks is less stable because even a slight shift in any block can cause the entire tower to topple. It has less structural support than a staggered arrangement."
+                    }
+                ],
+                "funFact": "Ancient civilizations like the Incas used a similar staggered stone-building technique called 'ashlar masonry' to build earthquake-resistant structures. Some of these buildings have survived for over 500 years!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a set of identical building blocks used in two different ways, evaluate how the stability of each structure differs based on the arrangement of pieces."
+        },
+        {
+            "question": {
+                "text": "A student uses 12 identical building blocks to create two different towers. Tower A is tall and narrow, while Tower B is short and wide. Which statement best compares the properties of these two towers?",
+                "options": [
+                    {
+                        "text": "The towers have different properties even though they are made from the same pieces",
+                        "isCorrect": 1,
+                        "explanation": "When the same pieces are arranged differently, they can create objects with different properties like height and width while using identical building materials."
+                    },
+                    {
+                        "text": "The towers must have the same properties since they use the same blocks",
+                        "isCorrect": 0,
+                        "explanation": "Different arrangements of the same pieces can result in objects with different properties. The way pieces are assembled matters as much as the pieces themselves."
+                    },
+                    {
+                        "text": "Tower A must be stronger because it uses more blocks",
+                        "isCorrect": 0,
+                        "explanation": "Both towers use the same number of blocks (12). The strength depends on how the blocks are arranged, not the number of blocks used."
+                    },
+                    {
+                        "text": "Tower B cannot be built with the same blocks as Tower A",
+                        "isCorrect": 0,
+                        "explanation": "The same set of blocks can be used to build many different structures. The blocks can be rearranged to create towers of different shapes and sizes."
+                    }
+                ],
+                "funFact": "Engineers who design skyscrapers use this same principle on a massive scale - the same building materials can create buildings of many different shapes and sizes, from tall narrow towers to shorter wider buildings, each with their own unique properties!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Compare the height and width properties of two different towers built using the exact same number and type of blocks."
+        },
+        {
+            "question": {
+                "text": "A student builds a bridge using 20 identical pasta sticks arranged in a single layer. If the student wants to make a taller and stronger bridge using all the same pasta sticks, which change in the arrangement would be most effective?",
+                "options": [
+                    {
+                        "text": "Rearranging the pasta sticks into multiple layers with cross-bracing",
+                        "isCorrect": 1,
+                        "explanation": "Using multiple layers with cross-bracing creates a stronger structure by distributing force across different levels and providing better support."
+                    },
+                    {
+                        "text": "Laying all pasta sticks side by side horizontally",
+                        "isCorrect": 0,
+                        "explanation": "Simply laying sticks side by side creates a flat structure that won't be taller or stronger than the original bridge."
+                    },
+                    {
+                        "text": "Standing all pasta sticks vertically in a line",
+                        "isCorrect": 0,
+                        "explanation": "While this would make the structure taller, it would be very unstable and weak without proper connections between the sticks."
+                    },
+                    {
+                        "text": "Arranging the pasta sticks in a circular pattern",
+                        "isCorrect": 0,
+                        "explanation": "A circular pattern on a single level wouldn't make the bridge taller or necessarily stronger than the original design."
+                    }
+                ],
+                "funFact": "Engineers often use triangular shapes in bridge designs because triangles are the only polygon that cannot be deformed without changing the length of its sides, making them extremely stable building blocks for structures!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Examine how the shape properties of a structure change when its building pieces are rearranged in a new pattern while using all original pieces."
+        },
+        {
+            "question": {
+                "text": "A student has a toy robot made of interconnecting blocks. The robot has a rectangular body, two arms, two legs, and a head. If the student takes apart all the pieces of the robot, which of the following objects could they build using all the same pieces?",
+                "options": [
+                    {
+                        "text": "A rocket ship with a pointed top, a long body, and fins at the bottom",
+                        "isCorrect": 1,
+                        "explanation": "Since all the pieces are interconnecting blocks, they can be rearranged in many different ways. The same pieces that made the robot's body, arms, legs, and head can be reassembled to form a rocket shape."
+                    },
+                    {
+                        "text": "A larger robot that's twice the size of the original",
+                        "isCorrect": 0,
+                        "explanation": "Using the same pieces, it's impossible to build something larger than the original object. The total size is limited by the number of pieces available."
+                    },
+                    {
+                        "text": "A castle with five towers and a drawbridge",
+                        "isCorrect": 0,
+                        "explanation": "While the pieces could potentially make a castle, having five towers and a drawbridge would likely require more pieces than what was available in the original robot."
+                    },
+                    {
+                        "text": "Multiple smaller robots",
+                        "isCorrect": 0,
+                        "explanation": "While the pieces can be rearranged, making multiple complete robots would require additional pieces beyond what was available in the original robot."
+                    }
+                ],
+                "funFact": "Just like building blocks can be used to create different structures, many real-world machines and devices are designed with modular parts that can be reconfigured for different purposes. For example, some modern spacecraft have components that can be rearranged to serve different functions during various stages of space missions!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student has a robot toy made of interconnecting parts. Predict what new object could be created by disassembling and rearranging all the same pieces."
+        },
+        {
+            "question": {
+                "text": "A student builds a bridge using toy building blocks, with two support towers and a horizontal span connecting them. If the student rearranges the same blocks to make a taller single tower instead of a bridge, how would this change affect the stability of the structure?",
+                "options": [
+                    {
+                        "text": "The taller single tower would be more stable because all blocks are stacked directly on top of each other",
+                        "isCorrect": 0,
+                        "explanation": "While blocks stacked directly provide good support, a taller single tower actually has a higher center of gravity, making it less stable than a lower, wider structure."
+                    },
+                    {
+                        "text": "The taller single tower would be less stable because it has a higher center of gravity",
+                        "isCorrect": 1,
+                        "explanation": "When the same blocks are arranged into a taller structure, the center of gravity rises, making the structure more likely to topple over compared to a lower, wider design like the bridge."
+                    },
+                    {
+                        "text": "Both structures would have the same stability because they use the same number of blocks",
+                        "isCorrect": 0,
+                        "explanation": "Stability depends on how the blocks are arranged, not just the number of blocks used. The arrangement affects the center of gravity and overall structural integrity."
+                    },
+                    {
+                        "text": "The stability would depend only on how tightly the blocks fit together",
+                        "isCorrect": 0,
+                        "explanation": "While tight-fitting blocks are important, the overall arrangement and height of the structure significantly affect stability, regardless of how well the blocks fit together."
+                    }
+                ],
+                "funFact": "Ancient Roman engineers used this principle when building aqueducts, making them wide and low rather than tall and narrow. This is why many Roman aqueducts are still standing after 2000 years!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze how the weight distribution changes when the same set of building pieces is arranged in different configurations."
+        },
+        {
+            "question": {
+                "text": "A student uses building blocks to create a simple bridge. The bridge is made of 20 blocks arranged in two parallel rows with cross-supports. If the student wants to create a tower using the exact same blocks, which property of the new structure would be different from the bridge?",
+                "options": [
+                    {
+                        "text": "The height of the structure",
+                        "isCorrect": 1,
+                        "explanation": "When the same blocks are rearranged from a horizontal bridge to a vertical tower, the height will significantly change while using the same pieces."
+                    },
+                    {
+                        "text": "The color of the structure",
+                        "isCorrect": 0,
+                        "explanation": "Using the same blocks means the colors will remain the same, regardless of how they are arranged."
+                    },
+                    {
+                        "text": "The weight of the structure",
+                        "isCorrect": 0,
+                        "explanation": "The total weight remains the same since we're using the exact same blocks, just arranged differently."
+                    },
+                    {
+                        "text": "The material of the structure",
+                        "isCorrect": 0,
+                        "explanation": "The material properties don't change when the same blocks are rearranged into a different shape."
+                    }
+                ],
+                "funFact": "The world's tallest LEGO tower was built in Milan, Italy in 2015, using over 550,000 blocks and reaching a height of 35.05 meters (115 feet)! This shows how the same basic building blocks can be used to create dramatically different structures."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a simple machine made of basic parts, determine how rearranging the same parts could create a different type of machine with new properties."
+        },
+        {
+            "question": {
+                "text": "A student builds a bridge using pasta noodles and glue. After testing, the bridge breaks under heavy weight. The student then uses the same broken pasta pieces to create a different structure - a tower. How does rearranging the same pasta pieces into a tower instead of a bridge affect the function of the structure?",
+                "options": [
+                    {
+                        "text": "The tower can support different types of forces because of the new arrangement of the same pieces",
+                        "isCorrect": 1,
+                        "explanation": "When the same pieces are arranged differently, the structure's ability to handle forces changes. A tower is better at handling vertical compression forces while a bridge needs to handle both tension and compression."
+                    },
+                    {
+                        "text": "The tower will function exactly the same as the bridge since it uses the same pieces",
+                        "isCorrect": 0,
+                        "explanation": "Even though the same materials are used, changing how they are arranged creates a structure with different properties and functions."
+                    },
+                    {
+                        "text": "The tower will be weaker because the pasta pieces were already broken once",
+                        "isCorrect": 0,
+                        "explanation": "The broken pasta pieces can still be effective building materials when arranged properly. The strength depends more on the arrangement than the size of the pieces."
+                    },
+                    {
+                        "text": "The tower cannot be built because broken pieces cannot form a new structure",
+                        "isCorrect": 0,
+                        "explanation": "Broken or smaller pieces can be reassembled into new structures. Many useful objects can be built by combining smaller pieces in different ways."
+                    }
+                ],
+                "funFact": "Ancient Romans developed a revolutionary building material called opus caementicium (Roman concrete) by mixing lime, volcanic ash, and aggregates including broken stones. This concrete could set underwater and has proven incredibly durable - some Roman concrete structures have survived for 2,000 years!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Analyze how the function of a structure changes when the same building pieces are arranged in different configurations."
+        },
+        {
+            "question": {
+                "text": "A group of students built a pasta bridge using spaghetti noodles and glue. After testing, they want to rebuild it into a different structure. Which statement best describes what they can do with the same materials?",
+                "options": [
+                    {
+                        "text": "They can carefully break apart the original bridge and use the same pieces to build a different structure, though some pieces might need to be adjusted",
+                        "isCorrect": 1,
+                        "explanation": "The same materials can be disassembled and reassembled into a new structure with different characteristics, demonstrating how pieces can be reused creatively"
+                    },
+                    {
+                        "text": "They must keep the bridge as it is because once pasta is glued together, it cannot be taken apart",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because structures can be carefully disassembled even when adhesives are used, though some pieces might need minor adjustments"
+                    },
+                    {
+                        "text": "They need to get completely new materials to build a different structure",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the same set of pieces can be reused to create different structures - new materials are not always necessary"
+                    },
+                    {
+                        "text": "The structure can only be rebuilt into exactly the same bridge design",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the same pieces can be reassembled in different ways to create new structures with different characteristics"
+                    }
+                ],
+                "funFact": "Engineers often create prototypes using simple materials like pasta, toothpicks, or popsicle sticks before building full-scale structures. This helps them test designs and make improvements at a smaller, more manageable scale!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how a pasta bridge made of individual pieces can be taken apart and rebuilt into a different structure while using the same materials"
+        },
+        {
+            "question": {
+                "text": "How did the development of light bulbs demonstrate the engineering process of improving a solution?",
+                "options": [
+                    {
+                        "text": "The original light bulb produced light but had issues with heat, so engineers created newer versions that produced less heat and used less energy",
+                        "isCorrect": 1,
+                        "explanation": "This shows how engineers identified a problem with the original design (excess heat) and improved it while maintaining the main function (producing light)"
+                    },
+                    {
+                        "text": "Engineers completely replaced the original light bulb design with an entirely different lighting system",
+                        "isCorrect": 0,
+                        "explanation": "Engineers built upon and improved the original design rather than completely replacing it with a different system"
+                    },
+                    {
+                        "text": "The original light bulb was perfect and needed no improvements",
+                        "isCorrect": 0,
+                        "explanation": "The original design had issues like generating too much heat and using more energy than necessary, showing room for improvement"
+                    },
+                    {
+                        "text": "Engineers made the light bulb brighter but didn't address any other issues",
+                        "isCorrect": 0,
+                        "explanation": "Engineers improved multiple aspects of the light bulb, including reducing heat and energy consumption, not just brightness"
+                    }
+                ],
+                "funFact": "Thomas Edison's first successful light bulb in 1879 could only last for about 13.5 hours. Today's LED light bulbs can last for up to 50,000 hours - that's more than 5 years of continuous use!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate how an engineer's original design for a light bulb evolved into different versions while maintaining the same basic components"
+        },
+        {
+            "question": {
+                "text": "A student builds a bridge using identical plastic building blocks. After testing, the bridge collapses under weight. The student then uses the same blocks to build a different bridge design that successfully holds the weight. What does this example best demonstrate about engineering?",
+                "options": [
+                    {
+                        "text": "The arrangement of pieces is more important than the number of pieces used",
+                        "isCorrect": 1,
+                        "explanation": "This is correct because the same pieces arranged differently led to a successful design, showing that how parts are arranged matters more than quantity."
+                    },
+                    {
+                        "text": "More building blocks are always needed to make a stronger structure",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because using more pieces doesn't automatically make a structure stronger - the arrangement matters more than quantity."
+                    },
+                    {
+                        "text": "Failed designs should be rebuilt using different materials",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because the successful bridge was built using the same materials, just arranged differently."
+                    },
+                    {
+                        "text": "Testing is unnecessary if the same materials are being used",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because testing is essential even when using the same materials, as different arrangements can lead to different results."
+                    }
+                ],
+                "funFact": "The ancient Romans discovered that the arch shape in bridges could support much more weight than flat designs, even when using the same amount of materials. This discovery revolutionized architecture and engineering!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how the arrangement of identical pieces can result in objects with different functions or purposes"
+        },
+        {
+            "question": {
+                "text": "A robotics team wants to build a robot that can pick up and move small objects. They have a set of parts including motors, sensors, wheels, and a grabbing arm. After building their first design, they notice the robot keeps dropping objects. Which change in the arrangement of parts would most likely improve the robot's ability to hold objects?",
+                "options": [
+                    {
+                        "text": "Moving the grabbing arm closer to the wheels",
+                        "isCorrect": 0,
+                        "explanation": "Moving the arm closer to the wheels would not improve grip strength. The position relative to wheels mainly affects mobility, not gripping ability."
+                    },
+                    {
+                        "text": "Adding more sensors to detect object colors",
+                        "isCorrect": 0,
+                        "explanation": "While color detection might help identify objects, it would not improve the robot's physical ability to hold objects securely."
+                    },
+                    {
+                        "text": "Repositioning the grabbing arm's motor for better grip strength",
+                        "isCorrect": 1,
+                        "explanation": "Changing the motor's position to provide more direct force to the grabbing mechanism would improve the robot's ability to hold objects securely."
+                    },
+                    {
+                        "text": "Making the wheels larger",
+                        "isCorrect": 0,
+                        "explanation": "Changing wheel size affects the robot's movement and speed but would not improve its ability to hold objects."
+                    }
+                ],
+                "funFact": "Modern robotic grippers often use special sensors called force-feedback sensors that help them know exactly how much pressure to apply when picking up objects - enough to hold securely but not so much that they might damage delicate items!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Determine how changing the arrangement of parts in a robot design affects its functionality while using the same set of components"
+        },
+        {
+            "question": {
+                "text": "A student is building a bridge using popsicle sticks. After testing their first design, they notice the bridge cannot support much weight. What would be the most helpful step to improve their design?",
+                "options": [
+                    {
+                        "text": "Test different arrangements of the popsicle sticks to find which design is strongest",
+                        "isCorrect": 1,
+                        "explanation": "Testing different arrangements helps discover which design provides the best support, allowing the student to improve their solution through observation and evidence."
+                    },
+                    {
+                        "text": "Use exactly the same arrangement but add more popsicle sticks",
+                        "isCorrect": 0,
+                        "explanation": "Simply adding more materials without changing the design may not address the underlying structural weakness in the arrangement."
+                    },
+                    {
+                        "text": "Start over with a completely new design without testing why the first one failed",
+                        "isCorrect": 0,
+                        "explanation": "Starting over without understanding why the first design failed means potentially repeating the same mistakes and missing valuable learning opportunities."
+                    },
+                    {
+                        "text": "Give up since the first attempt didn't work",
+                        "isCorrect": 0,
+                        "explanation": "Engineers learn from failed attempts and use that information to improve their designs. Giving up prevents finding a successful solution."
+                    }
+                ],
+                "funFact": "The ancient Romans used a similar testing process when building their famous arched bridges. They would keep the wooden support framework in place until the final stone was set, then test the bridge's strength. If the bridge collapsed during testing, they would learn from the failure and rebuild it stronger!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine how testing and observation help determine which arrangement of pieces creates the most effective solution"
+        },
+        {
+            "question": {
+                "text": "A student is building a bridge using identical pasta sticks. Which arrangement of the pasta sticks would create the strongest bridge structure?",
+                "options": [
+                    {
+                        "text": "Laying all pasta sticks flat and parallel to each other",
+                        "isCorrect": 0,
+                        "explanation": "When pasta sticks are laid flat and parallel, the structure lacks triangular bracing and is weak against vertical forces."
+                    },
+                    {
+                        "text": "Creating triangular patterns by connecting the pasta sticks at angles",
+                        "isCorrect": 1,
+                        "explanation": "Triangular arrangements distribute force evenly and provide the most stability, making the bridge stronger."
+                    },
+                    {
+                        "text": "Stacking pasta sticks vertically on top of each other",
+                        "isCorrect": 0,
+                        "explanation": "Vertical stacking without proper connections makes the structure unstable and likely to topple."
+                    },
+                    {
+                        "text": "Arranging pasta sticks in squares or rectangles",
+                        "isCorrect": 0,
+                        "explanation": "Square or rectangular arrangements can easily deform under pressure because they lack diagonal support."
+                    }
+                ],
+                "funFact": "The triangular shape is so strong that it's used in major bridge constructions worldwide! The famous Sydney Harbour Bridge in Australia uses over 6 million steel rivets to hold together its triangular steel components."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how the position and orientation of identical pieces affect the stability and strength of the final structure"
+        },
+        {
+            "question": {
+                "text": "A student wants to build a small bridge using only popsicle sticks. Why would it be helpful to first break down a working bridge design into its basic parts before starting construction?",
+                "options": [
+                    {
+                        "text": "To understand how different pieces work together and create a better plan",
+                        "isCorrect": 1,
+                        "explanation": "Breaking down a complex structure helps understand how individual pieces contribute to the whole design, making it easier to plan and build effectively."
+                    },
+                    {
+                        "text": "To make sure there are enough materials to build the bridge",
+                        "isCorrect": 0,
+                        "explanation": "While having enough materials is important, analyzing the parts helps more with understanding the structure than counting materials."
+                    },
+                    {
+                        "text": "To make the bridge building process take longer",
+                        "isCorrect": 0,
+                        "explanation": "Breaking down and analyzing parts actually helps make the building process more efficient, not longer."
+                    },
+                    {
+                        "text": "To avoid having to test the bridge when it's done",
+                        "isCorrect": 0,
+                        "explanation": "Understanding the parts doesn't eliminate the need for testing - testing is still important to ensure the design works as intended."
+                    }
+                ],
+                "funFact": "Ancient Roman engineers were masters at breaking down complex structures into simple parts. They used this knowledge to build aqueducts and bridges that have lasted over 2,000 years - some are still standing and in use today!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate how breaking down a complex object into smaller pieces helps understand its structure and potential for reconstruction"
+        },
+        {
+            "question": {
+                "text": "A group of students is building a bridge using wooden blocks. They need to decide which configuration would be best for supporting the most weight. Which arrangement of the blocks would create the strongest bridge?",
+                "options": [
+                    {
+                        "text": "Stacking blocks vertically in a single column",
+                        "isCorrect": 0,
+                        "explanation": "A single column of blocks would be unstable and likely to topple under weight. This arrangement lacks the structural support needed for a strong bridge."
+                    },
+                    {
+                        "text": "Laying blocks side by side in a single layer",
+                        "isCorrect": 0,
+                        "explanation": "A single layer of blocks would not provide enough support and could break easily in the middle when weight is applied."
+                    },
+                    {
+                        "text": "Creating a triangular pattern with blocks overlapping",
+                        "isCorrect": 1,
+                        "explanation": "Triangular patterns create strong support structures by distributing weight evenly. The overlapping blocks provide stability and strength."
+                    },
+                    {
+                        "text": "Arranging blocks in a zigzag pattern without overlap",
+                        "isCorrect": 0,
+                        "explanation": "A zigzag pattern without overlap would have weak points where the blocks meet, making the bridge likely to fail under weight."
+                    }
+                ],
+                "funFact": "Ancient Roman engineers used semicircular arch designs in their bridges and aqueducts. Many of these structures are still standing today, over 2000 years later! Triangular patterns are commonly used in modern bridge trusses because they create exceptionally strong support systems that distribute weight efficiently."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare multiple possible configurations of the same set of pieces and analyze their effectiveness for different purposes"
+        },
+        {
+            "question": {
+                "text": "A team of engineers is working on designing a toy bridge using building blocks. They want to use the same set of blocks to also create a toy house. Which statement best describes how they can achieve this goal?",
+                "options": [
+                    {
+                        "text": "The blocks can only be used to build one structure at a time, either the bridge or the house",
+                        "isCorrect": 0,
+                        "explanation": "Building blocks are versatile and can be rearranged into different structures - they are not limited to just one design"
+                    },
+                    {
+                        "text": "The blocks can be disassembled from the bridge and rearranged to form the house with different characteristics",
+                        "isCorrect": 1,
+                        "explanation": "The same set of blocks can be taken apart and reassembled in different ways to create new structures with different properties"
+                    },
+                    {
+                        "text": "They need to get different types of blocks for each structure since blocks are designed for specific purposes",
+                        "isCorrect": 0,
+                        "explanation": "Standard building blocks are designed to be versatile and can be used for multiple purposes, not just one specific structure"
+                    },
+                    {
+                        "text": "Once blocks are used to build the bridge, their properties change and they cannot be used for the house",
+                        "isCorrect": 0,
+                        "explanation": "Building blocks maintain their properties when disassembled and can be reused to build different structures"
+                    }
+                ],
+                "funFact": "LEGO enthusiasts around the world have built impressive towers using hundreds of thousands of identical blocks, with height records continually being broken. These massive structures demonstrate how the same basic building pieces can be assembled in countless ways to create different structures with varying characteristics!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Evaluate how the same set of building materials can be used to solve different engineering problems through various arrangements"
+        },
+        {
+            "question": {
+                "text": "A student wants to build a bridge using pasta noodles. She notices that when she arranges the noodles in a layered pattern with cross-supports, the bridge becomes stronger than when the noodles are simply stacked. What explains this increased strength when the pasta is arranged differently?",
+                "options": [
+                    {
+                        "text": "The ability of pasta pieces to be arranged in different geometric patterns that distribute weight",
+                        "isCorrect": 1,
+                        "explanation": "When pasta pieces are arranged in patterns with cross-supports, they work together to distribute weight more evenly, making the structure stronger than simple stacking."
+                    },
+                    {
+                        "text": "The softness of the pasta pieces when they are connected",
+                        "isCorrect": 0,
+                        "explanation": "Pasta pieces should actually be firm and dry when building structures. Soft pasta would make the bridge weak and unable to support weight."
+                    },
+                    {
+                        "text": "The color of the pasta pieces",
+                        "isCorrect": 0,
+                        "explanation": "The color of pasta pieces does not affect the structural strength of the bridge. The arrangement and shape of the pieces are what matter."
+                    },
+                    {
+                        "text": "The taste of the pasta pieces",
+                        "isCorrect": 0,
+                        "explanation": "The taste of pasta has no effect on its structural properties. The physical arrangement of the pieces determines the bridge's strength."
+                    }
+                ],
+                "funFact": "Engineers often use similar principles when designing real bridges! They arrange steel beams in triangular patterns called trusses, which help distribute weight and make bridges much stronger than if the beams were simply stacked."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze how the properties of individual pieces contribute to different characteristics in the final assembled object"
+        },
+        {
+            "question": {
+                "text": "A team of student engineers built a bridge using pasta sticks, but it collapsed during testing. What would be the most helpful approach to improve their design?",
+                "options": [
+                    {
+                        "text": "Give up on using pasta and try a completely different material",
+                        "isCorrect": 0,
+                        "explanation": "Changing materials completely doesn't help learn from the current design's failures. It's better to understand why the current design failed and make improvements."
+                    },
+                    {
+                        "text": "Take apart the failed bridge, analyze why it failed, and rebuild with a stronger arrangement of the pasta pieces",
+                        "isCorrect": 1,
+                        "explanation": "This is the best engineering approach - learning from failure by examining the original design, understanding its weaknesses, and using the same pieces to create an improved solution."
+                    },
+                    {
+                        "text": "Build the exact same bridge design again hoping it works better",
+                        "isCorrect": 0,
+                        "explanation": "Repeating the same design without making changes won't solve the problems that caused the first bridge to fail."
+                    },
+                    {
+                        "text": "Add more pasta pieces without changing the original design",
+                        "isCorrect": 0,
+                        "explanation": "Simply adding more materials without addressing the design flaws doesn't solve the underlying problems that caused the bridge to fail."
+                    }
+                ],
+                "funFact": "The Sunshine Skyway Bridge in Florida, completed in 1987, was one of the early major bridges designed using computer simulation. Engineers now regularly use computer models to test and improve designs before building them in real life!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine how a failed engineering design can be disassembled and its components rearranged to create a more successful solution"
+        },
+        {
+            "question": {
+                "text": "When building a pasta bridge using uncooked spaghetti noodles, you create two different structures. Bridge A is built with noodles arranged in a triangular pattern, while Bridge B uses the exact same number of noodles but arranged in a square grid pattern. How would the properties of these two bridges likely differ?",
+                "options": [
+                    {
+                        "text": "Both bridges would have identical strength and stability since they use the same number of noodles",
+                        "isCorrect": 0,
+                        "explanation": "Even with the same materials, different arrangements can result in structures with very different properties."
+                    },
+                    {
+                        "text": "The triangular pattern bridge would likely be stronger due to the more effective distribution of forces",
+                        "isCorrect": 1,
+                        "explanation": "Triangular patterns typically create stronger structures because they distribute forces more effectively, even when using the same materials."
+                    },
+                    {
+                        "text": "The square pattern bridge would be stronger because it uses more organized patterns",
+                        "isCorrect": 0,
+                        "explanation": "Regular patterns don't necessarily mean stronger structures - the way forces are distributed matters more than how organized the pattern looks."
+                    },
+                    {
+                        "text": "The properties would only differ in appearance but not in any structural way",
+                        "isCorrect": 0,
+                        "explanation": "The arrangement of materials significantly affects structural properties, not just appearance."
+                    }
+                ],
+                "funFact": "Engineers often use triangular shapes in construction because triangles are the only polygon that cannot be pushed or pulled out of shape without breaking one of its sides or connections. This is why you see triangular patterns in many bridges and tower structures!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare and contrast the properties of two structures built from the same set of building blocks but arranged in different configurations"
+        }
+    ]
+}

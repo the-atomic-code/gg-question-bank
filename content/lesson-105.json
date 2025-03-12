@@ -1,0 +1,1081 @@
+{
+    "id": "lesson-105",
+    "title": "Plant Growth Conditions",
+    "standard": "2-LS2-1",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "A student is growing two identical tomato plants. She gives Plant A one cup of water every day, while Plant B gets four cups of water every day. After a month, what is the most likely outcome?",
+                "options": [
+                    {
+                        "text": "Plant A grows healthily while Plant B shows signs of poor growth",
+                        "isCorrect": 1,
+                        "explanation": "Plants need the right amount of water to grow well. Too much water can damage the roots and prevent proper growth."
+                    },
+                    {
+                        "text": "Plant B grows healthily while Plant A dies from lack of water",
+                        "isCorrect": 0,
+                        "explanation": "One cup of water daily is typically sufficient for a tomato plant. Four cups is excessive and can harm the plant."
+                    },
+                    {
+                        "text": "Both plants grow equally well",
+                        "isCorrect": 0,
+                        "explanation": "Different amounts of water significantly affect plant growth. Plants won't grow equally well when one receives too much water."
+                    },
+                    {
+                        "text": "Both plants die",
+                        "isCorrect": 0,
+                        "explanation": "While Plant B might suffer from too much water, Plant A is receiving an appropriate amount and should survive."
+                    }
+                ],
+                "funFact": "Some desert plants like cacti have adapted to survive with very little water, while water lilies thrive in completely submerged conditions - showing how different plants have evolved to handle varying amounts of water!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question assessing understanding of how different amounts of water affect plant growth, with emphasis on the concept that too much or too little water can harm plants"
+        },
+        {
+            "question": {
+                "text": "Which of the following needs do plants and animals share, and which needs are unique to plants?",
+                "options": [
+                    {
+                        "text": "Both plants and animals need water, but only plants need sunlight to make their own food",
+                        "isCorrect": 1,
+                        "explanation": "Plants and animals both require water to survive, but plants uniquely need sunlight to produce their own food through photosynthesis"
+                    },
+                    {
+                        "text": "Both plants and animals need sunlight and water to survive",
+                        "isCorrect": 0,
+                        "explanation": "While both need water, only plants require sunlight for survival. Animals get their energy from eating food, not from sunlight"
+                    },
+                    {
+                        "text": "Plants need water and sunlight, while animals only need food",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because animals also need water to survive, not just food"
+                    },
+                    {
+                        "text": "Neither plants nor animals need water if they have enough sunlight",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because both plants and animals must have water to survive, regardless of sunlight"
+                    }
+                ],
+                "funFact": "Some desert plants have adapted to survive with very little water by developing thick, waxy leaves that prevent water loss, while desert animals get most of their water from the food they eat!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question comparing plant and animal needs, specifically about which needs they share and which are unique to plants"
+        },
+        {
+            "question": {
+                "text": "What happens to a plant when it is kept in complete darkness for several weeks?",
+                "options": [
+                    {
+                        "text": "The plant will lose its green color and eventually die",
+                        "isCorrect": 1,
+                        "explanation": "Without sunlight, plants cannot make their food through photosynthesis. They lose chlorophyll (the green pigment) and will eventually die due to lack of nutrients."
+                    },
+                    {
+                        "text": "The plant will grow taller to search for light",
+                        "isCorrect": 0,
+                        "explanation": "While plants may initially grow taller seeking light (etiolation), they cannot survive long-term without light to make food."
+                    },
+                    {
+                        "text": "The plant will adapt and start getting nutrients from the soil instead",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot switch to getting all their nutrients from soil. They must have sunlight to produce their own food through photosynthesis."
+                    },
+                    {
+                        "text": "The plant will remain the same size but stay healthy",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot maintain their health without sunlight, as they need it to produce food and energy for survival."
+                    }
+                ],
+                "funFact": "Some plants that grow on the ocean floor can survive with very little sunlight by adapting to use different wavelengths of light that penetrate deep water. However, even these plants need some form of light to survive!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing knowledge of what happens to plants when they don't receive any sunlight, focusing on color loss and eventual death"
+        },
+        {
+            "question": {
+                "text": "Which of the following parts of a plant are commonly eaten by humans?",
+                "options": [
+                    {
+                        "text": "Only the leaves and fruits",
+                        "isCorrect": 0,
+                        "explanation": "Humans eat more than just leaves and fruits. We consume many different parts of plants including roots, stems, and flowers."
+                    },
+                    {
+                        "text": "Stems, leaves, fruits, roots, and flowers",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Humans eat all these parts of plants. For example, celery (stem), lettuce (leaves), apples (fruits), carrots (roots), and broccoli (flowers)."
+                    },
+                    {
+                        "text": "Only the fruits and roots",
+                        "isCorrect": 0,
+                        "explanation": "While we do eat fruits and roots, humans also consume other plant parts like stems, leaves, and flowers."
+                    },
+                    {
+                        "text": "Only the stems and leaves",
+                        "isCorrect": 0,
+                        "explanation": "This is incomplete. While we eat stems and leaves, humans also consume fruits, roots, and flowers from plants."
+                    }
+                ],
+                "funFact": "Broccoli and cauliflower that we eat are actually flower buds that are harvested before they bloom! If left to grow, these vegetables would develop into small yellow or white flowers."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing knowledge of which parts of plants humans can eat, including stems, leaves, fruits, roots, and flowers"
+        },
+        {
+            "question": {
+                "text": "What is the primary way that soil helps plants grow and survive?",
+                "options": [
+                    {
+                        "text": "Soil provides an anchor for plants and contains water and nutrients they need",
+                        "isCorrect": 1,
+                        "explanation": "Soil serves two key functions - it anchors plants in place through their roots and provides essential water and nutrients for growth"
+                    },
+                    {
+                        "text": "Soil only provides water to plants",
+                        "isCorrect": 0,
+                        "explanation": "While soil does hold water, this is not its only function. It also anchors plants and provides nutrients"
+                    },
+                    {
+                        "text": "Soil only creates sunlight for plants",
+                        "isCorrect": 0,
+                        "explanation": "Soil does not create sunlight - sunlight comes from the sun. Soil has other important functions for plant growth"
+                    },
+                    {
+                        "text": "Soil only keeps plants warm",
+                        "isCorrect": 0,
+                        "explanation": "While soil can help regulate temperature, its main functions are anchoring plants and providing water and nutrients"
+                    }
+                ],
+                "funFact": "A single teaspoon of rich soil can contain up to one billion bacteria, several yards of fungal filaments, and thousands of protozoa and nematodes - all contributing to soil fertility and plant growth!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about how soil helps plants grow, focusing on its role as an anchor and source of nutrients"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes how plants use their leaves to capture sunlight?",
+                "options": [
+                    {
+                        "text": "Leaves capture sunlight and use that energy to make nutrients for the plant",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Plants use their leaves to capture sunlight and convert that energy into nutrients through photosynthesis."
+                    },
+                    {
+                        "text": "Leaves store sunlight inside them to use later at night",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot store sunlight directly. They convert sunlight energy into chemical energy in the form of nutrients."
+                    },
+                    {
+                        "text": "Leaves reflect sunlight to other parts of the plant",
+                        "isCorrect": 0,
+                        "explanation": "While leaves may reflect some light, their main function is to capture sunlight, not reflect it to other parts."
+                    },
+                    {
+                        "text": "Leaves only use sunlight to stay warm",
+                        "isCorrect": 0,
+                        "explanation": "While leaves may get warm in sunlight, the primary purpose of capturing sunlight is to make nutrients, not just for warmth."
+                    }
+                ],
+                "funFact": "Plants are so efficient at capturing sunlight that scientists are studying their methods to improve solar panel technology!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing understanding of how plants use their leaves to capture sunlight"
+        },
+        {
+            "question": {
+                "text": "In a garden experiment, three identical carrot plants were given different amounts of sunlight each day. Plant A received 2 hours of sunlight, Plant B received 6 hours of sunlight, and Plant C received 10 hours of sunlight. All other conditions (water, soil, temperature) were kept the same. Which plant would most likely grow to be the largest?",
+                "options": [
+                    {
+                        "text": "Plant A (2 hours of sunlight)",
+                        "isCorrect": 0,
+                        "explanation": "Too little sunlight prevents plants from making enough food to grow large. 2 hours is insufficient for optimal growth."
+                    },
+                    {
+                        "text": "Plant B (6 hours of sunlight)",
+                        "isCorrect": 0,
+                        "explanation": "While 6 hours of sunlight is better than 2 hours, it's still not optimal for maximum growth potential."
+                    },
+                    {
+                        "text": "Plant C (10 hours of sunlight)",
+                        "isCorrect": 1,
+                        "explanation": "Plants with more sunlight can produce more food through photosynthesis, leading to bigger growth. 10 hours provides the most energy for growth."
+                    },
+                    {
+                        "text": "All plants would grow to the same size",
+                        "isCorrect": 0,
+                        "explanation": "The amount of sunlight directly affects plant growth - plants with more light generally grow larger when other conditions are the same."
+                    }
+                ],
+                "funFact": "While most garden vegetables need full sun to thrive, some plants like mushrooms can grow with no sunlight at all because they don't use photosynthesis - they get their energy by breaking down dead organic matter instead!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about the relationship between amount of sunlight and plant size, focusing on how more light typically results in bigger growth"
+        },
+        {
+            "question": {
+                "text": "How long does it typically take for common vegetable crops to grow from seeds into plants that can be harvested and eaten?",
+                "options": [
+                    {
+                        "text": "A few days",
+                        "isCorrect": 0,
+                        "explanation": "Plants grow slowly and need more time than just a few days to develop fully edible parts."
+                    },
+                    {
+                        "text": "A few months",
+                        "isCorrect": 1,
+                        "explanation": "Plants typically take a few months to grow from seeds into mature plants with edible parts like leaves, stems, fruits, or roots."
+                    },
+                    {
+                        "text": "A few hours",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot grow from seeds to edible size in just hours - they need much more time for proper development."
+                    },
+                    {
+                        "text": "Several years",
+                        "isCorrect": 0,
+                        "explanation": "Most edible plants don't take years to grow - they typically mature within a growing season of a few months."
+                    }
+                ],
+                "funFact": "Some plants like microgreens can be ready to eat in as little as 1-3 weeks after planting, while others like asparagus can take up to 3 years before their first harvest!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about the time it takes for plants to grow from seeds to mature plants that can be eaten"
+        },
+        {
+            "question": {
+                "text": "What important role does water play in helping plants grow and stay healthy?",
+                "options": [
+                    {
+                        "text": "Water helps plants make food in their leaves and keeps them standing upright",
+                        "isCorrect": 1,
+                        "explanation": "Water is essential for plants to produce food (glucose/sugar) through photosynthesis in their leaves, and it helps maintain cell turgor pressure which keeps plants standing straight."
+                    },
+                    {
+                        "text": "Water only serves to cool down plants on hot days",
+                        "isCorrect": 0,
+                        "explanation": "While water does help regulate plant temperature, this is not its main role. Water is crucial for nutrient production and structural support."
+                    },
+                    {
+                        "text": "Water is only needed to wash dirt off plant leaves",
+                        "isCorrect": 0,
+                        "explanation": "Clean leaves are helpful for plants, but water plays much more important roles in nutrient production and maintaining plant structure."
+                    },
+                    {
+                        "text": "Water is only needed to transport minerals from the soil",
+                        "isCorrect": 0,
+                        "explanation": "While water does transport minerals, it also plays crucial roles in nutrient production and maintaining plant structure."
+                    }
+                ],
+                "funFact": "Plants are amazing water managers! A large tree can move hundreds of gallons of water from its roots to its leaves each day, and about 98% of that water is released back into the atmosphere through a process called transpiration."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about the role of water in plant growth, focusing on how it helps plants make nutrients and maintain structure"
+        },
+        {
+            "question": {
+                "text": "Which combination of factors is most important for healthy plant growth?",
+                "options": [
+                    {
+                        "text": "Sunlight, water, and rich soil",
+                        "isCorrect": 1,
+                        "explanation": "Plants need sunlight to make their food, water to transport nutrients and stay upright, and rich soil to provide nutrients and support for roots."
+                    },
+                    {
+                        "text": "Temperature, air, and space",
+                        "isCorrect": 0,
+                        "explanation": "While these factors can affect plant growth, they are not the most essential factors. Plants primarily need sunlight, water, and rich soil to grow healthy."
+                    },
+                    {
+                        "text": "Sunlight and temperature only",
+                        "isCorrect": 0,
+                        "explanation": "While sunlight and temperature are important, they are not sufficient alone. Plants also need water to survive and rich soil to provide nutrients and support."
+                    },
+                    {
+                        "text": "Water and soil only",
+                        "isCorrect": 0,
+                        "explanation": "Without sunlight, plants cannot make their food through photosynthesis, even if they have water and soil."
+                    }
+                ],
+                "funFact": "Desert plants like cacti have adapted to grow with very little water by developing thick stems to store water and special surfaces to minimize water loss, but they still need all three basic factors - sunlight, water, and soil - to survive!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question about the basic requirements plants need to grow best, focusing on the three main factors: sunlight, water, and soil"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes the components that make up rich soil called loam?",
+                "options": [
+                    {
+                        "text": "A mixture of sand, silt, clay, and dead or decaying plant material",
+                        "isCorrect": 1,
+                        "explanation": "Loam is indeed a combination of these materials, which makes it ideal for plant growth as it provides nutrients and retains water well."
+                    },
+                    {
+                        "text": "Only sand and water",
+                        "isCorrect": 0,
+                        "explanation": "While sand is one component of loam, sand alone with water would drain too quickly and lack important nutrients plants need."
+                    },
+                    {
+                        "text": "Just clay and minerals",
+                        "isCorrect": 0,
+                        "explanation": "Clay and minerals are components of loam, but without sand and organic material, the soil would be too compact for optimal plant growth."
+                    },
+                    {
+                        "text": "Only decaying plant material",
+                        "isCorrect": 0,
+                        "explanation": "While organic material is important, loam needs mineral components like sand and clay to provide structure and support for plant roots."
+                    }
+                ],
+                "funFact": "Different types of plants evolved to grow in different soil compositions. For example, cacti prefer sandy soil while rice plants thrive in clay-rich soil. Loam is considered ideal for most garden plants because it combines the best properties of different soil types!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing knowledge of what rich soil (loam) contains, including components like sand, clay, minerals, and decaying plant material"
+        },
+        {
+            "question": {
+                "text": "Which of the following is MOST important for plants to make their own food?",
+                "options": [
+                    {
+                        "text": "Sunlight",
+                        "isCorrect": 1,
+                        "explanation": "Plants use sunlight to make their own food through a process called photosynthesis. Sunlight provides the essential energy that drives this process, although water and carbon dioxide are also needed as ingredients."
+                    },
+                    {
+                        "text": "Rich soil",
+                        "isCorrect": 0,
+                        "explanation": "While rich soil provides nutrients and support for plants, it is not directly involved in food production. Plants primarily need sunlight as the energy source to make their own food through photosynthesis."
+                    },
+                    {
+                        "text": "Warm temperature",
+                        "isCorrect": 0,
+                        "explanation": "Although temperature affects plant growth, it is not the most essential factor for plants to make their own food. Sunlight provides the crucial energy needed for photosynthesis."
+                    },
+                    {
+                        "text": "Air movement",
+                        "isCorrect": 0,
+                        "explanation": "While air movement itself is not the primary requirement for plants to make their own food, air contains carbon dioxide which is an essential ingredient for photosynthesis. However, sunlight remains the most important energy source that drives food production in plants."
+                    }
+                ],
+                "funFact": "During photosynthesis, plants convert only about 1% of the sunlight they receive into food energy. Despite this seemingly low efficiency, plants produce enough food to support nearly all life on Earth!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A question testing knowledge of what plants need to make their own food, focusing on the role of sunlight in plant nutrition"
+        },
+        {
+            "question": {
+                "text": "A student places a healthy plant in a dark closet while continuing to water it regularly. After two weeks, what is most likely to happen to the plant?",
+                "options": [
+                    {
+                        "text": "The plant will lose its green color and eventually die",
+                        "isCorrect": 1,
+                        "explanation": "Without sunlight, plants cannot make their own food through photosynthesis. They will first lose their green color (become pale or yellow) and eventually die if kept in darkness for too long."
+                    },
+                    {
+                        "text": "The plant will grow taller than usual seeking light",
+                        "isCorrect": 0,
+                        "explanation": "While plants can grow taller seeking light (a process called etiolation), they cannot survive long-term without light since they need it to produce food."
+                    },
+                    {
+                        "text": "The plant will continue to grow normally",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot grow normally without light since they need it to produce their food through photosynthesis, even if they have adequate water."
+                    },
+                    {
+                        "text": "The plant will grow more leaves to capture any available light",
+                        "isCorrect": 0,
+                        "explanation": "Without light, plants cannot produce the energy needed to grow new leaves. They will actually lose leaves due to lack of food production."
+                    }
+                ],
+                "funFact": "Some plants can survive in very low light conditions because they've evolved special adaptations. For example, some tropical plants that grow on the forest floor can photosynthesize using just 1% of full sunlight!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A student conducts an experiment with two identical plants, placing one in full sunlight and one in complete darkness, while providing both with equal water. The student should predict the outcome for the plant kept in darkness after two weeks."
+        },
+        {
+            "question": {
+                "text": "A student is growing three carrot plants in identical soil conditions. Each plant receives a different amount of water daily: Plant A gets 1 tablespoon, Plant B gets 3 tablespoons, and Plant C gets 6 tablespoons. After two months, which plant is most likely to have grown the best?",
+                "options": [
+                    {
+                        "text": "Plant A (1 tablespoon)",
+                        "isCorrect": 0,
+                        "explanation": "Too little water prevents plants from making nutrients and staying upright. The plant would be undernourished and likely wilt."
+                    },
+                    {
+                        "text": "Plant B (3 tablespoons)",
+                        "isCorrect": 1,
+                        "explanation": "A moderate amount of water allows plants to make nutrients and maintain their structure without drowning the roots."
+                    },
+                    {
+                        "text": "Plant C (6 tablespoons)",
+                        "isCorrect": 0,
+                        "explanation": "Too much water can drown the plant roots and prevent them from absorbing nutrients properly, resulting in poor growth."
+                    }
+                ],
+                "funFact": "While carrots are about 88% water, flooding them with too much water actually reduces their growth. Wild carrots originated in Afghanistan and were originally purple or white - orange carrots were developed by Dutch farmers in the 17th century!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given images of three carrot plants grown in identical soil conditions but with different amounts of water (too little, optimal, too much), students should analyze which amount of water leads to the best growth."
+        },
+        {
+            "question": {
+                "text": "In a science experiment, students planted two identical seeds - one in pure sand and one in loam soil. Both plants received the same amount of water and sunlight. After a month, the plant in loam soil grew much bigger than the plant in sand. What is the main reason for this difference in growth?",
+                "options": [
+                    {
+                        "text": "Loam soil contains a mixture of materials that better holds water and nutrients needed for plant growth",
+                        "isCorrect": 1,
+                        "explanation": "Loam soil is ideal for plant growth because it combines sand, clay, minerals and organic matter, allowing it to retain water and nutrients that plants need to grow well"
+                    },
+                    {
+                        "text": "Sand particles are too heavy and prevent the plant roots from growing deep",
+                        "isCorrect": 0,
+                        "explanation": "Sand particles are actually lighter than loam soil components. The issue with sandy soil is that it doesn't hold water and nutrients well, not that it's too heavy"
+                    },
+                    {
+                        "text": "Plants naturally prefer darker colored soil like loam over lighter colored soil like sand",
+                        "isCorrect": 0,
+                        "explanation": "The color of the soil is not what determines plant growth. What matters is the soil's ability to hold water and nutrients, which depends on its composition"
+                    },
+                    {
+                        "text": "Sand reflects too much sunlight which damages the plant's roots",
+                        "isCorrect": 0,
+                        "explanation": "Plant roots are underground and protected from direct sunlight regardless of soil type. The poor growth in sand is due to its inability to retain water and nutrients"
+                    }
+                ],
+                "funFact": "Earthworms help create nutrient-rich soil by breaking down organic matter and creating tunnels that allow water and air to reach plant roots. One acre of good garden soil can contain up to a million earthworms!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "In an experiment comparing plant growth in different soil types, students should determine why a plant grows better in loam soil compared to pure sand or pure clay."
+        },
+        {
+            "question": {
+                "text": "Two carrot plants are being grown in identical conditions except for their watering schedule. Plant A receives a consistent amount of water every day, while Plant B receives a large amount of water once every few days. Which plant is likely to develop healthier roots?",
+                "options": [
+                    {
+                        "text": "Plant A with consistent daily watering",
+                        "isCorrect": 1,
+                        "explanation": "Regular, consistent watering helps plants develop strong, healthy root systems because roots can steadily grow and access water when needed."
+                    },
+                    {
+                        "text": "Plant B with irregular large amounts of water",
+                        "isCorrect": 0,
+                        "explanation": "Irregular watering with large amounts can lead to root stress, potential root rot, and less healthy root development."
+                    },
+                    {
+                        "text": "Both plants will develop equally healthy roots",
+                        "isCorrect": 0,
+                        "explanation": "The watering schedule significantly impacts root development, so the plants would not develop equally healthy roots."
+                    },
+                    {
+                        "text": "Neither plant will develop healthy roots",
+                        "isCorrect": 0,
+                        "explanation": "As long as one watering method is appropriate, healthy roots can develop. It's incorrect to assume both methods would fail."
+                    }
+                ],
+                "funFact": "Carrot roots can sense the direction of gravity through specialized cells, helping them grow downward. This ability, called gravitropism, helps them develop straight, healthy roots when given consistent care."
+            },
+            "cognitive_level": "application",
+            "blueprint": "When examining two plants where one receives consistent water and another receives irregular large amounts of water, students should predict which plant will develop healthier roots."
+        },
+        {
+            "question": {
+                "text": "A healthy plant is growing well in a sunny window. If you move this plant to a dark corner of the room, what will happen to the plant's ability to make its own food?",
+                "options": [
+                    {
+                        "text": "The plant will continue making the same amount of food as before",
+                        "isCorrect": 0,
+                        "explanation": "Plants need sunlight to make their food through photosynthesis. Without adequate light, they cannot produce the same amount of food."
+                    },
+                    {
+                        "text": "The plant will make less food than before",
+                        "isCorrect": 1,
+                        "explanation": "With less light available, the plant's ability to make food through photosynthesis will decrease, leading to reduced food production."
+                    },
+                    {
+                        "text": "The plant will make more food to compensate for the darkness",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot increase their food production in darkness. They require light energy for photosynthesis."
+                    },
+                    {
+                        "text": "The plant will start getting its food from the soil instead",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot switch to getting their food from soil when light is unavailable. They must make their own food through photosynthesis."
+                    }
+                ],
+                "funFact": "Some plants have adapted to grow in very low light conditions, like the deep forest floor. These shade-tolerant plants have special leaf structures that help them capture and use even tiny amounts of light effectively!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given a scenario where a plant is moved from a sunny location to a shaded area, students should explain how this change will affect the plant's ability to produce its own food."
+        },
+        {
+            "question": {
+                "text": "A student planted two identical tomato plants in identical pots with rich loam soil. Both plants received the same amount of sunlight, but one plant was watered much more frequently than the other. After a month, the overwatered plant showed poor growth. What is the most likely reason for this?",
+                "options": [
+                    {
+                        "text": "The excess water prevented oxygen from reaching the plant's roots",
+                        "isCorrect": 1,
+                        "explanation": "When soil is waterlogged, air spaces fill with water, preventing roots from getting the oxygen they need for healthy growth."
+                    },
+                    {
+                        "text": "The extra water washed away all the nutrients from the soil",
+                        "isCorrect": 0,
+                        "explanation": "While some nutrients can be washed away by excessive watering, this isn't the primary reason for poor growth in waterlogged conditions."
+                    },
+                    {
+                        "text": "The plant used all its energy to absorb the extra water",
+                        "isCorrect": 0,
+                        "explanation": "Plants don't use extra energy to absorb excess water - they actually suffer from too much water preventing proper root function."
+                    },
+                    {
+                        "text": "The excess water made the plant grow too quickly",
+                        "isCorrect": 0,
+                        "explanation": "Extra water doesn't cause plants to grow too quickly - instead, too much water typically slows or stops healthy growth."
+                    }
+                ],
+                "funFact": "Plants actually 'breathe' through their roots! Root cells need oxygen from air spaces in the soil to produce energy for growth, similar to how we need oxygen to breathe."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Students should analyze why a plant growing in waterlogged soil shows poor growth despite having adequate sunlight and rich soil conditions."
+        },
+        {
+            "question": {
+                "text": "A student has two identical potted plants. Plant A is placed near a window where it receives direct sunlight for 8 hours each day. Plant B is placed behind a sheer curtain where it receives filtered light all day long. If both plants receive the same amount of water and are grown in the same type of soil, which plant is likely to grow better?",
+                "options": [
+                    {
+                        "text": "Plant A, which receives direct sunlight for 8 hours",
+                        "isCorrect": 1,
+                        "explanation": "Direct sunlight provides more energy for photosynthesis, allowing the plant to produce more food and grow better than in filtered light."
+                    },
+                    {
+                        "text": "Plant B, which receives filtered light all day",
+                        "isCorrect": 0,
+                        "explanation": "While filtered light is better than no light, it provides less energy for photosynthesis than direct sunlight, resulting in slower growth."
+                    },
+                    {
+                        "text": "Both plants will grow exactly the same",
+                        "isCorrect": 0,
+                        "explanation": "The amount and intensity of light affects plant growth. Direct sunlight provides more energy than filtered light, so the plants will not grow the same."
+                    },
+                    {
+                        "text": "Neither plant will grow well",
+                        "isCorrect": 0,
+                        "explanation": "Both plants receive light and adequate water, so they will grow. The difference is in how well they grow based on the amount of light energy available."
+                    }
+                ],
+                "funFact": "Some desert plants have adapted to protect themselves from too much direct sunlight by developing waxy coatings on their leaves or growing fine hairs that reflect excess light!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "In comparing two plants where one receives direct sunlight for 8 hours and another receives filtered light all day, students should determine which lighting condition promotes better growth."
+        },
+        {
+            "question": {
+                "text": "A student wants to grow the healthiest possible tomato plants. Which combination of growing conditions would be best?",
+                "options": [
+                    {
+                        "text": "Rich loam soil, moderate water, and full sunlight",
+                        "isCorrect": 1,
+                        "explanation": "This combination provides optimal growing conditions - loam retains proper moisture while providing nutrients, and sunlight enables photosynthesis for food production."
+                    },
+                    {
+                        "text": "Sandy soil, lots of water, and full sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Sandy soil drains too quickly and doesn't retain enough nutrients. Even with lots of water, the plants won't get consistent moisture needed for growth."
+                    },
+                    {
+                        "text": "Rich loam soil, lots of water, and partial shade",
+                        "isCorrect": 0,
+                        "explanation": "Too much water can drown plants, and insufficient sunlight limits photosynthesis needed for healthy growth."
+                    },
+                    {
+                        "text": "Clay soil, moderate water, and full sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Clay soil can become too compact and doesn't drain well, making it difficult for roots to grow and access nutrients properly."
+                    }
+                ],
+                "funFact": "Tomato plants can grow roots from their stems! If you plant a tomato deeply, burying part of the stem, it will develop additional roots along the buried portion, creating a stronger plant."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given different combinations of growing conditions (varying light, water, and soil quality), students should identify which combination would result in optimal plant growth."
+        },
+        {
+            "question": {
+                "text": "A student's houseplant has pale yellow leaves instead of healthy green ones, and it hasn't grown much in the past month. The plant gets regular water and is kept in rich soil. What is most likely causing the plant's poor growth?",
+                "options": [
+                    {
+                        "text": "Lack of sunlight",
+                        "isCorrect": 1,
+                        "explanation": "Without adequate sunlight, plants cannot produce chlorophyll (which gives leaves their green color) or make their own food, leading to yellow leaves and stunted growth."
+                    },
+                    {
+                        "text": "Too much water",
+                        "isCorrect": 0,
+                        "explanation": "While too much water can harm plants, it typically causes wilting and root rot rather than yellowing leaves."
+                    },
+                    {
+                        "text": "Poor soil quality",
+                        "isCorrect": 0,
+                        "explanation": "The plant is kept in rich soil, and poor soil quality alone wouldn't cause yellowing of leaves to this extent."
+                    },
+                    {
+                        "text": "Too much heat",
+                        "isCorrect": 0,
+                        "explanation": "Excess heat typically causes wilting and brown leaves rather than yellowing leaves and stunted growth."
+                    }
+                ],
+                "funFact": "Plants have special cells containing chlorophyll that act like tiny solar panels, converting sunlight into energy through a process called photosynthesis. Without enough light, these 'solar panels' can't produce the food the plant needs to grow!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "When examining a plant that shows yellowing leaves and stunted growth, students should determine which essential growth factor is most likely missing."
+        },
+        {
+            "question": {
+                "text": "A student is conducting an experiment with two identical tomato plants. Plant A is given twice the amount of water but half the amount of sunlight compared to Plant B, which is grown in optimal conditions. How will Plant A's growth likely compare to Plant B?",
+                "options": [
+                    {
+                        "text": "Plant A will grow taller than Plant B",
+                        "isCorrect": 0,
+                        "explanation": "Excess water combined with insufficient light would not promote better growth, as plants need a balanced amount of both resources."
+                    },
+                    {
+                        "text": "Plant A will grow smaller than Plant B",
+                        "isCorrect": 1,
+                        "explanation": "With less sunlight, Plant A cannot produce enough food through photosynthesis, and too much water could lead to root problems, resulting in reduced growth compared to Plant B's optimal conditions."
+                    },
+                    {
+                        "text": "Plant A will grow the same as Plant B",
+                        "isCorrect": 0,
+                        "explanation": "The excess water cannot compensate for reduced sunlight, as both resources need to be in the right balance for optimal growth."
+                    },
+                    {
+                        "text": "Plant A's growth will not be affected by these changes",
+                        "isCorrect": 0,
+                        "explanation": "Changes in basic growth requirements like water and sunlight significantly impact plant growth - they cannot maintain normal growth with imbalanced resources."
+                    }
+                ],
+                "funFact": "Plants have developed specialized cells called guard cells that can open and close small pores in their leaves to regulate water loss, helping them adapt to different water conditions in their environment!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Students should analyze how changing multiple variables simultaneously (increased water but decreased light) would affect plant growth compared to optimal conditions."
+        },
+        {
+            "question": {
+                "text": "A gardener is growing tomato plants in different seasons. During summer, the plants get 14 hours of sunlight per day, while in winter they only get 9 hours of sunlight per day. How would this difference in daylight hours likely affect the tomato plants' growth?",
+                "options": [
+                    {
+                        "text": "The plants will grow faster and taller in summer due to more hours of sunlight",
+                        "isCorrect": 1,
+                        "explanation": "Plants use sunlight to make their food through photosynthesis. More hours of sunlight means more time for food production, leading to faster and better growth."
+                    },
+                    {
+                        "text": "The plants will grow at the same rate in both seasons",
+                        "isCorrect": 0,
+                        "explanation": "Plant growth is directly affected by the amount of sunlight received. Different amounts of sunlight will result in different growth rates."
+                    },
+                    {
+                        "text": "The plants will grow faster in winter to compensate for less sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot compensate for less sunlight by growing faster. They actually grow slower with less sunlight since they have less time to produce food."
+                    },
+                    {
+                        "text": "The amount of sunlight has no effect on plant growth",
+                        "isCorrect": 0,
+                        "explanation": "Sunlight is essential for plant growth. Plants use sunlight to make their food, and without adequate sunlight, they cannot grow properly."
+                    }
+                ],
+                "funFact": "Some plants have adapted to different day lengths by developing special growth patterns. For example, chrysanthemums bloom when days become shorter, while long-day plants like spinach and lettuce flower when days are longer."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Given scenarios of plants growing in different seasons, students should predict how changes in natural light duration affect plant growth patterns."
+        },
+        {
+            "question": {
+                "text": "A student is growing two identical tomato plants. One plant is growing in pure clay soil and the other in loam soil. Both plants receive the same amount of sunlight and water every day. After a month, the student notices that the plant in clay soil is growing much slower than the one in loam soil. What is the most likely reason for this difference in growth?",
+                "options": [
+                    {
+                        "text": "The clay soil retains too much water and doesn't allow proper root growth",
+                        "isCorrect": 1,
+                        "explanation": "Clay soil becomes compact and retains excess water, making it difficult for plant roots to grow and access nutrients properly."
+                    },
+                    {
+                        "text": "The clay soil blocks sunlight from reaching the roots",
+                        "isCorrect": 0,
+                        "explanation": "Plant roots don't need direct sunlight to grow. Sunlight is absorbed by leaves, not roots."
+                    },
+                    {
+                        "text": "The loam soil contains more sunlight than the clay soil",
+                        "isCorrect": 0,
+                        "explanation": "Soil doesn't contain sunlight. Both plants receive the same amount of sunlight from above."
+                    },
+                    {
+                        "text": "The clay soil provides more nutrients than necessary",
+                        "isCorrect": 0,
+                        "explanation": "Clay soil typically has fewer available nutrients than loam soil, which contains a balanced mix of materials."
+                    }
+                ],
+                "funFact": "While clay soil can be challenging for plants, many ancient civilizations specifically chose clay-rich areas for farming because when properly managed with organic material, clay soil can be extremely fertile and productive!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Students should determine why a plant growing in pure clay soil shows different growth patterns compared to one in loam, despite receiving identical water and sunlight."
+        },
+        {
+            "question": {
+                "text": "A student is growing four carrot plants and gives them different amounts of water each day: Plant A gets 1 tablespoon, Plant B gets 2 tablespoons, Plant C gets 4 tablespoons, and Plant D gets 8 tablespoons. After one month, which plant is most likely to have grown the best?",
+                "options": [
+                    {
+                        "text": "Plant A with 1 tablespoon of water",
+                        "isCorrect": 0,
+                        "explanation": "Too little water prevents plants from making nutrients and staying upright. This amount is insufficient for healthy carrot growth."
+                    },
+                    {
+                        "text": "Plant B with 2 tablespoons of water",
+                        "isCorrect": 1,
+                        "explanation": "This amount provides the right balance of water - enough for the plant to make nutrients and stay strong without drowning the roots."
+                    },
+                    {
+                        "text": "Plant C with 4 tablespoons of water",
+                        "isCorrect": 0,
+                        "explanation": "This amount is too much water, which can prevent proper root development and lead to smaller carrots."
+                    },
+                    {
+                        "text": "Plant D with 8 tablespoons of water",
+                        "isCorrect": 0,
+                        "explanation": "Excessive water drowns the roots and prevents healthy growth. The carrot would likely be very small or fail to develop."
+                    }
+                ],
+                "funFact": "While carrots need water to grow, they actually develop better flavors when the soil is kept slightly on the drier side. This stress causes the carrots to produce more sugars, making them sweeter!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A plant experiment shows different growth patterns in four seedlings with varying amounts of water. Students must analyze data to determine which amount of water produced optimal growth."
+        },
+        {
+            "question": {
+                "text": "A student is conducting an experiment with three identical plants. Plant A is kept in full sunlight, Plant B in partial shade, and Plant C in complete darkness. All plants receive the same amount of water and are grown in the same type of soil. After two weeks, which plant would most likely show the best growth?",
+                "options": [
+                    {
+                        "text": "Plant A in full sunlight",
+                        "isCorrect": 1,
+                        "explanation": "Plants need sunlight to perform photosynthesis and make their own food. Full sunlight provides the optimal amount of light energy for photosynthesis, leading to the best growth."
+                    },
+                    {
+                        "text": "Plant B in partial shade",
+                        "isCorrect": 0,
+                        "explanation": "While plants can survive in partial shade, they typically don't grow as well as plants in full sunlight because they receive less light energy for photosynthesis."
+                    },
+                    {
+                        "text": "Plant C in complete darkness",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot perform photosynthesis without light. In complete darkness, the plant will eventually lose its green color and die due to lack of food production."
+                    },
+                    {
+                        "text": "All plants would grow equally well",
+                        "isCorrect": 0,
+                        "explanation": "Plants require sunlight to make their food through photosynthesis. Different amounts of light will result in different growth rates, so the plants would not grow equally well."
+                    }
+                ],
+                "funFact": "Some plants have adapted to grow in very low light conditions. For example, snake plants and peace lilies can survive in offices with fluorescent lighting, but they still need some light to perform photosynthesis and grow!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Given experimental results showing plant growth in different light conditions (full sun, partial shade, complete darkness), students must interpret which lighting condition best supports photosynthesis."
+        },
+        {
+            "question": {
+                "text": "Two students planted bean seeds in different types of soil to study plant growth. Student A used loam soil, which is a mixture of sand, clay, and decaying plant material. Student B used pure sand. Both plants received the same amount of sunlight and water. After 3 weeks, which plant do you predict would grow taller and healthier?",
+                "options": [
+                    {
+                        "text": "The plant in loam soil would grow taller and healthier",
+                        "isCorrect": 1,
+                        "explanation": "Loam soil contains a balanced mixture of materials that provide nutrients and retain the right amount of water for optimal plant growth."
+                    },
+                    {
+                        "text": "The plant in pure sand would grow taller and healthier",
+                        "isCorrect": 0,
+                        "explanation": "Pure sand does not retain water well and lacks the nutrients plants need for healthy growth."
+                    },
+                    {
+                        "text": "Both plants would grow equally well",
+                        "isCorrect": 0,
+                        "explanation": "Soil composition significantly affects plant growth. Pure sand lacks the nutrients and water-holding capacity that plants need."
+                    },
+                    {
+                        "text": "Neither plant would grow well",
+                        "isCorrect": 0,
+                        "explanation": "While pure sand is not ideal for plant growth, loam soil provides excellent growing conditions for most plants."
+                    }
+                ],
+                "funFact": "The world's most fertile soil is found in the Ukraine, where the rich, dark soil called 'chernozem' contains up to 15% organic matter and can produce tremendous crop yields."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare growth measurements (height, leaf count, stem thickness) of two plants - one grown in loam soil and another in pure sand - to evaluate soil composition effects on plant development."
+        },
+        {
+            "question": {
+                "text": "A student conducted an experiment growing plants in three different types of soil. After 4 weeks, the plants in soil type A (loam) grew the tallest and healthiest, while plants in soil types B (sand) and C (clay) did not grow as well. What makes soil type A better for plant growth?",
+                "options": [
+                    {
+                        "text": "Loam soil contains a balanced mixture of sand, clay, minerals, and organic matter that helps retain water and nutrients",
+                        "isCorrect": 1,
+                        "explanation": "Loam provides the ideal growing conditions because it combines the benefits of different soil components and maintains proper water retention."
+                    },
+                    {
+                        "text": "Loam soil contains only sand which allows water to drain quickly",
+                        "isCorrect": 0,
+                        "explanation": "Pure sandy soil drains too quickly and doesn't retain enough water and nutrients for optimal plant growth."
+                    },
+                    {
+                        "text": "Loam soil is made of only clay which holds too much water",
+                        "isCorrect": 0,
+                        "explanation": "Pure clay soil retains too much water and can become compacted, making it difficult for roots to grow properly."
+                    },
+                    {
+                        "text": "Loam soil contains rocks that provide stability for plant roots",
+                        "isCorrect": 0,
+                        "explanation": "While soil structure is important, rocks alone don't provide the nutrients and water retention needed for healthy plant growth."
+                    }
+                ],
+                "funFact": "Different plants have evolved to grow in different soil types. While most garden plants prefer loam, some desert plants thrive in sandy soil, and certain wetland plants do well in clay-rich soils!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Study growth measurements of plants in different soil types (clay, sand, loam) to evaluate why loam provides better growing conditions than other soil types."
+        },
+        {
+            "question": {
+                "text": "A group of students is studying two identical tomato plants. Plant A is kept in a sunny window, while Plant B is kept in a dark closet. Both plants receive the same amount of water. After two weeks, what difference would you most likely observe between the plants?",
+                "options": [
+                    {
+                        "text": "Plant A will be green while Plant B will appear yellow or pale",
+                        "isCorrect": 1,
+                        "explanation": "Plants need sunlight to produce chlorophyll, which gives them their green color. Without light, plants cannot produce chlorophyll and become yellow or pale, a condition called etiolation."
+                    },
+                    {
+                        "text": "Plant B will be greener than Plant A",
+                        "isCorrect": 0,
+                        "explanation": "Plants cannot produce chlorophyll without sunlight. A plant kept in darkness cannot maintain its green color and will become pale."
+                    },
+                    {
+                        "text": "Both plants will look exactly the same",
+                        "isCorrect": 0,
+                        "explanation": "Light exposure creates visible differences in plants. Plants grown without light will look very different from those grown with proper sunlight."
+                    },
+                    {
+                        "text": "Plant B will grow taller than Plant A",
+                        "isCorrect": 0,
+                        "explanation": "While plants in darkness may initially grow taller searching for light, this growth is weak and unsustainable without the energy from photosynthesis."
+                    }
+                ],
+                "funFact": "When plants grow in darkness, they not only lose their green color but also develop unusually long stems and smaller leaves. This response is called 'etiolation' and is the plant's strategy to reach for any available light source."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare plant color changes and growth patterns between two groups - one with regular sunlight and another without - to determine the role of light in chlorophyll production."
+        },
+        {
+            "question": {
+                "text": "A student is conducting an experiment to see how different soil conditions affect plant growth. The student plants identical seedlings in three different soil types:\nPot A: Pure sand\nPot B: Pure clay\nPot C: Loam (mixture of sand, clay, and organic matter)\nAll plants receive the same amount of water and sunlight. After two weeks, which pot's plant is most likely to be the healthiest and most stable?",
+                "options": [
+                    {
+                        "text": "Pot A with pure sand, because water can flow through it easily",
+                        "isCorrect": 0,
+                        "explanation": "While sand allows good water drainage, it drains too quickly and doesn't retain enough water and nutrients for healthy plant growth"
+                    },
+                    {
+                        "text": "Pot B with pure clay, because it holds water well",
+                        "isCorrect": 0,
+                        "explanation": "Clay retains too much water and can become compacted, making it difficult for roots to grow and access oxygen"
+                    },
+                    {
+                        "text": "Pot C with loam, because it provides balanced water retention and nutrient availability",
+                        "isCorrect": 1,
+                        "explanation": "Loam provides the ideal balance of water retention, nutrient availability, and root stability for most plants"
+                    },
+                    {
+                        "text": "All pots will grow equally well since they get the same water and sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Soil type significantly affects plant growth even when water and sunlight are equal, as different soils have different abilities to retain water and nutrients"
+                    }
+                ],
+                "funFact": "The word 'loam' comes from an Old English word 'lam' which means 'clay' or 'mud'. Despite its origins referring to clay, modern loam soil is prized by gardeners for its perfect balance of sand, clay, and organic matter, often called 'black gold' in gardening circles!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze experimental data showing how different combinations of water and soil type affect plant stability and nutrient uptake."
+        },
+        {
+            "question": {
+                "text": "A student is conducting an experiment with three identical carrot plants, each planted in the same type of soil. Plant A receives 8 hours of sunlight daily, Plant B receives 4 hours of sunlight daily, and Plant C receives no sunlight. After two months, which plant is likely to be the largest?",
+                "options": [
+                    {
+                        "text": "Plant A",
+                        "isCorrect": 1,
+                        "explanation": "Plants use sunlight to make their food through photosynthesis. With 8 hours of daily sunlight, Plant A receives the most light energy to produce nutrients for growth."
+                    },
+                    {
+                        "text": "Plant B",
+                        "isCorrect": 0,
+                        "explanation": "While Plant B can grow with 4 hours of sunlight, it receives less light energy than Plant A, resulting in less food production and slower growth."
+                    },
+                    {
+                        "text": "Plant C",
+                        "isCorrect": 0,
+                        "explanation": "Without any sunlight, Plant C cannot perform photosynthesis to make food. It will become pale and eventually die."
+                    },
+                    {
+                        "text": "All plants will be the same size",
+                        "isCorrect": 0,
+                        "explanation": "Plants need sunlight to grow. Different amounts of sunlight lead to different growth rates, so the plants will not be the same size."
+                    }
+                ],
+                "funFact": "Some plants have adapted to grow in very low light conditions. For example, snake plants can survive in offices with fluorescent lighting, but they still grow best with natural sunlight!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine growth data from plants receiving varying amounts of sunlight to determine the relationship between light exposure and plant size."
+        },
+        {
+            "question": {
+                "text": "A student is conducting an experiment with two groups of identical plants. Group A receives moderate amounts of water and 6 hours of sunlight daily. Group B receives excessive water and 12 hours of sunlight daily. After one month, which observation would most likely show that plants need balanced conditions to grow best?",
+                "options": [
+                    {
+                        "text": "Group A plants grow taller with healthy green leaves, while Group B plants show signs of wilting and yellowing",
+                        "isCorrect": 1,
+                        "explanation": "Plants need balanced amounts of water and light. Too much water can drown roots, while excessive light can stress the plant, leading to poor growth."
+                    },
+                    {
+                        "text": "Group B plants grow twice as tall as Group A plants",
+                        "isCorrect": 0,
+                        "explanation": "More resources don't always mean better growth. Excessive water and light can harm plants rather than help them grow better."
+                    },
+                    {
+                        "text": "Both groups grow exactly the same way",
+                        "isCorrect": 0,
+                        "explanation": "Different growing conditions produce different results. Plants won't grow the same way when exposed to very different amounts of water and light."
+                    },
+                    {
+                        "text": "Group B plants produce more flowers than Group A plants",
+                        "isCorrect": 0,
+                        "explanation": "Excessive water and light typically stress plants, making them less likely to produce flowers compared to plants in balanced conditions."
+                    }
+                ],
+                "funFact": "Some desert plants have adapted to survive with very little water, while some rainforest plants can thrive in low light conditions under the forest canopy - but most common garden plants have evolved to prefer moderate amounts of both water and light!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Compare the growth patterns of two plant groups - one with balanced water/light conditions and another with extreme conditions - to determine optimal growing requirements."
+        },
+        {
+            "question": {
+                "text": "A student conducted experiments with four carrot plants, giving them different growing conditions. Which combination of conditions would likely result in the healthiest carrot plant?",
+                "options": [
+                    {
+                        "text": "Rich loam soil, moderate water, full sunlight",
+                        "isCorrect": 1,
+                        "explanation": "This is the optimal combination for healthy plant growth. Loam soil provides good water retention and nutrients, while moderate water and full sunlight allow for proper photosynthesis and prevent issues like overwatering."
+                    },
+                    {
+                        "text": "Sandy soil, lots of water, full sunlight",
+                        "isCorrect": 0,
+                        "explanation": "While sunlight is good, sandy soil drains too quickly and excess water would wash away nutrients, leading to poor growth."
+                    },
+                    {
+                        "text": "Rich loam soil, lots of water, partial shade",
+                        "isCorrect": 0,
+                        "explanation": "Too much water can drown the roots even in good soil, and insufficient sunlight would limit the plant's ability to produce food through photosynthesis."
+                    },
+                    {
+                        "text": "Clay soil, moderate water, full sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Clay soil can become too compact and hold too much water, making it difficult for roots to grow properly, even with good sunlight conditions."
+                    }
+                ],
+                "funFact": "Carrots weren't always orange! The first cultivated carrots were purple and white. Orange carrots were developed in the Netherlands during the 17th century as a tribute to the Dutch royal family, whose national color was orange."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze data from multiple plant experiments to determine which combination of environmental factors (soil type, water amount, light exposure) produces the healthiest growth."
+        },
+        {
+            "question": {
+                "text": "A student is growing two identical tomato plants. Plant A is watered every day with 1 cup of water. Plant B is given 7 cups of water once a week. After a month, which plant is likely to be healthier?",
+                "options": [
+                    {
+                        "text": "Plant A, because consistent daily watering helps maintain steady growth",
+                        "isCorrect": 1,
+                        "explanation": "Plants thrive with consistent water availability. Daily watering ensures the soil stays evenly moist, allowing roots to absorb water steadily."
+                    },
+                    {
+                        "text": "Plant B, because it receives the same total amount of water",
+                        "isCorrect": 0,
+                        "explanation": "While the total weekly water is the same, giving too much water at once can drown the roots and the soil may become too dry between waterings."
+                    },
+                    {
+                        "text": "Both plants will grow equally well",
+                        "isCorrect": 0,
+                        "explanation": "Even though both plants receive the same total amount of water, the timing and consistency of watering affects how well plants can use the water."
+                    }
+                ],
+                "funFact": "Plants have developed special cells called guard cells that can open and close small pores in their leaves to control water loss. When water is scarce, these pores close to help the plant conserve water!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Study experimental results showing how different watering schedules affect plant growth to determine the importance of consistent water availability."
+        },
+        {
+            "question": {
+                "text": "A student conducted an experiment growing carrots under different conditions. One carrot plant received much more water than needed throughout its growth period. What was likely the outcome for this overwatered carrot plant?",
+                "options": [
+                    {
+                        "text": "The carrot grew smaller than normal",
+                        "isCorrect": 1,
+                        "explanation": "Too much water prevents proper root development in carrots, resulting in smaller size. Excess water can also lead to poor nutrient absorption."
+                    },
+                    {
+                        "text": "The carrot grew larger than normal",
+                        "isCorrect": 0,
+                        "explanation": "More water does not mean bigger carrots. Overwatering actually inhibits proper growth and development of root vegetables."
+                    },
+                    {
+                        "text": "The carrot grew faster than normal",
+                        "isCorrect": 0,
+                        "explanation": "Excess water slows down growth rather than speeding it up, as it can lead to waterlogged soil and poor oxygen availability to roots."
+                    },
+                    {
+                        "text": "The carrot was unaffected by the extra water",
+                        "isCorrect": 0,
+                        "explanation": "Plants are sensitive to water amounts. Too much water negatively impacts plant growth and cannot simply be ignored by the plant."
+                    }
+                ],
+                "funFact": "While the common orange carrot is most familiar, carrots naturally come in purple, white, yellow, and red colors. These colors are primarily determined by the carrot variety's genetics, though growing conditions can affect the intensity of these colors."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Examine experimental results of carrot growth under different conditions to determine how excess water affects root vegetable development."
+        },
+        {
+            "question": {
+                "text": "A student conducted an experiment with four identical plants under different conditions for two weeks. Look at the data table showing the plant heights after two weeks:\n\nPlant A: Water + Sunlight \u2192 8 inches\nPlant B: Water only \u2192 3 inches\nPlant C: Sunlight only \u2192 2 inches\nPlant D: No water or sunlight \u2192 1 inch\n\nWhat conclusion can be drawn about plant growth requirements from this data?",
+                "options": [
+                    {
+                        "text": "Plants grow best when they receive both water and sunlight",
+                        "isCorrect": 1,
+                        "explanation": "Plant A, which received both water and sunlight, grew the tallest at 8 inches. This shows that plants need both resources to grow optimally."
+                    },
+                    {
+                        "text": "Plants only need water to grow well",
+                        "isCorrect": 0,
+                        "explanation": "Plant B, which received only water, grew to 3 inches - much less than Plant A. This shows that water alone is not enough for optimal growth."
+                    },
+                    {
+                        "text": "Plants only need sunlight to grow well",
+                        "isCorrect": 0,
+                        "explanation": "Plant C, which received only sunlight, grew to just 2 inches. This shows that sunlight alone is not sufficient for good plant growth."
+                    },
+                    {
+                        "text": "Plants can grow well without water or sunlight",
+                        "isCorrect": 0,
+                        "explanation": "Plant D, which received neither water nor sunlight, barely grew at all (1 inch). This clearly shows plants cannot grow well without these essential resources."
+                    }
+                ],
+                "funFact": "While plants need both sunlight and water to grow, organisms like mushrooms can grow without sunlight because they're fungi, not plants! Instead of using sunlight to make their food, fungi get nutrients by breaking down organic matter."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Analyze a data table showing plant growth patterns when variables of both water and sunlight are manipulated, to determine the relationship between these factors."
+        }
+    ]
+}

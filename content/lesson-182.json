@@ -1,0 +1,1091 @@
+{
+    "id": "lesson-182",
+    "title": "Wave Reflection, Absorption & Transmittance",
+    "standard": "MS-PS4-1",
+    "n_recall": 12,
+    "n_application": 12,
+    "n_analysis": 12,
+    "n_total": 36,
+    "questions": [
+        {
+            "question": {
+                "text": "What does the amplitude of a wave measure?",
+                "options": [
+                    {
+                        "text": "The height of the wave from its resting point",
+                        "isCorrect": 1,
+                        "explanation": "Amplitude measures the height or strength of a wave from its equilibrium or resting position. This determines properties like sound volume or light brightness."
+                    },
+                    {
+                        "text": "The distance between two wave peaks",
+                        "isCorrect": 0,
+                        "explanation": "This is actually the wavelength, not the amplitude. The wavelength measures the length of one complete wave cycle."
+                    },
+                    {
+                        "text": "The number of waves per second",
+                        "isCorrect": 0,
+                        "explanation": "This describes frequency, not amplitude. Frequency measures how many waves pass a point in one second."
+                    },
+                    {
+                        "text": "The total length of the wave",
+                        "isCorrect": 0,
+                        "explanation": "The total length is not a standard wave measurement. Waves are typically measured by their amplitude, wavelength, and frequency."
+                    }
+                ],
+                "funFact": "The amplitude of earthquake waves is used to calculate the Richter scale magnitude. For each whole number increase on the Richter scale, the wave amplitude increases by a factor of 10!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question testing student understanding of wave amplitude, asking students to identify the definition of amplitude as the height of a wave from its resting point"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying ocean waves and notices that when the height (amplitude) of the waves doubles, the energy carried by the waves changes. How does doubling the wave amplitude affect the energy of the waves?",
+                "options": [
+                    {
+                        "text": "The wave energy becomes four times greater",
+                        "isCorrect": 1,
+                        "explanation": "The energy of a wave is proportional to the square of its amplitude. When amplitude doubles, the energy increases by a factor of 2\u00b2 = 4"
+                    },
+                    {
+                        "text": "The wave energy becomes twice as great",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. The relationship between amplitude and energy is not linear - energy increases with the square of amplitude"
+                    },
+                    {
+                        "text": "The wave energy stays the same",
+                        "isCorrect": 0,
+                        "explanation": "Changes in wave amplitude do affect wave energy. The energy cannot remain constant when amplitude changes"
+                    },
+                    {
+                        "text": "The wave energy becomes half as great",
+                        "isCorrect": 0,
+                        "explanation": "When amplitude increases, energy increases. Energy does not decrease when amplitude increases"
+                    }
+                ],
+                "funFact": "The enormous energy carried by tsunami waves is due to their large amplitude. Even though tsunamis may be only a few feet high in the deep ocean, they can grow to heights of 100 feet or more near shore, carrying immense destructive power due to this squared relationship between amplitude and energy!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question asking students to identify the relationship between wave amplitude and energy, where higher amplitude waves carry more energy"
+        },
+        {
+            "question": {
+                "text": "In a ripple tank, water waves are created by a wave generator. Looking at the waves, what is meant by the wavelength of these water waves?",
+                "options": [
+                    {
+                        "text": "The distance between two consecutive wave peaks",
+                        "isCorrect": 1,
+                        "explanation": "Wavelength is the length of one complete wave, measured from peak to peak or trough to trough. This measurement tells us the spatial period of the wave."
+                    },
+                    {
+                        "text": "The height of the wave from bottom to top",
+                        "isCorrect": 0,
+                        "explanation": "This is actually the amplitude of the wave, not the wavelength. Amplitude measures the maximum displacement of the wave from its rest position."
+                    },
+                    {
+                        "text": "The number of waves that pass by each second",
+                        "isCorrect": 0,
+                        "explanation": "This describes the frequency of the wave, not the wavelength. Frequency measures how many waves pass a fixed point in one second."
+                    },
+                    {
+                        "text": "The total distance the wave travels",
+                        "isCorrect": 0,
+                        "explanation": "This is just the distance traveled by the wave, not its wavelength. Wavelength is a specific measurement between repeating points on the wave."
+                    }
+                ],
+                "funFact": "Ocean waves can have wavelengths ranging from a few centimeters to hundreds of kilometers! The longest waves in the ocean are called tsunami waves, which can have wavelengths of up to 200 kilometers, even though they might only be a few centimeters high in deep water."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question testing understanding of wavelength, asking students to identify wavelength as the distance between two consecutive peaks or troughs of a wave"
+        },
+        {
+            "question": {
+                "text": "Which of the following best describes frequency in waves?",
+                "options": [
+                    {
+                        "text": "The number of waves that pass a fixed point in one second",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Frequency measures how many complete wave cycles occur at a specific point during one second."
+                    },
+                    {
+                        "text": "The distance between two wave peaks",
+                        "isCorrect": 0,
+                        "explanation": "This describes wavelength, not frequency. Wavelength measures the distance between corresponding points on adjacent waves."
+                    },
+                    {
+                        "text": "The height of a wave from its resting point",
+                        "isCorrect": 0,
+                        "explanation": "This describes amplitude, not frequency. Amplitude measures how far a wave moves from its equilibrium position."
+                    },
+                    {
+                        "text": "The speed at which a wave travels",
+                        "isCorrect": 0,
+                        "explanation": "This describes wave velocity, not frequency. While related to frequency, wave velocity is the distance a wave travels per unit time."
+                    }
+                ],
+                "funFact": "The human ear can detect frequencies between about 20 Hz (20 waves per second) and 20,000 Hz. Some animals, like dolphins, can detect much higher frequencies - up to 150,000 Hz!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about frequency definition, asking students to identify frequency as the number of waves that pass a point in one second"
+        },
+        {
+            "question": {
+                "text": "When playing a guitar, what happens to the sound's amplitude and volume when you strum the strings more forcefully?",
+                "options": [
+                    {
+                        "text": "The amplitude increases and the sound becomes louder",
+                        "isCorrect": 1,
+                        "explanation": "Correct! When you strum guitar strings more forcefully, you create waves with greater amplitude, which results in a louder sound."
+                    },
+                    {
+                        "text": "The amplitude decreases and the sound becomes louder",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. Higher amplitude waves carry more energy and produce louder sounds, while lower amplitude waves produce quieter sounds."
+                    },
+                    {
+                        "text": "The amplitude increases but the volume stays the same",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. The amplitude of a sound wave directly affects its volume - higher amplitude means louder sound."
+                    },
+                    {
+                        "text": "The amplitude and volume both decrease",
+                        "isCorrect": 0,
+                        "explanation": "Incorrect. Strumming more forcefully increases both the amplitude of the waves and the volume of the sound."
+                    }
+                ],
+                "funFact": "The loudest recorded guitar performance was 130.5 decibels, which is about as loud as a military jet aircraft taking off! This extreme volume was achieved through amplification, but it started with high-amplitude sound waves from forcefully played strings."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question testing knowledge of how amplitude affects sound waves, specifically that higher amplitude results in louder sounds"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes the relationship between a light wave's amplitude and the brightness of the color it produces?",
+                "options": [
+                    {
+                        "text": "Higher amplitude light waves produce brighter colors, while lower amplitude light waves produce dimmer colors",
+                        "isCorrect": 1,
+                        "explanation": "Light waves with higher amplitude transfer more energy, resulting in brighter colors. Lower amplitude light waves transfer less energy, producing dimmer colors."
+                    },
+                    {
+                        "text": "Lower amplitude light waves produce brighter colors, while higher amplitude light waves produce dimmer colors",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The brightness of a color increases with amplitude, not decreases. Higher amplitude means more energy transfer, resulting in brighter colors."
+                    },
+                    {
+                        "text": "The amplitude of a light wave has no effect on the brightness of colors",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amplitude of a light wave directly affects the brightness of the color produced. Higher amplitude results in brighter colors due to greater energy transfer."
+                    },
+                    {
+                        "text": "The brightness of colors only depends on the frequency of light waves, not their amplitude",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While frequency determines the color itself, the amplitude determines the brightness of that color. Both properties play different roles in how we perceive light."
+                    }
+                ],
+                "funFact": "Our eyes are so sensitive to light that on a clear night, they can detect a single candle flame from 30 miles away! This is possible because of our ability to detect even tiny variations in light wave amplitudes."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about the relationship between light wave amplitude and color brightness, where higher amplitude results in brighter colors"
+        },
+        {
+            "question": {
+                "text": "When sound waves travel through a solid wall, what happens to most of the wave energy?",
+                "options": [
+                    {
+                        "text": "The wave energy is transmitted completely through the wall",
+                        "isCorrect": 0,
+                        "explanation": "While some sound energy may be transmitted through a wall, most of the energy is either reflected or absorbed rather than completely passing through."
+                    },
+                    {
+                        "text": "The wave energy is converted to heat energy in the wall",
+                        "isCorrect": 1,
+                        "explanation": "When sound waves encounter a solid wall, most of the wave energy is absorbed by the wall material and converted to thermal energy (heat)."
+                    },
+                    {
+                        "text": "The wave energy disappears completely",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot disappear or be destroyed - it must be converted to another form of energy according to the law of conservation of energy."
+                    },
+                    {
+                        "text": "The wave energy increases as it passes through the wall",
+                        "isCorrect": 0,
+                        "explanation": "Wave energy cannot spontaneously increase as it passes through a medium - it typically decreases as some energy is absorbed or reflected."
+                    }
+                ],
+                "funFact": "The process of sound energy converting to heat in materials is why recording studios use thick, dense materials in their walls. This conversion helps create soundproof rooms by preventing sound waves from traveling between spaces."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question testing understanding of wave transmittance, asking students to identify what happens when waves pass through a medium"
+        },
+        {
+            "question": {
+                "text": "When sound waves hit a solid rock wall in a cave, what primarily happens to the waves?",
+                "options": [
+                    {
+                        "text": "They are reflected back, creating an echo",
+                        "isCorrect": 1,
+                        "explanation": "When sound waves encounter a dense material like a rock wall, most of the wave energy is reflected back because the density is too high for the waves to pass through, resulting in an echo."
+                    },
+                    {
+                        "text": "They are completely absorbed by the wall",
+                        "isCorrect": 0,
+                        "explanation": "While some sound energy may be absorbed by the wall, hard surfaces like rock primarily reflect sound waves rather than absorb them."
+                    },
+                    {
+                        "text": "They pass completely through the wall",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves cannot completely pass through dense, solid walls. Most of the wave energy is reflected back rather than transmitted through."
+                    },
+                    {
+                        "text": "They disappear instantly",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves don't simply disappear when they hit a surface. They either reflect, get absorbed, or transmit through, with reflection being the primary outcome for hard surfaces."
+                    }
+                ],
+                "funFact": "The world's longest echo has been recorded in a Scottish oil tank, where the sound of a blank pistol shot took 112 seconds to completely fade away due to multiple reflections off the smooth, curved walls!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question testing understanding of wave reflection, asking students to identify what happens when waves bounce off surfaces"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying sound waves produced by different musical instruments. She notices that when a violin plays the same note for 5 seconds at two different volumes, the louder sound transfers more energy to her sound detector. Which statement best explains why the louder sound transfers more energy?",
+                "options": [
+                    {
+                        "text": "The louder sound has a higher amplitude, and wave energy is proportional to the square of the amplitude",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The energy of a wave is proportional to the square of its amplitude. A louder sound means higher amplitude waves, which carry more energy."
+                    },
+                    {
+                        "text": "The louder sound has a higher frequency, allowing more energy to be transferred",
+                        "isCorrect": 0,
+                        "explanation": "While frequency does affect energy transfer, in this case the same note (same frequency) is being played at different volumes. The difference in energy is due to amplitude, not frequency."
+                    },
+                    {
+                        "text": "The louder sound has a longer wavelength, resulting in more energy transfer",
+                        "isCorrect": 0,
+                        "explanation": "Wavelength is related to the pitch (frequency) of the sound, not its volume (amplitude). Since the same note is being played, the wavelength remains constant."
+                    },
+                    {
+                        "text": "The louder sound travels faster through the air, carrying more energy",
+                        "isCorrect": 0,
+                        "explanation": "The speed of sound in air remains constant regardless of the volume. The difference in energy transfer is due to the wave's amplitude, not its speed."
+                    }
+                ],
+                "funFact": "When you double the amplitude of a sound wave, you actually quadruple its energy! This is why even a small increase in a sound's volume can make such a big difference in how much energy it carries and how loud it seems to our ears."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about the relationship between wave frequency and energy transfer, where higher frequency means more energy transfer in a given time"
+        },
+        {
+            "question": {
+                "text": "If you increase the amplitude of a sound wave to twice its original height, how will this affect the energy of the wave?",
+                "options": [
+                    {
+                        "text": "The energy will be 4 times the original energy",
+                        "isCorrect": 1,
+                        "explanation": "The energy of a wave is proportional to the square of its amplitude. When amplitude doubles (\u00d72), the energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "The energy will be 2 times the original energy",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. The relationship between amplitude and energy is not linear - doubling amplitude results in quadrupling energy, not doubling it."
+                    },
+                    {
+                        "text": "The energy will be 8 times the original energy",
+                        "isCorrect": 0,
+                        "explanation": "This overestimates the relationship between amplitude and energy. While energy increases more than proportionally with amplitude, it increases by the square, not the cube."
+                    },
+                    {
+                        "text": "The energy will remain the same",
+                        "isCorrect": 0,
+                        "explanation": "Changes in amplitude directly affect wave energy. The energy cannot remain the same when amplitude changes."
+                    }
+                ],
+                "funFact": "This squared relationship between amplitude and energy explains why earthquake magnitude scales like the Richter scale use logarithmic measurements - a magnitude 6 earthquake releases about 1000 times more energy than a magnitude 4 earthquake!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question testing understanding that doubling a wave's amplitude results in four times the energy"
+        },
+        {
+            "question": {
+                "text": "Which three properties are common to all waves, whether they are sound waves, light waves, or water waves?",
+                "options": [
+                    {
+                        "text": "Amplitude, wavelength, and frequency",
+                        "isCorrect": 1,
+                        "explanation": "These are the three fundamental properties that all waves share. Amplitude measures the wave's height from its resting point, wavelength is the distance between peaks, and frequency is how many waves pass a point per second."
+                    },
+                    {
+                        "text": "Speed, color, and direction",
+                        "isCorrect": 0,
+                        "explanation": "While waves can have speed and direction, and some waves (like light) can have color, these are not the universal properties shared by all types of waves."
+                    },
+                    {
+                        "text": "Temperature, pressure, and volume",
+                        "isCorrect": 0,
+                        "explanation": "Temperature, pressure, and volume are properties of matter, not waves. They don't describe how waves move or transfer energy."
+                    },
+                    {
+                        "text": "Mass, density, and reflection",
+                        "isCorrect": 0,
+                        "explanation": "Mass and density are properties of matter, not waves. While reflection is something waves can do, it's not a fundamental property that all waves possess."
+                    }
+                ],
+                "funFact": "The highest wave run-up ever recorded was during the 1958 tsunami in Lituya Bay, Alaska, where water surged 1,720 feet up a hillside - demonstrating how waves can achieve incredible heights when interacting with terrain!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about the basic properties all waves have in common: amplitude, wavelength, and frequency"
+        },
+        {
+            "question": {
+                "text": "When sound waves are absorbed by foam padding in a recording studio, what happens to the wave energy?",
+                "options": [
+                    {
+                        "text": "The energy is converted into thermal energy or other forms",
+                        "isCorrect": 1,
+                        "explanation": "When sound waves are absorbed, their energy is transferred to the absorbing material and converted to other forms like heat, which is why there is no echo"
+                    },
+                    {
+                        "text": "The energy completely disappears",
+                        "isCorrect": 0,
+                        "explanation": "Energy cannot disappear - it must be converted to other forms according to the law of conservation of energy"
+                    },
+                    {
+                        "text": "The energy bounces back as an echo",
+                        "isCorrect": 0,
+                        "explanation": "If the energy bounced back, we would hear an echo. Absorption specifically prevents echoes by converting the wave energy rather than reflecting it"
+                    },
+                    {
+                        "text": "The energy passes straight through unchanged",
+                        "isCorrect": 0,
+                        "explanation": "If the energy passed through unchanged, we would hear the sound on the other side at the same volume. Absorption reduces the wave amplitude by converting the energy"
+                    }
+                ],
+                "funFact": "While sound absorption converts sound energy to heat, noise-canceling headphones primarily use a different principle called active noise cancellation, where they create sound waves exactly opposite to unwanted noise, causing destructive interference!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "A blueprint for a question about wave absorption, testing student knowledge that absorbed waves transfer their energy to the medium they contact"
+        },
+        {
+            "question": {
+                "text": "If you double the amplitude of a sound wave, how will its energy level change?",
+                "options": [
+                    {
+                        "text": "The energy level will quadruple (increase by a factor of 4)",
+                        "isCorrect": 1,
+                        "explanation": "The energy of a wave is proportional to the square of its amplitude. When amplitude doubles, energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "The energy level will double",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. The relationship between amplitude and energy is not linear - it's squared. So doubling amplitude leads to a quadrupling of energy."
+                    },
+                    {
+                        "text": "The energy level will remain the same",
+                        "isCorrect": 0,
+                        "explanation": "Changes in amplitude directly affect wave energy. The energy does not stay constant when amplitude changes."
+                    },
+                    {
+                        "text": "The energy level will increase by a factor of 8",
+                        "isCorrect": 0,
+                        "explanation": "This overestimates the relationship. The energy increases by the square of the amplitude change (4x), not by a factor of 8."
+                    }
+                ],
+                "funFact": "This squared relationship between amplitude and energy is why even small increases in earthquake magnitude can mean massive differences in destructive power. Each whole number increase on the Richter scale represents about 32 times more energy!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question about how doubling the amplitude of a sound wave affects its energy level, with answer choices showing different mathematical relationships (quadrupling vs doubling vs no change)"
+        },
+        {
+            "question": {
+                "text": "Two light waves, Wave A and Wave B, have the same amplitude but different frequencies. Wave A has a frequency of 5 waves per second, while Wave B has a frequency of 10 waves per second. If both waves travel for 2 seconds, which wave will transfer more energy?",
+                "options": [
+                    {
+                        "text": "Wave B will transfer more energy",
+                        "isCorrect": 1,
+                        "explanation": "Since the amount of energy transferred by waves in a given time is proportional to frequency, Wave B with twice the frequency will transfer twice as much energy in the same time period."
+                    },
+                    {
+                        "text": "Wave A will transfer more energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Even though Wave A has the same amplitude, its lower frequency means it will transfer less energy than Wave B in the same time period."
+                    },
+                    {
+                        "text": "Both waves will transfer the same energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Even though both waves have the same amplitude, their different frequencies mean they will transfer different amounts of energy."
+                    },
+                    {
+                        "text": "Cannot be determined without knowing the wavelength",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy transfer in a given time period depends on frequency and amplitude, not wavelength. Since the amplitudes are equal, frequency determines the energy transfer."
+                    }
+                ],
+                "funFact": "The relationship between frequency and energy transfer is crucial in many real-world applications. For example, microwave ovens use high-frequency electromagnetic waves to heat food more efficiently than lower frequency radio waves could, even at the same amplitude!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Scenario comparing two light waves with different frequencies but same amplitude, asking students to determine which wave transfers more energy in a given time period"
+        },
+        {
+            "question": {
+                "text": "Ocean waves during a storm grow from 2 meters in height to 4 meters in height. How does this change in wave amplitude affect the energy carried by each wave?",
+                "options": [
+                    {
+                        "text": "Each wave carries 16 times more energy",
+                        "isCorrect": 0,
+                        "explanation": "This overestimates the relationship between amplitude and energy. Energy is proportional to the square of amplitude, not the fourth power."
+                    },
+                    {
+                        "text": "Each wave carries 4 times more energy",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The energy of a wave is proportional to the square of its amplitude. When amplitude doubles (2m to 4m), the energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "Each wave carries 2 times more energy",
+                        "isCorrect": 0,
+                        "explanation": "This underestimates the relationship. Energy increases with the square of amplitude, not directly proportionally."
+                    },
+                    {
+                        "text": "Each wave carries the same amount of energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Changes in wave amplitude directly affect the energy carried by the wave - higher amplitude means more energy."
+                    }
+                ],
+                "funFact": "The largest wave ever surfed was 26.2 meters (86 feet) high, ridden by Sebastian Steudtner in Portugal in 2020. The energy carried by this monster wave would be about 171 times more than that of a 2-meter wave!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Situation describing changes in water wave heights and asking students to calculate relative energy changes between waves of different amplitudes"
+        },
+        {
+            "question": {
+                "text": "Two sound waves A and B have wavelengths of 2 meters and 4 meters respectively, but they both complete 5 cycles per second. Which of the following statements is correct?",
+                "options": [
+                    {
+                        "text": "Wave A has more energy than Wave B because shorter wavelengths always carry more energy",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a wave depends on its amplitude, not its wavelength. Two waves with different wavelengths can have the same energy if they have the same amplitude."
+                    },
+                    {
+                        "text": "Wave A and Wave B have the same frequency but different speeds",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Since both waves complete 5 cycles per second, they have the same frequency. But since Wave B has twice the wavelength, it must travel twice as fast to complete the same number of cycles per second."
+                    },
+                    {
+                        "text": "Wave A and Wave B have different frequencies because they have different wavelengths",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both waves complete 5 cycles per second, which means they have the same frequency (5 Hz), regardless of their wavelengths."
+                    },
+                    {
+                        "text": "Wave A and Wave B must have the same speed because they have the same frequency",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Wave speed is determined by the product of frequency and wavelength. Since the waves have different wavelengths but the same frequency, they must have different speeds."
+                    }
+                ],
+                "funFact": "The speed of sound waves in air is about 343 meters per second at room temperature, but this can change dramatically in different materials. For example, sound travels about 4 times faster in water and about 15 times faster in steel!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Comparison of two sound waves with different wavelengths but same frequency, asking students to analyze which properties remain constant and which change"
+        },
+        {
+            "question": {
+                "text": "A sound wave is traveling through air with a frequency of 200 Hz and an amplitude of 2 units. If the frequency is doubled to 400 Hz while keeping the amplitude constant at 2 units, how will the energy transfer change?",
+                "options": [
+                    {
+                        "text": "The energy transfer will double",
+                        "isCorrect": 1,
+                        "explanation": "When frequency doubles, the amount of energy transferred in a given time doubles because twice as many waves are passing through each point per second, while each wave carries the same energy due to constant amplitude."
+                    },
+                    {
+                        "text": "The energy transfer will stay the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because energy transfer is proportional to frequency. When frequency changes, the energy transfer changes proportionally even if amplitude remains constant."
+                    },
+                    {
+                        "text": "The energy transfer will quadruple",
+                        "isCorrect": 0,
+                        "explanation": "Energy transfer would quadruple if amplitude doubled (since energy is proportional to amplitude squared), but here only frequency doubled, so energy transfer only doubles."
+                    },
+                    {
+                        "text": "The energy transfer will decrease by half",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because increasing frequency leads to increased energy transfer, not decreased. More waves per second means more energy transfer per second."
+                    }
+                ],
+                "funFact": "The relationship between frequency and energy is crucial in many technologies - for example, microwave ovens operate at exactly 2.45 GHz because this frequency is particularly effective at transferring energy to water molecules in food!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Problem showing a graph of a wave and asking students to identify how energy transfer would change if the frequency were doubled while keeping amplitude constant"
+        },
+        {
+            "question": {
+                "text": "A sound wave's amplitude is doubled and its frequency is tripled. How will these changes affect the energy transferred by the wave?",
+                "options": [
+                    {
+                        "text": "The energy will increase by 12 times",
+                        "isCorrect": 1,
+                        "explanation": "When amplitude doubles, energy increases by 4 times (squared relationship). When frequency triples, energy increases by 3 times. Total increase is 4 \u00d7 3 = 12 times."
+                    },
+                    {
+                        "text": "The energy will increase by 5 times",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly assumes a linear relationship by adding the effects (2 + 3 = 5) instead of multiplying them."
+                    },
+                    {
+                        "text": "The energy will increase by 6 times",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly multiplies the direct values (2 \u00d7 3 = 6) without accounting for the squared relationship with amplitude."
+                    },
+                    {
+                        "text": "The energy will increase by 9 times",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly applies the squared relationship to both amplitude and frequency, instead of just amplitude."
+                    }
+                ],
+                "funFact": "Ocean waves demonstrate this energy-amplitude relationship dramatically - a wave that's twice as tall carries four times the energy, which is why even small increases in wave height can cause significantly more damage during storms!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question presenting data about wave properties and asking students to predict energy changes when multiple properties are modified simultaneously"
+        },
+        {
+            "question": {
+                "text": "Ocean waves are approaching a beach at a rate of 20 waves per minute, transferring 100 joules of energy to the shore during this time. If the frequency of waves doubles to 40 waves per minute while all other wave properties remain constant, how much energy will be transferred to the shore in one minute?",
+                "options": [
+                    {
+                        "text": "200 joules",
+                        "isCorrect": 1,
+                        "explanation": "Since the frequency doubled (from 20 to 40 waves per minute) and energy transfer is directly proportional to frequency, the energy transferred will also double from 100 to 200 joules per minute."
+                    },
+                    {
+                        "text": "400 joules",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly assumes that energy is proportional to the square of frequency. Energy transfer is directly proportional to frequency, not squared."
+                    },
+                    {
+                        "text": "100 joules",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly assumes that energy transfer remains constant regardless of frequency. When frequency increases, energy transfer increases proportionally."
+                    },
+                    {
+                        "text": "50 joules",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly assumes that energy transfer is inversely proportional to frequency. Energy transfer actually increases when frequency increases."
+                    }
+                ],
+                "funFact": "The largest ocean waves ever recorded were 'rogue waves' that can reach heights of over 100 feet! These massive waves carry enormous amounts of energy - enough to damage large ships. Fortunately, most coastal waves are much smaller and help create beautiful beach environments."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Problem about ocean waves reaching a beach, requiring analysis of how changes in wave frequency affect energy transfer to the shore over time"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying two light beams: a red light beam and a violet light beam. If both beams have the same amplitude, which statement is correct about their energy transfer?",
+                "options": [
+                    {
+                        "text": "The violet light beam transfers more energy per second than the red light beam",
+                        "isCorrect": 1,
+                        "explanation": "Violet light has a higher frequency than red light. Since energy transfer rate is proportional to frequency, violet light transfers more energy per second."
+                    },
+                    {
+                        "text": "The red light beam transfers more energy per second than the violet light beam",
+                        "isCorrect": 0,
+                        "explanation": "While red light has a longer wavelength, its frequency is lower than violet light. Energy transfer rate depends on frequency, not wavelength."
+                    },
+                    {
+                        "text": "Both beams transfer the same amount of energy per second",
+                        "isCorrect": 0,
+                        "explanation": "Even with the same amplitude, beams of different frequencies transfer different amounts of energy per second. The higher frequency beam transfers more energy."
+                    },
+                    {
+                        "text": "The energy transfer rate cannot be compared without knowing the wavelengths",
+                        "isCorrect": 0,
+                        "explanation": "We can compare energy transfer rates knowing the colors, since violet light always has a higher frequency than red light, regardless of specific wavelengths."
+                    }
+                ],
+                "funFact": "The frequency of violet light is nearly twice that of red light - about 750 trillion hertz compared to 400 trillion hertz. This is why violet light carries more energy, which is also why ultraviolet light (even higher frequency) can cause sunburn while visible light cannot!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Situation comparing light waves of different colors (frequencies) and asking students to analyze their relative energy transfer rates"
+        },
+        {
+            "question": {
+                "text": "A sound wave is increased in both frequency (from 2 waves per second to 4 waves per second) and amplitude (doubled). How does this change affect the total energy of the wave?",
+                "options": [
+                    {
+                        "text": "The energy increases by a factor of 8",
+                        "isCorrect": 1,
+                        "explanation": "When frequency doubles (2\u00d7) and amplitude doubles (4\u00d7 energy due to square relationship), the total increase in energy is 2 \u00d7 4 = 8 times the original energy"
+                    },
+                    {
+                        "text": "The energy increases by a factor of 6",
+                        "isCorrect": 0,
+                        "explanation": "This incorrectly adds the effects (2 + 4 = 6) rather than multiplying them"
+                    },
+                    {
+                        "text": "The energy increases by a factor of 4",
+                        "isCorrect": 0,
+                        "explanation": "This only accounts for the amplitude change (squared) but ignores the frequency change"
+                    },
+                    {
+                        "text": "The energy increases by a factor of 2",
+                        "isCorrect": 0,
+                        "explanation": "This only accounts for the frequency change but ignores the amplitude's squared relationship to energy"
+                    }
+                ],
+                "funFact": "The relationship between wave energy and amplitude being squared is why ocean waves become so destructive during storms - even a small increase in wave height results in a much larger increase in energy!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Problem requiring students to analyze how changing both frequency and amplitude affects the total energy of a wave system"
+        },
+        {
+            "question": {
+                "text": "A seismologist recorded two earthquake waves at different locations. Wave A has an amplitude of 2 meters, while Wave B has an amplitude of 4 meters. Knowing that the energy of a wave is proportional to the square of its amplitude and assuming all other wave properties remain the same, how much more energy does Wave B carry compared to Wave A?",
+                "options": [
+                    {
+                        "text": "16 times more energy",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect. The energy is proportional to the square of amplitude, so the ratio should be (4m/2m)\u00b2 = 2\u00b2 = 4, not 16. The value 16 would result from using a fourth power relationship rather than the correct square relationship."
+                    },
+                    {
+                        "text": "4 times more energy",
+                        "isCorrect": 1,
+                        "explanation": "Since energy is proportional to the square of amplitude, doubling the amplitude (from 2m to 4m) results in 4 times more energy (2\u00b2 = 4)."
+                    },
+                    {
+                        "text": "2 times more energy",
+                        "isCorrect": 0,
+                        "explanation": "This answer assumes energy is directly proportional to amplitude, but the relationship is actually squared."
+                    },
+                    {
+                        "text": "8 times more energy",
+                        "isCorrect": 0,
+                        "explanation": "This answer is incorrect. The energy is proportional to the square of amplitude, so the ratio should be (4m/2m)\u00b2 = 2\u00b2 = 4, not 8. The value 8 would result from using a cube relationship (2\u00b3) rather than the correct square relationship."
+                    }
+                ],
+                "funFact": "The largest earthquake ever recorded, the 1960 Valdivia earthquake in Chile, released energy equivalent to about 178,000 atomic bombs! This massive energy transfer occurred because of the earthquake wave's incredibly high amplitude."
+            },
+            "cognitive_level": "application",
+            "blueprint": "Scenario about earthquake waves with different amplitudes, asking students to determine relative energy levels using mathematical relationships"
+        },
+        {
+            "question": {
+                "text": "A musician plays a high-amplitude sound note in two different rooms. Room A has thick foam padding on the walls, while Room B has hard concrete walls. In which room will more sound energy be absorbed by the wall covering?",
+                "options": [
+                    {
+                        "text": "Room A (foam padding) because the foam absorbs more sound energy",
+                        "isCorrect": 1,
+                        "explanation": "Foam padding is designed to absorb sound energy and convert it to thermal energy within the foam material itself, resulting in less sound reflection and more energy absorption than hard surfaces."
+                    },
+                    {
+                        "text": "Room B (concrete walls) because hard surfaces absorb more energy",
+                        "isCorrect": 0,
+                        "explanation": "Hard surfaces like concrete tend to reflect sound waves rather than absorb them, resulting in less energy absorption and more reflection back into the room."
+                    },
+                    {
+                        "text": "Both rooms will absorb the same amount of energy",
+                        "isCorrect": 0,
+                        "explanation": "Different materials interact with sound waves differently - some materials absorb more energy while others reflect more energy."
+                    },
+                    {
+                        "text": "Neither room will absorb any energy",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves always transfer some energy when they interact with materials, whether through absorption, reflection, or transmission."
+                    }
+                ],
+                "funFact": "Recording studios use specialized acoustic foam in shapes like pyramids or wedges because these patterns are especially effective at breaking up and absorbing sound waves of different frequencies, helping create the perfect recording environment!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Question about sound waves passing through different materials, focusing on how amplitude changes relate to energy transmission"
+        },
+        {
+            "question": {
+                "text": "Two musical instruments are playing the same note at different volumes. If Instrument A has twice the amplitude as Instrument B, how does the wave energy of Instrument A compare to Instrument B?",
+                "options": [
+                    {
+                        "text": "Instrument A's wave energy is 4 times greater than Instrument B's",
+                        "isCorrect": 1,
+                        "explanation": "Wave energy is proportional to the square of the amplitude. Since amplitude determines loudness and Instrument A has twice the amplitude, its energy is 2\u00b2 = 4 times greater."
+                    },
+                    {
+                        "text": "Instrument A's wave energy is 2 times greater than Instrument B's",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because wave energy is not directly proportional to amplitude. The relationship is squared - when amplitude doubles, energy quadruples."
+                    },
+                    {
+                        "text": "Instrument A's wave energy is the same as Instrument B's",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because higher amplitude waves carry more energy. Since Instrument A has higher amplitude, it must have more wave energy than Instrument B."
+                    },
+                    {
+                        "text": "Instrument A's wave energy is 8 times greater than Instrument B's",
+                        "isCorrect": 0,
+                        "explanation": "This overestimates the relationship between amplitude and energy. Doubling the amplitude results in 4 times the energy, not 8 times."
+                    }
+                ],
+                "funFact": "This square relationship between amplitude and energy is why protecting your hearing is so important - even a small increase in sound volume means a much larger increase in the energy hitting your ears. That's also why sound levels are measured using the logarithmic decibel scale!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "Scenario about two musical instruments playing at different amplitudes, requiring students to compare their relative energy outputs using mathematical relationships"
+        },
+        {
+            "question": {
+                "text": "If a sound wave's amplitude is doubled, how will its energy content change?",
+                "options": [
+                    {
+                        "text": "The energy will double",
+                        "isCorrect": 0,
+                        "explanation": "While energy does increase with amplitude, the relationship is not linear. Energy increases with the square of amplitude."
+                    },
+                    {
+                        "text": "The energy will quadruple",
+                        "isCorrect": 1,
+                        "explanation": "The energy of a wave is proportional to the square of its amplitude. When amplitude doubles, energy increases by a factor of 2\u00b2 = 4."
+                    },
+                    {
+                        "text": "The energy will stay the same",
+                        "isCorrect": 0,
+                        "explanation": "Energy is not independent of amplitude. Changing the amplitude always affects the wave's energy content."
+                    },
+                    {
+                        "text": "The energy will decrease by half",
+                        "isCorrect": 0,
+                        "explanation": "Increasing amplitude leads to an increase in energy, not a decrease. The relationship is proportional to the square of amplitude."
+                    }
+                ],
+                "funFact": "This square relationship between amplitude and energy is why even small increases in earthquake magnitude can mean dramatically more destructive power. Each increase of 1.0 on the Richter scale represents about 32 times more energy release!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing the relationship between wave amplitude and energy transfer, where students must determine how doubling the amplitude of a wave affects its energy content"
+        },
+        {
+            "question": {
+                "text": "A wave machine creates waves in a pool at a rate of 2 waves per second. If the rate is increased to 6 waves per second while keeping the wave height (amplitude) constant, how will this change affect the energy transferred to the pool walls over time?",
+                "options": [
+                    {
+                        "text": "The energy transferred will triple",
+                        "isCorrect": 1,
+                        "explanation": "Since frequency is directly proportional to energy transfer over time, tripling the frequency (from 2 to 6 waves/second) will triple the energy transferred to the pool walls."
+                    },
+                    {
+                        "text": "The energy transferred will stay the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because energy transfer over time depends on frequency. More waves per second means more energy transfer."
+                    },
+                    {
+                        "text": "The energy transferred will decrease by one-third",
+                        "isCorrect": 0,
+                        "explanation": "This mistakes the relationship between frequency and energy transfer. Higher frequency results in more energy transfer, not less."
+                    },
+                    {
+                        "text": "The energy transferred will increase by six times",
+                        "isCorrect": 0,
+                        "explanation": "While the frequency did increase to 6 waves/second, the relationship is proportional - tripling the frequency triples (not sextuples) the energy transfer."
+                    }
+                ],
+                "funFact": "Ocean waves can travel across entire oceans before reaching shore, with some waves traveling thousands of miles before breaking. The longest recorded wave traveled over 12,000 miles from the Indian Ocean to Alaska!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring analysis of wave frequency changes and corresponding energy transfer changes, focusing on how increasing frequency affects the total energy transferred over time"
+        },
+        {
+            "question": {
+                "text": "A scientist is conducting experiments with sound waves and observes that when she doubles the amplitude of a sound wave, the sound becomes noticeably louder. If she were to triple the original amplitude of the sound wave, how would this affect the amount of energy carried by the wave?",
+                "options": [
+                    {
+                        "text": "The wave would carry 9 times the original energy",
+                        "isCorrect": 1,
+                        "explanation": "The energy of a wave is proportional to the square of its amplitude. When amplitude is tripled, the energy increases by a factor of 3\u00b2 = 9."
+                    },
+                    {
+                        "text": "The wave would carry 3 times the original energy",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly assumes that energy is directly proportional to amplitude. The relationship is actually squared."
+                    },
+                    {
+                        "text": "The wave would carry 6 times the original energy",
+                        "isCorrect": 0,
+                        "explanation": "This answer shows confusion between doubling and tripling effects on wave energy. The relationship is squared, not doubled."
+                    },
+                    {
+                        "text": "The wave would carry the same amount of energy",
+                        "isCorrect": 0,
+                        "explanation": "This answer incorrectly suggests that amplitude changes don't affect wave energy. Wave energy increases with the square of amplitude."
+                    }
+                ],
+                "funFact": "The squared relationship between amplitude and energy explains why standing too close to loud speakers at a concert can be dangerous - even a small increase in the amplitude of sound waves results in a much larger increase in the energy hitting your ears!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question examining the mathematical relationship between a wave's amplitude and sound volume, where students analyze how changes in amplitude affect the perceived loudness"
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes the relationship between a light wave's wavelength and the color we see?",
+                "options": [
+                    {
+                        "text": "Red light has a higher wavelength than violet light",
+                        "isCorrect": 1,
+                        "explanation": "Red light has the highest wavelength among visible colors, while violet has the lowest wavelength in the visible spectrum"
+                    },
+                    {
+                        "text": "Violet light has a higher wavelength than red light",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - violet light actually has a lower wavelength than red light in the visible spectrum"
+                    },
+                    {
+                        "text": "All visible colors have the same wavelength",
+                        "isCorrect": 0,
+                        "explanation": "Different colors of visible light have different wavelengths - this is what makes them appear as different colors to our eyes"
+                    },
+                    {
+                        "text": "Wavelength has no relationship to the color we see",
+                        "isCorrect": 0,
+                        "explanation": "The wavelength of light directly determines what color we see - different wavelengths correspond to different colors"
+                    }
+                ],
+                "funFact": "Beyond the visible spectrum, there are many other types of electromagnetic waves we can't see! X-rays have much shorter wavelengths than violet light, while radio waves have much longer wavelengths than red light."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question comparing light waves of different wavelengths, requiring students to analyze how wavelength correlates with visible color and energy content"
+        },
+        {
+            "question": {
+                "text": "Which statement correctly describes a key difference between sound waves and light waves regarding their transmission through matter?",
+                "options": [
+                    {
+                        "text": "Sound waves require a medium to travel through, while light waves can travel through a vacuum.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Sound waves need matter (like air, water, or solids) to propagate, while light waves can travel through empty space."
+                    },
+                    {
+                        "text": "Light waves require a medium to travel through, while sound waves can travel through a vacuum.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. It's actually the opposite - sound waves need a medium while light waves can travel through a vacuum."
+                    },
+                    {
+                        "text": "Both sound and light waves require a medium to travel through.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While sound waves need a medium, light waves can travel through empty space without requiring any medium."
+                    },
+                    {
+                        "text": "Neither sound waves nor light waves require a medium to travel through.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Sound waves must have a medium to travel through, even though light waves can travel through empty space."
+                    }
+                ],
+                "funFact": "Light from the Sun travels about 93 million miles through the vacuum of space to reach Earth in just 8 minutes and 20 seconds! This amazing journey would be impossible for sound waves since they need matter to travel through."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A comparative analysis question about sound and light waves, requiring students to analyze the key differences in their transmission through matter"
+        },
+        {
+            "question": {
+                "text": "A musician is playing notes on a guitar at different frequencies. If they play twice as many notes in the same amount of time (doubling the frequency), how will this affect the energy transferred by the sound waves?",
+                "options": [
+                    {
+                        "text": "The energy transferred will double",
+                        "isCorrect": 1,
+                        "explanation": "When frequency doubles, twice as many waves occur per second, resulting in twice as much energy being transferred in the same time period."
+                    },
+                    {
+                        "text": "The energy transferred will stay the same",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect because energy transfer is directly proportional to frequency - more waves per second means more energy transfer."
+                    },
+                    {
+                        "text": "The energy transferred will be cut in half",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship between frequency and energy transfer. Higher frequency actually leads to more energy transfer, not less."
+                    },
+                    {
+                        "text": "The energy transferred will quadruple",
+                        "isCorrect": 0,
+                        "explanation": "While energy is proportional to the square of amplitude, it has a direct (linear) relationship with frequency. Doubling frequency only doubles energy transfer."
+                    }
+                ],
+                "funFact": "The human ear can detect frequencies between 20 Hz and 20,000 Hz. Professional musicians often train their ears to be particularly sensitive to subtle frequency changes, helping them identify specific musical notes just by hearing them!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing the mathematical relationship between wave frequency and wave energy in sound waves, focusing on how frequency changes affect energy transfer"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying how different materials affect sound waves passing through them. She notices that when sound waves travel through a thick concrete wall, they become much quieter on the other side compared to when they pass through a thin wooden door. Which statement best explains this observation?",
+                "options": [
+                    {
+                        "text": "The concrete wall reflects most of the sound waves while absorbing some energy, while the wooden door allows more waves to be transmitted through",
+                        "isCorrect": 1,
+                        "explanation": "Dense materials like concrete reflect and absorb more sound wave energy, resulting in less transmission. Less dense materials like wood allow more sound waves to pass through."
+                    },
+                    {
+                        "text": "Sound waves cannot travel through solid materials at all, so the sounds must be going around the barriers",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect - sound waves can and do travel through solid materials, just with different levels of transmission depending on the material properties."
+                    },
+                    {
+                        "text": "The wooden door amplifies the sound waves while the concrete wall reduces their frequency",
+                        "isCorrect": 0,
+                        "explanation": "Materials don't change the frequency of sound waves - they affect the amplitude through reflection, absorption and transmission."
+                    },
+                    {
+                        "text": "Sound waves travel faster through concrete than wood, causing them to lose more energy",
+                        "isCorrect": 0,
+                        "explanation": "The speed of sound through a material doesn't determine how much energy is lost - it's the material's density and other properties that affect reflection and absorption."
+                    }
+                ],
+                "funFact": "The principle of sound transmission through materials is used by architects to design concert halls. They carefully select materials and shapes that create the perfect balance of sound reflection and absorption for optimal acoustics."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question examining wave transmittance through different media, requiring analysis of how wave properties affect its ability to pass through materials"
+        },
+        {
+            "question": {
+                "text": "Light waves of different colors have different wavelengths and frequencies. Which of the following statements correctly describes how these properties relate to the wave's energy?",
+                "options": [
+                    {
+                        "text": "Red light has a higher wavelength and lower frequency than violet light, resulting in less energy per photon",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Red light has longer wavelengths and lower frequencies than violet light, which means each red photon carries less energy than a violet photon."
+                    },
+                    {
+                        "text": "Red light has a higher wavelength and lower frequency than violet light, resulting in more energy per photon",
+                        "isCorrect": 0,
+                        "explanation": "While red light does have higher wavelength and lower frequency than violet light, this actually results in less energy per photon, not more."
+                    },
+                    {
+                        "text": "Red light has a lower wavelength and higher frequency than violet light, resulting in more energy per photon",
+                        "isCorrect": 0,
+                        "explanation": "This reverses the relationship - red light actually has higher wavelength and lower frequency than violet light."
+                    },
+                    {
+                        "text": "The energy of light waves is independent of their wavelength and frequency",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The energy of a light wave is directly related to its frequency and inversely related to its wavelength."
+                    }
+                ],
+                "funFact": "The relationship between a light wave's energy and its frequency was first described by Max Planck in 1900, leading to the development of quantum mechanics. This relationship, E=hf (where E is energy, h is Planck's constant, and f is frequency), is now known as Planck's equation."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing the relationship between wavelength and frequency in light waves, requiring students to determine how these properties affect the wave's energy"
+        },
+        {
+            "question": {
+                "text": "A student shouts 'hello' in an empty gymnasium. Each time the sound reflects off the walls, its amplitude decreases. Which statement correctly describes how this affects the reverberation of the sound?",
+                "options": [
+                    {
+                        "text": "As the amplitude decreases with each reflection, the echoes become quieter until they can no longer be heard",
+                        "isCorrect": 1,
+                        "explanation": "Correct! With each reflection, some sound energy is absorbed by the walls, reducing the wave's amplitude. This creates progressively quieter echoes until the sound energy is completely absorbed or dissipates."
+                    },
+                    {
+                        "text": "The amplitude remains constant as long as the sound continues to reflect off the walls",
+                        "isCorrect": 0,
+                        "explanation": "When sound waves reflect, some energy is always absorbed by the reflecting surface, so the amplitude cannot remain constant."
+                    },
+                    {
+                        "text": "The amplitude increases with each reflection, making the echoes progressively louder",
+                        "isCorrect": 0,
+                        "explanation": "Sound waves cannot gain energy through reflection. Each reflection results in some energy being absorbed, causing the amplitude to decrease."
+                    },
+                    {
+                        "text": "The amplitude changes randomly with each reflection, creating unpredictable echo patterns",
+                        "isCorrect": 0,
+                        "explanation": "The decrease in amplitude follows a predictable pattern based on energy absorption, not random changes."
+                    }
+                ],
+                "funFact": "The world's longest echo was recorded in an underground oil depot in Scotland, where a single sound took 112 seconds to completely fade away! This incredible reverberation time was possible due to the unique shape and smooth surfaces of the underground chambers."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario-based question about wave reverberation, where students must analyze how wave amplitude changes affect the duration and intensity of repeated reflections"
+        },
+        {
+            "question": {
+                "text": "When sound waves hit foam padding in a recording studio, they are mostly absorbed and converted to thermal energy. How would using sound waves with higher amplitude affect the amount of thermal energy produced?",
+                "options": [
+                    {
+                        "text": "More thermal energy would be produced because higher amplitude waves carry more energy",
+                        "isCorrect": 1,
+                        "explanation": "Higher amplitude waves contain more energy, so when absorbed, they convert more energy into heat"
+                    },
+                    {
+                        "text": "Less thermal energy would be produced because higher amplitude waves are more likely to be reflected",
+                        "isCorrect": 0,
+                        "explanation": "While some reflection occurs, higher amplitude waves actually carry more energy that can be converted to heat when absorbed"
+                    },
+                    {
+                        "text": "The amount of thermal energy would stay the same because amplitude doesn't affect energy conversion",
+                        "isCorrect": 0,
+                        "explanation": "Amplitude directly relates to wave energy - higher amplitude means more energy available for conversion to heat"
+                    },
+                    {
+                        "text": "No thermal energy would be produced because high amplitude waves pass straight through materials",
+                        "isCorrect": 0,
+                        "explanation": "While high amplitude waves can transmit through materials, they don't completely pass through absorptive materials like foam"
+                    }
+                ],
+                "funFact": "Sound-absorbing materials are designed to convert sound energy into heat. In professional recording studios, the foam padding can slightly increase in temperature after prolonged loud recording sessions due to this energy conversion phenomenon!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question requiring analysis of wave absorption in different materials, examining how wave amplitude and frequency affect the amount of energy converted to thermal energy"
+        },
+        {
+            "question": {
+                "text": "A scientist is studying ocean waves during a storm. She notices that when the wave height (amplitude) doubles, what happens to the energy carried by each wave?",
+                "options": [
+                    {
+                        "text": "The wave energy becomes four times greater",
+                        "isCorrect": 1,
+                        "explanation": "The energy of a wave is proportional to the square of its amplitude. When amplitude doubles, the energy increases by a factor of 2\u00b2 = 4"
+                    },
+                    {
+                        "text": "The wave energy becomes twice as great",
+                        "isCorrect": 0,
+                        "explanation": "This is a common misconception. The relationship between wave energy and amplitude is not linear - it's squared. Doubling amplitude quadruples the energy"
+                    },
+                    {
+                        "text": "The wave energy stays the same",
+                        "isCorrect": 0,
+                        "explanation": "Wave energy changes when amplitude changes. It's not possible for the energy to remain constant when amplitude increases"
+                    },
+                    {
+                        "text": "The wave energy becomes eight times greater",
+                        "isCorrect": 0,
+                        "explanation": "While wave energy does increase significantly with amplitude, it increases by the square (not the cube) of the amplitude change. Doubling amplitude leads to four times the energy, not eight"
+                    }
+                ],
+                "funFact": "The largest recorded significant wave height was measured in the North Atlantic between Iceland and the United Kingdom in 2013, reaching 19 meters (62.3 feet)! Due to the squared relationship between wave height and energy, such massive waves carry exponentially more energy than average ocean waves."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A question analyzing the relationship between wave properties in a water wave, focusing on how changing amplitude affects both energy content and wave behavior"
+        },
+        {
+            "question": {
+                "text": "A student shouts near a tall cliff face. The sound wave has a high amplitude when it reaches the cliff. Which statement best describes what will happen to this sound wave?",
+                "options": [
+                    {
+                        "text": "The high amplitude wave is more likely to be transmitted through the cliff rather than reflected",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amplitude of a sound wave does not determine the proportion of energy that gets transmitted versus reflected. This is determined by the acoustic impedance mismatch between the air and the cliff, not by the amplitude of the wave."
+                    },
+                    {
+                        "text": "The high amplitude wave is more likely to be reflected back as an echo",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The amplitude of a sound wave does not determine whether it gets reflected or transmitted. Reflection occurs due to the difference in acoustic impedance between air and rock, not because of the wave's amplitude."
+                    },
+                    {
+                        "text": "The amplitude has no effect on whether the wave is transmitted or reflected",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The proportion of a sound wave that gets reflected versus transmitted depends on the acoustic impedance mismatch between the two media (air and rock), not on the amplitude of the wave. Higher amplitude only means the wave carries more energy, but the proportion reflected vs. transmitted remains the same."
+                    },
+                    {
+                        "text": "The high amplitude wave will be completely absorbed by the cliff with no reflection or transmission",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While some sound energy may be absorbed by the cliff, both reflection and transmission will occur. The proportion depends on the acoustic impedance mismatch between air and rock, not on the wave's amplitude."
+                    }
+                ],
+                "funFact": "The speed of sound through solid rock is about 4 times faster than through air! This is why Native Americans and railway workers historically would put their ears to the ground to hear distant approaching horses or trains."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "A scenario-based question about sound waves reflecting off surfaces, where students must analyze how the wave's amplitude affects its likelihood of reflection versus transmission"
+        }
+    ]
+}

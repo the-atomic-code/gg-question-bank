@@ -1,0 +1,1271 @@
+{
+    "id": "lesson-136",
+    "title": "Bacteria & Viruses",
+    "standard": "MS-LS1-1",
+    "n_recall": 13,
+    "n_application": 12,
+    "n_analysis": 13,
+    "n_total": 38,
+    "questions": [
+        {
+            "question": {
+                "text": "According to scientific understanding, what is the defining characteristic that all living things share?",
+                "options": [
+                    {
+                        "text": "All living things are made of one or more cells",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. The cellular structure is the defining characteristic of all living things - whether they are unicellular organisms like bacteria or multicellular organisms like humans."
+                    },
+                    {
+                        "text": "All living things can move from place to place",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While many living things can move, some organisms like plants are living but cannot move from place to place."
+                    },
+                    {
+                        "text": "All living things have DNA in a nucleus",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While many organisms have DNA in a nucleus, bacteria are living things that do not have a nucleus. Their DNA floats freely inside the cell."
+                    },
+                    {
+                        "text": "All living things can be seen with the naked eye",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Many living organisms like bacteria and some fungi are microscopic and cannot be seen without magnification tools."
+                    },
+                    {
+                        "text": "All living things can reproduce sexually",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Many organisms reproduce asexually, including bacteria which reproduce by binary fission (splitting in half)."
+                    }
+                ],
+                "funFact": "The smallest known cellular organism is a type of bacteria called Mycoplasma genitalium, which is only about 200-300 nanometers in diameter. That's roughly 1/100th the size of a typical human cell, yet it still contains all the necessary components to be considered alive!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify the defining characteristic of all living things related to cellular structure."
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly differentiates between bacteria and viruses?",
+                "options": [
+                    {
+                        "text": "Bacteria are nonliving, while viruses are living organisms that can reproduce independently.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria are living single-celled organisms, while viruses are nonliving particles that cannot reproduce on their own."
+                    },
+                    {
+                        "text": "Bacteria are single-celled living organisms that can reproduce independently, while viruses need a host cell to reproduce.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Bacteria are living organisms made of one cell that reproduce by copying their DNA and dividing. Viruses are nonliving and must hijack host cells to reproduce."
+                    },
+                    {
+                        "text": "Both bacteria and viruses are living organisms, but only bacteria can cause diseases.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria are living organisms, but viruses are not considered living. Both can cause diseases in humans and other organisms."
+                    },
+                    {
+                        "text": "Neither bacteria nor viruses are considered living because they both need host cells to survive.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria are living organisms that can survive and reproduce independently. Only viruses require host cells to reproduce."
+                    }
+                ],
+                "funFact": "Some viruses, called bacteriophages, specifically target and infect bacteria rather than human cells. Scientists are researching how these 'bacteria-eating' viruses might be used as alternatives to antibiotics for treating bacterial infections, especially those resistant to traditional antibiotics."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to differentiate between living and non-living things based on cellular composition."
+        },
+        {
+            "question": {
+                "text": "Viruses contain genetic material similar to living organisms, but they are considered non-living. Why is this the case?",
+                "options": [
+                    {
+                        "text": "Viruses are too small to be considered living organisms.",
+                        "isCorrect": 0,
+                        "explanation": "Size is not a criterion for determining if something is living. Many living organisms like bacteria are extremely small."
+                    },
+                    {
+                        "text": "Viruses cannot reproduce on their own and require a host cell to make copies of themselves.",
+                        "isCorrect": 1,
+                        "explanation": "Viruses lack the ability to reproduce independently, which is a key characteristic of living organisms. They must hijack a host cell's machinery to replicate."
+                    },
+                    {
+                        "text": "Viruses do not contain DNA like living organisms do.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses do contain genetic material (DNA or RNA), but having genetic material alone doesn't make something living."
+                    },
+                    {
+                        "text": "Viruses cannot be killed by antibiotics like bacteria can.",
+                        "isCorrect": 0,
+                        "explanation": "While it's true that antibiotics don't work on viruses, this is not why viruses are considered non-living. The ability to be affected by antibiotics is not a criterion for life."
+                    }
+                ],
+                "funFact": "Some scientists consider viruses to be in a gray area between living and non-living things, sometimes called 'organisms at the edge of life.' When outside a host cell, viruses are completely inactive, but once inside, they become some of the most dynamic and complex reproducers on Earth!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify why viruses are considered non-living despite containing genetic material."
+        },
+        {
+            "question": {
+                "text": "How do bacteria and viruses differ in their methods of reproduction?",
+                "options": [
+                    {
+                        "text": "Bacteria reproduce by copying their DNA and splitting in half, while viruses hijack host cells to make copies.",
+                        "isCorrect": 1,
+                        "explanation": "This correctly describes how bacteria reproduce through binary fission (copying DNA and splitting) while viruses must use a host cell's machinery to replicate."
+                    },
+                    {
+                        "text": "Both bacteria and viruses reproduce by splitting in half when they grow large enough.",
+                        "isCorrect": 0,
+                        "explanation": "While bacteria can reproduce by splitting in half, viruses cannot reproduce on their own and must infect host cells."
+                    },
+                    {
+                        "text": "Viruses reproduce by themselves, while bacteria need host cells to reproduce.",
+                        "isCorrect": 0,
+                        "explanation": "This is the opposite of reality. Bacteria can reproduce independently, while viruses require host cells."
+                    },
+                    {
+                        "text": "Bacteria and viruses both reproduce by infecting other cells and using their resources.",
+                        "isCorrect": 0,
+                        "explanation": "Only viruses need to infect other cells to reproduce. Bacteria are living organisms that can reproduce on their own by binary fission."
+                    },
+                    {
+                        "text": "Neither bacteria nor viruses can reproduce without assistance from other organisms.",
+                        "isCorrect": 0,
+                        "explanation": "While viruses require host cells to reproduce, bacteria are independent living organisms that can reproduce on their own."
+                    }
+                ],
+                "funFact": "Some bacteria can reproduce so quickly that under ideal conditions, a single bacterium could theoretically produce over a billion offspring in just 10 hours!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify how bacteria reproduce compared to viruses."
+        },
+        {
+            "question": {
+                "text": "According to scientific study, what is the smallest unit that can be said to be alive?",
+                "options": [
+                    {
+                        "text": "The cell",
+                        "isCorrect": 1,
+                        "explanation": "Cells are considered the basic unit of life because they contain all the necessary components to perform life functions such as taking in nutrients, having genetic material, and reproducing."
+                    },
+                    {
+                        "text": "The virus",
+                        "isCorrect": 0,
+                        "explanation": "Viruses are not considered living because they cannot reproduce on their own and do not take in nutrients. They require a host cell to reproduce."
+                    },
+                    {
+                        "text": "The nucleus",
+                        "isCorrect": 0,
+                        "explanation": "The nucleus is an organelle found within eukaryotic cells. It contains DNA but is only a part of a cell, not a living unit on its own."
+                    },
+                    {
+                        "text": "DNA",
+                        "isCorrect": 0,
+                        "explanation": "DNA is genetic material that contains instructions for making cells, but it is not considered alive on its own. It is a component within living cells."
+                    }
+                ],
+                "funFact": "The smallest known bacteria, Mycoplasma genitalium, has only about 525 genes and a diameter of approximately 0.2-0.3 micrometers, yet it still performs all the necessary functions to be considered alive!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify the smallest unit that can be said to be alive."
+        },
+        {
+            "question": {
+                "text": "Which of the following organisms are classified as unicellular?",
+                "options": [
+                    {
+                        "text": "Humans and elephants",
+                        "isCorrect": 0,
+                        "explanation": "Humans and elephants are both multicellular organisms made up of many different specialized cells working together."
+                    },
+                    {
+                        "text": "Bacteria and amoebas",
+                        "isCorrect": 1,
+                        "explanation": "Bacteria and amoebas are single-celled (unicellular) organisms. They complete all life functions with just one cell."
+                    },
+                    {
+                        "text": "Plants and fungi",
+                        "isCorrect": 0,
+                        "explanation": "Most plants and fungi are multicellular organisms composed of many different types of cells organized into tissues and structures."
+                    },
+                    {
+                        "text": "Fish and birds",
+                        "isCorrect": 0,
+                        "explanation": "Fish and birds are complex multicellular animals with organs and tissues made of many different specialized cells."
+                    }
+                ],
+                "funFact": "Some unicellular organisms like certain bacteria can reproduce so quickly that a single cell could theoretically produce over a billion offspring in just 10 hours under ideal conditions!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to distinguish between unicellular and multicellular organisms with examples."
+        },
+        {
+            "question": {
+                "text": "Why are microscopes necessary for studying cells?",
+                "options": [
+                    {
+                        "text": "Because cells are always found in dark places",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Cells are found everywhere in living organisms, not just in dark places. The real issue is their size, not their location."
+                    },
+                    {
+                        "text": "Because cells are too small to be seen with the unaided human eye",
+                        "isCorrect": 1,
+                        "explanation": "Correct! Cells are microscopic structures that cannot be observed without magnification. Most cells range from 1-100 micrometers in size, which is too small for the human eye to detect without the help of specialized equipment like microscopes."
+                    },
+                    {
+                        "text": "Because cells move too quickly to be observed naturally",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While some cells can move (like white blood cells), their movement is not the reason we need microscopes. The primary reason is their extremely small size."
+                    },
+                    {
+                        "text": "Because cells are transparent and invisible without special dyes",
+                        "isCorrect": 0,
+                        "explanation": "While some cells are somewhat transparent and scientists often use stains to better visualize cell structures, this is not the main reason microscopes are needed. The main reason is that cells are too small to see with the naked eye."
+                    }
+                ],
+                "funFact": "The first person to observe and name cells was Robert Hooke in 1665. When looking at thin slices of cork through a primitive microscope, he saw tiny box-like structures that reminded him of small rooms, or 'cells,' in a monastery. The most powerful modern electron microscopes can magnify objects up to 10 million times!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify why specialized equipment is needed to observe cells."
+        },
+        {
+            "question": {
+                "text": "What characteristics must all living things have that distinguishes them from nonliving things?",
+                "options": [
+                    {
+                        "text": "They must be visible to the human eye and able to move.",
+                        "isCorrect": 0,
+                        "explanation": "Visibility and movement are not universal characteristics of living things. Many living organisms like bacteria are too small to see without magnification, and some living things like plants don't move from place to place."
+                    },
+                    {
+                        "text": "They must be made of cells, take in nutrients, and be able to reproduce.",
+                        "isCorrect": 1,
+                        "explanation": "These are fundamental characteristics of all living things. All living organisms are composed of cells (either one or many), require nutrients for energy and growth, and have the ability to reproduce."
+                    },
+                    {
+                        "text": "They must have a brain and respond to stimuli immediately.",
+                        "isCorrect": 0,
+                        "explanation": "Many living organisms like bacteria, plants, and some simple animals don't have brains. While all living things respond to stimuli in some way, not all responses are immediate."
+                    },
+                    {
+                        "text": "They must be able to produce their own food through photosynthesis.",
+                        "isCorrect": 0,
+                        "explanation": "Only plants and some other organisms like algae can produce their own food through photosynthesis. Animals and many other living things get their nutrients by consuming other organisms."
+                    },
+                    {
+                        "text": "They must be warm-blooded and have DNA.",
+                        "isCorrect": 0,
+                        "explanation": "While all living things have genetic material (DNA or RNA), being warm-blooded is only a characteristic of mammals and birds. Many living things like reptiles, fish, and bacteria are not warm-blooded."
+                    }
+                ],
+                "funFact": "The smallest known living organism is a bacterium called Mycoplasma genitalium, which is so tiny that about 100 million of them could fit on the head of a pin! Despite their microscopic size, these bacteria have all the necessary components to be considered living, including cellular structure, genetic material, and the ability to reproduce."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify the components needed for something to be considered living."
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly describes how bacteria can be both helpful and harmful to humans?",
+                "options": [
+                    {
+                        "text": "Bacteria can be helpful by causing diseases, but harmful when they are killed by antibiotics.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria are harmful when they cause diseases, not helpful. Antibiotics are used to kill harmful bacteria."
+                    },
+                    {
+                        "text": "Bacteria are helpful when they reproduce quickly in the body, but harmful when they live on the skin.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Rapid bacterial reproduction in the body is often associated with infection. Many bacteria that live on the skin are actually beneficial."
+                    },
+                    {
+                        "text": "Some bacteria help with digestion and protect the skin, while others can cause infections like salmonella.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. As mentioned in the text, millions of bacteria live in our bodies and help with digestion, while others live on our skin and prevent us from getting sick. However, some bacteria like salmonella can cause harmful infections."
+                    },
+                    {
+                        "text": "Bacteria are only helpful when they are single-celled and harmful when they form colonies.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. All bacteria are single-celled organisms. Whether bacteria are helpful or harmful depends on the type of bacteria and where they are in the body, not whether they form colonies."
+                    },
+                    {
+                        "text": "Bacteria are helpful inside the body but always harmful when found on the skin's surface.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Many bacteria on the skin's surface are beneficial and help prevent illness by competing with harmful microorganisms."
+                    }
+                ],
+                "funFact": "The human body contains about 39 trillion bacterial cells, outnumbering human cells! Most of these bacteria are found in the digestive system, where they help break down food and produce essential vitamins that our bodies cannot make on their own."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify how bacteria can be both helpful and harmful to humans."
+        },
+        {
+            "question": {
+                "text": "What is a bacterial colony?",
+                "options": [
+                    {
+                        "text": "A group of bacteria growing together",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. A bacterial colony is a group of bacteria growing together in one location, often visible as a small spot on a culture medium."
+                    },
+                    {
+                        "text": "A single bacterial cell that has divided",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. When a single bacterial cell divides, it creates two separate cells, not a colony. A colony forms when many bacterial cells grow in the same location."
+                    },
+                    {
+                        "text": "The DNA inside a bacterial cell",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The DNA inside a bacterial cell contains genetic material, but it is not a colony. A colony refers to many bacteria growing together."
+                    },
+                    {
+                        "text": "A virus that infects bacteria",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. A virus that infects bacteria is called a bacteriophage, not a bacterial colony. Colonies are groups of bacteria growing together."
+                    },
+                    {
+                        "text": "A type of antibiotic",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Antibiotics are medicines used to treat bacterial infections by killing bacteria or preventing them from reproducing. They are not colonies of bacteria."
+                    }
+                ],
+                "funFact": "Bacterial colonies can sometimes be colorful! Different species of bacteria can produce colonies in various colors like yellow, red, purple, or blue, which helps scientists identify them. Some bacteria even produce colonies that glow in the dark!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify the correct definition of a bacterial colony."
+        },
+        {
+            "question": {
+                "text": "Why are antibiotics effective against bacterial infections but not viral infections?",
+                "options": [
+                    {
+                        "text": "Because antibiotics break down the cell walls of bacteria, which viruses don't have",
+                        "isCorrect": 1,
+                        "explanation": "Antibiotics work by targeting structures unique to bacterial cells, such as their cell walls. Since viruses are not cells and don't have cell walls, antibiotics have no effect on them."
+                    },
+                    {
+                        "text": "Because viruses are smaller than bacteria and can hide from antibiotics",
+                        "isCorrect": 0,
+                        "explanation": "While viruses are generally smaller than bacteria, the ineffectiveness of antibiotics against viruses is not related to their size but to their fundamental structural differences."
+                    },
+                    {
+                        "text": "Because viruses reproduce too quickly for antibiotics to work",
+                        "isCorrect": 0,
+                        "explanation": "Although viruses can reproduce quickly, the speed of reproduction is not why antibiotics don't work against them. The reason is that viruses have a completely different structure than bacteria."
+                    },
+                    {
+                        "text": "Because antibiotics only work on living organisms, and bacteria are alive while viruses are not",
+                        "isCorrect": 0,
+                        "explanation": "While it's true that viruses are not considered living organisms (unlike bacteria), antibiotics don't work against viruses because they specifically target bacterial cellular structures, not because of the living/non-living distinction."
+                    },
+                    {
+                        "text": "Because viruses develop resistance to antibiotics faster than bacteria",
+                        "isCorrect": 0,
+                        "explanation": "Viruses don't develop resistance to antibiotics because antibiotics don't affect them in the first place. Resistance is only relevant for organisms that antibiotics can normally affect."
+                    }
+                ],
+                "funFact": "Alexander Fleming discovered the first antibiotic, penicillin, by accident in 1928 when he noticed that mold growing in his petri dishes was killing the bacteria he was trying to grow. This accidental discovery revolutionized medicine and has saved countless lives from bacterial infections!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify why antibiotics are effective against bacteria but not viruses."
+        },
+        {
+            "question": {
+                "text": "How do viruses, which are considered nonliving, reproduce?",
+                "options": [
+                    {
+                        "text": "They divide and split in half like bacteria",
+                        "isCorrect": 0,
+                        "explanation": "This describes bacterial reproduction through binary fission. Viruses cannot divide on their own because they lack cellular machinery."
+                    },
+                    {
+                        "text": "They attach to host cells, inject their genetic material, use the cell's machinery to make copies, and then burst out",
+                        "isCorrect": 1,
+                        "explanation": "Viruses are nonliving and must hijack a host cell's machinery to reproduce. They attach to cells, inject their genetic material, force the cell to produce viral components, and then release new viruses when the cell bursts."
+                    },
+                    {
+                        "text": "They absorb nutrients from their environment and grow larger",
+                        "isCorrect": 0,
+                        "explanation": "This describes how some organisms grow, but viruses cannot take in nutrients directly from their environment since they have no metabolic processes of their own."
+                    },
+                    {
+                        "text": "They spontaneously form from proteins in the environment",
+                        "isCorrect": 0,
+                        "explanation": "Viruses do not form spontaneously from proteins. They must be reproduced through the hijacking of host cells."
+                    },
+                    {
+                        "text": "They combine with other viruses to form new types",
+                        "isCorrect": 0,
+                        "explanation": "While genetic material from different viruses can sometimes combine during co-infection of a cell, this is not how viruses reproduce themselves."
+                    }
+                ],
+                "funFact": "Some viruses can remain dormant inside host cells for years without causing disease, a state called 'latency.' For example, the chickenpox virus (varicella-zoster) can reactivate decades after the initial infection to cause shingles."
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify how viruses reproduce using host cells."
+        },
+        {
+            "question": {
+                "text": "Which of the following is an example of a unicellular organism?",
+                "options": [
+                    {
+                        "text": "Bacteria",
+                        "isCorrect": 1,
+                        "explanation": "Bacteria are single-celled (unicellular) organisms that reproduce by copying their DNA and splitting in half."
+                    },
+                    {
+                        "text": "Human",
+                        "isCorrect": 0,
+                        "explanation": "Humans are multicellular organisms made up of trillions of cells of many different types."
+                    },
+                    {
+                        "text": "Plant",
+                        "isCorrect": 0,
+                        "explanation": "Plants are multicellular organisms composed of many different specialized cells."
+                    },
+                    {
+                        "text": "Virus",
+                        "isCorrect": 0,
+                        "explanation": "Viruses are not considered living organisms. They are non-living structures with genetic material that require host cells to reproduce."
+                    }
+                ],
+                "funFact": "Some bacteria can reproduce every 20 minutes in ideal conditions, which means a single bacterium could theoretically produce over 1 million offspring in just 7 hours!"
+            },
+            "cognitive_level": "recall",
+            "blueprint": "Ask students to identify examples of unicellular organisms from the reading material."
+        },
+        {
+            "question": {
+                "text": "Which of the following characteristics best distinguishes living organisms from non-living things?",
+                "options": [
+                    {
+                        "text": "Cellular composition",
+                        "isCorrect": 1,
+                        "explanation": "All living things are made up of cells, which is the smallest unit that can be said to be alive. This is a fundamental characteristic that distinguishes living organisms from non-living things."
+                    },
+                    {
+                        "text": "Physical appearance",
+                        "isCorrect": 0,
+                        "explanation": "Physical appearance is not a reliable way to distinguish between living and non-living things, as some non-living things can resemble living organisms in appearance."
+                    },
+                    {
+                        "text": "Ability to move",
+                        "isCorrect": 0,
+                        "explanation": "While many living organisms can move, not all living things have this ability (such as plants). Additionally, some non-living things can move (like robots or objects blown by wind)."
+                    },
+                    {
+                        "text": "Size",
+                        "isCorrect": 0,
+                        "explanation": "Size varies greatly among living organisms and non-living things. Both living and non-living things can be extremely small or very large, so size is not a distinguishing characteristic."
+                    },
+                    {
+                        "text": "Color",
+                        "isCorrect": 0,
+                        "explanation": "Color is not a defining characteristic of living things. Both living organisms and non-living things come in various colors, making this an unreliable way to distinguish between them."
+                    }
+                ],
+                "funFact": "Some bacteria can divide and reproduce every 20 minutes under optimal conditions, which means a single bacterial cell could theoretically produce over 16 million descendants in just 8 hours!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A multiple choice question asking students to identify which characteristic distinguishes living organisms from non-living things, with answer choices including ability to reproduce, cellular composition, ability to move, and physical appearance."
+        },
+        {
+            "question": {
+                "text": "Which of the following organisms is made of only one cell?",
+                "options": [
+                    {
+                        "text": "Bacteria",
+                        "isCorrect": 1,
+                        "explanation": "Bacteria are single-celled (unicellular) organisms that reproduce by copying their DNA and splitting in half. They are one of the most common types of unicellular organisms on Earth."
+                    },
+                    {
+                        "text": "Human",
+                        "isCorrect": 0,
+                        "explanation": "Humans are multicellular organisms made up of trillions of cells of many different types that work together to form tissues and organs."
+                    },
+                    {
+                        "text": "Oak tree",
+                        "isCorrect": 0,
+                        "explanation": "Oak trees are complex multicellular organisms with many specialized cell types that form different tissues like leaves, bark, and roots."
+                    },
+                    {
+                        "text": "Mushroom",
+                        "isCorrect": 0,
+                        "explanation": "Mushrooms are multicellular fungi composed of many cells that form structures like the cap, stem, and underground network of cells called mycelium."
+                    }
+                ],
+                "funFact": "A single bacterial cell can divide and reproduce so quickly that under ideal conditions, one bacterium could multiply to over one billion cells in just 10 hours!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting students with images or descriptions of various organisms (unicellular and multicellular) and asking them to identify which is made of only one cell, with answer options including bacteria, amoeba, human, and plant."
+        },
+        {
+            "question": {
+                "text": "Which characteristic of bacteria demonstrates that they are living organisms?",
+                "options": [
+                    {
+                        "text": "They reproduce by copying their DNA and dividing",
+                        "isCorrect": 1,
+                        "explanation": "Reproduction is a key characteristic of living things. Bacteria demonstrate this by copying their DNA and dividing to create new cells, fulfilling one of the fundamental requirements for being classified as living."
+                    },
+                    {
+                        "text": "They are found almost everywhere on Earth",
+                        "isCorrect": 0,
+                        "explanation": "While bacteria are indeed widespread, geographic distribution alone doesn't determine whether something is living. Nonliving substances like water and minerals are also found everywhere on Earth."
+                    },
+                    {
+                        "text": "They can be both helpful and harmful",
+                        "isCorrect": 0,
+                        "explanation": "The ability to be helpful or harmful describes bacteria's interactions with other organisms, but this isn't a defining characteristic of living things. Even nonliving substances can be beneficial or harmful."
+                    },
+                    {
+                        "text": "They require antibiotics to be killed",
+                        "isCorrect": 0,
+                        "explanation": "The fact that bacteria can be killed by antibiotics is a property related to their cellular structure, but the need for specific treatments to kill them doesn't define them as living."
+                    },
+                    {
+                        "text": "They can form colonies when growing together",
+                        "isCorrect": 0,
+                        "explanation": "While forming colonies is a behavior of bacteria, simply grouping together isn't a defining characteristic of living things. Many nonliving things can cluster together as well."
+                    }
+                ],
+                "funFact": "Some bacteria can reproduce every 20 minutes under optimal conditions! This means that a single bacterial cell could theoretically produce over 16 million offspring in just 8 hours if nothing limited their growth and all cells survived."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario describing how bacteria reproduce by copying DNA and splitting. Students must identify the reason this process demonstrates that bacteria are living organisms, with options related to cellular functions that define life."
+        },
+        {
+            "question": {
+                "text": "Why are viruses considered non-living organisms despite containing genetic material?",
+                "options": [
+                    {
+                        "text": "Viruses can reproduce independently through cell division.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses cannot reproduce on their own through cell division. Unlike bacteria, which are living organisms that can divide and reproduce independently, viruses require a host cell to reproduce."
+                    },
+                    {
+                        "text": "Viruses cannot reproduce on their own and must hijack host cells to make copies.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Viruses are considered non-living because they lack the ability to reproduce independently. They must attach to a host cell, inject their genetic material, force the cell to make copies of the virus, and then burst out of the cell to spread these copies."
+                    },
+                    {
+                        "text": "Viruses do not contain any genetic material at all.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses do contain genetic material (DNA or RNA) inside their protein shell. However, merely having genetic material is not sufficient to be considered living."
+                    },
+                    {
+                        "text": "Viruses can take in nutrients from their environment directly.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses cannot take in nutrients from their environment. One key characteristic of living organisms is the ability to take in nutrients and process them for energy, which viruses cannot do."
+                    },
+                    {
+                        "text": "Viruses have a cellular structure with a nucleus.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses are not cells and do not have cellular structures like a nucleus. They are simply protein shells (capsids) containing genetic material."
+                    }
+                ],
+                "funFact": "Some viruses, called bacteriophages, specifically target and infect bacteria. These viruses have a distinctive structure that looks like a lunar landing module, with a head containing genetic material and leg-like structures that attach to bacterial cell walls. Scientists are researching these bacteriophages as potential alternatives to antibiotics for treating bacterial infections!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to apply their knowledge of virus reproduction to explain why viruses are considered non-living, despite containing genetic material, with options contrasting cellular reproduction with viral reproduction methods."
+        },
+        {
+            "question": {
+                "text": "What key difference between bacteria and viruses classifies one as living and the other as non-living?",
+                "options": [
+                    {
+                        "text": "Bacteria are smaller than viruses.",
+                        "isCorrect": 0,
+                        "explanation": "Size is not what determines if something is living. In fact, bacteria are generally larger than viruses."
+                    },
+                    {
+                        "text": "Bacteria can reproduce on their own, while viruses need a host cell.",
+                        "isCorrect": 1,
+                        "explanation": "The ability to reproduce independently is a key characteristic of living things. Bacteria can reproduce by themselves through binary fission, while viruses must hijack a host cell's machinery to make copies of themselves."
+                    },
+                    {
+                        "text": "Viruses are harmful, but bacteria can be helpful.",
+                        "isCorrect": 0,
+                        "explanation": "Whether something is harmful or helpful doesn't determine if it's living. Both bacteria and viruses can cause disease, and some bacteria are beneficial to humans."
+                    },
+                    {
+                        "text": "Bacteria contain DNA, but viruses do not.",
+                        "isCorrect": 0,
+                        "explanation": "Both bacteria and viruses contain genetic material. Bacteria have DNA, and viruses have either DNA or RNA. The presence of genetic material alone doesn't determine if something is living."
+                    },
+                    {
+                        "text": "Bacteria are found everywhere, but viruses are only found in hosts.",
+                        "isCorrect": 0,
+                        "explanation": "Where something is found doesn't determine if it's living. Viruses can exist outside hosts temporarily, even though they can only reproduce inside host cells."
+                    }
+                ],
+                "funFact": "The debate about whether viruses are living or non-living continues among scientists! Some scientists propose a separate category for viruses called 'organisms at the edge of life' because while they lack some characteristics of living things, they do evolve and contain genetic material like living organisms."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question comparing and contrasting bacteria and viruses, asking students to identify the key structural difference between them that classifies one as living and one as non-living."
+        },
+        {
+            "question": {
+                "text": "Why do scientists need to use microscopes to study cells in living organisms?",
+                "options": [
+                    {
+                        "text": "Because cells are too small to be seen with the naked eye",
+                        "isCorrect": 1,
+                        "explanation": "Cells are microscopic structures that cannot be observed without magnification tools. Their small size requires special equipment like microscopes to visualize their structures and functions."
+                    },
+                    {
+                        "text": "Because cells are transparent and invisible in normal light",
+                        "isCorrect": 0,
+                        "explanation": "While some cells may be relatively transparent, this isn't why microscopes are needed. The primary reason is their extremely small size, not their transparency."
+                    },
+                    {
+                        "text": "Because cells only exist inside other structures",
+                        "isCorrect": 0,
+                        "explanation": "Cells don't only exist inside other structures - they are the fundamental units that make up all living organisms. The issue is their microscopic size."
+                    },
+                    {
+                        "text": "Because cells move too quickly to observe without special equipment",
+                        "isCorrect": 0,
+                        "explanation": "Cell movement isn't the reason microscopes are needed. While some cells can move, the primary challenge is their small size, which requires magnification to observe."
+                    },
+                    {
+                        "text": "Because cells only become visible after they die",
+                        "isCorrect": 0,
+                        "explanation": "Cells are visible under proper magnification whether they are alive or dead. Their visibility depends on having appropriate tools to see their microscopic size, not their living state."
+                    }
+                ],
+                "funFact": "The first person to observe and name cells was Robert Hooke in 1665. When looking at a thin slice of cork through an early microscope, he saw tiny box-like structures that reminded him of small rooms, or cells, in which monks lived in monasteries. This technological advancement changed our understanding of living things forever!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario about viewing different organisms under different magnification tools, asking students to explain why certain tools are necessary to observe cells, relating to the crosscutting concept of scale."
+        },
+        {
+            "question": {
+                "text": "Among the following organisms, which one would likely have the most diverse types of cells?",
+                "options": [
+                    {
+                        "text": "Bacteria",
+                        "isCorrect": 0,
+                        "explanation": "Bacteria are unicellular organisms with only one cell type. They don't have specialized cells for different functions."
+                    },
+                    {
+                        "text": "Human",
+                        "isCorrect": 1,
+                        "explanation": "Humans are complex multicellular organisms with more than 200 different types of specialized cells that perform different functions throughout the body."
+                    },
+                    {
+                        "text": "Amoeba",
+                        "isCorrect": 0,
+                        "explanation": "Amoebas are unicellular organisms with only one cell type that performs all life functions."
+                    },
+                    {
+                        "text": "Mushroom",
+                        "isCorrect": 0,
+                        "explanation": "While mushrooms are multicellular organisms, they have fewer cell types than humans, as they have a simpler body structure and fewer specialized functions."
+                    }
+                ],
+                "funFact": "The human body contains approximately 37.2 trillion cells, with cell types ranging from tiny red blood cells (which have no nucleus) to nerve cells that can be over three feet long in tall individuals!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to apply their understanding of cellular structure to identify which organism (from several options) would likely have the most diverse types of cells, with justification related to organism complexity."
+        },
+        {
+            "question": {
+                "text": "A scientist is investigating whether a sample collected from pond water contains living organisms. Which tool or method would be most appropriate to determine if living cells are present in the sample?",
+                "options": [
+                    {
+                        "text": "Using a standard magnifying glass to observe the sample",
+                        "isCorrect": 0,
+                        "explanation": "A standard magnifying glass doesn't provide enough magnification to see individual cells, which are microscopic. Cells are too small to be seen with the unaided eye or low magnification tools."
+                    },
+                    {
+                        "text": "Using a compound microscope with 400x magnification",
+                        "isCorrect": 1,
+                        "explanation": "A compound microscope with 400x magnification is appropriate for observing unicellular organisms and cells. This level of magnification allows scientists to see individual cells and determine if the sample contains living organisms."
+                    },
+                    {
+                        "text": "Heating the sample and looking for color changes",
+                        "isCorrect": 0,
+                        "explanation": "Heating a sample and observing color changes doesn't directly confirm the presence of cells. This method might cause chemical reactions but doesn't provide visual evidence of cellular structure."
+                    },
+                    {
+                        "text": "Using pH paper to test the acidity of the sample",
+                        "isCorrect": 0,
+                        "explanation": "Testing pH only indicates the acidity or alkalinity of the sample, not whether it contains cells. pH testing cannot confirm if the sample contains living organisms."
+                    },
+                    {
+                        "text": "Observing the sample with the naked eye for movement",
+                        "isCorrect": 0,
+                        "explanation": "Most cells are microscopic and cannot be seen with the naked eye. While some multicellular organisms in pond water might be visible, many unicellular organisms require magnification to be observed."
+                    }
+                ],
+                "funFact": "The first person to observe and describe living cells was Antoni van Leeuwenhoek in the 1670s, using simple microscopes he designed himself. He called the tiny organisms he saw 'animalcules,' and his discoveries launched the field of microbiology!"
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario about scientific investigation of microorganisms, asking students to identify which tool or method would be most appropriate for determining whether a sample contains living cells, with options relating to different magnification and testing methods."
+        },
+        {
+            "question": {
+                "text": "A scientist discovers a microorganism in a hot spring and wants to determine if it's a living organism. Which evidence would most conclusively demonstrate that this microorganism is made of cells and therefore living?",
+                "options": [
+                    {
+                        "text": "The microorganism can move around in the hot spring water.",
+                        "isCorrect": 0,
+                        "explanation": "Movement alone doesn't prove something is living or made of cells. Some non-living things like viruses can appear to move due to environmental factors, while some living cells may show little movement."
+                    },
+                    {
+                        "text": "When viewed under a microscope, the microorganism has a membrane-bound structure containing DNA and can divide to create identical copies.",
+                        "isCorrect": 1,
+                        "explanation": "This evidence directly shows that the microorganism has cellular structure with DNA (genetic material) and can reproduce through cell division, which are definitive characteristics of living cells."
+                    },
+                    {
+                        "text": "The microorganism responds to changes in temperature by moving away from extreme heat.",
+                        "isCorrect": 0,
+                        "explanation": "Response to stimuli is a characteristic of living things, but this alone doesn't prove cellular structure. This observation might indicate life, but doesn't specifically demonstrate the presence of cells."
+                    },
+                    {
+                        "text": "The microorganism can be killed by extreme temperatures.",
+                        "isCorrect": 0,
+                        "explanation": "Being destroyed by extreme conditions doesn't necessarily mean something is alive. Many non-living structures can be damaged by heat without being cellular organisms."
+                    },
+                    {
+                        "text": "The microorganism has genetic material that can be detected in tests.",
+                        "isCorrect": 0,
+                        "explanation": "While genetic material is essential for living things, its mere presence doesn't conclusively prove something is cellular or alive. Viruses have genetic material but aren't considered living because they lack cellular structure and can't reproduce independently."
+                    }
+                ],
+                "funFact": "Some extremophile microorganisms found in hot springs can survive at temperatures above 80\u00b0C (176\u00b0F)! These thermophiles have specialized cellular adaptations that prevent their proteins and DNA from breaking down in extreme heat, and their study has led to important biotechnology tools like the heat-resistant DNA polymerase used in PCR tests."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question presenting a scenario where a scientist discovers a new microorganism and needs to determine if it's living. Students must select which evidence would most conclusively demonstrate that the microorganism is made of cells."
+        },
+        {
+            "question": {
+                "text": "When white blood cells encounter a virus in the human body, they work to protect us from getting sick. This demonstrates how the human body is:",
+                "options": [
+                    {
+                        "text": "A single-celled organism that multiplies to fight infections",
+                        "isCorrect": 0,
+                        "explanation": "Humans are multicellular organisms, not single-celled. White blood cells are just one of many specialized cell types in the human body."
+                    },
+                    {
+                        "text": "A multicellular organism with specialized cells for different functions",
+                        "isCorrect": 1,
+                        "explanation": "White blood cells are a specific type of cell with the specialized function of fighting infections. The human body contains many different types of cells performing various functions, making us multicellular organisms."
+                    },
+                    {
+                        "text": "A colony of bacteria that work together to eliminate viruses",
+                        "isCorrect": 0,
+                        "explanation": "Humans are not colonies of bacteria. While we do have beneficial bacteria in our bodies, our immune cells like white blood cells are human cells, not bacterial cells."
+                    },
+                    {
+                        "text": "A virus-resistant structure that cannot be infected by other viruses",
+                        "isCorrect": 0,
+                        "explanation": "Humans can definitely be infected by viruses. White blood cells are part of our immune system that fights these infections, but this doesn't make us resistant to all viruses."
+                    },
+                    {
+                        "text": "A single cell that has the ability to change its function when needed",
+                        "isCorrect": 0,
+                        "explanation": "Humans are not single cells. We are complex multicellular organisms with trillions of cells, including specialized white blood cells that are part of our immune system."
+                    }
+                ],
+                "funFact": "The human body contains approximately 30 trillion human cells and an estimated 38 trillion bacterial cells! White blood cells make up only about 1% of your blood, but they're crucial for immune function. Some types of white blood cells can 'remember' infections they've encountered before, which is how vaccines help protect you from future infections."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A scenario describing white blood cells fighting infections, asking students to apply their understanding of cellular structure to explain how these specialized cells demonstrate the multicellular nature of the human body."
+        },
+        {
+            "question": {
+                "text": "Which statement correctly explains why bacteria are considered living organisms but viruses are not?",
+                "options": [
+                    {
+                        "text": "Bacteria can reproduce independently through cell division, while viruses need host cells to replicate.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Bacteria are living organisms that can reproduce on their own by copying their DNA and dividing, while viruses cannot reproduce independently and must hijack host cells to make copies of themselves."
+                    },
+                    {
+                        "text": "Bacteria are much larger than viruses, which makes them living organisms.",
+                        "isCorrect": 0,
+                        "explanation": "Size is not what determines if something is living. Some bacteria can be very small, and being larger doesn't make something alive."
+                    },
+                    {
+                        "text": "Bacteria cause more serious diseases than viruses, showing they are alive.",
+                        "isCorrect": 0,
+                        "explanation": "The ability to cause disease doesn't determine if something is living. Both bacteria and viruses can cause serious diseases, but this isn't related to whether they're considered living."
+                    },
+                    {
+                        "text": "Bacteria can be seen with the naked eye, while viruses can only be seen with special microscopes.",
+                        "isCorrect": 0,
+                        "explanation": "Bacteria cannot typically be seen with the naked eye - they require microscopes to view. Visibility is not what determines if something is alive."
+                    },
+                    {
+                        "text": "Bacteria and viruses are both considered living organisms because they both contain DNA.",
+                        "isCorrect": 0,
+                        "explanation": "Having DNA alone doesn't make something alive. While both bacteria and viruses contain genetic material, viruses lack other characteristics of living things like the ability to reproduce independently."
+                    }
+                ],
+                "funFact": "Some viruses, called bacteriophages, specifically attack bacteria! They have a distinctive appearance that looks like a lunar landing module, with a head containing genetic material and spider-like legs that attach to bacterial cell walls before injecting their DNA into the bacterial cell."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question asking students to analyze how the structure of bacteria allows them to function as independent living organisms, while viruses cannot function independently."
+        },
+        {
+            "question": {
+                "text": "Why are antibiotics effective against bacterial infections but not viral infections?",
+                "options": [
+                    {
+                        "text": "Antibiotics target specific structures or processes in bacteria (like cell walls, protein synthesis, or DNA replication) that viruses do not have.",
+                        "isCorrect": 1,
+                        "explanation": "Antibiotics work by disrupting various bacterial structures or processes. Viruses lack these bacterial targets because they are not cells and have a fundamentally different structure and life cycle, reproducing by hijacking host cells."
+                    },
+                    {
+                        "text": "Antibiotics make the immune system stronger against all types of infections.",
+                        "isCorrect": 0,
+                        "explanation": "Antibiotics don't strengthen the immune system - they specifically target bacterial structures. The immune system works independently to fight infections."
+                    },
+                    {
+                        "text": "Viruses are larger than bacteria, making them resistant to antibiotics.",
+                        "isCorrect": 0,
+                        "explanation": "Viruses are actually much smaller than bacteria. The reason antibiotics don't work on viruses is because of structural differences, not size."
+                    },
+                    {
+                        "text": "Antibiotics prevent viruses from entering cells, but viruses have already infected cells by the time symptoms appear.",
+                        "isCorrect": 0,
+                        "explanation": "Antibiotics don't prevent viruses from entering cells. They work on bacterial structures that viruses simply don't have."
+                    }
+                ],
+                "funFact": "The word 'antibiotic' literally means 'against life' - but only bacterial life! Antibiotics were first discovered in 1928 when Alexander Fleming noticed that mold (specifically penicillium) produced a substance that killed bacteria growing on his petri dishes."
+            },
+            "cognitive_level": "application",
+            "blueprint": "A question describing antibiotics and how they work, asking students to apply their knowledge of cellular differences to explain why antibiotics are effective against bacteria but not viruses."
+        },
+        {
+            "question": {
+                "text": "Which statement correctly compares bacteria and viruses in terms of what makes one living and the other non-living?",
+                "options": [
+                    {
+                        "text": "Bacteria are non-living because they need a host cell to reproduce, while viruses are living because they can replicate their DNA independently.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria are living organisms that can reproduce independently by copying their DNA and dividing. Viruses are non-living and require host cells to reproduce."
+                    },
+                    {
+                        "text": "Bacteria are living organisms because they are single-celled, can reproduce independently, and take in nutrients, while viruses are non-living because they require host cells to reproduce and cannot metabolize nutrients on their own.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Bacteria are living single-celled organisms that reproduce independently and metabolize nutrients. Viruses lack cellular structure, cannot reproduce on their own, and don't take in nutrients - key characteristics that define them as non-living."
+                    },
+                    {
+                        "text": "Both bacteria and viruses are living because they contain DNA and can cause infections in humans.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While both contain genetic material and can cause infections, containing DNA and causing infections are not sufficient criteria for being considered alive. Viruses lack cellular structure and cannot reproduce independently, making them non-living."
+                    },
+                    {
+                        "text": "Both bacteria and viruses are non-living because they are too small to be seen without a microscope.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Size has nothing to do with whether something is living or non-living. Bacteria are living organisms despite their small size because they have cellular structure and can perform life functions independently."
+                    },
+                    {
+                        "text": "Bacteria are non-living because antibiotics can kill them, while viruses are living because they can evolve and adapt to their environment.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. The ability to be killed by antibiotics doesn't make bacteria non-living. Both bacteria and viruses can evolve, but the ability to evolve alone doesn't make something living. Viruses lack cellular structure and cannot reproduce independently."
+                    }
+                ],
+                "funFact": "Some viruses, called bacteriophages, specifically infect bacteria rather than human cells. Scientists are researching how these 'bacteria-eaters' might be used as alternatives to antibiotics to fight bacterial infections, especially those resistant to traditional antibiotics."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Create a question that asks students to compare and contrast bacteria and viruses, focusing on what makes one a living organism and the other non-living. Include options that assess understanding of cellular structure, reproduction methods, and nutrient requirements."
+        },
+        {
+            "question": {
+                "text": "Which statement best explains why viruses are considered non-living entities despite their ability to replicate?",
+                "options": [
+                    {
+                        "text": "Viruses can reproduce independently by dividing into two identical copies.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses cannot reproduce independently - they require a host cell to replicate. This inability to reproduce on their own is one of the key reasons viruses are not considered living organisms."
+                    },
+                    {
+                        "text": "Viruses hijack host cells to make copies of themselves because they cannot reproduce on their own.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Viruses lack the cellular machinery needed for independent reproduction, which is a key characteristic of living things. Instead, they must inject their genetic material into host cells and use the cell's resources to make copies of themselves."
+                    },
+                    {
+                        "text": "Viruses take in nutrients from their environment to fuel their reproductive process.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses do not metabolize nutrients - they don't eat or process food. They lack the metabolic machinery necessary for taking in and processing nutrients, which is another reason they're not considered living."
+                    },
+                    {
+                        "text": "Viruses are non-living because they are too small to contain genetic material.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Size is not what determines whether something is living or non-living. Viruses do contain genetic material (DNA or RNA), but they lack other characteristics of living organisms, such as cellular structure and the ability to reproduce independently."
+                    },
+                    {
+                        "text": "Viruses are classified as non-living because they cannot cause disease in living cells.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Many viruses do cause disease in living cells. Their classification as non-living is not related to their ability to cause disease, but rather to their lack of characteristics that define living things, such as cellular structure and independent reproduction."
+                    }
+                ],
+                "funFact": "Viruses exist in a gray area between living and non-living! They're sometimes described as 'organisms at the edge of life' because they possess genes, evolve by natural selection, and reproduce by creating multiple copies of themselves - yet they lack cellular structure and require host cells to reproduce. Some scientists have even proposed classifying them in an entirely separate category called 'replicators.'"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Design a question about how viruses reproduce that requires students to analyze the process whereby viruses hijack host cells. Include options that demonstrate understanding of why this process classifies viruses as non-living."
+        },
+        {
+            "question": {
+                "text": "Which of the following statements correctly explains why bacteria are classified as living organisms while viruses are not?",
+                "options": [
+                    {
+                        "text": "Bacteria are smaller than viruses and therefore easier to classify as living.",
+                        "isCorrect": 0,
+                        "explanation": "Size is not a determining factor for whether something is living or not. In fact, many viruses are smaller than bacteria."
+                    },
+                    {
+                        "text": "Bacteria can reproduce independently by copying their DNA and dividing, while viruses require a host cell to reproduce.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Bacteria are single-celled organisms that can reproduce on their own by copying their DNA and dividing. Viruses cannot reproduce independently and must hijack a host cell's machinery to make copies of themselves."
+                    },
+                    {
+                        "text": "Bacteria cause more serious diseases than viruses, which is why they're considered alive.",
+                        "isCorrect": 0,
+                        "explanation": "Disease-causing ability is not related to whether something is living or non-living. Both bacteria and viruses can cause diseases, and severity varies among different types of each."
+                    },
+                    {
+                        "text": "Bacteria have a protein shell while viruses have cell walls.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria have cell walls while viruses have protein shells (capsids). The structure alone doesn't determine living status, but rather what the organism can do with its structures."
+                    },
+                    {
+                        "text": "Bacteria evolve over time, but viruses remain exactly the same for centuries.",
+                        "isCorrect": 0,
+                        "explanation": "Both bacteria and viruses can evolve over time. The ability to evolve is not what distinguishes living from non-living things. The key difference is that bacteria can independently carry out life processes like reproduction."
+                    }
+                ],
+                "funFact": "Some bacteria can survive in extreme environments where virtually no other life exists, including near deep-sea hydrothermal vents where temperatures exceed 250\u00b0F (121\u00b0C), in highly acidic conditions, or even in nuclear reactors!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Develop a question about the relationship between cell structure and function in bacteria. Include options that evaluate students' ability to analyze how bacterial cell structures enable them to reproduce independently, unlike viruses."
+        },
+        {
+            "question": {
+                "text": "How does the human immune system respond differently to bacterial infections versus viral infections?",
+                "options": [
+                    {
+                        "text": "Antibiotics can destroy both bacteria and viruses",
+                        "isCorrect": 0,
+                        "explanation": "Antibiotics only work against bacterial infections by breaking down bacterial cell walls. They have no effect on viruses, which have no cell walls and reproduce differently."
+                    },
+                    {
+                        "text": "White blood cells fight bacteria while vaccines only fight viruses",
+                        "isCorrect": 0,
+                        "explanation": "White blood cells are part of the immune system and fight against both bacteria and viruses. Vaccines can be developed for both bacterial and viral infections."
+                    },
+                    {
+                        "text": "Antibiotics fight bacterial infections, while the immune system must combat viral infections without antibiotic assistance",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Antibiotics can kill bacteria by breaking down their cell walls, but they don't work against viruses. The immune system must fight viral infections on its own, though vaccines can help prepare the immune system."
+                    },
+                    {
+                        "text": "Viruses can be easily controlled with medication while bacteria usually require the immune system to fight them naturally",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Viruses are typically harder to treat with medication than bacteria. Most viral infections rely on the immune system, while bacterial infections can often be treated with antibiotics."
+                    }
+                ],
+                "funFact": "Some viruses specifically target bacteria and are called bacteriophages. Scientists are researching these 'bacteria-eaters' as potential alternatives to antibiotics, especially for antibiotic-resistant bacterial infections!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Create a question that asks students to analyze how the human immune system responds differently to bacterial versus viral infections. Include options related to antibiotics, vaccines, and white blood cells."
+        },
+        {
+            "question": {
+                "text": "Why do common prevention methods like handwashing and avoiding sharing drinks work against both bacteria and viruses, while antibiotics only work against bacteria?",
+                "options": [
+                    {
+                        "text": "Because handwashing physically removes both bacteria and viruses, while antibiotics specifically target bacterial cell walls, which viruses don't have.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Physical prevention methods work by removing or blocking both types of microorganisms, while antibiotics work by breaking down bacterial cell walls\u2014a structure viruses don't possess since they aren't living cells."
+                    },
+                    {
+                        "text": "Because viruses are smaller than bacteria, so they can escape antibiotics but not handwashing.",
+                        "isCorrect": 0,
+                        "explanation": "While viruses are generally smaller than bacteria, size isn't why antibiotics don't affect them. Antibiotics target specific structures in bacterial cells that viruses simply don't have, regardless of their size."
+                    },
+                    {
+                        "text": "Because handwashing uses soap that kills both bacteria and viruses, just like antibiotics do.",
+                        "isCorrect": 0,
+                        "explanation": "Handwashing primarily works by physically removing microorganisms, not killing them (though some soaps have antimicrobial properties). Antibiotics don't kill viruses at all because viruses lack the cellular structures that antibiotics target."
+                    },
+                    {
+                        "text": "Because prevention methods strengthen your immune system, while antibiotics weaken it.",
+                        "isCorrect": 0,
+                        "explanation": "Prevention methods like handwashing don't strengthen your immune system\u2014they reduce exposure to pathogens. Antibiotics don't typically weaken the immune system either; they specifically target bacterial structures regardless of immune function."
+                    },
+                    {
+                        "text": "Because viruses are resistant to all medications, including both antibiotics and soap.",
+                        "isCorrect": 0,
+                        "explanation": "Viruses aren't resistant to all medications\u2014antiviral drugs exist specifically to treat viral infections. The reason antibiotics don't work on viruses is because viruses lack the cellular structures that antibiotics target."
+                    }
+                ],
+                "funFact": "Some antibiotic-resistant bacteria can survive standard treatments because they've evolved special mechanisms to protect themselves. This is why scientists recommend completing your full course of antibiotics even if you feel better\u2014to ensure all bacteria are eliminated and don't develop resistance!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Develop a question about the transmission of bacteria and viruses that asks students to analyze why certain prevention methods work against both types of microorganisms while others are specific to one type."
+        },
+        {
+            "question": {
+                "text": "Why was the development of the microscope essential for scientists to discover and study cells?",
+                "options": [
+                    {
+                        "text": "Because cells are completely invisible in natural light",
+                        "isCorrect": 0,
+                        "explanation": "While cells are difficult to see with the naked eye, they aren't completely invisible in natural light. Some larger cells can be faintly visible, but microscopes are needed to see their details clearly."
+                    },
+                    {
+                        "text": "Because cells are too small to be seen with the unaided human eye",
+                        "isCorrect": 1,
+                        "explanation": "Cells are microscopic structures typically ranging from 1-100 micrometers in size, which is too small for the human eye to resolve. Microscopes provide the necessary magnification to observe cellular structures that would otherwise be invisible to us."
+                    },
+                    {
+                        "text": "Because cells only exist in artificial laboratory environments",
+                        "isCorrect": 0,
+                        "explanation": "Cells exist naturally in all living organisms, not just in laboratory environments. The microscope allows us to observe these naturally occurring structures."
+                    },
+                    {
+                        "text": "Because cells change their appearance when viewed directly",
+                        "isCorrect": 0,
+                        "explanation": "Cells don't change their appearance when viewed directly. The challenge is simply that they're too small to see without magnification, not that they alter themselves when observed."
+                    }
+                ],
+                "funFact": "The first person to observe and name cells was Robert Hooke in 1665. When looking at thin slices of cork through a primitive microscope, he saw tiny box-like structures that reminded him of small rooms, or 'cells,' used by monks. This technological breakthrough revealed an entirely new microscopic world that had always existed all around us!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Create a question that challenges students to analyze why microscopes were necessary for the discovery and study of cells, incorporating the crosscutting concept of scale, proportion, and quantity."
+        },
+        {
+            "question": {
+                "text": "A mysterious microorganism has been discovered in a deep-sea hydrothermal vent. Scientists need to determine whether it's living or non-living. Which of the following observations would provide the strongest evidence that this microorganism is a living entity?",
+                "options": [
+                    {
+                        "text": "The microorganism has a protein shell surrounding genetic material.",
+                        "isCorrect": 0,
+                        "explanation": "Having a protein shell with genetic material inside is a characteristic of viruses, which are considered non-living because they cannot reproduce on their own and don't perform other life functions independently."
+                    },
+                    {
+                        "text": "The microorganism can be seen to reproduce by dividing into two identical organisms.",
+                        "isCorrect": 1,
+                        "explanation": "Cell division (reproduction) is a key characteristic of living organisms. Seeing the microorganism divide into two identical organisms indicates it's made of cells capable of reproducing on their own, which is strong evidence that it's alive."
+                    },
+                    {
+                        "text": "The microorganism can be killed when exposed to extreme temperatures.",
+                        "isCorrect": 0,
+                        "explanation": "Being destroyed by extreme temperatures isn't a definitive characteristic of living things, as non-living structures can also be damaged or altered by temperature extremes. This isn't strong evidence for classifying something as living."
+                    },
+                    {
+                        "text": "The microorganism contains DNA but doesn't take in nutrients from its environment.",
+                        "isCorrect": 0,
+                        "explanation": "While containing DNA is a characteristic of living things, the inability to take in nutrients means the organism cannot sustain itself. Living organisms must be able to take in nutrients to maintain life functions."
+                    },
+                    {
+                        "text": "The microorganism attaches to other cells but cannot reproduce without them.",
+                        "isCorrect": 0,
+                        "explanation": "This describes viral behavior, where the microorganism depends on host cells for reproduction. Viruses are not considered living because they cannot reproduce independently, which is a key characteristic of living organisms."
+                    }
+                ],
+                "funFact": "Some microorganisms living in deep-sea hydrothermal vents are extremophiles that can survive in temperatures above 100\u00b0C (212\u00b0F) and highly acidic conditions. These organisms often use chemosynthesis rather than photosynthesis, deriving energy from chemicals in their extreme environment instead of sunlight!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Design a question that asks students to analyze how scientists determine whether a newly discovered microorganism is living or non-living based on cellular characteristics."
+        },
+        {
+            "question": {
+                "text": "How have technological advances in microscopy changed our understanding of living organisms?",
+                "options": [
+                    {
+                        "text": "They have allowed us to see that all living things contain cells, which are the basic units of life",
+                        "isCorrect": 1,
+                        "explanation": "Microscopes have enabled scientists to observe that cells are the fundamental building blocks of all living organisms. This discovery wouldn't have been possible without technological advances in magnification."
+                    },
+                    {
+                        "text": "They have proven that viruses are living organisms because we can now see their internal structures",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Microscopy has actually helped scientists determine that viruses are not considered living organisms because they lack cellular structure and cannot reproduce on their own."
+                    },
+                    {
+                        "text": "They have shown that bacteria are not actually living organisms",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Microscopy has confirmed that bacteria are living organisms made of single cells that can reproduce independently."
+                    },
+                    {
+                        "text": "They have revealed that only multicellular organisms are truly alive",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Microscopy has shown that both unicellular (single-celled) and multicellular organisms are alive, as they both consist of cells, the basic unit of life."
+                    },
+                    {
+                        "text": "They have proven that cells are not necessary for life",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Microscopy has consistently demonstrated that all living things are composed of cells, confirming that cells are essential for life."
+                    }
+                ],
+                "funFact": "The first person to observe cells was Robert Hooke in 1665, who used a primitive microscope to look at a thin slice of cork. He named these tiny compartments 'cells' because they reminded him of the small rooms that monks lived in at monasteries. Modern electron microscopes can magnify objects up to 10 million times, allowing scientists to see structures inside cells that were completely unknown just a century ago!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Design a question about how technological advances in microscopy have contributed to our understanding of cells as the basic unit of life, connecting to the interdependence of science and technology."
+        },
+        {
+            "question": {
+                "text": "How do vaccines help prepare your body's immune system to fight future infections?",
+                "options": [
+                    {
+                        "text": "Vaccines inject live, active viruses that make you sick once, so you never get sick from the same virus again.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Most vaccines do not contain live viruses that cause illness. They typically contain weakened or killed viruses, or just parts of viruses that cannot cause the disease."
+                    },
+                    {
+                        "text": "Vaccines train white blood cells to recognize and remember specific pathogens, allowing for a faster immune response if exposed to the actual disease later.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Vaccines contain harmless versions or parts of pathogens that activate the immune system. This allows white blood cells to identify, respond to, and remember these pathogens without causing illness."
+                    },
+                    {
+                        "text": "Vaccines provide a lifetime supply of antibiotics that automatically destroy any bacteria or viruses when they enter your body.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Vaccines do not contain antibiotics, which only work against bacteria anyway. Vaccines work by triggering your own immune response and creating memory cells."
+                    },
+                    {
+                        "text": "Vaccines replace your normal cells with special cells that cannot be infected by any diseases.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Vaccines do not replace any of your cells. They stimulate your existing immune cells to develop a defense against specific pathogens."
+                    }
+                ],
+                "funFact": "The concept of vaccination actually dates back to 1796 when Edward Jenner noticed that milkmaids who caught cowpox (a mild disease) didn't get smallpox (a deadly disease). He then intentionally exposed people to cowpox to protect them from smallpox\u2014creating the world's first vaccine!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Create a question about how vaccines prepare the immune system to fight infections, asking students to analyze the cellular processes involved in immune memory."
+        },
+        {
+            "question": {
+                "text": "What is the primary role of beneficial bacteria in the human digestive system?",
+                "options": [
+                    {
+                        "text": "To attack harmful viruses that enter the digestive tract",
+                        "isCorrect": 0,
+                        "explanation": "While the immune system fights harmful viruses, this is not the primary role of beneficial bacteria in digestion. Beneficial bacteria mainly assist with breaking down food and maintaining gut health."
+                    },
+                    {
+                        "text": "To help digest food and maintain gut health",
+                        "isCorrect": 1,
+                        "explanation": "Beneficial bacteria in our digestive system help break down certain foods that we cannot digest on our own and maintain a healthy environment in our gut that prevents harmful bacteria from colonizing."
+                    },
+                    {
+                        "text": "To reproduce rapidly and increase their numbers",
+                        "isCorrect": 0,
+                        "explanation": "While bacteria do reproduce quickly, this is not their primary beneficial role in human digestion. Their reproduction is a means to maintain their population, not their primary function in helping humans."
+                    },
+                    {
+                        "text": "To create antibiotics that kill other bacteria",
+                        "isCorrect": 0,
+                        "explanation": "Though some bacteria can produce substances that inhibit other microbes, most beneficial gut bacteria don't produce antibiotics. Their main role is aiding digestion and maintaining gut health."
+                    }
+                ],
+                "funFact": "The human body contains trillions of bacteria cells, with the largest concentration found in the large intestine. Recent research suggests bacterial cells outnumber human cells by a ratio closer to 1.3:1, though they are much smaller in size than human cells."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Develop a question requiring students to analyze the roles of beneficial bacteria in the human body, focusing on how these single-celled organisms function as part of larger systems."
+        },
+        {
+            "question": {
+                "text": "What is the relationship between bacterial colonies and single bacterial cells, and what does this tell us about the nature of life?",
+                "options": [
+                    {
+                        "text": "Bacterial colonies are different from single cells because colonies are living but individual cells are not.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Individual bacterial cells are alive - they are the basic unit of life. Colonies are simply groups of these living cells."
+                    },
+                    {
+                        "text": "Bacterial colonies are groups of living single-celled organisms that grow together, demonstrating that cells are the basic unit of life.",
+                        "isCorrect": 1,
+                        "explanation": "This is correct. Bacterial colonies form when many individual bacterial cells (each a living organism) grow together in groups. This supports the concept that cells are the fundamental unit of life."
+                    },
+                    {
+                        "text": "Bacterial colonies eventually evolve into multicellular organisms with specialized tissues.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. While bacterial colonies are groups of cells, they don't evolve into true multicellular organisms with specialized tissues. Each bacterium in a colony remains an independent single-celled organism."
+                    },
+                    {
+                        "text": "Bacterial colonies are protective shells that contain many bacterial cells, similar to how viruses are structured.",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacterial colonies aren't protective shells. They're simply groups of bacteria living together. Viruses have a completely different structure - they're non-living protein shells with genetic material inside that require host cells to reproduce."
+                    }
+                ],
+                "funFact": "Desulforudis audaxviator bacteria were discovered in a South African gold mine, forming a unique ecosystem that extends throughout the deep subsurface. These remarkable bacteria live completely independently from the surface world, deriving energy from radioactive decay in the surrounding rocks."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Create a question challenging students to analyze the relationship between bacterial colonies and single bacterial cells, including how this relates to the concept that cells are the basic unit of life."
+        },
+        {
+            "question": {
+                "text": "Why are antibiotics effective against bacterial infections but not viral infections?",
+                "options": [
+                    {
+                        "text": "Antibiotics target specific bacterial cellular structures and processes that viruses don't possess",
+                        "isCorrect": 1,
+                        "explanation": "Bacteria are living cells with structures and processes (like cell walls, ribosomes, and metabolic pathways) that antibiotics can target. Different antibiotics work in different ways - some destroy cell walls, others inhibit protein synthesis or DNA replication. Viruses are not cellular organisms and lack these structures, so antibiotics have nothing to target."
+                    },
+                    {
+                        "text": "Viruses are too small for antibiotics to find and destroy",
+                        "isCorrect": 0,
+                        "explanation": "The ineffectiveness of antibiotics against viruses is not related to their size, but rather to their fundamental structure and reproduction method."
+                    },
+                    {
+                        "text": "Antibiotics can only kill pathogens that reproduce through cell division",
+                        "isCorrect": 0,
+                        "explanation": "While this statement is partially true, the main reason antibiotics don't work on viruses is that viruses lack cellular structures like cell walls that antibiotics target."
+                    },
+                    {
+                        "text": "Viruses reproduce too quickly for antibiotics to be effective",
+                        "isCorrect": 0,
+                        "explanation": "The reproduction rate is not why antibiotics fail against viruses. Antibiotics are ineffective because viruses lack the cellular structures that antibiotics target."
+                    },
+                    {
+                        "text": "Antibiotics only work against infections that can be grown in a laboratory",
+                        "isCorrect": 0,
+                        "explanation": "The ability to culture a pathogen is not related to antibiotic effectiveness. Many viruses can be grown in laboratories, but antibiotics still don't work against them because viruses lack cellular structures."
+                    }
+                ],
+                "funFact": "Some viruses called bacteriophages actually attack and kill bacteria. Scientists are researching these 'phages' as potential alternatives to antibiotics, especially for treating antibiotic-resistant bacterial infections!"
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Develop a question asking students to analyze why antibiotics are effective against bacterial infections but not viral infections, focusing on cellular structures and reproduction methods."
+        },
+        {
+            "question": {
+                "text": "When comparing bacterial cells and viruses, which characteristic helps classify bacteria as living organisms and viruses as non-living?",
+                "options": [
+                    {
+                        "text": "Bacteria have a protein shell while viruses have cell walls",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria have cell walls, but viruses are the ones with protein shells (capsids). This reverses the characteristics of these microorganisms."
+                    },
+                    {
+                        "text": "Bacteria can reproduce independently while viruses need host cells",
+                        "isCorrect": 1,
+                        "explanation": "Correct! The ability to reproduce independently is a key characteristic of living organisms. Bacteria can reproduce on their own by copying their DNA and dividing, while viruses must hijack a host cell's machinery to make copies of themselves."
+                    },
+                    {
+                        "text": "Bacteria are smaller than viruses",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Most bacteria are actually larger than viruses. Bacteria are typically 0.5-5 micrometers in size, while most viruses range from 0.02-0.3 micrometers."
+                    },
+                    {
+                        "text": "Bacteria cause disease while viruses are usually helpful",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Both bacteria and viruses can cause diseases, though many bacteria are beneficial. The reading material specifically mentions that most viruses are harmful, while bacteria can be both helpful and harmful."
+                    },
+                    {
+                        "text": "Bacteria are multicellular while viruses are unicellular",
+                        "isCorrect": 0,
+                        "explanation": "This is incorrect. Bacteria are unicellular (single-celled) organisms. Viruses are not considered cells at all - they are non-living particles consisting of genetic material inside a protein coat."
+                    }
+                ],
+                "funFact": "Some viruses, called bacteriophages, specifically target and infect bacteria! Scientists are exploring the use of these bacteria-hunting viruses as an alternative to antibiotics to combat antibiotic-resistant bacterial infections."
+            },
+            "cognitive_level": "analysis",
+            "blueprint": "Design a question requiring students to analyze a microscope image showing both bacterial cells and viruses, asking them to identify key distinguishing features that would classify one as living and one as non-living."
+        }
+    ]
+}

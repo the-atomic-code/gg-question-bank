@@ -141,7 +141,7 @@ h1, h2, h3 {
 .cognitive-level {
     display: inline-block;
     padding: 5px 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     background-color: #eee;
     border-radius: 15px;
     font-size: 0.9em;
@@ -149,6 +149,16 @@ h1, h2, h3 {
 
 .blueprint {
     margin-bottom: 15px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.question-metadata {
+    background-color: #f8f8f8;
+    padding: 12px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-left: 4px solid #4a86e8;
 }
 
 /* Utility classes */

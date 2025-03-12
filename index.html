@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson Question Bank</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Lesson Question Bank</h1>
+        </header>
+        
+        <main>
+            <div id="lesson-list" class="view">
+                <h2>Lessons</h2>
+                <div class="loading">Loading lessons...</div>
+                <table id="lessons-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Title</th>
+                            <th>Standard</th>
+                            <th>Recall</th>
+                            <th>Application</th>
+                            <th>Analysis</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+                    <tbody id="lessons-body">
+                        <!-- Lessons will be loaded here -->
+                    </tbody>
+                </table>
+            </div>
+            
+            <div id="lesson-detail" class="view hidden">
+                <div class="lesson-header">
+                    <button id="back-button">Back to Lessons</button>
+                    <h2 id="lesson-title">Lesson Title</h2>
+                    <div id="lesson-info">
+                        <p><strong>ID:</strong> <span id="lesson-id"></span></p>
+                        <p><strong>Standard:</strong> <span id="lesson-standard"></span></p>
+                        <p><strong>Questions:</strong> <span id="lesson-questions-count"></span></p>
+                    </div>
+                </div>
+                
+                <div class="question-navigation">
+                    <button id="prev-question" disabled>Previous Question</button>
+                    <span id="question-counter">Question 1 of 10</span>
+                    <button id="next-question">Next Question</button>
+                </div>
+                
+                <div id="question-container">
+                    <div class="loading">Loading question...</div>
+                    <!-- Question will be displayed here -->
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Simple Question Bank Viewer</p>
+        </footer>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
